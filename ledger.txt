@@ -6,6 +6,16 @@
     Liabilities:Zach:ChaseFreedom  $0
 
 2015/02/06 Zach Clipper Card Reload
-    Expenses:Travel:Clipper  $20.00
+    Expenses:Travel:Clipper  $20
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 1.pdf
+
+2015/02/06 Lyft to Autodesk tour
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 2.pdf
+
+2015/02/06 Lyft back from Autodesk tour
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 3.pdf
