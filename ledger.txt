@@ -19,3 +19,8 @@
     Expenses:Travel:Lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 3.pdf
+
+2015/02/07 Delaware Annual Report And Alternative Entity Tax Instructions
+    Expenses:Tax:Delaware  $25
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 4.pdf
