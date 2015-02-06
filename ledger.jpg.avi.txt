@@ -3,3 +3,9 @@
     Expenses:Rent  $0
     Expenses:Food  $0
     Income:Donations  $0
+    Liabilities:Zach:ChaseFreedom  $0
+
+2015/02/06 Zach Clipper Card Reload
+    Expenses:Travel:Clipper  $20.00
+    Liabilities:Zach:ChaseFreedom  -$20.00
+      ; Receipt: 1.pdf
