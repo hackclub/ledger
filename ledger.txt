@@ -24,3 +24,10 @@
     Expenses:Tax:Delaware  $25
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 4.pdf
+
+2015/02/07 Lunch from Carmelina's Taqueria
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 5.pdf
