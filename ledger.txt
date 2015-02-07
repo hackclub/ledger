@@ -5,39 +5,39 @@
     Income:Donations  $0
     Liabilities:Zach:ChaseFreedom  $0
 
-2015/02/06 Zach Clipper Card Reload
+2015/02/05 Zach Clipper Card Reload
     Expenses:Travel:Clipper  $20
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
-2015/02/06 Lyft to Autodesk tour
+2015/02/05 Lyft to Autodesk tour
     Expenses:Travel:Lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
-2015/02/06 Lyft back from Autodesk tour
+2015/02/05 Lyft back from Autodesk tour
     Expenses:Travel:Lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
-2015/02/07 Delaware Annual Report And Alternative Entity Tax Instructions
+2015/02/06 Delaware Annual Report And Alternative Entity Tax Instructions
     Expenses:Tax:Delaware  $25
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 8c3aa38627856b3ac9010fe915f0f545.pdf
 
-2015/02/07 Lunch from Carmelina's Taqueria
+2015/02/06 Lunch from Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Liabilities:Zach:ChaseFreedom
       ; Receipt: fce9f64c4519038d356ba2c902286b31.pdf
 
-2015/02/07 Lyft to meeting
+2015/02/06 Lyft to meeting
     Expenses:Travel:Lyft  $9.15
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
-2015/02/07 Lyft back from meeting
+2015/02/06 Lyft back from meeting
     Expenses:Travel:lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
