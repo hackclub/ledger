@@ -41,3 +41,10 @@
     Expenses:Travel:lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
+
+2015/02/18 Lunch from Holy Grill
+    Expenses:Food:Leapset:Holy Grill $2.07
+    Expenses:Food:Leapset:Holy Grill $2.07
+    Expenses:Food:Leapset:Holy Grill $2.07
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 05a86e3d1127a66e8166fe13dd7bb29d.pdf
