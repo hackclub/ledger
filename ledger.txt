@@ -56,3 +56,8 @@
     Expenses:Food:Leapset:Onigilly  $2.00
     Liabilities:Zach:ChaseFreedom
       ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
+
+2015/02/19 IRCCloud Team Payment
+    Expenses:Tools:IRCCloud  $15.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 2fdfb63394095bebb5617c8ac99c0f37.pdf
