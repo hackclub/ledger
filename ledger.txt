@@ -48,3 +48,11 @@
     Expenses:Food:Leapset:Holy Grill  $2.07
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 05a86e3d1127a66e8166fe13dd7bb29d.pdf
+
+2015/02/19 Lunch from Onigilly
+    Expenses:Food:Leapset:Onigilly  $1.00
+    Expenses:Food:Leapset:Onigilly  $1.00
+    Expenses:Food:Leapset:Onigilly  $1.75
+    Expenses:Food:Leapset:Onigilly  $2.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
