@@ -80,3 +80,8 @@
     Expenses:Food:Leapset:Onigilly  $1.00
     Liabilities:Zach:ChaseFreedom
       ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
+
+2015/02/24 Lyft home
+    Expenses:Travel:Lyft  $4.90
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
