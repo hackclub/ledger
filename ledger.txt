@@ -73,3 +73,10 @@
     Expenses:Services:Namecheap  $94.00
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 504c156824834be7ad78eb97fc8844b7.pdf
+
+2015/02/24 Lunch from Onigilly
+    Expenses:Food:Leapset:Onigilly  $1.50
+    Expenses:Food:Leapset:Onigilly  $1.00
+    Expenses:Food:Leapset:Onigilly  $1.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
