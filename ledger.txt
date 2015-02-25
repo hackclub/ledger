@@ -85,3 +85,10 @@
     Expenses:Travel:Lyft  $4.90
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
+
+2015/02/25 Lunch from Carmelina's Taqueria
+    Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
+    Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
+    Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: cb1b35445a44050d7f843695d05f654c.pdf
