@@ -100,3 +100,8 @@
     Expenses:Food:Leapset:Holy Grill  $0.74
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 9da364adf5de6a57718bbf3088c370fb.pdf
+
+2015/02/26 Email for Gemma
+    Expenses:Services:FastMail  $4.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 54311fa9b9620751f7fe60877b4cd972.pdf
