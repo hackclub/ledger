@@ -104,4 +104,3 @@
 2015/02/26 Email for Gemma
     Expenses:Services:FastMail  $4.00
     Liabilities:Zach:ChaseFreedom
-      ; Receipt: 54311fa9b9620751f7fe60877b4cd972.pdf
