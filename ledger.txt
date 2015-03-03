@@ -110,3 +110,4 @@
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Expenses:Food:Leapset:Carmelina's Taqueria  $3.59
     Liabilities:Zach:ChaseFreedom
+      ; Receipt: 01b61dfce714582c8ed33a802c40e78b.pdf
