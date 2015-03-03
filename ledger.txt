@@ -111,3 +111,10 @@
     Expenses:Food:Leapset:Carmelina's Taqueria  $3.59
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 01b61dfce714582c8ed33a802c40e78b.pdf
+
+2015/03/02 Dinner from Eleven O One
+    Expenses:Food:Leapset:Eleven O One  $5.44
+    Expenses:Food:Leapset:Eleven O One  $5.44
+    Expenses:Food:Leapset:Eleven O One  $5.44
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 566f0787e50071d275bde481154e2089.pdf
