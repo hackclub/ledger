@@ -104,3 +104,9 @@
 2015/02/26 Email for Gemma
     Expenses:Services:FastMail  $4.00
     Liabilities:Zach:ChaseFreedom
+
+2015/03/02 Lunch from Carmelina's Taqueria
+    Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
+    Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
+    Expenses:Food:Leapset:Carmelina's Taqueria  $3.59
+    Liabilities:Zach:ChaseFreedom
