@@ -118,3 +118,13 @@
     Expenses:Food:Leapset:Eleven O One  $5.44
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 566f0787e50071d275bde481154e2089.pdf
+
+2015/03/03 Lyft to LAUNCH
+    Expenses:Travel:Lyft  $5.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: d0ee28147336988eaa7798d7c40cefcd.pdf
+
+2015/03/03 Lyft from LAUNCH
+    Expenses:Travel:Lyft  $5.00
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
