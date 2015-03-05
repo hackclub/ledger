@@ -142,3 +142,8 @@
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
+
+2015/03/04 Lyft to LAUNCH Dinner
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
