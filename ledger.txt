@@ -136,14 +136,60 @@
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
 
-2015/03/02 Dinner from Dinosaurs
+2015/03/03 Dinner from Dinosaurs
     Expenses:Food:Leapset:Dinosaurs  $3.04
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
+2015/03/04 Lyft to LAUNCH Cancellation
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
+
+2015/03/04 Lyft to LAUNCH
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
+
 2015/03/04 Lyft to LAUNCH Dinner
     Expenses:Travel:Lyft  $5
     Liabilities:Zach:ChaseFreedom
       ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
+
+2015/03/05 Lyft to Caltrain
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
+
+2015/03/05 Uber to a16z
+    Expenses:Travel:Uber  $12.05
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 0572062eb50d8e572ae7d8ac6206cb78.pdf
+
+2015/03/05 Uber to Caltrain
+    Expenses:Travel:Uber  $11.87
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 54c330a7825affa8c313edc436a6543b.pdf
+
+2015/03/05 Fiverr Signature
+    Expenses:Services:Fiverr  $5.50
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 54e5323814422e98f179054208a274a0.pdf
+
+2015/03/08 Lyft home from Sourcegraph
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
+
+2015/03/08 Lunch from Dinosaurs
+    Expenses:Food:Leapset:Dinosaurs  $2.25
+    Expenses:Food:Leapset:Dinosaurs  $2.25
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: fae87fe71a62bd21ab4b1ad7919580e0.pdf
+
+2015/03/08 Dinner from Cerveceria de Mateveza
+    Expenses:Food:Caviar:Cerveceria de Mateveza  $1.07
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 6d54217d509abe6cabbbb0fac30f18cc.pdf
