@@ -206,3 +206,31 @@
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
+
+2015/03/10 Lyft to Caltrain
+    Expenses:Travel:Lyft  $5
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
+
+2015/03/11 Dinner from Carmelina's Taqueria
+    Expenses:Food:Leapset:Carmelina's Taqueria  $1.80
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 0bb8b53b03ad73c6f4cc36790575f007.pdf
+
+2015/03/12 Lunch from Carmelina's Taqueria
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 9c2310ac675ab945b4915b5d53bd60cc.pdf
+
+2015/03/12 Dinner from Dinosaurs
+    Expenses:Food:Leapset:Dinosaurs  $2.25
+    Expenses:Food:Leapset:Dinosaurs  $2.25
+    Expenses:Food:Leapset:Dinosaurs  $2.25
+    Expenses:Food:Leapset:Dinosaurs  $3.04
+    Expenses:Food:Leapset:Dinosaurs  $3.04
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
