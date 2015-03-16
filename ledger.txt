@@ -234,3 +234,8 @@
     Expenses:Food:Leapset:Dinosaurs  $3.04
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
+
+2015/03/16 Lyft home from Caltrain
+    Expenses:Travel:Lyft  $6
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 440c6771113a99463b454f1313b50729.pdf
