@@ -235,6 +235,11 @@
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
+2015/03/14 Lyft to GunnHacks from Caltrain
+    Expenses:Travel:Lyft  $9.78
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
+
 2015/03/16 Lyft home from Caltrain
     Expenses:Travel:Lyft  $6
     Liabilities:Zach:ChaseFreedom
