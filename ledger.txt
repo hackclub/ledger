@@ -244,3 +244,8 @@
     Expenses:Travel:Lyft  $6
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 440c6771113a99463b454f1313b50729.pdf
+
+2015/03/18 Coffee with Heather Browning
+    Expenses:Food:Four Barrel Coffee  $8.16
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
