@@ -250,6 +250,11 @@
     Liabilities:Zach:ChaseFreedom
       ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
+2015/03/19 Uber from Lowell High
+    Expenses:Travel:Uber  $7
+    Liabilities:Zach:ChaseFreedom
+      ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
+
 2015/03/19 IRCCloud Team Payment
     Expenses:Tools:IRCCloud  $25.00
     Liabilities:Zach:ChaseFreedom
