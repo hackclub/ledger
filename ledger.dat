@@ -263,7 +263,7 @@
 2015/03/24 Opening Bank Account
     Assets:Bank:Checking  $50
     Assets:Bank:Savings  $50
-    Assets:Max:Wallet
+    Liabilities:Max:Wallet
       ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
 2015/03/25 Ice Cream
