@@ -265,3 +265,7 @@
     Assets:Bank:Savings  $50
     Assets:Max:Wallet
       ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
+
+2015/03/25 Ice Cream
+    Expenses:Food:7-Eleven  $5.79
+    Assets:Bank:Checking
