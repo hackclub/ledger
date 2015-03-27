@@ -259,3 +259,9 @@
     Expenses:Tools:IRCCloud  $25.00
     Liabilities:Zach:ChaseFreedom
       ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
+
+2015/03/24 Opening Bank Account
+    Assets:Bank:Checking  $50
+    Assets:Bank:Savings  $50
+    Assets:Max:Wallet
+      ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
