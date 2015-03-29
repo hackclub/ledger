@@ -274,3 +274,8 @@
 2015/03/25 Ice Cream
     Expenses:Food:7-Eleven  $5.79
     Assets:Bank:Checking
+
+2015/03/27 Zach Clipper Card Reload
+    Expenses:Travel:Clipper  $20
+    Liabilities:Reimbursement:Zach
+      ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
