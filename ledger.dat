@@ -279,3 +279,8 @@
     Expenses:Travel:Clipper  $20
     Liabilities:Reimbursement:Zach
       ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
+
+2015/03/30 FastMail
+    Expenses:Services:FastMail  $44.22
+    Liabilities:Reimbursement:Zach
+      ; Receipt: 4083e087ed797e29847287f818d1d250.pdf
