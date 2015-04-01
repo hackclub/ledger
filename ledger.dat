@@ -280,6 +280,16 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
+2015/03/30 Clothes for BBQ Dinner
+    Expenses:Shopping:Clothing:H&M  $48.93
+    Liabilities:Reimbursement:Zach
+      ; Receipt: 447219f693b2bf35cff860dcf80cb99d.jpg
+
+2015/03/30 Dessert gift for BBQ Dinner
+    Expenses:Food:Bristol Farms  $14.59
+    Liabilities:Reimbursement:Zach
+      ; Receipt: cea635d66ededfe40a9e1cc495bd26a9.pdf
+
 2015/03/30 FastMail
     Expenses:Services:FastMail  $44.22
     Liabilities:Reimbursement:Zach
@@ -289,3 +299,8 @@
     Expenses:Services:Cydia:hAcx  $0.99
     Liabilities:Reimbursement:Zach
       ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
+
+2015/03/31 Shortbread from Hearth Coffee
+    Expenses:Food:Hearth Coffee  $1.50
+    Liabilities:Reimbursement:Zach
+      ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
