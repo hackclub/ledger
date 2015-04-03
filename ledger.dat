@@ -275,6 +275,11 @@
     Expenses:Food:7-Eleven  $5.79
     Assets:Bank:Checking
 
+2015/03/26 Muni tickets
+    Expenses:Travel:Muni  $4.50
+    Expenses:Travel:Muni  $2.25
+    Assets:Bank:Checking
+
 2015/03/27 Zach Clipper Card Reload
     Expenses:Travel:Clipper  $20
     Liabilities:Reimbursement:Zach
@@ -304,3 +309,17 @@
     Expenses:Food:Hearth Coffee  $1.50
     Liabilities:Reimbursement:Zach
       ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
+
+2015/04/01 Food from Munchery
+    Expenses:Food:Munchery  $14.45
+    Expenses:Food:Munchery  $12.45
+    Assets:Bank:Checking
+
+2015/04/02 Dinner from Munchery
+    Expenses:Food:Munchery  $0.45
+    Assets:Bank:Checking
+      ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
+
+2015/04/03 ! Rent for Jonathan
+    Expenses:Rent  $1917.84
+    Liabilities:Reimbursement:Zach
