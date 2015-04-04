@@ -265,6 +265,11 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
+2015/03/23 Dinner from Dinosaurs
+    Expenses:Food:Leapset:Dinosaurs            $2.25
+    Liabilities:Reimbursement:Zach
+    ; Receipt: ecb83d49856f502fac553bd861203102.pdf
+
 2015/03/24 Opening Bank Account
     Assets:Bank:Checking  $50
     Assets:Bank:Savings  $50
