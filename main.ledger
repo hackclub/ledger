@@ -338,3 +338,8 @@
     Expenses:Food:Homeskillet  $11.42
     Liabilities:Reimbursement:Zach
       ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
+
+2015/04/08 Zach Clipper Card Reload
+    Expenses:Travel:Clipper                   $20.00
+    Liabilities:Reimbursement:Zach
+    ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
