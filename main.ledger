@@ -325,6 +325,10 @@
     Assets:Bank:Checking
       ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
+2015/04/02 Dinner from Munchery
+    Expenses:Food:Munchery                    $12.90
+    Assets:Bank:Savings
+
 2015/04/03 Rent for Jonathan
     Expenses:Rent  $1917.84
     Liabilities:Reimbursement:Zach
