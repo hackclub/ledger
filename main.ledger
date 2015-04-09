@@ -343,3 +343,8 @@
     Expenses:Travel:Clipper                   $20.00
     Liabilities:Reimbursement:Zach
     ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
+
+2015/04/09 Cash deposit
+    Assets:Bank:Checking                       $3.00
+    Liabilities:Reimbursement:Zach  ; Payee: Zach
+    ; Receipt: fa68363e11ea52ddd0ee0447335cbec5.jpeg
