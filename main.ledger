@@ -3,53 +3,53 @@
     Expenses:Rent  $0
     Expenses:Food  $0
     Income:Donations  $0
-    Liabilities:Reimbursement:Zach  $0
+    Liabilities:Reimbursement:Zach
 
-2015/02/05 Zach Clipper Card Reload
+2015/02/05 Clipper Card
     Expenses:Travel:Clipper  $20
     Liabilities:Reimbursement:Zach
       ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
-2015/02/05 Lyft to Autodesk tour
+2015/02/05 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
-2015/02/05 Lyft back from Autodesk tour
+2015/02/05 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
-2015/02/06 Delaware Annual Report And Alternative Entity Tax Instructions
+2015/02/06 Delaware Taxes
     Expenses:Tax:Delaware  $25
     Liabilities:Reimbursement:Zach
       ; Receipt: 8c3aa38627856b3ac9010fe915f0f545.pdf
 
-2015/02/06 Lunch from Carmelina's Taqueria
+2015/02/06 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Liabilities:Reimbursement:Zach
       ; Receipt: fce9f64c4519038d356ba2c902286b31.pdf
 
-2015/02/06 Lyft to meeting
+2015/02/06 Lyft
     Expenses:Travel:Lyft  $9.15
     Liabilities:Reimbursement:Zach
       ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
-2015/02/06 Lyft back from meeting
+2015/02/06 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
 
-2015/02/18 Lunch from Holy Grill
+2015/02/18 Holy Grill
     Expenses:Food:Leapset:Holy Grill  $2.07
     Expenses:Food:Leapset:Holy Grill  $2.07
     Expenses:Food:Leapset:Holy Grill  $2.07
     Liabilities:Reimbursement:Zach
       ; Receipt: 05a86e3d1127a66e8166fe13dd7bb29d.pdf
 
-2015/02/19 Lunch from Onigilly
+2015/02/19 Onigilly
     Expenses:Food:Leapset:Onigilly  $1.00
     Expenses:Food:Leapset:Onigilly  $1.00
     Expenses:Food:Leapset:Onigilly  $1.75
@@ -57,43 +57,43 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
 
-2015/02/19 IRCCloud Team Payment
+2015/02/19 IRCCloud
     Expenses:Tools:IRCCloud  $15.00
     Liabilities:Reimbursement:Zach
       ; Receipt: 2fdfb63394095bebb5617c8ac99c0f37.pdf
 
 
-2015/02/19 Dinner from Holy Grill
+2015/02/19 Holy Grill
     Expenses:Food:Leapset:Holy Grill  $1.75
     Expenses:Food:Leapset:Holy Grill  $2.00
     Liabilities:Reimbursement:Zach
       ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
 
-2015/02/24 Namecheap SSL Wildcard Renewal
+2015/02/24 Namecheap
     Expenses:Services:Namecheap  $94.00
     Liabilities:Reimbursement:Zach
       ; Receipt: 504c156824834be7ad78eb97fc8844b7.pdf
 
-2015/02/24 Lunch from Onigilly
+2015/02/24 Onigilly
     Expenses:Food:Leapset:Onigilly  $1.50
     Expenses:Food:Leapset:Onigilly  $1.00
     Expenses:Food:Leapset:Onigilly  $1.00
     Liabilities:Reimbursement:Zach
       ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
 
-2015/02/24 Lyft home
+2015/02/24 Lyft
     Expenses:Travel:Lyft  $4.90
     Liabilities:Reimbursement:Zach
       ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
 
-2015/02/25 Lunch from Carmelina's Taqueria
+2015/02/25 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Liabilities:Reimbursement:Zach
       ; Receipt: cb1b35445a44050d7f843695d05f654c.pdf
 
-2015/02/25 Dinner from Holy Grill
+2015/02/25 Holy Grill
     Expenses:Food:Leapset:Holy Grill  $2.07
     Expenses:Food:Leapset:Holy Grill  $2.07
     Expenses:Food:Leapset:Holy Grill  $2.07
@@ -101,113 +101,113 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: 9da364adf5de6a57718bbf3088c370fb.pdf
 
-2015/02/26 Email for Gemma
+2015/02/26 FastMail
     Expenses:Services:FastMail  $4.00
     Liabilities:Reimbursement:Zach
 
-2015/03/02 Lunch from Carmelina's Taqueria
+2015/03/02 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Expenses:Food:Leapset:Carmelina's Taqueria  $3.59
     Liabilities:Reimbursement:Zach
       ; Receipt: 01b61dfce714582c8ed33a802c40e78b.pdf
 
-2015/03/02 Dinner from Eleven O One
+2015/03/02 Eleven O One
     Expenses:Food:Leapset:Eleven O One  $5.44
     Expenses:Food:Leapset:Eleven O One  $5.44
     Expenses:Food:Leapset:Eleven O One  $5.44
     Liabilities:Reimbursement:Zach
       ; Receipt: 566f0787e50071d275bde481154e2089.pdf
 
-2015/03/02 Lunch from Carmelina's Taqueria
+2015/03/02 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Liabilities:Reimbursement:Zach
       ; Receipt: 396078b0ac9c55018b9d1af8c8c0af17.pdf
 
-2015/03/03 Lyft to LAUNCH
+2015/03/03 Lyft
     Expenses:Travel:Lyft  $5.00
     Liabilities:Reimbursement:Zach
       ; Receipt: d0ee28147336988eaa7798d7c40cefcd.pdf
 
-2015/03/03 Lyft from LAUNCH
+2015/03/03 Lyft
     Expenses:Travel:Lyft  $5.00
     Liabilities:Reimbursement:Zach
       ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
 
-2015/03/03 Dinner from Dinosaurs
+2015/03/03 Dinosaurs
     Expenses:Food:Leapset:Dinosaurs  $3.04
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Reimbursement:Zach
       ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
-2015/03/04 Lyft to LAUNCH Cancellation
+2015/03/04 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
 
-2015/03/04 Lyft to LAUNCH
+2015/03/04 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
 
-2015/03/04 Lyft to LAUNCH Dinner
+2015/03/04 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
 
-2015/03/05 Lyft to Caltrain
+2015/03/05 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
 
-2015/03/05 Uber to a16z
+2015/03/05 Uber
     Expenses:Travel:Uber  $12.05
     Liabilities:Reimbursement:Zach
       ; Receipt: 0572062eb50d8e572ae7d8ac6206cb78.pdf
 
-2015/03/05 Uber to Caltrain
+2015/03/05 Uber
     Expenses:Travel:Uber  $11.87
     Liabilities:Reimbursement:Zach
       ; Receipt: 54c330a7825affa8c313edc436a6543b.pdf
 
-2015/03/05 Fiverr Signature
+2015/03/05 Fiverr
     Expenses:Services:Fiverr  $5.50
     Liabilities:Reimbursement:Zach
       ; Receipt: 54e5323814422e98f179054208a274a0.pdf
 
-2015/03/08 Lyft home from Sourcegraph
+2015/03/08 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
 
-2015/03/08 Lunch from Dinosaurs
+2015/03/08 Dinosaurs
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Reimbursement:Zach
       ; Receipt: fae87fe71a62bd21ab4b1ad7919580e0.pdf
 
-2015/03/08 Dinner from Cerveceria de Mateveza
+2015/03/08 Cerveceria de Mateveza
     Expenses:Food:Caviar:Cerveceria de Mateveza  $1.07
     Liabilities:Reimbursement:Zach
       ; Receipt: 6d54217d509abe6cabbbb0fac30f18cc.pdf
 
-2015/03/09 Lunch from Carmelina's Taqueria
+2015/03/09 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.71
     Expenses:Food:Leapset:Carmelina's Taqueria  $2.07
     Liabilities:Reimbursement:Zach
       ; Receipt: 4427ea5c7b844a0724f496dc7b47e829.pdf
 
-2015/03/09 Dinner from Dinosaurs
+2015/03/09 Dinosaurs
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Liabilities:Reimbursement:Zach
       ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
 
-2015/03/10 Lyft to Caltrain
+2015/03/10 Lyft
     Expenses:Travel:Lyft  $5
     Liabilities:Reimbursement:Zach
       ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
@@ -217,21 +217,21 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: 2e376f2de6f0a573f4c67e6f218e7def.pdf
 
-2015/03/11 Dinner from Carmelina's Taqueria
+2015/03/11 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $1.80
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Liabilities:Reimbursement:Zach
       ; Receipt: 0bb8b53b03ad73c6f4cc36790575f007.pdf
 
-2015/03/12 Lunch from Carmelina's Taqueria
+2015/03/12 Carmelina's Taqueria
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Expenses:Food:Leapset:Carmelina's Taqueria  $0.98
     Liabilities:Reimbursement:Zach
       ; Receipt: 9c2310ac675ab945b4915b5d53bd60cc.pdf
 
-2015/03/12 Dinner from Dinosaurs
+2015/03/12 Dinosaurs
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
     Expenses:Food:Leapset:Dinosaurs  $2.25
@@ -240,62 +240,62 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
-2015/03/14 Lyft to GunnHacks from Caltrain
+2015/03/14 Lyft
     Expenses:Travel:Lyft  $9.78
     Liabilities:Reimbursement:Zach
       ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
 
-2015/03/16 Lyft home from Caltrain
+2015/03/16 Lyft
     Expenses:Travel:Lyft  $6
     Liabilities:Reimbursement:Zach
       ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
-2015/03/18 Coffee with Heather Browning
+2015/03/18 Four Barrel Coffee
     Expenses:Food:Four Barrel Coffee  $8.16
     Liabilities:Reimbursement:Zach
       ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
-2015/03/19 Uber from Lowell High
+2015/03/19 Uber
     Expenses:Travel:Uber  $7
     Liabilities:Reimbursement:Zach
       ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
-2015/03/19 IRCCloud Team Payment
+2015/03/19 IRCCloud
     Expenses:Tools:IRCCloud  $25.00
     Liabilities:Reimbursement:Zach
       ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
-2015/03/23 Dinner from Dinosaurs
+2015/03/23 Dinosaurs
     Expenses:Food:Leapset:Dinosaurs            $2.25
     Liabilities:Reimbursement:Zach
     ; Receipt: ecb83d49856f502fac553bd861203102.pdf
 
-2015/03/24 Opening Bank Account
+2015/03/24 Bank
     Assets:Bank:Checking  $50
     Assets:Bank:Savings  $50
     Liabilities:Reimbursement:Max
       ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
-2015/03/25 Ice Cream
+2015/03/25 7-Eleven
     Expenses:Food:7-Eleven  $5.79
     Assets:Bank:Checking
 
-2015/03/26 Muni tickets
+2015/03/26 Muni
     Expenses:Travel:Muni  $4.50
     Expenses:Travel:Muni  $2.25
     Assets:Bank:Checking
 
-2015/03/27 Zach Clipper Card Reload
+2015/03/27 Clipper Card
     Expenses:Travel:Clipper  $20
     Liabilities:Reimbursement:Zach
       ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
-2015/03/30 Clothes for BBQ Dinner
+2015/03/30 H&M
     Expenses:Shopping:Clothing:H&M  $48.93
     Liabilities:Reimbursement:Zach
       ; Receipt: 447219f693b2bf35cff860dcf80cb99d.jpg
 
-2015/03/30 Dessert gift for BBQ Dinner
+2015/03/30 Bristol Farms
     Expenses:Food:Bristol Farms  $14.59
     Liabilities:Reimbursement:Zach
       ; Receipt: cea635d66ededfe40a9e1cc495bd26a9.pdf
@@ -305,46 +305,46 @@
     Liabilities:Reimbursement:Zach
       ; Receipt: 4083e087ed797e29847287f818d1d250.pdf
 
-2015/03/30 Call recorder for iOS
+2015/03/30 Cydia
     Expenses:Services:Cydia:hAcx  $0.99
     Liabilities:Reimbursement:Zach
       ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
 
-2015/03/31 Shortbread from Hearth Coffee
+2015/03/31 Hearth Coffee
     Expenses:Food:Hearth Coffee  $1.50
     Liabilities:Reimbursement:Zach
       ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
 
-2015/04/01 Food from Munchery
+2015/04/01 Munchery
     Expenses:Food:Munchery  $14.45
     Expenses:Food:Munchery  $12.45
     Assets:Bank:Checking
 
-2015/04/02 Dinner from Munchery
+2015/04/02 Munchery
     Expenses:Food:Munchery  $0.45
     Assets:Bank:Checking
       ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
-2015/04/02 Dinner from Munchery
+2015/04/02 Munchery
     Expenses:Food:Munchery                    $12.90
     Assets:Bank:Savings
 
-2015/04/03 Rent for Jonathan
+2015/04/03 Rent
     Expenses:Rent  $1917.84
     Liabilities:Reimbursement:Zach
       ; Receipt: 7361ba84497e7bf36f5277fce0e9100c.pdf
 
-2015/04/03 Breakfast for Bayes Impact Meeting
+2015/04/03 Homeskillet
     Expenses:Food:Homeskillet  $11.42
     Liabilities:Reimbursement:Zach
       ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
 
-2015/04/08 Zach Clipper Card Reload
+2015/04/08 Clipper Card
     Expenses:Travel:Clipper                   $20.00
     Liabilities:Reimbursement:Zach
     ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
 
-2015/04/09 Cash deposit
+2015/04/09 Bank
     Assets:Bank:Checking                       $3.00
-    Liabilities:Reimbursement:Zach  ; Payee: Zach
+    Liabilities:Reimbursement:Zach
     ; Receipt: fa68363e11ea52ddd0ee0447335cbec5.jpeg
