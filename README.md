@@ -1,4 +1,4 @@
-# money
+# finances
 
 where our money lies
 
