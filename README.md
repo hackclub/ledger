@@ -6,4 +6,5 @@ where our money lies
 
 ## License
 
-See [LICENSE](LICENSE).
+This data is made available under the
+[Open Data Commons Attribution license](LICENSE).
