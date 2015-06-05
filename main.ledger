@@ -6,7 +6,7 @@
     Liabilities:Reimbursement:Zach
 
 2015/02/05 Clipper Card
-    Expenses:Travel:Clipper                       $20
+    Expenses:Travel:Clipper:Cash                  $20
     Liabilities:Reimbursement:Zach
     ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
@@ -285,7 +285,7 @@
     Assets:Bank:Checking
 
 2015/03/27 Clipper Card
-    Expenses:Travel:Clipper                       $20
+    Expenses:Travel:Clipper:Cash                  $20
     Liabilities:Reimbursement:Zach
     ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
@@ -339,7 +339,7 @@
     ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
 
 2015/04/08 Clipper Card
-    Expenses:Travel:Clipper                   $20.00
+    Expenses:Travel:Clipper:Cash              $20.00
     Liabilities:Reimbursement:Zach
     ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
 
@@ -353,3 +353,27 @@
     Liabilities:Reimbursement:Zach
     ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
 
+2015/05/08 Lyft
+    Expenses:Travel:Lyft                       $6.00
+    Liabilities:Reimbursement:Jonathan
+    ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
+
+2015/05/11 Instacart
+    Expenses:Food:Instacart                   $38.46
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 6607e5c15c86e8a88e2e96ff6835d61e.jpeg
+
+2015/05/14 Molly Stone's
+    Expenses:Food:Molly Stone's               $13.02
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
+
+2015/05/15 Clipper Card
+    Expenses:Travel:Clipper:Adult Fast Pass   $80.00
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 53eef718c695ac383451cbaa3c3e78c5.jpeg
+
+2015/05/22 Clipper Card
+    Expenses:Travel:Clipper:Cash              $40.00
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
