@@ -280,8 +280,11 @@
     Assets:Bank:Checking
 
 2015/03/26 Muni
-    Expenses:Travel:Muni                       $4.50
     Expenses:Travel:Muni                       $2.25
+    Assets:Bank:Checking
+
+2015/03/26 Muni
+    Expenses:Travel:Muni                       $4.50
     Assets:Bank:Checking
 
 2015/03/27 Clipper Card
@@ -314,19 +317,17 @@
     Liabilities:Reimbursement:Zach
     ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
 
-2015/04/01 Munchery
-    Expenses:Food:Munchery                    $14.45
+2015/04/02 Munchery
     Expenses:Food:Munchery                    $12.45
     Assets:Bank:Checking
 
 2015/04/02 Munchery
-    Expenses:Food:Munchery                     $0.45
-    Assets:Bank:Checking
-    ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
-
-2015/04/02 Munchery
     Expenses:Food:Munchery                    $12.90
     Assets:Bank:Savings
+
+2015/04/03 Munchery
+    Expenses:Food:Munchery                    $14.45
+    Assets:Bank:Checking
 
 2015/04/03 Rent
     Expenses:Rent                           $1917.84
@@ -337,6 +338,11 @@
     Expenses:Food:Homeskillet                 $11.42
     Liabilities:Reimbursement:Zach
     ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
+
+2015/04/06 Munchery
+    Expenses:Food:Munchery                     $0.45
+    Assets:Bank:Checking
+    ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
 2015/04/08 Clipper Card
     Expenses:Travel:Clipper:Cash              $20.00
@@ -351,24 +357,104 @@
 2015/04/09 Hearth Coffee
     Expenses:Food:Hearth Coffee                $3.50
     Liabilities:Reimbursement:Zach
-    ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
+    ; Receipt: 3e76606cfcf02ed6b841d73fdc768eae.jpeg
 
-2015/05/07 Molly Stone's
-    Expenses:Food:Molly Stone's                $7.88
+2015/04/12 Safeway
+    Expenses:Food:Safeway                      $3.49
+    Liabilities:Reimbursement:Zach
+    ; Receipt: 75b2ab4b4444ae614ef3d56671389d3d.jpeg
+
+2015/04/17 Anonymous Donor 1
+    Assets:Bank:Checking                    $5000.00
+    Income:Donations
+    ; Receipt: d0ef8d3234a1af07e2a5856a0efb80da.jpeg
+
+2015/04/17 Bi-Rite Creamery
+    Expenses:Food:Bi-Rite Creamery             $9.00
+    Assets:Bank:Checking:Zach
+    ; Receipt: 3d2e7efd14c378b9d2a11df8456f0618.jpeg
+
+2015/04/19 Le Marais Bakery
+    Expenses:Food:Le Marais Bakery             $2.50
+    Assets:Bank:Checking:Zach
+    ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
+
+2015/04/27 Lyft
+    Expenses:Travel:Lyft                       $7.00
     Assets:Bank:Checking:Jonathan
-    ; Receipt: 900c868adceb4e74ce22269536e6cf94.jpeg
+
+2015/04/30 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
+    Assets:Bank:Savings
+
+2015/04/30 Clipper Card
+    Expenses:Travel:Clipper:Cash              $25.00
+    Assets:Bank:Checking:Jonathan
+
+2015/04/30 T-Mobile
+    Expenses:Services:T-Mobile:Hotspot        $13.65
+    Assets:Bank:Checking:Zach
+    ; Receipt: 403890a04955d9987f3932a1e55dcc20.pdf
+
+2015/05/05 Clipper Card
+    Expenses:Travel:Clipper:Adult Fast Pass   $80.00
+    Assets:Bank:Checking:Jonathan
+
+2015/05/06 Anonymous Donor 2
+    Assets:Bank:Checking                   $10000.00
+    Income:Donations
+
+2015/05/06 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Wire Transfer Fee  $15.00
+    Assets:Bank:Checking
+
+2015/05/06 Eventbrite
+    Expenses:Events:Thiel Summit              $53.74
+    Assets:Bank:Checking:Zach
+    ; Receipt: 3d638597ade546ab9e73ae5e00581685.pdf
+
+2015/05/06 Amazon
+    Expenses:Shopping:Amazon                  $69.93
+    Assets:Bank:Checking:Jonathan
+
+2015/05/07 Clipper Card
+    Expenses:Travel:Clipper:Cash              $20.00
+    Assets:Bank:Checking:Zach
+
+2015/05/07 Morrison Productions
+    Expenses:Miscellaneous:Swag:Morrison Productions  $100.00
+    Assets:Bank:Checking:Zach
+    ; Receipt: 59f2d5fa1721eb4fd5b307d0e5cb9efc.jpeg
 
 2015/05/07 Lyft
     Expenses:Travel:Lyft                       $5.00
     Liabilities:Reimbursement:Jonathan
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
+2015/05/07 Jonathan
+    Expenses:Salary:Jonathan                $3840.00
+    Assets:Bank:Checking
+    ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
+
+2015/05/08 ZenPayroll
+    Assets:Bank:Checking                       $0.86
+    Expenses:Services:ZenPayroll
+
+2015/05/08 ZenPayroll
+    Expenses:Services:ZenPayroll               $0.86
+    Assets:Bank:Checking
+
 2015/05/08 Lyft
     Expenses:Travel:Lyft                       $6.00
     Liabilities:Reimbursement:Jonathan
     ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
 
-2015/05/09 Safeway
+2015/05/11 Molly Stone's
+    Expenses:Food:Molly Stone's                $7.88
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 900c868adceb4e74ce22269536e6cf94.jpeg
+
+2015/05/11 Safeway
     Expenses:Food:Safeway                     $44.51
     Assets:Bank:Checking:Jonathan
     ; Receipt: abc4f7b5518d6989a757737939b45465.jpeg
@@ -383,35 +469,65 @@
     Assets:Bank:Checking:Jonathan
     ; Receipt: c9b811fdc214d6ac2afd4d7bcf00fa35.jpeg
 
-2015/05/14 Molly Stone's
+2015/05/15 Extreme Pizza
+    Expenses:Food:Extreme Pizza               $11.82
+    Assets:Bank:Checking:Jonathan
+
+2015/05/15 Molly Stone's
     Expenses:Food:Molly Stone's               $13.02
     Assets:Bank:Checking:Jonathan
     ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
-
-2015/05/15 Clipper Card
-    Expenses:Travel:Clipper:Adult Fast Pass   $80.00
-    Assets:Bank:Checking:Jonathan
-    ; Receipt: 53eef718c695ac383451cbaa3c3e78c5.jpeg
-
-2015/05/15 Postmates
-    Expenses:Food:Postmates                    $8.06
-    Assets:Bank:Checking:Jonathan
-    ; Receipt: abeb712c6be7ac4d447437dd01f8b790.jpeg
 
 2015/05/15 Clipper Card
     Expenses:Travel:Clipper:Cash               $2.70
     Assets:Bank:Checking:Jonathan
     ; Receipt: d5b6d8ba1bfe6b0a286155f1efdd6c89.jpeg
 
+2015/05/15 Lyft
+    Expenses:Travel:Lyft                       $5.00
+    Assets:Bank:Checking:Jonathan
+
+2015/05/15 Uber
+    Expenses:Travel:Uber                       $7.00
+    Assets:Bank:Checking:Jonathan
+
+;2015/05/15 Clipper Card
+;    Expenses:Travel:Clipper:Cash              $20.00
+;    Assets:Bank:Checking:Zach
+;    ; Receipt: c6e4107bbcb8929cb6cac9f0fc71ddac.jpeg
+;
+;2015/05/15 Clipper Card
+;    Expenses:Travel:Clipper:Adult Fast Pass   $80.00
+;    Assets:Bank:Checking:Jonathan
+;    ; Receipt: 53eef718c695ac383451cbaa3c3e78c5.jpeg
+
+2015/05/15 Postmates
+    Expenses:Food:Postmates                    $8.07
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: abeb712c6be7ac4d447437dd01f8b790.jpeg
+
+2015/05/19 Anonymous Donor 3
+    Assets:Bank:Checking                   $50000.00
+    Income:Donations
+
 2015/05/19 Uber
     Expenses:Travel:Uber                      $16.54
     Assets:Bank:Checking:Jonathan
     ; Receipt: f8448729a4e1864e608b0855c6bc2d1e.png
 
+2015/05/20 Airbnb
+    Expenses:Accomodation:Airbnb             $126.00
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 1b9d4863bd19dce073345dc807c35da1.pdf
+
 2015/05/21 Lee's Deli
     Expenses:Food:Lee's Deli                  $11.65
     Assets:Bank:Checking:Jonathan
     ; Receipt: f12e18ec969336d98b1ea1c785d37c3f.jpeg
+
+2015/05/21 Lee's Deli
+    Expenses:Food:Lee's Deli                  $17.07
+    Assets:Bank:Checking:Max
 
 2015/05/22 Clipper Card
     Expenses:Travel:Clipper:Cash              $40.00
@@ -423,6 +539,20 @@
     Assets:Bank:Checking:Jonathan
     ; Receipt: ce409ac8809635be9913ed404b5f0593.jpeg
 
+2015/05/26 Stripe
+    Assets:Bank:Checking                       $0.01
+    Expenses:Services:Stripe
+
+2015/05/26 Dinosaurs
+    Expenses:Food:Leapset:Dinosaurs            $2.25
+    Expenses:Food:Leapset:Dinosaurs            $2.25
+    Expenses:Food:Leapset:Dinosaurs            $2.25
+    Assets:Bank:Checking:Jonathan
+
+2015/05/26 Stripe
+    Expenses:Services:Stripe                   $0.01
+    Assets:Bank:Checking
+
 2015/05/27 Walgreens
     Expenses:Food:Walgreens                    $4.39
     Assets:Bank:Checking:Jonathan
@@ -432,31 +562,72 @@
     Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
     Assets:Bank:Savings
 
-2015/05/30 Lyft
-    Expenses:Travel:Lyft                       $9.00
+2015/05/29 Amazon
+    Expenses:Shopping:Amazon                  $26.57
     Assets:Bank:Checking:Jonathan
-    ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
+    ; Receipt: bf8177c73de7b6c85831a7109a6027b5.pdf
 
-2015/05/30 Clipper Card
+2015/05/29 Andrea
+    Expenses:Salary:Andrea                   $720.00
+    Assets:Bank:Checking
+    ; Receipt: 2b3d94b5fe3b97eb6b16351d9acd4eb4.pdf
+
+2015/06/01 Anonymous Donor 4
+    Assets:Bank:Checking                    $5000.00
+    Income:Donations
+
+; Note - the original charge for this was $40 and then Instacart changed it, so
+; this may temporarily be out of date in the bank's ledger.
+2015/06/01 Instacart
+    Expenses:Food:Instacart                   $56.22
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 7ecda0fbe9440e8d363e348dda28d31f.pdf
+
+2015/06/01 Clipper Card
     Expenses:Travel:Clipper:Adult Fast Pass   $80.00
     Assets:Bank:Checking:Jonathan
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
-2015/05/31 Walgreens
+2015/06/01 Lyft
+    Expenses:Travel:Lyft                       $9.00
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
+
+2015/06/01 Instacart
+    Expenses:Food:Instacart                   $16.22
+    Assets:Bank:Checking:Jonathan
+
+2015/06/01 Walgreens
     Expenses:Food:Walgreens                    $2.00
     Assets:Bank:Checking:Jonathan
     ; Receipt: f1c53f67aebf9f7862ffdcbec724efda.jpeg
 
-2015/05/31 Molly Stone's
+2015/06/02 Molly Stone's
     Expenses:Food:Molly Stone's                $3.79
     Assets:Bank:Checking:Jonathan
     ; Receipt: f8a998411c5634a58b0c080c83cd6515.jpeg
+
+2015/06/02 Amazon
+    Expenses:Shopping:Amazon                  $32.83
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 45eb77bf02e765863e7d99c217ee9fce.pdf
 
 2015/06/02 OVO Cafe
     Expenses:Food:OVO Cafe                    $13.05
     Assets:Bank:Checking:Jonathan
     ; Receipt: ff7b0776069cd6d9696979e0052d70c1.jpeg
 
-2015/4/30 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
-    Assets:Bank:Savings
+2015/06/05 United
+    Expenses:Travel:United                   $715.15
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 1528e4b02a589899f7fffff23fd604dd.pdf
+
+2015/06/08 123Signup
+    Expenses:Events:Constructing Modern Knowledge Institute  $695.00
+    Assets:Bank:Checking:Jonathan
+    ; Receipt: 1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
+
+2015/06/08 Spice Kit
+    Expenses:Food:Spice Kit                   $26.47
+    Assets:Bank:Checking:Zach
+    ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
