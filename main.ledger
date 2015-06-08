@@ -428,6 +428,10 @@
     Assets:Bank:Checking:Jonathan
     ; Receipt: be1b43205dfcaf6bbc596073b2e3bbb2.jpeg
 
+2015/05/29 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
+    Assets:Bank:Savings
+
 2015/05/30 Lyft
     Expenses:Travel:Lyft                       $9.00
     Assets:Bank:Checking:Jonathan
@@ -452,3 +456,7 @@
     Expenses:Food:OVO Cafe                    $13.05
     Assets:Bank:Checking:Jonathan
     ; Receipt: ff7b0776069cd6d9696979e0052d70c1.jpeg
+
+2015/4/30 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
+    Assets:Bank:Savings
