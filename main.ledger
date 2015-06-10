@@ -576,10 +576,10 @@
     Assets:Bank:Checking                    $5000.00
     Income:Donations
 
-; Note - the original charge for this was $40 and then Instacart changed it, so
-; this may temporarily be out of date in the bank's ledger.
+; Note - the original charge for this was $40 and then Instacart changed it to
+; $56.22, so this may end up out of date in the bank's ledger.
 2015/06/01 Instacart
-    Expenses:Food:Instacart                   $56.22
+    Expenses:Food:Instacart                   $40.00
     Assets:Bank:Checking:Jonathan
     ; Receipt: 7ecda0fbe9440e8d363e348dda28d31f.pdf
 
@@ -640,3 +640,8 @@
 2015/06/09 Jonathan
     Expenses:Salary:Jonathan                $3840.00
     Assets:Bank:Checking
+
+2015/06/10 Anonymous Donor 5
+    Assets:Bank:Checking  $10000.00
+    Income:Donations
+    ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
