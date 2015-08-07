@@ -567,8 +567,8 @@
     Assets:Bank:Checking:Jonathan
     ; Receipt: bf8177c73de7b6c85831a7109a6027b5.pdf
 
-2015/05/29 Andrea
-    Expenses:Salary:Andrea                             $720.00
+2015/05/29 Andrea Deng
+    Expenses:Salary:Andrea Deng                        $720.00
     Assets:Bank:Checking
     ; Receipt: 2b3d94b5fe3b97eb6b16351d9acd4eb4.pdf
 
@@ -646,3 +646,18 @@
     Assets:Bank:Checking                             $10000.00
     Income:Donations
     ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
+
+2015/07/03 Benjamin Landers
+    Expenses:Salary:Benjamin Landers                   $320.00
+    Assets:Bank:Checking
+    ; Receipt: 168f92fe73f4034e8f5c24f3ec65ef2c.txt
+
+2015/07/12 Instacart
+    Expenses:Food:Instacart                            $121.43
+    Assets:Bank:Checking
+    ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
+
+2015/07/22 Andrea Deng
+    Expenses:Salary:Andrea Deng                        $720.00
+    Assets:Bank:Checking
+    ; Receipt: c08e4baccc4abc5e20c1c139034e233c.pdf
