@@ -509,16 +509,6 @@
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
 
-;2015/05/15 Clipper Card
-;    Expenses:Travel:Clipper:Cash              $20.00
-;    Assets:Bank:Checking:Zach Latta
-;    ; Receipt: c6e4107bbcb8929cb6cac9f0fc71ddac.jpeg
-;
-;2015/05/15 Clipper Card
-;    Expenses:Travel:Clipper:Adult Fast Pass   $80.00
-;    Assets:Bank:Checking:Jonathan Leung
-;    ; Receipt: 53eef718c695ac383451cbaa3c3e78c5.jpeg
-
 2015/05/15 Clipper Card
     Expenses:Travel:Clipper:Cash                         $2.70
     Assets:Bank:Checking:Jonathan Leung
@@ -593,8 +583,6 @@
     Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
     Assets:Bank:Savings
 
-; Note - the original charge for this was $40 and then Instacart changed it to
-; $56.22, so this may end up out of date in the bank's ledger.
 2015/05/29 Amazon
     Expenses:Shopping:Amazon                            $26.57
     Assets:Bank:Checking:Jonathan Leung
