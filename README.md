@@ -9,7 +9,7 @@ Have at it! (and contributions are welcome!)
 
 ## Monthly Reports
 
-We create a monthly finance report every month for our wonderful fiscal sponsor
+We create a monthly finance report every month for our wonderful fiscal sponsor,
 [Mission Bit](http://www.missionbit.com/).
 
 - [May, 2015](monthly_reports/15_05.csv)
