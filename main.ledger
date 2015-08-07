@@ -653,110 +653,192 @@
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
 
-2015/06/08 Spice Kit
-    Expenses:Food:Spice Kit                             $26.47
-    Assets:Bank:Checking:Zach Latta
-    ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
-
-2015/06/08 Clipper Card
-    Expenses:Travel:Clipper:Cash                       $249.60
-    Assets:Bank:Checking:Andrea Deng
-    ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
-
-2015/06/09 Jonathan Leung
-    Expenses:Salary:Jonathan Leung                    $3840.00
-    Assets:Bank:Checking
-    ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
+2015/06/10 Eventbrite
+    Assets:Bank:Checking                                $53.74
+    Expenses:Events:Thiel Summit
+    ; Receipt: 64f1c5537d60db9517eaf1307d757834.pdf
 
 2015/06/10 Anonymous Donor 5
     Assets:Bank:Checking                             $10000.00
     Income:Donations
     ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
 
+2015/06/10 Spice Kit
+    Expenses:Food:Spice Kit                             $26.47
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
+
+2015/06/10 Clipper Card
+    Expenses:Travel:Clipper:Cash                       $249.60
+    Assets:Bank:Checking:Andrea Deng
+    ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
+
+2015/06/10 Jonathan Leung
+    Expenses:Salary:Jonathan Leung                    $3840.00
+    Assets:Bank:Checking
+    ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
+
+2015/06/16 Airbnb
+    Expenses:Accomodation:Airbnb                       $202.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 1d1a6328f93188ee984ed93ca526b747.pdf
+
 2015/06/16 Amazon
     Expenses:Shopping                                    $7.01
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 6a8519049f1c33754e5c1c1840f86ae0.pdf
 
+2015/06/22 Instacart
+    Expenses:Food:Instacart                             $40.96
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 9944361c404545d1ef4e018c0b7f0762.pdf
+
 2015/06/22 Amazon
-    Expenses:Shopping                                   $14.99
+    Expenses:Shopping                                   $16.30
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 17dff2838e4091328ff7b591cee865e2.pdf
+
+2015/06/22 Amazon
+    Expenses:Shopping:Amazon                            $39.38
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 388aebb810f48d20a41f275424fe83b2.pdf
 
 2015/06/29 Bolt Bus
     Expenses:Travel                                     $38.50
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 99925158fdf46581af1a485e7682c126.pdf
 
-2015/07/03 Benjamin Landers
-    Expenses:Salary:Benjamin Landers                   $320.00
-    Assets:Bank:Checking
-    ; Receipt: 168f92fe73f4034e8f5c24f3ec65ef2c.txt
+2015/06/30 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
+    Assets:Bank:Savings
+    ; Receipt: 9f93a4df38e493790c68e5cedf958da8.pdf
 
-2015/07/03 United
+2015/07/01 Stripe
+    Assets:Bank:Checking                              $3264.98
+    Income:Hack Camp
+    ; Receipt: a118f8657249d8f9715ae5f9b5a1aa3e.pdf
+
+2015/07/06 Hack Camp Hacker
+    Assets:Bank:Checking                               $295.00
+    Income:Hack Camp
+    ; Receipt: f204121a87ad977e9ea15477c14770aa.jpeg
+
+2015/07/06 Lyft
+    Expenses:Travel:Lyft                                $22.46
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: eef8f4e5c49fcab977e0aa1e39db16e4.pdf
+
+2015/07/06 United
     Expenses:Travel:United                              $25.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: a46781e71dcf2ff518881e99a7a18de8.jpg
 
-2015/07/03 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $40.00
+2015/07/06 United
+    Expenses:Services:Internet                           $3.99
     Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: 165d51a9677867fc287904f0939e6fcf.jpeg
+    ; Receipt: 76e0d3f2fa70ec8f12c4413d0f5ae36e.pdf
 
-2015/07/06 Airbnb
-    Expenses:Accomodation:Airbnb                       $202.00
+2015/07/06 United
+    Expenses:Services:Internet                           $3.99
     Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: 1d1a6328f93188ee984ed93ca526b747.pdf
 
 2015/07/06 Concord Coach Lines
     Expenses:Travel                                     $20.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 03b89c62db9711a4d96ba9f1d9462ee8.jpg
 
+2015/07/07 Benjamin Landers
+    Expenses:Salary:Benjamin Landers                   $320.00
+    Assets:Bank:Checking
+    ; Receipt: 168f92fe73f4034e8f5c24f3ec65ef2c.txt
+
 2015/07/07 Andrea Deng
     Expenses:Salary:Andrea Deng                        $720.00
     Assets:Bank:Checking
     ; Receipt: ec690bbc4a85d7f7aefe2606ac369a1a.pdf
 
-2015/07/12 Instacart
-    Expenses:Food:Instacart                            $121.43
+2015/07/08 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                   $3.00
     Assets:Bank:Checking
-    ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
 
-2015/07/12 Long Island Rail Road
+2015/07/08 Uber
+    Expenses:Travel:Uber                                 $7.88
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 384bcbc3a1a70c5805f6df8c7178db79.pdf
+
+2015/07/08 Jonathan Leung
+    Expenses:Salary:Jonathan Leung                    $3840.00
+    Assets:Bank:Checking
+    ; Receipt: 7a2194580d5de1739245c8914b18b23a.pdf
+
+2015/07/09 Uber
+    Expenses:Travel:Uber                                 $6.03
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: bd30d74c7ca0ef0feb331651b6bf0e08.pdf
+
+2015/07/10 Uber
+    Expenses:Travel:Uber                                 $5.91
+    Assets:Bank:Checking:Jonathan Leung
+
+2015/07/10 Uber
+    Expenses:Travel:Uber                                 $5.79
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 09a28a8571ad0749ef69af15ac0e91ae.pdf
+
+2015/07/10 Max Wofford
+    Expenses:Salary:Max Wofford                        $320.00
+    Assets:Bank:Checking
+    ; Receipt: 3d0f931a06f76031cfb6d3307e26598b.pdf
+
+2015/07/13 Kickstarter
+    Expenses:Shopping:Kickstarter                       $24.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 55c67ff67a944bf693b1a81b5b0f7f3b.pdf
+
+2015/07/13 Uber
+    Expenses:Travel:Uber                                 $6.03
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 29dd618b7e7ce5e0729c933ad89ea8ea.pdf
+
+2015/07/13 Uber
+    Expenses:Travel:Uber                                 $6.07
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: e714f1728b5bb358efdea18f5e56036f.pdf
+
+2015/07/13 Clipper Card
+    Expenses:Travel:Clipper:Adult Monthly Pass          $70.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 68c5ebcd3fea72f4929df654a39e205e.jpeg
+
+2015/07/14 Long Island Rail Road
     Expenses:Travel                                      $8.25
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 5c97ac0e14133e97b4ba112c6879a9ab.jpeg
 
-2015/07/12 United
-    Expenses:Travel:United                              $25.00
-    Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: 85ad3f56a9487f3d0ed27d3d119dd684.jpeg
-
-2015/07/12 Long Island Rail Road
-    Expenses:Travel                                      $8.25
-    Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: 56585ae0c34bfd71780b9b478380d405.jpeg
-
-2015/07/12 Long Island Rail Road
-    Expenses:Travel                                      $8.25
-    Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: 271734d59d1b199a8af511611253899c.jpeg
-
-2015/07/12 Long Island Rail Road
+2015/07/14 Long Island Rail Road
     Expenses:Travel                                      $7.25
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1ea74bde5c20fcdb8fac8036c0fce21b.jpeg
 
-2015/07/13 Clipper Card
-    Expenses:Travel:Clipper:Adult Monthly Pass          $70.00
-    Assets:Bank:Checking
-    ; Receipt: 68c5ebcd3fea72f4929df654a39e205e.jpeg
-
-2015/07/15 Panynj Airtrain
+2015/07/14 Panynj Airtrain
     Expenses:Travel                                      $6.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: e1511913867ec80d060bc9cc2484cf6d.jpeg
+
+2015/07/14 United
+    Expenses:Travel:United                              $25.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 85ad3f56a9487f3d0ed27d3d119dd684.jpeg
+
+2015/07/14 Instacart
+    Expenses:Food:Instacart                            $121.43
+    Assets:Bank:Checking
+    ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
+
+2015/07/14 Lyft
+    Expenses:Travel:Lyft                                $16.10
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: b6a63b59e99cb698b8561d67f8e010fe.pdf
 
 2015/07/21 Uber
     Expenses:Travel:Uber                                 $7.00
@@ -768,15 +850,14 @@
     Assets:Bank:Checking
     ; Receipt: c08e4baccc4abc5e20c1c139034e233c.pdf
 
+2015/07/23 Instacart
+    Expenses:Food:Instacart                             $42.47
+    Assets:Bank:Checking
+
 2015/07/23 StickerMule
     Expenses:Miscellaneous:Swag:StickerMule             $53.00
     Assets:Bank:Checking
     ; Receipt: 01b9bec9c04145a7407c2202a4c3f570.pdf
-
-2015/07/24 Andrea Deng
-    Expenses:Salary:Andrea Deng                        $720.00
-    Assets:Bank:Checking
-    ; Receipt: 57be95280d4b26b10527eab59de70a9.pdf
 
 2015/07/24 Clipper Card
     Expenses:Travel:Clipper:Cash                       $100.00
@@ -788,30 +869,70 @@
     Assets:Bank:Checking
     ; Receipt: 6e394de0d8f279caceb9a5aa040fbfcd.pdf
 
-2015/07/31 Uber
+2015/07/29 Hack Camp Hacker
+    Income:Hack Camp                                   $295.00
+    Assets:Bank:Checking
+    ; Receipt: 9e1ef0b503326b5c20697c56780d5a5b.pdf
+
+2015/07/31 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo:Monthly Service Fee  $6.00
+    Assets:Bank:Savings
+    ; Receipt: c855386ccaf9a8545a660eaf5c34bd3e.pdf
+
+2015/08/02 7-Eleven
+    Expenses:Food                                        $1.99
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 508661836211edcfc526f95bb8ad738c.jpg
+
+2015/08/03 Stripe
+    Assets:Bank:Checking                              $3036.86
+    Income:Hack Camp
+    ; Receipt: 55c63ceba798757ef455ad7d0386a902.pdf
+
+2015/08/03 Uber
+    Expenses:Travel:Uber                                 $6.78
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 12d9beece74bd9a50ad7283b1982a4a6.pdf
+
+2015/08/03 Instacart
+    Expenses:Food:Instacart                             $47.47
+    Assets:Bank:Checking
+    ; Receipt: 9e498f3621a32c0ece2491a5d646fb57.pdf
+
+2015/08/03 Uber
     Expenses:Travel:Uber                                 $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: d7d60b8c3f268788f01b4e0d44791d8d.pdf
 
-2015/08/01 Muni
+2015/08/03 Muni
     Expenses:Travel:Muni                                 $1.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: e19ad97cc0b9c612e108d4fd5db1c464.jpeg
 
-2015/08/01 Muni
+2015/08/03 Muni
     Expenses:Travel:Muni                                 $1.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 792aad990a262293120a0276ee552187.jpeg
 
+2015/08/03 Uber
+    Expenses:Travel:Uber                                 $9.52
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: e1e97311acdf6bbe3012e95350e1f50c.pdf
+
+2015/08/03 Clipper Card
+    Expenses:Travel:Clipper:Cash                        $40.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 165d51a9677867fc287904f0939e6fcf.jpeg
+
 2015/08/03 Walgreens
     Expenses:Food:Walgreens                              $7.38
-    Liabilities:Reimbursement:Samuel Escapa
+    Assets:Bank:Checking
     ; Receipt: 1f83efdd100567bf8c144a7b515cfbae.jpg
 
-2015/08/06 Hack Camp Hacker
-    Income:Hack Camp                                   $295.00
+2015/08/04 Jonathan Leung
+    Expenses:Salary:Jonathan Leung                    $3840.00
     Assets:Bank:Checking
-    ; Receipt: f204121a87ad977e9ea15477c14770aa.jpeg
+    ; Receipt: 2185c583a90f8929a8d623f01249a038.pdf
 
 2015/08/06 Safeway
     Expenses:Food:Safeway                               $10.98
