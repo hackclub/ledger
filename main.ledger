@@ -450,7 +450,12 @@
 2015/05/07 Anonymous Donor 6
     Assets:PayPal                                      $200.00
     Income:Donations
-    ; Receipt: 57860417073aadfce53df770230a0fbd.pdf
+    ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
+
+2015/05/07 PayPal
+    Expenses:Services:PayPal                             $6.10
+    Assets:PayPal
+    ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
 
 2015/05/08 ZenPayroll
     Assets:Bank:Checking                                 $0.86
