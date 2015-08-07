@@ -1,0 +1,69 @@
+Date,Payee,Account,Currency,Total,Receipt
+2015/07/01,Stripe,Income:Hack Camp,$,-3264.98,a118f8657249d8f9715ae5f9b5a1aa3e.pdf
+2015/07/01,Stripe,Assets:Bank:Checking,$,3264.98,
+2015/07/06,Hack Camp Hacker,Income:Hack Camp,$,-295,f204121a87ad977e9ea15477c14770aa.jpeg
+2015/07/06,Hack Camp Hacker,Assets:Bank:Checking,$,295,
+2015/07/06,Lyft,Assets:Bank:Checking:Jonathan Leung,$,-22.46,eef8f4e5c49fcab977e0aa1e39db16e4.pdf
+2015/07/06,Lyft,Expenses:Travel:Lyft,$,22.46,
+2015/07/06,United,Assets:Bank:Checking:Jonathan Leung,$,-25,a46781e71dcf2ff518881e99a7a18de8.jpg
+2015/07/06,United,Expenses:Travel:United,$,25,
+2015/07/06,United,Assets:Bank:Checking:Jonathan Leung,$,-3.99,76e0d3f2fa70ec8f12c4413d0f5ae36e.pdf
+2015/07/06,United,Expenses:Services:Internet,$,3.99,
+2015/07/06,United,Assets:Bank:Checking:Jonathan Leung,$,-3.99,
+2015/07/06,United,Expenses:Services:Internet,$,3.99,
+2015/07/06,Concord Coach Lines,Assets:Bank:Checking:Jonathan Leung,$,-20,03b89c62db9711a4d96ba9f1d9462ee8.jpg
+2015/07/06,Concord Coach Lines,Expenses:Travel,$,20,
+2015/07/07,Benjamin Landers,Assets:Bank:Checking,$,-320,168f92fe73f4034e8f5c24f3ec65ef2c.txt
+2015/07/07,Benjamin Landers,Expenses:Salary:Benjamin Landers,$,320,
+2015/07/07,Andrea Deng,Assets:Bank:Checking,$,-720,ec690bbc4a85d7f7aefe2606ac369a1a.pdf
+2015/07/07,Andrea Deng,Expenses:Salary:Andrea Deng,$,720,
+2015/07/08,Wells Fargo,Assets:Bank:Checking,$,-3,
+2015/07/08,Wells Fargo,Expenses:Services:Bank:Wells Fargo,$,3,
+2015/07/08,Uber,Assets:Bank:Checking:Jonathan Leung,$,-7.88,384bcbc3a1a70c5805f6df8c7178db79.pdf
+2015/07/08,Uber,Expenses:Travel:Uber,$,7.88,
+2015/07/08,Jonathan Leung,Assets:Bank:Checking,$,-3840,7a2194580d5de1739245c8914b18b23a.pdf
+2015/07/08,Jonathan Leung,Expenses:Salary:Jonathan Leung,$,3840,
+2015/07/09,Uber,Assets:Bank:Checking:Jonathan Leung,$,-6.03,bd30d74c7ca0ef0feb331651b6bf0e08.pdf
+2015/07/09,Uber,Expenses:Travel:Uber,$,6.03,
+2015/07/10,Uber,Assets:Bank:Checking:Jonathan Leung,$,-5.91,
+2015/07/10,Uber,Expenses:Travel:Uber,$,5.91,
+2015/07/10,Uber,Assets:Bank:Checking:Jonathan Leung,$,-5.79,09a28a8571ad0749ef69af15ac0e91ae.pdf
+2015/07/10,Uber,Expenses:Travel:Uber,$,5.79,
+2015/07/10,Max Wofford,Assets:Bank:Checking,$,-320,3d0f931a06f76031cfb6d3307e26598b.pdf
+2015/07/10,Max Wofford,Expenses:Salary:Max Wofford,$,320,
+2015/07/13,Kickstarter,Assets:Bank:Checking:Jonathan Leung,$,-24,55c67ff67a944bf693b1a81b5b0f7f3b.pdf
+2015/07/13,Kickstarter,Expenses:Shopping:Kickstarter,$,24,
+2015/07/13,Uber,Assets:Bank:Checking:Jonathan Leung,$,-6.03,29dd618b7e7ce5e0729c933ad89ea8ea.pdf
+2015/07/13,Uber,Expenses:Travel:Uber,$,6.03,
+2015/07/13,Uber,Assets:Bank:Checking:Jonathan Leung,$,-6.07,e714f1728b5bb358efdea18f5e56036f.pdf
+2015/07/13,Uber,Expenses:Travel:Uber,$,6.07,
+2015/07/13,Clipper Card,Assets:Bank:Checking:Jonathan Leung,$,-70,68c5ebcd3fea72f4929df654a39e205e.jpeg
+2015/07/13,Clipper Card,Expenses:Travel:Clipper:Adult Monthly Pass,$,70,
+2015/07/14,Long Island Rail Road,Assets:Bank:Checking:Jonathan Leung,$,-8.25,5c97ac0e14133e97b4ba112c6879a9ab.jpeg
+2015/07/14,Long Island Rail Road,Expenses:Travel,$,8.25,
+2015/07/14,Long Island Rail Road,Assets:Bank:Checking:Jonathan Leung,$,-7.25,1ea74bde5c20fcdb8fac8036c0fce21b.jpeg
+2015/07/14,Long Island Rail Road,Expenses:Travel,$,7.25,
+2015/07/14,Panynj Airtrain,Assets:Bank:Checking:Jonathan Leung,$,-6,e1511913867ec80d060bc9cc2484cf6d.jpeg
+2015/07/14,Panynj Airtrain,Expenses:Travel,$,6,
+2015/07/14,United,Assets:Bank:Checking:Jonathan Leung,$,-25,85ad3f56a9487f3d0ed27d3d119dd684.jpeg
+2015/07/14,United,Expenses:Travel:United,$,25,
+2015/07/14,Instacart,Assets:Bank:Checking,$,-121.43,fde19fa1d15a58de29e34e8792bde47a.pdf
+2015/07/14,Instacart,Expenses:Food:Instacart,$,121.43,
+2015/07/14,Lyft,Assets:Bank:Checking:Jonathan Leung,$,-16.1,b6a63b59e99cb698b8561d67f8e010fe.pdf
+2015/07/14,Lyft,Expenses:Travel:Lyft,$,16.1,
+2015/07/21,Uber,Assets:Bank:Checking:Zach Latta,$,-7,612d0c7b5e1d4de03fb289febb0bc802.pdf
+2015/07/21,Uber,Expenses:Travel:Uber,$,7,
+2015/07/22,Andrea Deng,Assets:Bank:Checking,$,-720,c08e4baccc4abc5e20c1c139034e233c.pdf
+2015/07/22,Andrea Deng,Expenses:Salary:Andrea Deng,$,720,
+2015/07/23,Instacart,Assets:Bank:Checking,$,-42.47,
+2015/07/23,Instacart,Expenses:Food:Instacart,$,42.47,
+2015/07/23,StickerMule,Assets:Bank:Checking,$,-53,01b9bec9c04145a7407c2202a4c3f570.pdf
+2015/07/23,StickerMule,Expenses:Miscellaneous:Swag:StickerMule,$,53,
+2015/07/24,Clipper Card,Assets:Bank:Checking,$,-100,94291e7cbde5a8d993c3022669c57ca0.pdf
+2015/07/24,Clipper Card,Expenses:Travel:Clipper:Cash,$,100,
+2015/07/27,GitHub,Assets:Bank:Checking,$,-25,6e394de0d8f279caceb9a5aa040fbfcd.pdf
+2015/07/27,GitHub,Expenses:Tools:GitHub,$,25,
+2015/07/29,Hack Camp Hacker,Assets:Bank:Checking,$,-295,9e1ef0b503326b5c20697c56780d5a5b.pdf
+2015/07/29,Hack Camp Hacker,Income:Hack Camp,$,295,
+2015/07/31,Wells Fargo,Assets:Bank:Savings,$,-6,c855386ccaf9a8545a660eaf5c34bd3e.pdf
+2015/07/31,Wells Fargo,Expenses:Services:Bank:Wells Fargo:Monthly Service Fee,$,6,

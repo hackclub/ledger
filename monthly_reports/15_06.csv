@@ -1,0 +1,47 @@
+Date,Payee,Account,Currency,Total,Receipt
+2015/06/01,Anonymous Donor 4,Income:Donations,$,-5000,
+2015/06/01,Anonymous Donor 4,Assets:Bank:Checking,$,5000,
+2015/06/01,Instacart,Assets:Bank:Checking:Jonathan Leung,$,-40,7ecda0fbe9440e8d363e348dda28d31f.pdf
+2015/06/01,Instacart,Expenses:Food:Instacart,$,40,
+2015/06/01,Clipper Card,Assets:Bank:Checking:Jonathan Leung,$,-80,3f365dad79f138a6b7102e30b2e5f565.jpeg
+2015/06/01,Clipper Card,Expenses:Travel:Clipper:Adult Fast Pass,$,80,
+2015/06/01,Lyft,Assets:Bank:Checking:Jonathan Leung,$,-9,9412c139da74947364ef7fd71addcdeb.png
+2015/06/01,Lyft,Expenses:Travel:Lyft,$,9,
+2015/06/01,Instacart,Assets:Bank:Checking:Jonathan Leung,$,-16.22,
+2015/06/01,Instacart,Expenses:Food:Instacart,$,16.22,
+2015/06/01,Walgreens,Assets:Bank:Checking:Jonathan Leung,$,-2,f1c53f67aebf9f7862ffdcbec724efda.jpeg
+2015/06/01,Walgreens,Expenses:Food:Walgreens,$,2,
+2015/06/02,Molly Stone's,Assets:Bank:Checking:Jonathan Leung,$,-3.79,f8a998411c5634a58b0c080c83cd6515.jpeg
+2015/06/02,Molly Stone's,Expenses:Food:Molly Stone's,$,3.79,
+2015/06/02,Amazon,Assets:Bank:Checking:Jonathan Leung,$,-32.83,45eb77bf02e765863e7d99c217ee9fce.pdf
+2015/06/02,Amazon,Expenses:Shopping:Amazon,$,32.83,
+2015/06/02,OVO Cafe,Assets:Bank:Checking:Jonathan Leung,$,-13.05,ff7b0776069cd6d9696979e0052d70c1.jpeg
+2015/06/02,OVO Cafe,Expenses:Food:OVO Cafe,$,13.05,
+2015/06/05,United,Assets:Bank:Checking:Jonathan Leung,$,-715.15,1528e4b02a589899f7fffff23fd604dd.pdf
+2015/06/05,United,Expenses:Travel:United,$,715.15,
+2015/06/08,123Signup,Assets:Bank:Checking:Jonathan Leung,$,-695,1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
+2015/06/08,123Signup,Expenses:Events:Constructing Modern Knowledge Institute,$,695,
+2015/06/10,Eventbrite,Expenses:Events:Thiel Summit,$,-53.74,64f1c5537d60db9517eaf1307d757834.pdf
+2015/06/10,Eventbrite,Assets:Bank:Checking,$,53.74,
+2015/06/10,Anonymous Donor 5,Income:Donations,$,-10000,5a83eca6178dcab320263445f47bca45.jpeg
+2015/06/10,Anonymous Donor 5,Assets:Bank:Checking,$,10000,
+2015/06/10,Spice Kit,Assets:Bank:Checking:Zach Latta,$,-26.47,20135866ef97dd1270b0ab1c5fb73983.jpeg
+2015/06/10,Spice Kit,Expenses:Food:Spice Kit,$,26.47,
+2015/06/10,Clipper Card,Assets:Bank:Checking:Andrea Deng,$,-249.6,25f1a96eba3b9323e12be36602099025.pdf
+2015/06/10,Clipper Card,Expenses:Travel:Clipper:Cash,$,249.6,
+2015/06/10,Jonathan Leung,Assets:Bank:Checking,$,-3840,7d7bc211532d2a9b9acb1d21107ef9a2.pdf
+2015/06/10,Jonathan Leung,Expenses:Salary:Jonathan Leung,$,3840,
+2015/06/16,Airbnb,Assets:Bank:Checking:Jonathan Leung,$,-202,1d1a6328f93188ee984ed93ca526b747.pdf
+2015/06/16,Airbnb,Expenses:Accomodation:Airbnb,$,202,
+2015/06/16,Amazon,Assets:Bank:Checking:Jonathan Leung,$,-7.01,6a8519049f1c33754e5c1c1840f86ae0.pdf
+2015/06/16,Amazon,Expenses:Shopping,$,7.01,
+2015/06/22,Instacart,Assets:Bank:Checking:Jonathan Leung,$,-40.96,9944361c404545d1ef4e018c0b7f0762.pdf
+2015/06/22,Instacart,Expenses:Food:Instacart,$,40.96,
+2015/06/22,Amazon,Assets:Bank:Checking:Jonathan Leung,$,-16.3,17dff2838e4091328ff7b591cee865e2.pdf
+2015/06/22,Amazon,Expenses:Shopping,$,16.3,
+2015/06/22,Amazon,Liabilities:Reimbursement:Jonathan Leung,$,-39.38,388aebb810f48d20a41f275424fe83b2.pdf
+2015/06/22,Amazon,Expenses:Shopping:Amazon,$,39.38,
+2015/06/29,Bolt Bus,Assets:Bank:Checking:Jonathan Leung,$,-38.5,99925158fdf46581af1a485e7682c126.pdf
+2015/06/29,Bolt Bus,Expenses:Travel,$,38.5,
+2015/06/30,Wells Fargo,Assets:Bank:Savings,$,-6,9f93a4df38e493790c68e5cedf958da8.pdf
+2015/06/30,Wells Fargo,Expenses:Services:Bank:Wells Fargo:Monthly Service Fee,$,6,
