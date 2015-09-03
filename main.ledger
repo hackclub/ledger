@@ -329,11 +329,6 @@
     Expenses:Food                                       $14.45
     Assets:Bank:Checking
 
-2015/04/03 Rent
-    Expenses:Miscellaneous:Rent                       $1917.84
-    Liabilities:Reimbursement:Zach Latta
-    ; Receipt: 7361ba84497e7bf36f5277fce0e9100c.pdf
-
 2015/04/03 Homeskillet
     Expenses:Food                                       $11.42
     Liabilities:Reimbursement:Zach Latta
