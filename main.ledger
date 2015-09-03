@@ -419,7 +419,7 @@
     Assets:Bank:Checking
 
 2015/05/06 Eventbrite
-    Expenses:Miscellaneous:Events:Thiel Summit          $53.74
+    Expenses:Miscellaneous:Events                       $53.74
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 3d638597ade546ab9e73ae5e00581685.pdf
 
@@ -643,7 +643,7 @@
 
 2015/06/10 Eventbrite
     Assets:Bank:Checking                                $53.74
-    Expenses:Miscellaneous:Events:Thiel Summit
+    Expenses:Miscellaneous:Events
     ; Receipt: 64f1c5537d60db9517eaf1307d757834.pdf
 
 2015/06/10 Anonymous Donor 5
