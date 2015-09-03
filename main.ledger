@@ -58,7 +58,7 @@
     ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
 
 2015/02/19 IRCCloud
-    Expenses:Tools:IRCCloud                             $15.00
+    Expenses:Services:Software                          $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2fdfb63394095bebb5617c8ac99c0f37.pdf
 
@@ -260,7 +260,7 @@
     ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
 2015/03/19 IRCCloud
-    Expenses:Tools:IRCCloud                             $25.00
+    Expenses:Services:Software                          $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
@@ -858,7 +858,7 @@
     ; Receipt: 94291e7cbde5a8d993c3022669c57ca0.pdf
 
 2015/07/27 GitHub
-    Expenses:Tools:GitHub                               $25.00
+    Expenses:Services:Software                          $25.00
     Assets:Bank:Checking
     ; Receipt: 6e394de0d8f279caceb9a5aa040fbfcd.pdf
 
