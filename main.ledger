@@ -6,17 +6,17 @@
     Liabilities:Reimbursement:Zach Latta
 
 2015/02/05 Clipper Card
-    Expenses:Travel:Clipper:Cash                            $20
+    Expenses:Transport:Public Transportation                $20
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
 2015/02/05 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
 2015/02/05 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
@@ -33,12 +33,12 @@
     ; Receipt: fce9f64c4519038d356ba2c902286b31.pdf
 
 2015/02/06 Lyft
-    Expenses:Travel:Lyft                                 $9.15
+    Expenses:Transport:Rental Car                        $9.15
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
 2015/02/06 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
 
@@ -81,7 +81,7 @@
     ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
 
 2015/02/24 Lyft
-    Expenses:Travel:Lyft                                 $4.90
+    Expenses:Transport:Rental Car                        $4.90
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
 
@@ -126,12 +126,12 @@
     ; Receipt: 396078b0ac9c55018b9d1af8c8c0af17.pdf
 
 2015/03/03 Lyft
-    Expenses:Travel:Lyft                                 $5.00
+    Expenses:Transport:Rental Car                        $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d0ee28147336988eaa7798d7c40cefcd.pdf
 
 2015/03/03 Lyft
-    Expenses:Travel:Lyft                                 $5.00
+    Expenses:Transport:Rental Car                        $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
 
@@ -143,32 +143,32 @@
     ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
 2015/03/04 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
 
 2015/03/04 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
 
 2015/03/04 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
 
 2015/03/05 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
 
 2015/03/05 Uber
-    Expenses:Travel:Uber                                $12.05
+    Expenses:Transport:Rental Car                       $12.05
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0572062eb50d8e572ae7d8ac6206cb78.pdf
 
 2015/03/05 Uber
-    Expenses:Travel:Uber                                $11.87
+    Expenses:Transport:Rental Car                       $11.87
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 54c330a7825affa8c313edc436a6543b.pdf
 
@@ -178,7 +178,7 @@
     ; Receipt: 54e5323814422e98f179054208a274a0.pdf
 
 2015/03/08 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
 
@@ -207,7 +207,7 @@
     ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
 
 2015/03/10 Lyft
-    Expenses:Travel:Lyft                                    $5
+    Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
 
@@ -240,12 +240,12 @@
     ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
 2015/03/14 Lyft
-    Expenses:Travel:Lyft                                 $9.78
+    Expenses:Transport:Rental Car                        $9.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
 
 2015/03/16 Lyft
-    Expenses:Travel:Lyft                                    $6
+    Expenses:Transport:Rental Car                           $6
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
@@ -255,7 +255,7 @@
     ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
 2015/03/19 Uber
-    Expenses:Travel:Uber                                    $7
+    Expenses:Transport:Rental Car                           $7
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
@@ -280,15 +280,15 @@
     Assets:Bank:Checking
 
 2015/03/26 Muni
-    Expenses:Travel:Muni                                 $2.25
+    Expenses:Transport:Public Transportation             $2.25
     Assets:Bank:Checking
 
 2015/03/26 Muni
-    Expenses:Travel:Muni                                 $4.50
+    Expenses:Transport:Public Transportation             $4.50
     Assets:Bank:Checking
 
 2015/03/27 Clipper Card
-    Expenses:Travel:Clipper:Cash                            $20
+    Expenses:Transport:Public Transportation                $20
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
@@ -345,7 +345,7 @@
     ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
 2015/04/08 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $20.00
+    Expenses:Transport:Public Transportation            $20.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
 
@@ -365,7 +365,7 @@
     ; Receipt: 75b2ab4b4444ae614ef3d56671389d3d.jpeg
 
 2015/04/12 Uber
-    Expenses:Travel:Uber                                 $7.00
+    Expenses:Transport:Rental Car                        $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdb0cd920945309678396370a3f00e02.pdf
 
@@ -380,7 +380,7 @@
     ; Receipt: 3d2e7efd14c378b9d2a11df8456f0618.jpeg
 
 2015/04/18 Uber
-    Expenses:Travel:Uber                                 $4.47
+    Expenses:Transport:Rental Car                        $4.47
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e15300474df8fb9a964ceb382cc3a60f.pdf
 
@@ -390,7 +390,7 @@
     ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
 
 2015/04/27 Lyft
-    Expenses:Travel:Lyft                                 $7.00
+    Expenses:Transport:Rental Car                        $7.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/04/30 Wells Fargo
@@ -398,7 +398,7 @@
     Assets:Bank:Savings
 
 2015/04/30 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $25.00
+    Expenses:Transport:Public Transportation            $25.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/04/30 T-Mobile
@@ -407,7 +407,7 @@
     ; Receipt: 403890a04955d9987f3932a1e55dcc20.pdf
 
 2015/05/05 Clipper Card
-    Expenses:Travel:Clipper:Adult Fast Pass             $80.00
+    Expenses:Transport:Public Transportation            $80.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/05 Amazon
@@ -429,7 +429,7 @@
     ; Receipt: 3d638597ade546ab9e73ae5e00581685.pdf
 
 2015/05/07 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $20.00
+    Expenses:Transport:Public Transportation            $20.00
     Assets:Bank:Checking:Zach Latta
 
 2015/05/07 Morrison Productions
@@ -438,7 +438,7 @@
     ; Receipt: 59f2d5fa1721eb4fd5b307d0e5cb9efc.jpeg
 
 2015/05/07 Lyft
-    Expenses:Travel:Lyft                                 $5.00
+    Expenses:Transport:Rental Car                        $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
@@ -466,7 +466,7 @@
     Assets:Bank:Checking
 
 2015/05/08 Lyft
-    Expenses:Travel:Lyft                                 $6.00
+    Expenses:Transport:Rental Car                        $6.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
 
@@ -510,16 +510,16 @@
     ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
 
 2015/05/15 Clipper Card
-    Expenses:Travel:Clipper:Cash                         $2.70
+    Expenses:Transport:Public Transportation             $2.70
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: d5b6d8ba1bfe6b0a286155f1efdd6c89.jpeg
 
 2015/05/15 Lyft
-    Expenses:Travel:Lyft                                 $5.00
+    Expenses:Transport:Rental Car                        $5.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Uber
-    Expenses:Travel:Uber                                 $7.00
+    Expenses:Transport:Rental Car                        $7.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Postmates
@@ -532,7 +532,7 @@
     Income:Donations
 
 2015/05/19 Uber
-    Expenses:Travel:Uber                                $16.54
+    Expenses:Transport:Rental Car                       $16.54
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: f8448729a4e1864e608b0855c6bc2d1e.png
 
@@ -551,7 +551,7 @@
     Assets:Bank:Checking:Max Wofford
 
 2015/05/22 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $40.00
+    Expenses:Transport:Public Transportation            $40.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
@@ -603,12 +603,12 @@
     ; Receipt: 7ecda0fbe9440e8d363e348dda28d31f.pdf
 
 2015/06/01 Clipper Card
-    Expenses:Travel:Clipper:Adult Fast Pass             $80.00
+    Expenses:Transport:Public Transportation            $80.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
 2015/06/01 Lyft
-    Expenses:Travel:Lyft                                 $9.00
+    Expenses:Transport:Rental Car                        $9.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
 
@@ -637,7 +637,7 @@
     ; Receipt: ff7b0776069cd6d9696979e0052d70c1.jpeg
 
 2015/06/05 United
-    Expenses:Travel:United                             $715.15
+    Expenses:Travel:Air Travel                         $715.15
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1528e4b02a589899f7fffff23fd604dd.pdf
 
@@ -662,7 +662,7 @@
     ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
 
 2015/06/10 Clipper Card
-    Expenses:Travel:Clipper:Cash                       $249.60
+    Expenses:Transport:Public Transportation           $249.60
     Assets:Bank:Checking:Andrea Deng
     ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
 
@@ -717,12 +717,12 @@
     ; Receipt: f204121a87ad977e9ea15477c14770aa.jpeg
 
 2015/07/06 Lyft
-    Expenses:Travel:Lyft                                $22.46
+    Expenses:Travel:Rental Car                          $22.46
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: eef8f4e5c49fcab977e0aa1e39db16e4.pdf
 
 2015/07/06 United
-    Expenses:Travel:United                              $25.00
+    Expenses:Travel:Air Travel                          $25.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: a46781e71dcf2ff518881e99a7a18de8.jpg
 
@@ -755,7 +755,7 @@
     Assets:Bank:Checking
 
 2015/07/08 Uber
-    Expenses:Travel:Uber                                 $7.88
+    Expenses:Travel:Rental Car                           $7.88
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 384bcbc3a1a70c5805f6df8c7178db79.pdf
 
@@ -765,16 +765,16 @@
     ; Receipt: 7a2194580d5de1739245c8914b18b23a.pdf
 
 2015/07/09 Uber
-    Expenses:Travel:Uber                                 $6.03
+    Expenses:Travel:Rental Car                           $6.03
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: bd30d74c7ca0ef0feb331651b6bf0e08.pdf
 
 2015/07/10 Uber
-    Expenses:Travel:Uber                                 $5.91
+    Expenses:Travel:Rental Car                           $5.91
     Assets:Bank:Checking:Jonathan Leung
 
 2015/07/10 Uber
-    Expenses:Travel:Uber                                 $5.79
+    Expenses:Travel:Rental Car                           $5.79
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 09a28a8571ad0749ef69af15ac0e91ae.pdf
 
@@ -789,37 +789,37 @@
     ; Receipt: 55c67ff67a944bf693b1a81b5b0f7f3b.pdf
 
 2015/07/13 Uber
-    Expenses:Travel:Uber                                 $6.03
+    Expenses:Travel:Rental Car                           $6.03
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 29dd618b7e7ce5e0729c933ad89ea8ea.pdf
 
 2015/07/13 Uber
-    Expenses:Travel:Uber                                 $6.07
+    Expenses:Travel:Rental Car                           $6.07
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: e714f1728b5bb358efdea18f5e56036f.pdf
 
 2015/07/13 Clipper Card
-    Expenses:Travel:Clipper:Adult Monthly Pass          $70.00
+    Expenses:Transport:Public Transportation            $70.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 68c5ebcd3fea72f4929df654a39e205e.jpeg
 
 2015/07/14 Long Island Rail Road
-    Expenses:Travel                                      $8.25
+    Expenses:Travel:Public Transportation                $8.25
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 5c97ac0e14133e97b4ba112c6879a9ab.jpeg
 
 2015/07/14 Long Island Rail Road
-    Expenses:Travel                                      $7.25
+    Expenses:Travel:Public Transportation                $7.25
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1ea74bde5c20fcdb8fac8036c0fce21b.jpeg
 
 2015/07/14 Panynj Airtrain
-    Expenses:Travel                                      $6.00
+    Expenses:Travel:Public Transportation                $6.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: e1511913867ec80d060bc9cc2484cf6d.jpeg
 
 2015/07/14 United
-    Expenses:Travel:United                              $25.00
+    Expenses:Travel:Air Travel                          $25.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 85ad3f56a9487f3d0ed27d3d119dd684.jpeg
 
@@ -829,12 +829,12 @@
     ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
 
 2015/07/14 Lyft
-    Expenses:Travel:Lyft                                $16.10
+    Expenses:Travel:Rental Car                          $16.10
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: b6a63b59e99cb698b8561d67f8e010fe.pdf
 
 2015/07/21 Uber
-    Expenses:Travel:Uber                                 $7.00
+    Expenses:Transport:Rental Car                        $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 612d0c7b5e1d4de03fb289febb0bc802.pdf
 
@@ -853,7 +853,7 @@
     ; Receipt: 01b9bec9c04145a7407c2202a4c3f570.pdf
 
 2015/07/24 Clipper Card
-    Expenses:Travel:Clipper:Cash                       $100.00
+    Expenses:Transport:Public Transportation           $100.00
     Assets:Bank:Checking
     ; Receipt: 94291e7cbde5a8d993c3022669c57ca0.pdf
 
@@ -883,7 +883,7 @@
     ; Receipt: 55c63ceba798757ef455ad7d0386a902.pdf
 
 2015/08/03 Uber
-    Expenses:Travel:Uber                                 $6.78
+    Expenses:Transport:Rental Car                        $6.78
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 12d9beece74bd9a50ad7283b1982a4a6.pdf
 
@@ -893,27 +893,27 @@
     ; Receipt: 9e498f3621a32c0ece2491a5d646fb57.pdf
 
 2015/08/03 Uber
-    Expenses:Travel:Uber                                 $7.00
+    Expenses:Transport:Rental Car                        $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: d7d60b8c3f268788f01b4e0d44791d8d.pdf
 
 2015/08/03 Muni
-    Expenses:Travel:Muni                                 $1.00
+    Expenses:Transport:Public Transportation             $1.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: e19ad97cc0b9c612e108d4fd5db1c464.jpeg
 
 2015/08/03 Muni
-    Expenses:Travel:Muni                                 $1.00
+    Expenses:Transport:Public Transportation             $1.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 792aad990a262293120a0276ee552187.jpeg
 
 2015/08/03 Uber
-    Expenses:Travel:Uber                                 $9.52
+    Expenses:Transport:Rental Car                        $9.52
     Assets:Bank:Checking:Zach Latta
     ; Receipt: e1e97311acdf6bbe3012e95350e1f50c.pdf
 
 2015/08/03 Clipper Card
-    Expenses:Travel:Clipper:Cash                        $40.00
+    Expenses:Transport:Public Transportation            $40.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 165d51a9677867fc287904f0939e6fcf.jpeg
 
