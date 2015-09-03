@@ -212,7 +212,7 @@
     ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
 
 2015/03/10 Panera Bread
-    Expenses:Food:Panera Bread                           $2.38
+    Expenses:Food                                        $2.38
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2e376f2de6f0a573f4c67e6f218e7def.pdf
 
@@ -250,7 +250,7 @@
     ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
 2015/03/18 Four Barrel Coffee
-    Expenses:Food:Four Barrel Coffee                     $8.16
+    Expenses:Food                                        $8.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
@@ -276,7 +276,7 @@
     ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
 2015/03/25 7-Eleven
-    Expenses:Food:7-Eleven                               $5.79
+    Expenses:Food                                        $5.79
     Assets:Bank:Checking
 
 2015/03/26 Muni
@@ -298,7 +298,7 @@
     ; Receipt: 447219f693b2bf35cff860dcf80cb99d.jpg
 
 2015/03/30 Bristol Farms
-    Expenses:Food:Bristol Farms                         $14.59
+    Expenses:Food                                       $14.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cea635d66ededfe40a9e1cc495bd26a9.pdf
 
@@ -313,20 +313,20 @@
     ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
 
 2015/03/31 Hearth Coffee
-    Expenses:Food:Hearth Coffee                          $1.50
+    Expenses:Food                                        $1.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
 
 2015/04/02 Munchery
-    Expenses:Food:Munchery                              $12.45
+    Expenses:Food                                       $12.45
     Assets:Bank:Checking
 
 2015/04/02 Munchery
-    Expenses:Food:Munchery                              $12.90
+    Expenses:Food                                       $12.90
     Assets:Bank:Savings
 
 2015/04/03 Munchery
-    Expenses:Food:Munchery                              $14.45
+    Expenses:Food                                       $14.45
     Assets:Bank:Checking
 
 2015/04/03 Rent
@@ -335,12 +335,12 @@
     ; Receipt: 7361ba84497e7bf36f5277fce0e9100c.pdf
 
 2015/04/03 Homeskillet
-    Expenses:Food:Homeskillet                           $11.42
+    Expenses:Food                                       $11.42
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
 
 2015/04/06 Munchery
-    Expenses:Food:Munchery                               $0.45
+    Expenses:Food                                        $0.45
     Assets:Bank:Checking
     ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
@@ -355,12 +355,12 @@
     ; Receipt: fa68363e11ea52ddd0ee0447335cbec5.jpeg
 
 2015/04/09 Hearth Coffee
-    Expenses:Food:Hearth Coffee                          $3.50
+    Expenses:Food                                        $3.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3e76606cfcf02ed6b841d73fdc768eae.jpeg
 
 2015/04/12 Safeway
-    Expenses:Food:Safeway                                $3.49
+    Expenses:Food                                        $3.49
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 75b2ab4b4444ae614ef3d56671389d3d.jpeg
 
@@ -375,7 +375,7 @@
     ; Receipt: d0ef8d3234a1af07e2a5856a0efb80da.jpeg
 
 2015/04/17 Bi-Rite Creamery
-    Expenses:Food:Bi-Rite Creamery                       $9.00
+    Expenses:Food                                        $9.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 3d2e7efd14c378b9d2a11df8456f0618.jpeg
 
@@ -385,7 +385,7 @@
     ; Receipt: e15300474df8fb9a964ceb382cc3a60f.pdf
 
 2015/04/19 Le Marais Bakery
-    Expenses:Food:Le Marais Bakery                       $2.50
+    Expenses:Food                                        $2.50
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
 
@@ -481,31 +481,31 @@
     ; Receipt: 4ca005a3c13d22bd8f5082838aed44ec.pdf
 
 2015/05/11 Molly Stone's
-    Expenses:Food:Molly Stone's                          $7.88
+    Expenses:Food                                        $7.88
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 900c868adceb4e74ce22269536e6cf94.jpeg
 
 2015/05/11 Safeway
-    Expenses:Food:Safeway                               $44.51
+    Expenses:Food                                       $44.51
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: abc4f7b5518d6989a757737939b45465.jpeg
 
 2015/05/11 Instacart
-    Expenses:Food:Instacart                             $38.46
+    Expenses:Food                                       $38.46
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 6607e5c15c86e8a88e2e96ff6835d61e.jpeg
 
 2015/05/13 La Tortilla
-    Expenses:Food:La Tortilla                           $13.59
+    Expenses:Food                                       $13.59
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: c9b811fdc214d6ac2afd4d7bcf00fa35.jpeg
 
 2015/05/15 Extreme Pizza
-    Expenses:Food:Extreme Pizza                         $11.82
+    Expenses:Food                                       $11.82
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Molly Stone's
-    Expenses:Food:Molly Stone's                         $13.02
+    Expenses:Food                                       $13.02
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
 
@@ -523,7 +523,7 @@
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Postmates
-    Expenses:Food:Postmates                              $8.07
+    Expenses:Food                                        $8.07
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: abeb712c6be7ac4d447437dd01f8b790.jpeg
 
@@ -542,12 +542,12 @@
     ; Receipt: 1b9d4863bd19dce073345dc807c35da1.pdf
 
 2015/05/21 Lee's Deli
-    Expenses:Food:Lee's Deli                            $11.65
+    Expenses:Food                                       $11.65
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: f12e18ec969336d98b1ea1c785d37c3f.jpeg
 
 2015/05/21 Lee's Deli
-    Expenses:Food:Lee's Deli                            $17.07
+    Expenses:Food                                       $17.07
     Assets:Bank:Checking:Max Wofford
 
 2015/05/22 Clipper Card
@@ -556,7 +556,7 @@
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
 2015/05/22 Walgreens
-    Expenses:Food:Walgreens                             $12.00
+    Expenses:Food                                       $12.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: ce409ac8809635be9913ed404b5f0593.jpeg
 
@@ -575,7 +575,7 @@
     Assets:Bank:Checking
 
 2015/05/27 Walgreens
-    Expenses:Food:Walgreens                              $4.39
+    Expenses:Food                                        $4.39
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: be1b43205dfcaf6bbc596073b2e3bbb2.jpeg
 
@@ -598,7 +598,7 @@
     Income:Donations
 
 2015/06/01 Instacart
-    Expenses:Food:Instacart                             $40.00
+    Expenses:Food                                       $40.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 7ecda0fbe9440e8d363e348dda28d31f.pdf
 
@@ -613,16 +613,16 @@
     ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
 
 2015/06/01 Instacart
-    Expenses:Food:Instacart                             $16.22
+    Expenses:Food                                       $16.22
     Assets:Bank:Checking:Jonathan Leung
 
 2015/06/01 Walgreens
-    Expenses:Food:Walgreens                              $2.00
+    Expenses:Food                                        $2.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: f1c53f67aebf9f7862ffdcbec724efda.jpeg
 
 2015/06/02 Molly Stone's
-    Expenses:Food:Molly Stone's                          $3.79
+    Expenses:Food                                        $3.79
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: f8a998411c5634a58b0c080c83cd6515.jpeg
 
@@ -632,7 +632,7 @@
     ; Receipt: 45eb77bf02e765863e7d99c217ee9fce.pdf
 
 2015/06/02 OVO Cafe
-    Expenses:Food:OVO Cafe                              $13.05
+    Expenses:Food                                       $13.05
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: ff7b0776069cd6d9696979e0052d70c1.jpeg
 
@@ -657,7 +657,7 @@
     ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
 
 2015/06/10 Spice Kit
-    Expenses:Food:Spice Kit                             $26.47
+    Expenses:Food                                       $26.47
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
 
@@ -682,7 +682,7 @@
     ; Receipt: 6a8519049f1c33754e5c1c1840f86ae0.pdf
 
 2015/06/22 Instacart
-    Expenses:Food:Instacart                             $40.96
+    Expenses:Food                                       $40.96
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 9944361c404545d1ef4e018c0b7f0762.pdf
 
@@ -824,7 +824,7 @@
     ; Receipt: 85ad3f56a9487f3d0ed27d3d119dd684.jpeg
 
 2015/07/14 Instacart
-    Expenses:Food:Instacart                            $121.43
+    Expenses:Food                                      $121.43
     Assets:Bank:Checking
     ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
 
@@ -844,7 +844,7 @@
     ; Receipt: c08e4baccc4abc5e20c1c139034e233c.pdf
 
 2015/07/23 Instacart
-    Expenses:Food:Instacart                             $42.47
+    Expenses:Food                                       $42.47
     Assets:Bank:Checking
 
 2015/07/23 StickerMule
@@ -888,7 +888,7 @@
     ; Receipt: 12d9beece74bd9a50ad7283b1982a4a6.pdf
 
 2015/08/03 Instacart
-    Expenses:Food:Instacart                             $47.47
+    Expenses:Food                                       $47.47
     Assets:Bank:Checking
     ; Receipt: 9e498f3621a32c0ece2491a5d646fb57.pdf
 
@@ -918,7 +918,7 @@
     ; Receipt: 165d51a9677867fc287904f0939e6fcf.jpeg
 
 2015/08/03 Walgreens
-    Expenses:Food:Walgreens                              $7.38
+    Expenses:Food                                        $7.38
     Assets:Bank:Checking
     ; Receipt: 1f83efdd100567bf8c144a7b515cfbae.jpg
 
@@ -928,6 +928,6 @@
     ; Receipt: 2185c583a90f8929a8d623f01249a038.pdf
 
 2015/08/06 Safeway
-    Expenses:Food:Safeway                               $10.98
+    Expenses:Food                                       $10.98
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 07ad41c0a1a4f53a12e30ca44a66df77.JPG
