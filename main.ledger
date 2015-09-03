@@ -537,7 +537,7 @@
     ; Receipt: f8448729a4e1864e608b0855c6bc2d1e.png
 
 2015/05/20 Airbnb
-    Expenses:Accomodation:Airbnb                       $126.00
+    Expenses:Travel:Accomodation                       $126.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1b9d4863bd19dce073345dc807c35da1.pdf
 
@@ -672,7 +672,7 @@
     ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
 
 2015/06/16 Airbnb
-    Expenses:Accomodation:Airbnb                       $202.00
+    Expenses:Travel:Accomodation                       $202.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1d1a6328f93188ee984ed93ca526b747.pdf
 
