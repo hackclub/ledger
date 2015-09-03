@@ -443,7 +443,7 @@
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
 2015/05/07 Jonathan Leung
-    Expenses:Salary:Jonathan Leung                    $3840.00
+    Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
 
@@ -589,7 +589,7 @@
     ; Receipt: bf8177c73de7b6c85831a7109a6027b5.pdf
 
 2015/05/29 Andrea Deng
-    Expenses:Salary:Andrea Deng                        $720.00
+    Expenses:Salary                                    $720.00
     Assets:Bank:Checking
     ; Receipt: 2b3d94b5fe3b97eb6b16351d9acd4eb4.pdf
 
@@ -667,7 +667,7 @@
     ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
 
 2015/06/10 Jonathan Leung
-    Expenses:Salary:Jonathan Leung                    $3840.00
+    Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
 
@@ -741,12 +741,12 @@
     ; Receipt: 03b89c62db9711a4d96ba9f1d9462ee8.jpg
 
 2015/07/07 Benjamin Landers
-    Expenses:Salary:Benjamin Landers                   $320.00
+    Expenses:Salary                                    $320.00
     Assets:Bank:Checking
     ; Receipt: 168f92fe73f4034e8f5c24f3ec65ef2c.txt
 
 2015/07/07 Andrea Deng
-    Expenses:Salary:Andrea Deng                        $720.00
+    Expenses:Salary                                    $720.00
     Assets:Bank:Checking
     ; Receipt: ec690bbc4a85d7f7aefe2606ac369a1a.pdf
 
@@ -760,7 +760,7 @@
     ; Receipt: 384bcbc3a1a70c5805f6df8c7178db79.pdf
 
 2015/07/08 Jonathan Leung
-    Expenses:Salary:Jonathan Leung                    $3840.00
+    Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: 7a2194580d5de1739245c8914b18b23a.pdf
 
@@ -779,7 +779,7 @@
     ; Receipt: 09a28a8571ad0749ef69af15ac0e91ae.pdf
 
 2015/07/10 Max Wofford
-    Expenses:Salary:Max Wofford                        $320.00
+    Expenses:Salary                                    $320.00
     Assets:Bank:Checking
     ; Receipt: 3d0f931a06f76031cfb6d3307e26598b.pdf
 
@@ -839,7 +839,7 @@
     ; Receipt: 612d0c7b5e1d4de03fb289febb0bc802.pdf
 
 2015/07/22 Andrea Deng
-    Expenses:Salary:Andrea Deng                        $720.00
+    Expenses:Salary                                    $720.00
     Assets:Bank:Checking
     ; Receipt: c08e4baccc4abc5e20c1c139034e233c.pdf
 
@@ -923,7 +923,7 @@
     ; Receipt: 1f83efdd100567bf8c144a7b515cfbae.jpg
 
 2015/08/04 Jonathan Leung
-    Expenses:Salary:Jonathan Leung                    $3840.00
+    Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: 2185c583a90f8929a8d623f01249a038.pdf
 
