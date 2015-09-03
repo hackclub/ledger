@@ -20,8 +20,8 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
-2015/02/06 Delaware Taxes
-    Expenses:Tax:Delaware                                   $25
+2015/02/06 United States Corporation Agents, Inc.
+    Expenses:Miscellaneous:Tax:Delaware                     $25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c3aa38627856b3ac9010fe915f0f545.pdf
 
@@ -293,7 +293,7 @@
     ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
 2015/03/30 H&M
-    Expenses:Shopping:Clothing:H&M                      $48.93
+    Expenses:Miscellaneous:Shopping                     $48.93
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 447219f693b2bf35cff860dcf80cb99d.jpg
 
@@ -330,7 +330,7 @@
     Assets:Bank:Checking
 
 2015/04/03 Rent
-    Expenses:Rent                                     $1917.84
+    Expenses:Miscellaneous:Rent                       $1917.84
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7361ba84497e7bf36f5277fce0e9100c.pdf
 
@@ -411,7 +411,7 @@
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/05 Amazon
-    Expenses:Shopping:Amazon                            $69.93
+    Expenses:Miscellaneous:Shopping                     $69.93
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 9c24ceba2df2e28bdbb2eb80de8db603.pdf
 
@@ -424,7 +424,7 @@
     Assets:Bank:Checking
 
 2015/05/06 Eventbrite
-    Expenses:Events:Thiel Summit                        $53.74
+    Expenses:Miscellaneous:Events:Thiel Summit          $53.74
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 3d638597ade546ab9e73ae5e00581685.pdf
 
@@ -433,7 +433,7 @@
     Assets:Bank:Checking:Zach Latta
 
 2015/05/07 Morrison Productions
-    Expenses:Miscellaneous:Swag:Morrison Productions   $100.00
+    Expenses:Miscellaneous:Swag                        $100.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 59f2d5fa1721eb4fd5b307d0e5cb9efc.jpeg
 
@@ -584,7 +584,7 @@
     Assets:Bank:Savings
 
 2015/05/29 Amazon
-    Expenses:Shopping:Amazon                            $26.57
+    Expenses:Miscellaneous:Shopping                     $26.57
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: bf8177c73de7b6c85831a7109a6027b5.pdf
 
@@ -627,7 +627,7 @@
     ; Receipt: f8a998411c5634a58b0c080c83cd6515.jpeg
 
 2015/06/02 Amazon
-    Expenses:Shopping:Amazon                            $32.83
+    Expenses:Miscellaneous:Shopping                     $32.83
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 45eb77bf02e765863e7d99c217ee9fce.pdf
 
@@ -642,13 +642,13 @@
     ; Receipt: 1528e4b02a589899f7fffff23fd604dd.pdf
 
 2015/06/08 123Signup
-    Expenses:Events:Constructing Modern Knowledge Institute  $695.00
+    Expenses:Miscellaneous:Events                      $695.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
 
 2015/06/10 Eventbrite
     Assets:Bank:Checking                                $53.74
-    Expenses:Events:Thiel Summit
+    Expenses:Miscellaneous:Events:Thiel Summit
     ; Receipt: 64f1c5537d60db9517eaf1307d757834.pdf
 
 2015/06/10 Anonymous Donor 5
@@ -677,7 +677,7 @@
     ; Receipt: 1d1a6328f93188ee984ed93ca526b747.pdf
 
 2015/06/16 Amazon
-    Expenses:Shopping                                    $7.01
+    Expenses:Miscellaneous:Shopping                      $7.01
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 6a8519049f1c33754e5c1c1840f86ae0.pdf
 
@@ -687,12 +687,12 @@
     ; Receipt: 9944361c404545d1ef4e018c0b7f0762.pdf
 
 2015/06/22 Amazon
-    Expenses:Shopping                                   $16.30
+    Expenses:Miscellaneous:Shopping                     $16.30
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 17dff2838e4091328ff7b591cee865e2.pdf
 
 2015/06/22 Amazon
-    Expenses:Shopping:Amazon                            $39.38
+    Expenses:Miscellaneous:Shopping                     $39.38
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 388aebb810f48d20a41f275424fe83b2.pdf
 
@@ -784,7 +784,7 @@
     ; Receipt: 3d0f931a06f76031cfb6d3307e26598b.pdf
 
 2015/07/13 Kickstarter
-    Expenses:Shopping:Kickstarter                       $24.00
+    Expenses:Miscellaneous:Shopping                     $24.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 55c67ff67a944bf693b1a81b5b0f7f3b.pdf
 
@@ -848,7 +848,7 @@
     Assets:Bank:Checking
 
 2015/07/23 StickerMule
-    Expenses:Miscellaneous:Swag:StickerMule             $53.00
+    Expenses:Miscellaneous:Swag                         $53.00
     Assets:Bank:Checking
     ; Receipt: 01b9bec9c04145a7407c2202a4c3f570.pdf
 
