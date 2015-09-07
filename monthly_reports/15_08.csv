@@ -1,0 +1,67 @@
+Date,Payee,Account,Currency,Total,Receipt
+2015/08/02,7-Eleven,Expenses:Food,$,1.99,
+2015/08/02,7-Eleven,Assets:Bank:Checking:Jonathan Leung,$,-1.99,508661836211edcfc526f95bb8ad738c.jpg
+2015/08/03,Stripe,Assets:Bank:Checking,$,3036.86,
+2015/08/03,Stripe,Income:Hack Camp,$,-3036.86,55c63ceba798757ef455ad7d0386a902.pdf
+2015/08/03,Uber,Expenses:Transport:Rental Car,$,6.78,
+2015/08/03,Uber,Assets:Bank:Checking:Zach Latta,$,-6.78,12d9beece74bd9a50ad7283b1982a4a6.pdf
+2015/08/03,Instacart,Expenses:Food,$,47.47,
+2015/08/03,Instacart,Assets:Bank:Checking,$,-47.47,9e498f3621a32c0ece2491a5d646fb57.pdf
+2015/08/03,Uber,Expenses:Transport:Rental Car,$,7,
+2015/08/03,Uber,Assets:Bank:Checking:Zach Latta,$,-7,d7d60b8c3f268788f01b4e0d44791d8d.pdf
+2015/08/03,Muni,Expenses:Transport:Public Transportation,$,1,
+2015/08/03,Muni,Assets:Bank:Checking:Zach Latta,$,-1,e19ad97cc0b9c612e108d4fd5db1c464.jpeg
+2015/08/03,Muni,Expenses:Transport:Public Transportation,$,1,
+2015/08/03,Muni,Assets:Bank:Checking:Zach Latta,$,-1,792aad990a262293120a0276ee552187.jpeg
+2015/08/03,Uber,Expenses:Transport:Rental Car,$,9.52,
+2015/08/03,Uber,Assets:Bank:Checking:Zach Latta,$,-9.52,e1e97311acdf6bbe3012e95350e1f50c.pdf
+2015/08/03,Clipper Card,Expenses:Transport:Public Transportation,$,40,
+2015/08/03,Clipper Card,Assets:Bank:Checking:Jonathan Leung,$,-40,165d51a9677867fc287904f0939e6fcf.jpeg
+2015/08/03,Walgreens,Expenses:Food,$,7.38,
+2015/08/03,Walgreens,Assets:Bank:Checking,$,-7.38,1f83efdd100567bf8c144a7b515cfbae.jpg
+2015/08/04,Jonathan Leung,Expenses:Salary,$,3840,
+2015/08/04,Jonathan Leung,Assets:Bank:Checking,$,-3840,2185c583a90f8929a8d623f01249a038.pdf
+2015/08/06,Safeway,Expenses:Food,$,10.98,
+2015/08/06,Safeway,Liabilities:Reimbursement:Selynna Sun,$,-10.98,07ad41c0a1a4f53a12e30ca44a66df77.JPG
+2015/08/07,Uber,Expenses:Transport:Rental Car,$,7,
+2015/08/07,Uber,Assets:Bank:Checking:Zach Latta,$,-7,788d1227fbe62a716e21a390aeafcb4e.pdf
+2015/08/07,Uber,Expenses:Transport:Rental Car,$,14.4,
+2015/08/07,Uber,Assets:Bank:Checking:Zach Latta,$,-14.4,deb86f11db3e8582c1d4dcd63d409e5e.pdf
+2015/08/07,SFMTA,Expenses:Transport:Public Transportation,$,70,
+2015/08/07,SFMTA,Assets:Bank:Checking:Jonathan Leung,$,-70,42bc7d37999c687abad3f56aa4f9cb7e.JPG
+2015/08/09,Safeway,Expenses:Food,$,18.36,
+2015/08/09,Safeway,Liabilities:Reimbursement:Max Wofford,$,-18.36,40637c1b7b3cc48e6b330302bcada262.jpg
+2015/08/10,Walgreens,Expenses:Food,$,6.32,
+2015/08/10,Walgreens,Liabilities:Reimbursement:Max Wofford,$,-6.32,03491a14011d94e9bbe8881993b8ae9b.jpg
+2015/08/11,Lyft,Expenses:Travel:Rental Car,$,18.25,
+2015/08/11,Lyft,Liabilities:Reimbursement:Zach Latta,$,-18.25,551806c58a118b11ac4b5237cbc15c35.pdf
+2015/08/13,Uber,Expenses:Transport:Rental Car,$,6.96,
+2015/08/13,Uber,Assets:Bank:Checking:Zach Latta,$,-6.96,fc806c97a6dcea0882b6eef9a1eab736.pdf
+2015/08/14,Max Wofford,Expenses:Salary,$,1280,
+2015/08/14,Max Wofford,Assets:Bank:Checking,$,-1280,7435a38651a64de0c8823fc91c645323.pdf
+2015/08/14,Walgreens,Expenses:Food,$,12.1,
+2015/08/14,Walgreens,Assets:Bank:Checking:Jonathan Leung,$,-12.1,3aad47eb0d07b8e095f5c3266e392d0e.jpeg
+2015/08/15,SFMTA,Expenses:Transport:Public Transportation,$,70,
+2015/08/15,SFMTA,Liabilities:Reimbursement:Max Wofford,$,-70,1acb03c594b3ad1589307ac8b9df29f0.jpg
+2015/08/17,Uber,Expenses:Transport:Rental Car,$,8.18,
+2015/08/17,Uber,Assets:Bank:Checking:Zach Latta,$,-8.18,7c4475705504d59ce4323d03f3899929.pdf
+2015/08/17,Sushirrito,Expenses:Food,$,47.13,
+2015/08/17,Sushirrito,Assets:Bank:Checking,$,-47.13,59cff2959cc8a083f2227b832615eaae.jpeg
+2015/08/20,IRCCloud,Expenses:Services:Software,$,60,
+2015/08/20,IRCCloud,Liabilities:Reimbursement:Zach Latta,$,-60,dea841f7d2b2bf8392f0940fd87fa58f.pdf
+2015/08/21,United,Expenses:Travel:Air Travel,$,313.2,
+2015/08/21,United,Assets:Bank:Checking:Zach Latta,$,-313.2,733d02a63d9c14457231d3da7283e445.pdf
+2015/08/23,Hack Camp Hacker,Assets:Bank:Checking,$,295,
+2015/08/23,Hack Camp Hacker,Income:Hack Camp,$,-295,275bfa37fe94f2cc790d6c3a7ff45efb.jpeg
+2015/08/24,Stripe,Income:Hack Camp,$,831.84,
+2015/08/24,Stripe,Assets:Bank:Checking,$,-831.84,e4cf1a86413b7305c3bb5c0129f7eebe.pdf
+2015/08/27,Namecheap,Expenses:Services:Hosting,$,32.88,
+2015/08/27,Namecheap,Assets:Bank:Checking,$,-32.88,91450c434d756172664493ae94a38012.pdf
+2015/08/29,Amazon,Expenses:Miscellaneous:Shopping,$,18.7,
+2015/08/29,Amazon,Assets:Bank:Checking,$,-18.7,7f8b811874f25ac670edc4273475df35.pdf
+2015/08/29,Amazon,Expenses:Miscellaneous:Shopping,$,8.93,
+2015/08/29,Amazon,Assets:Bank:Checking,$,-8.93,46e77674b7323228dad91b5747cef3a7.pdf
+2015/08/29,Amazon,Expenses:Miscellaneous:Shopping,$,8.8,
+2015/08/29,Amazon,Assets:Bank:Checking,$,-8.8,f4c4001b7d4ff8263e41c448718ed23b.pdf
+2015/08/29,Amazon,Expenses:Miscellaneous:Shopping,$,8.96,
+2015/08/29,Amazon,Assets:Bank:Checking,$,-8.96,c701aab201ff5823fa0a1968c06b439d.pdf

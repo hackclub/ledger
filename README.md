@@ -15,6 +15,7 @@ We create a monthly finance report every month for our wonderful fiscal sponsor,
 - [May, 2015](monthly_reports/15_05.csv)
 - [June, 2015](monthly_reports/15_06.csv)
 - [July, 2015](monthly_reports/15_07.csv)
+- [August, 2015](monthly_reports/15_08.csv)
 
 ## License
 
