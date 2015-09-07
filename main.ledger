@@ -952,10 +952,25 @@
     Assets:Bank:Checking
     ; Receipt: 7435a38651a64de0c8823fc91c645323.pdf
 
+2015/08/14 Walgreens
+    Expenses:Food                                       $12.10
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 3aad47eb0d07b8e095f5c3266e392d0e.jpeg
+
+2015/08/15 SFMTA
+    Expenses:Transport:Public Transportation            $70.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 42bc7d37999c687abad3f56aa4f9cb7e.JPG
+
 2015/08/17 Uber
     Expenses:Transport:Rental Car                        $8.18
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 7c4475705504d59ce4323d03f3899929.pdf
+
+2015/08/17 Sushirrito
+    Expenses:Food                                       $47.13
+    Assets:Bank:Checking
+    ; Receipt: 59cff2959cc8a083f2227b832615eaae.jpeg
 
 2015/08/20 IRCCloud
     Expenses:Services:Software                          $60.00
@@ -1002,6 +1017,11 @@
     Assets:Bank:Checking
     ; Receipt: c701aab201ff5823fa0a1968c06b439d.pdf
 
+2015/09/01 SFMTA
+    Expenses:Transport:Public Transportation            $83.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 5472fe0b43973596ead92c083b194684.jpeg
+
 2015/09/02 Amazon
     Expenses:Miscellaneous:Shopping                     $11.53
     Assets:Bank:Checking
@@ -1036,3 +1056,18 @@
     Expenses:Miscellaneous:Shopping                     $11.53
     Assets:Bank:Checking
     ; Receipt: bd6361bb9f9a930f8b956735852228d6.pdf
+
+2015/09/05 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.96
+    Assets:Bank:Checking
+    ; Receipt: 084755320bfd594d83d52045dec44f8f.pdf
+
+2015/09/06 Amazon
+    Expenses:Miscellaneous:Shopping                     $13.18
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: ee6add364377d4e888f913e101d66465.pdf
+
+2015/09/06 Cliff's Variety
+    Expenses:Miscellaneous:Office Supplies              $10.86
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: bad685b4ef4fd3c1c0bcb82561dfb7d5.jpeg
