@@ -926,3 +926,113 @@
     Expenses:Food                                       $10.98
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 07ad41c0a1a4f53a12e30ca44a66df77.JPG
+
+2015/08/07 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 788d1227fbe62a716e21a390aeafcb4e.pdf
+
+2015/08/07 Uber
+    Expenses:Transport:Rental Car                       $14.40
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: deb86f11db3e8582c1d4dcd63d409e5e.pdf
+
+2015/08/11 Lyft
+    Expenses:Travel:Rental Car                          $18.25
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 551806c58a118b11ac4b5237cbc15c35.pdf
+
+2015/08/13 Uber
+    Expenses:Transport:Rental Car                        $6.96
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: fc806c97a6dcea0882b6eef9a1eab736.pdf
+
+2015/08/14 Max Wofford
+    Expenses:Salary                                   $1280.00
+    Assets:Bank:Checking
+    ; Receipt: 7435a38651a64de0c8823fc91c645323.pdf
+
+2015/08/17 Uber
+    Expenses:Transport:Rental Car                        $8.18
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 7c4475705504d59ce4323d03f3899929.pdf
+
+2015/08/20 IRCCloud
+    Expenses:Services:Software                          $60.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: dea841f7d2b2bf8392f0940fd87fa58f.pdf
+
+2015/08/21 United
+    Expenses:Travel:Air Travel                         $313.20
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 733d02a63d9c14457231d3da7283e445.pdf
+
+2015/08/23 Hack Camp Hacker
+    Income:Hack Camp                                   $295.00
+    Assets:Bank:Checking
+    ; Receipt: 275bfa37fe94f2cc790d6c3a7ff45efb.jpeg
+
+2015/08/27 Namecheap
+    Expenses:Services:Hosting                           $32.88
+    Assets:Bank:Checking
+    ; Receipt: 91450c434d756172664493ae94a38012.pdf
+
+2015/08/29 Amazon
+    Expenses:Miscellaneous:Shopping                     $18.70
+    Assets:Bank:Checking
+    ; Receipt: 7f8b811874f25ac670edc4273475df35.pdf
+
+2015/08/29 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.93
+    Assets:Bank:Checking
+    ; Receipt: 46e77674b7323228dad91b5747cef3a7.pdf
+
+2015/08/29 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.80
+    Assets:Bank:Checking
+    ; Receipt: f4c4001b7d4ff8263e41c448718ed23b.pdf
+
+2015/08/29 Amazon
+    Expenses:Miscellaneous:Shopping                     $18.70
+    Assets:Bank:Checking
+    ; Receipt: 937fc5a8ebab7d436569af71b40ad979.pdf
+
+2015/08/29 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.96
+    Assets:Bank:Checking
+    ; Receipt: c701aab201ff5823fa0a1968c06b439d.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                     $11.53
+    Assets:Bank:Checking
+    ; Receipt: 848cad4540bb7e40aa25f8448d75de93.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                     $11.53
+    Assets:Bank:Checking
+    ; Receipt: cfb1ef98367257dcf476fadf01b81eb0.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.94
+    Assets:Bank:Checking
+    ; Receipt: ae7a0094266530843dfa75f72aa8cadf.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                     $11.53
+    Assets:Bank:Checking
+    ; Receipt: b95a35eff8819a1405364d8dfc9dff62.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                      $8.94
+    Assets:Bank:Checking
+    ; Receipt: b7b302a2534f4cedd011cb9c632be33e.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                     $18.70
+    Assets:Bank:Checking
+    ; Receipt: 2a3ef99b3bea191f83c35ede47e41e19.pdf
+
+2015/09/02 Amazon
+    Expenses:Miscellaneous:Shopping                     $11.53
+    Assets:Bank:Checking
+    ; Receipt: bd6361bb9f9a930f8b956735852228d6.pdf
