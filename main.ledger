@@ -937,6 +937,16 @@
     Assets:Bank:Checking:Zach Latta
     ; Receipt: deb86f11db3e8582c1d4dcd63d409e5e.pdf
 
+2015/08/09 Safeway
+    Expenses:Food                                       $18.36
+    Assets:Bank:Checking:Max Wofford
+    ; Receipt: 40637c1b7b3cc48e6b330302bcada262.jpg
+
+2015/08/10 Walgreens
+    Expenses:Food                                       $6.32
+    Assets:Bank:Checking:Max Wofford
+    ; Receipt: 03491a14011d94e9bbe8881993b8ae9b.jpg
+
 2015/08/11 Lyft
     Expenses:Travel:Rental Car                          $18.25
     Assets:Bank:Checking:Zach Latta
@@ -961,6 +971,11 @@
     Expenses:Transport:Public Transportation            $70.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 42bc7d37999c687abad3f56aa4f9cb7e.JPG
+
+2015/08/15 SFMTA
+    Expenses:Transport:Public Transportation            $70.00
+    Assets:Bank:Checking:Max Wofford
+    ; Receipt: 1acb03c594b3ad1589307ac8b9df29f0.jpg
 
 2015/08/17 Uber
     Expenses:Transport:Rental Car                        $8.18
