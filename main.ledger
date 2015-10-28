@@ -1082,6 +1082,11 @@
     Assets:Bank:Checking
     ; Receipt: 084755320bfd594d83d52045dec44f8f.pdf
 
+2015/09/05 Fancy Hands
+    Expenses:Services                                      $24.99
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: bfa632a989671addb85ae3f1b0046a62.pdf
+
 2015/09/06 Amazon
     Expenses:Miscellaneous:Shopping                        $13.18
     Assets:Bank:Checking:Jonathan Leung
@@ -1097,6 +1102,16 @@
     Assets:Bank:Checking
     ; Receipt: 6eda16aa4c8ac5da96759c0845b786ab.pdf
 
+2015/09/07 Amazon
+    Expenses:Miscellaneous:Shopping                         $8.96
+    Assets:Bank:Checking
+    ; Receipt: b74163425a81cc9ae06c9ac26a1178bc.pdf
+
+2015/09/07 Amazon
+    Expenses:Miscellaneous:Shopping                         $8.95
+    Assets:Bank:Checking
+    ; Receipt: 8644f9d852bfa4cfdddcf81137c927f9.pdf
+
 2015/09/08 Walgreens
     Expenses:Miscellaneous:Office Supplies                  $5.43
     Assets:Bank:Checking:Zach Latta
@@ -1107,10 +1122,25 @@
     Assets:Bank:Checking
     ; Receipt: a3a96d280837c42e3643a47016700cec.pdf
 
+2015/09/10 USPS
+    Expenses:Miscellaneous                                  $1.20
+    Assets:Bank:Checking
+    ; Receipt: 37b055da93cec0cb605e2003b9b641a9.jpg
+
+2015/09/10 USPS
+    Expenses:Miscellaneous                                 $18.96
+    Assets:Bank:Checking
+    ; Receipt: c62c05b70b9db6dff3ebd5d2533d962f.jpg
+
 2015/09/11 Uber
     Expenses:Transport:Rental Car                           $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 447c11759da06f2d7e45427b27809d3c.pdf
+
+2015/09/11 Gogo
+    Expenses:Services:Internet                             $26.95
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 2f1e432b826fb7edc01eda4287d0d80e.pdf
 
 2015/09/15 Jonathan Leung
     Expenses:Salary                                      $1920.00
@@ -1142,6 +1172,11 @@
     Assets:Bank:Checking
     ; Receipt: 6f298b482812e7e8fbdcd4e8216581b4.pdf
 
+2015/10/01 SFMTA
+    Expenses:Transport:Public Transportation               $83.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: fc2713c419d411b1c9cdabbcd818481e.jpg
+
 2015/10/06 Max Wofford
     Expenses:Salary                                      $1280.00
     Assets:Bank:Checking
@@ -1166,3 +1201,8 @@
     Expenses:Salary                                       $404.00
     Assets:Bank:Checking
     ; Receipt: 654fe8f8c6598ab10d2942f483e5d504.pdf
+
+2015/10/23 SFMTA
+    Expenses:Transport:Public Transportation               $86.00
+    Assets:Bank:Checking:Jonathan Leung
+    ; Receipt: 2224a548d89af8fc6b7b55aa7c818865.jpg
