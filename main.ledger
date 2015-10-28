@@ -1032,6 +1032,10 @@
     Assets:Bank:Checking
     ; Receipt: c701aab201ff5823fa0a1968c06b439d.pdf
 
+2015/08/31 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                      $6.00
+    Assets:Bank:Savings
+
 2015/09/01 Amazon
     Expenses:Miscellaneous:Shopping                        $18.70
     Assets:Bank:Checking
@@ -1084,13 +1088,8 @@
 
 2015/09/05 Fancy Hands
     Expenses:Services                                      $24.99
-    Assets:Bank:Checking:Jonathan Leung
+    Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: bfa632a989671addb85ae3f1b0046a62.pdf
-
-2015/09/06 Amazon
-    Expenses:Miscellaneous:Shopping                        $13.18
-    Assets:Bank:Checking:Jonathan Leung
-    ; Receipt: ee6add364377d4e888f913e101d66465.pdf
 
 2015/09/06 Cliff's Variety
     Expenses:Miscellaneous:Office Supplies                 $10.86
@@ -1116,6 +1115,18 @@
     Expenses:Miscellaneous:Office Supplies                  $5.43
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 2a6e61e887226cc08ea871cb26b408e3.jpeg
+
+2015/09/08 Amazon
+    Expenses:Miscellaneous:Shopping                         $6.90
+    Assets:Bank:Checking
+
+2015/09/08 Amazon
+    Expenses:Miscellaneous:Shopping                         $6.28
+    Assets:Bank:Checking
+
+2015/09/09 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                      $3.00
+    Assets:Bank:Checking
 
 2015/09/10 Max Wofford
     Expenses:Salary                                      $1280.00
@@ -1144,13 +1155,8 @@
 
 2015/09/12 SFMTA
     Expenses:Transport:Public Transportation               $70.00
-    Assets:Bank:Checking:Max Wofford
+    Liabilities:Reimbursement:Max Wofford
     ; Receipt: d019741e762b90c4a83235e074ea0c71.jpg
-
-2015/09/15 Jonathan Leung
-    Expenses:Salary                                      $1920.00
-    Assets:Bank:Checking
-    ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
 
 2015/09/16 Dave Fontenot
     Expenses:Salary                                      $2280.00
@@ -1162,20 +1168,24 @@
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 74f0875f5d2ae7c04db0f3676f108975.pdf
 
+2015/09/21 Spoonrocket
+    Expenses:Food                                           $2.14
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: d9e95470d1427ab2d3dd8643523a0500.pdf
+
 2015/09/28 FastMail
     Expenses:Services:Software                             $54.82
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 98c6654fb90c59c1d1e5efbdee3cdfc4.pdf
 
-2015/09/30 Jonathan Leung
-    Expenses:Salary                                      $1920.00
-    Assets:Bank:Checking
-    ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
-
 2015/09/30 Google
     Expenses:Services:Software                             $18.67
     Assets:Bank:Checking
     ; Receipt: 6f298b482812e7e8fbdcd4e8216581b4.pdf
+
+2015/09/30 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                      $6.00
+    Assets:Bank:Savings
 
 2015/10/01 SFMTA
     Expenses:Transport:Public Transportation               $83.00
@@ -1192,15 +1202,30 @@
     Expenses:Salary
     ; Receipt: af2b4760d5d24e37d32b26d24183a42e.pdf
 
+2015/10/08 Wells Fargo
+    Assets:Bank:Savings                                   $250.00
+    Assets:Bank:Checking
+    ; Receipt: f96b5842b475c119d476369994a43478.png
+
+2015/10/08 Amazon
+    Assets:Bank:Checking                                   $18.70
+    Expenses:Miscellaneous:Shopping
+    ; Receipt: 047c55961e263f904d0a472fd3313557.pdf
+
+2015/10/09 Jonathan Leung
+    Expenses:Salary                                      $3840.00
+    Assets:Bank:Checking
+    ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
+
+2015/10/13 Dave Fontenot
+    Expenses:Salary                                     $3,800.00
+    Assets:Bank:Checking
+    ; Receipt: d850b8a30dee3cff778e1c6073a8b1c5.pdf
+
 2015/10/15 Dave Fontenot
     Expenses:Salary                                      $1900.00
     Assets:Bank:Checking
     ; Receipt: 7f48f8ef48c25ceecaf8b1a542cfbd74.pdf
-
-2015/10/15 Jonathan Leung
-    Expenses:Salary                                      $1920.00
-    Assets:Bank:Checking
-    ; Receipt: 3006c259f6acd96db114298db9ed57fc.pdf
 
 2015/10/20 IRCCloud
     Expenses:Services:Software                             $45.00
@@ -1211,6 +1236,11 @@
     Expenses:Salary                                       $404.00
     Assets:Bank:Checking
     ; Receipt: 654fe8f8c6598ab10d2942f483e5d504.pdf
+
+2015/10/22 Jonathan Leung
+    Expenses:Salary                                      $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 3006c259f6acd96db114298db9ed57fc.pdf
 
 2015/10/23 SFMTA
     Expenses:Transport:Public Transportation               $86.00
