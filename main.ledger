@@ -1091,3 +1091,78 @@
     Expenses:Miscellaneous:Office Supplies                 $10.86
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: bad685b4ef4fd3c1c0bcb82561dfb7d5.jpeg
+
+2015/09/07 Jonathan Leung
+    Expenses:Salary                                      $3800.00
+    Assets:Bank:Checking
+    ; Receipt: 6eda16aa4c8ac5da96759c0845b786ab.pdf
+
+2015/09/08 Walgreens
+    Expenses:Miscellaneous:Office Supplies                  $5.43
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 2a6e61e887226cc08ea871cb26b408e3.jpeg
+
+2015/09/10 Max Wofford
+    Expenses:Salary                                      $1280.00
+    Assets:Bank:Checking
+    ; Receipt: a3a96d280837c42e3643a47016700cec.pdf
+
+2015/09/11 Uber
+    Expenses:Transport:Rental Car                           $7.00
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 447c11759da06f2d7e45427b27809d3c.pdf
+
+2015/09/15 Jonathan Leung
+    Expenses:Salary                                      $1920.00
+    Assets:Bank:Checking
+    ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
+
+2015/09/16 Dave Fontenot
+    Expenses:Salary                                      $2280.00
+    Assets:Bank:Checking
+    ; Receipt: c02084f6751be2e35896080c6585e626.pdf
+
+2015/09/21 Bootstrap Themes
+    Expenses:Services:Software                             $99.00
+    Assets:Bank:Checking:Zach Latta
+    ; Receipt: 74f0875f5d2ae7c04db0f3676f108975.pdf
+
+2015/09/28 FastMail
+    Expenses:Services:Software                             $54.82
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 98c6654fb90c59c1d1e5efbdee3cdfc4.pdf
+
+2015/09/30 Jonathan Leung
+    Expenses:Salary                                      $1920.00
+    Assets:Bank:Checking
+    ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
+
+2015/09/30 Google
+    Expenses:Services:Software                             $18.67
+    Assets:Bank:Checking
+    ; Receipt: 6f298b482812e7e8fbdcd4e8216581b4.pdf
+
+2015/10/06 Max Wofford
+    Expenses:Salary                                      $1280.00
+    Assets:Bank:Checking
+    ; Receipt: f64ffaa80e73449584eabf6b3af21e60.pdf
+
+2015/10/15 Dave Fontenot
+    Expenses:Salary                                      $1900.00
+    Assets:Bank:Checking
+    ; Receipt: 7f48f8ef48c25ceecaf8b1a542cfbd74.pdf
+
+2015/10/15 Jonathan Leung
+    Expenses:Salary                                      $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 3006c259f6acd96db114298db9ed57fc.pdf
+
+2015/10/20 IRCCloud
+    Expenses:Services:Software                             $45.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a475fa9e1d445ad854a801407aceb179.pdf
+
+2015/10/21 Max Wofford
+    Expenses:Salary                                       $404.00
+    Assets:Bank:Checking
+    ; Receipt: 654fe8f8c6598ab10d2942f483e5d504.pdf
