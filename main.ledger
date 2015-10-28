@@ -1187,6 +1187,11 @@
     Assets:Bank:Checking
     ; Receipt: f64ffaa80e73449584eabf6b3af21e60.pdf
 
+2015/10/08 Max Wofford
+    Assets:Bank:Checking                                  $320.00
+    Expenses:Salary
+    ; Receipt: af2b4760d5d24e37d32b26d24183a42e.pdf
+
 2015/10/15 Dave Fontenot
     Expenses:Salary                                      $1900.00
     Assets:Bank:Checking
