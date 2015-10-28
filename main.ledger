@@ -1246,3 +1246,8 @@
     Expenses:Transport:Public Transportation               $86.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 2224a548d89af8fc6b7b55aa7c818865.jpg
+
+2015/10/28 Wells Fargo
+    Assets:Bank:Savings                                   $250.00
+    Assets:Bank:Checking
+    ; Receipt: 821c466cb38676d2e5883941053fb57a.pdf
