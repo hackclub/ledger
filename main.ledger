@@ -1251,3 +1251,43 @@
     Assets:Bank:Savings                                   $250.00
     Assets:Bank:Checking
     ; Receipt: 821c466cb38676d2e5883941053fb57a.pdf
+
+2015/10/31 Google
+    Expenses:Services:Software  $20.00
+    Assets:Bank:Checking
+    ; Receipt: ae7c0a3e5644664d6ea327abfde363dc.pdf
+
+2016/01/31 Google
+    Expenses:Services:Software  $22.20
+    Assets:Bank:Checking
+    ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
+
+2015/11/23 Sticker Mule
+    Expenses:Miscellaneous:Swag  $641.00
+    Assets:Bank:Checking
+    ; Receipt: 741221b65e1179d6263e821120fd206d.pdf
+
+2016/02/03 Sticker Mule
+    Expenses:Miscellaneous:Swag  $1208.00
+    Assets:Bank:Checking
+    ; Receipt: 98367eb82fa6d2c28b0fdeb1f5f0ae52.pdf
+   
+2015/12/31 Jonathan Leung
+    Expenses:Salary  $3840.00
+    Assets:Bank:Checking
+    ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
+
+2016/01/31 Max Wofford
+    Expenses:Salary  $1280.00
+    Assets:Bank:Checking
+    ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
+
+2015/12/04 Jonathan Leung
+    Expenses:Salary  $1920.00
+    Assets:Bank:Checking
+    ; Receipt: ac6c3be218596fc5334ff8d232673931.pdf
+
+2015/12/13 Harrison Shoebridge
+    Expenses:Salary  $240.00
+    Assets:Bank:Checking
+    ; Receipt: bda0188e93c8448b8798c3c45de1fcd2.pdf
