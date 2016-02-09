@@ -1311,6 +1311,11 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8f96a3add918668b9e60e177cddeb84d.jpg
 
+2016/01/12 Zirtual
+    Expenses:Services:Assistance                       $398.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 337a1eab335929f508e0c421cefcaccb.pdf
+
 2016/01/19 Uber
     Expenses:Transport:Rental Car                        $5.60
     Liabilities:Reimbursement:Jonathan Leung
@@ -1325,11 +1330,16 @@
     Expenses:Services:Software                          $22.20
     Assets:Bank:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
-
 2016/01/31 Max Wofford
     Expenses:Salary                                   $1280.00
     Assets:Bank:Checking
     ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
+
+2016/02/01 USPS
+    Expenses:Miscellaneous:Office Supplies              $30.60
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3ae7fa7a12d2ca5ae76de6efd02fc422.pdf
+
 2016/02/02 Lyft
     Expenses:Transport:Rental Car                        $8.64
     Liabilities:Reimbursement:Jonathan Leung
@@ -1340,8 +1350,18 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 026c5e4a3945c93e37663abdc5094eb9.pdf
 
+2016/02/02 Papertrail
+    Expenses:Services:Software                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4f43b3b2197cfbac978ef2612e0419ed.pdf
+
 2016/02/03 Sticker Mule
     Expenses:Miscellaneous:Swag                       $1208.00
     Assets:Bank:Checking
     ; Receipt: 98367eb82fa6d2c28b0fdeb1f5f0ae52.pdf
+
+2016/02/03 United States Corporation Agents, Inc.
+    Expenses:Miscellaneous:Tax:Delaware                 $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a2875e2a6987e90e4817b121274cfdf6.pdf
      
