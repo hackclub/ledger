@@ -5,6 +5,16 @@
     Income:Donations                                        $0
     Liabilities:Reimbursement:Zach Latta
 
+2015/01/24 Lyft
+    Expenses:Transport:Rental Car                       $33.92
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: ed8aff48be4b8f18af6c3c1af12ae68f.png
+
+2015/01/27 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 75fd158c0d71d3f0bb3c253e7d549290.png
+
 2015/02/05 Clipper Card
     Expenses:Transport:Public Transportation               $20
     Liabilities:Reimbursement:Zach Latta
@@ -41,6 +51,11 @@
     Expenses:Transport:Rental Car                           $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
+
+2015/02/17 Lyft
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 7c19a066ada9c241ea9e947cf4dc979f.png
 
 2015/02/18 Holy Grill
     Expenses:Food                                        $2.07
@@ -100,9 +115,19 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9da364adf5de6a57718bbf3088c370fb.pdf
 
+2015/02/25 Lyft
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 3fa7db6d279516aeb0816ce664c4c9fb.png
+
 2015/02/26 FastMail
     Expenses:Services:Software                           $4.00
     Liabilities:Reimbursement:Zach Latta
+
+2015/02/28 Lyft
+    Expenses:Transport:Rental Car                        $4.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 5625278675d1fb555e5d8ea529beecff.png
 
 2015/03/02 Carmelina's Taqueria
     Expenses:Food                                        $2.07
@@ -124,6 +149,11 @@
     Expenses:Food                                        $0.71
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 396078b0ac9c55018b9d1af8c8c0af17.pdf
+
+2015/03/02 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 91b23a92cee7e164a313c92081af6d9c.png
 
 2015/03/03 Lyft
     Expenses:Transport:Rental Car                        $5.00
@@ -176,6 +206,16 @@
     Expenses:Services:Software                           $5.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 54e5323814422e98f179054208a274a0.pdf
+
+2015/03/05 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 5a698ad66597be508af112646bbe60a0.png
+
+2015/03/05 Uber
+    Expenses:Transport:Rental Car                        $6.32
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 627d50e580ab93a5a9ae4b634fe6e033.png
 
 2015/03/08 Lyft
     Expenses:Transport:Rental Car                           $5
@@ -239,10 +279,31 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
+2015/03/12 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 53c93afd9ed53d5fb44ae8d08ee561d5.png
+
 2015/03/14 Lyft
     Expenses:Transport:Rental Car                        $9.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
+
+2015/03/14 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 6fb8aec45774e71c6b6d47099acc609e.png
+
+2015/03/14 Uber
+    Expenses:Transport:Rental Car                       $10.20
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 37d33bb0ef3d5bb5df987f1463aff9b0.png
+
+2015/03/14 Lyft
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 40990b71888c727750463396bcde27a3.png
+     
 
 2015/03/16 Lyft
     Expenses:Transport:Rental Car                           $6
@@ -264,6 +325,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
+2015/03/19 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: abbd914e1506daa0fa88b9fc8e4c7cc2.png
+
 2015/03/23 Dinosaurs
     Expenses:Food                                        $2.25
     Liabilities:Reimbursement:Zach Latta
@@ -274,6 +340,11 @@
     Assets:Bank:Savings                                    $50
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
+
+2015/03/24 Lyft
+    Expenses:Transport:Rental Car                        $6.95
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: b61c3e3df8531715e19d7f3ebbbcd203.png
 
 2015/03/25 7-Eleven
     Expenses:Food                                        $5.79
@@ -311,6 +382,11 @@
     Expenses:Services:Software                           $0.99
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
+
+2015/03/30 Lyft
+    Expenses:Transport:Rental Car                       $19.43
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 6ea7c486d51e8adfae2995eb937cf8e1.png
 
 2015/03/31 Hearth Coffee
     Expenses:Food                                        $1.50
@@ -364,6 +440,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdb0cd920945309678396370a3f00e02.pdf
 
+2015/04/14 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: ee14ae5b5c26f6cd50c4059ff7c38dc3.png
+
 2015/04/17 Anonymous Donor 1
     Assets:Bank:Checking                              $5000.00
     Income:Donations
@@ -384,9 +465,25 @@
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
 
+2015/04/23 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: f684d61a5860e1da79d16d0bd532ba63.png
+
+2015/04/25 Uber
+    Expenses:Transport:Rental Car                       $34.20
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: b2b36cc5acc2e41fdb02cb1725cb0379.png
+
 2015/04/27 Lyft
     Expenses:Transport:Rental Car                        $7.00
     Assets:Bank:Checking:Jonathan Leung
+    ; where receipt
+
+2015/04/28 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: a9cae013edc0ce69cba6013e0b96bba1.png
 
 2015/04/30 Wells Fargo
     Expenses:Services:Bank:Wells Fargo                   $6.00
@@ -400,6 +497,11 @@
     Expenses:Services:Internet                          $13.65
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 403890a04955d9987f3932a1e55dcc20.pdf
+
+2015/04/30 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: ee6e030f0862ee71628bf93b11111566.png
 
 2015/05/05 Clipper Card
     Expenses:Transport:Public Transportation            $80.00
@@ -451,6 +553,11 @@
     Expenses:Services:Bank:PayPal                        $6.10
     Assets:PayPal
     ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
+
+2015/05/07 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: baedca54d098824e65a14d5f86e6f01d.png
 
 2015/05/08 ZenPayroll
     Assets:Bank:Checking                                 $0.86
@@ -555,6 +662,16 @@
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: ce409ac8809635be9913ed404b5f0593.jpeg
 
+2015/05/24 Uber
+    Expenses:Transport:Rental Car                        $7.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: f9745032399d0b7feaa4f721c3af8ea4.png
+
+2015/05/25 Andrea
+    Expenses:Transport:Rental Car                       $16.95
+    Liabilities:Reimbursement:Jonathan Leung
+    ; there is no receipt for this cuz we just goin on his word
+
 2015/05/26 Stripe
     Assets:Bank:Checking                                 $0.01
     Expenses:Services:Stripe
@@ -640,6 +757,11 @@
     Expenses:Miscellaneous:Events                      $695.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
+
+2015/06/08 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: a955409e27ef6c8e79fdc4b514d0c9b8.png
 
 2015/06/10 Eventbrite
     Assets:Bank:Checking                                $53.74
@@ -734,6 +856,11 @@
     Expenses:Travel                                     $20.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 03b89c62db9711a4d96ba9f1d9462ee8.jpg
+
+2015/07/06 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: cc070d9a03b96248697fdcd5efb7b75b.png
 
 2015/07/07 Benjamin Landers
     Expenses:Salary                                    $320.00
@@ -871,6 +998,11 @@
     Expenses:Food                                        $1.99
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 508661836211edcfc526f95bb8ad738c.jpg
+
+2015/08/02 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: d934400ff1ccdab60ff7707048168e22.png
 
 2015/08/03 Stripe
     Assets:Bank:Checking                              $3036.86
@@ -1011,6 +1143,11 @@
     Expenses:Services:Hosting                           $32.88
     Assets:Bank:Checking
     ; Receipt: 91450c434d756172664493ae94a38012.pdf
+
+2015/08/27 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 0f1ee3b49d43a3350aaef6f3a14b610b.png
 
 2015/08/29 Amazon
     Expenses:Miscellaneous:Shopping                     $18.70
@@ -1197,6 +1334,11 @@
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: fc2713c419d411b1c9cdabbcd818481e.jpg
 
+2015/10/01 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 14c646b169265b4d034e2371de684f3b.png
+
 2015/10/06 Max Wofford
     Expenses:Salary                                   $1280.00
     Assets:Bank:Checking
@@ -1257,6 +1399,11 @@
     Assets:Bank:Checking
     ; Receipt: 821c466cb38676d2e5883941053fb57a.pdf
 
+2015/10/29 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 5141e0878ccbf4d1a5134352d6c9d8eb.png
+
 2015/10/31 Google
     Expenses:Services:Software                          $20.00
     Assets:Bank:Checking
@@ -1272,10 +1419,20 @@
     Assets:Bank:Checking
     ; Receipt: 741221b65e1179d6263e821120fd206d.pdf
 
+2015/11/29 Kevin Wang
+    Expenses:Rent                                      $257.15
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 450f27b62504dffe14c8e31d988cb91d.png
+
 2015/12/04 Jonathan Leung
     Expenses:Salary                                   $1920.00
     Assets:Bank:Checking
     ; Receipt: ac6c3be218596fc5334ff8d232673931.pdf
+
+2015/12/06 Lyft
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 2b6072fcab7d0a8a4ae2a2deb257bc53.png
 
 2015/12/13 Harrison Shoebridge
     Expenses:Salary                                    $240.00
@@ -1291,6 +1448,7 @@
     Expenses:Transport:Rental Car                        $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: df3e8c18b2260deec0556dfd8513e691.pdf
+
 2015/12/20 Eat24
     Expenses:Miscellaneous:Events:Food                  $79.34
     Liabilities:Reimbursement:Max Wofford
@@ -1305,6 +1463,11 @@
     Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
+
+2016/01/01 Dave Fontenot
+    Expenses:Food                                       $59.98
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: b887dd4dc3d34564761095403dc0390c.png
 
 2016/01/04 Clipper Card
     Expenses:Transport:Public Transportation            $83.00
@@ -1330,6 +1493,7 @@
     Expenses:Services:Software                          $22.20
     Assets:Bank:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
+
 2016/01/31 Max Wofford
     Expenses:Salary                                   $1280.00
     Assets:Bank:Checking
@@ -1355,6 +1519,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4f43b3b2197cfbac978ef2612e0419ed.pdf
 
+2016/02/02 Lyft
+    Expenses:Transport:Rental Car                       $49.21
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 47c384f6d04c8f23fceaa34f412d8921.png
+
 2016/02/03 Sticker Mule
     Expenses:Miscellaneous:Swag                       $1208.00
     Assets:Bank:Checking
@@ -1365,3 +1534,18 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a2875e2a6987e90e4817b121274cfdf6.pdf
      
+
+2016/02/09 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $3.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: c51ed8a69dfc63bb67e018e0eb3bc5a7.png
+
+2016/02/10 Lyft
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 9fba6a70fccda0b858e272de5d0e4af0.png
+
+2016/02/11 Lyft
+    Expenses:Transport:Rental Car                        $4.18
+    Liabilities:Reimbursement:Jonathan Leung
+    ; Receipt: 27eebc4d542abb843a526ee483fe6b84.png
