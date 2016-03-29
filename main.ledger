@@ -1549,3 +1549,18 @@
     Expenses:Transport:Rental Car                        $4.18
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 27eebc4d542abb843a526ee483fe6b84.png
+
+2016/03/24 Jonathan Leung
+    Expenses:Salary                                   $1588.96
+    Assets:Bank:Checking
+    ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
+
+2016/03/24 Jonathan Leung
+    Expenses:Salary:Severance Pay                     $2880.00
+    Assets:Bank:Checking
+    ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
+
+2016/03/24 Jonathan Leung
+    Liabilities:Reimbursement:Jonathan Leung          $3297.04
+    Assets:Bank:Checking
+    ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
