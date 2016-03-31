@@ -1410,6 +1410,11 @@
     Assets:Bank:Checking
     ; Receipt: ae7c0a3e5644664d6ea327abfde363dc.pdf
 
+2015/11/03 Jonathan Leung
+    Expenses:Salary                                   $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 461caa4c920a86abf0b74a6dfc18cca3.pdf
+
 2015/11/04 Clipper Card
     Expenses:Transport:Public Transportation            $70.00
     Liabilities:Reimbursement:Max Wofford
@@ -1439,6 +1444,11 @@
     Expenses:Salary                                    $240.00
     Assets:Bank:Checking
     ; Receipt: bda0188e93c8448b8798c3c45de1fcd2.pdf
+
+2015/12/17 Jonathan Leung
+    Expenses:Salary                                   $3840.00
+    Assets:Bank:Checking
+    ; Receipt: e522f91637388f440f0566f0685f5022.pdf
 
 2015/12/19 Eat24
     Expenses:Miscellaneous:Events:Food                  $43.48
