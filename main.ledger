@@ -543,6 +543,7 @@
     Expenses:Salary                                   $3840.00
     Assets:Bank:Checking
     ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
+    ; For any future clarification, this payment was made through PayPal
 
 2015/05/07 Anonymous Donor 6
     Assets:PayPal                                      $200.00
