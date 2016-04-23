@@ -1,6 +1,6 @@
 # Finances
 
-The one and only home of hackEDU's finances. And when we say finances, we mean
+The one and only home of Hack Club's finances. And when we say finances, we mean
 _everything_. Transaction by transaction.
 
 Have at it! (and contributions are welcome!)
