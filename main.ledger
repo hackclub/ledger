@@ -1301,6 +1301,16 @@
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: d019741e762b90c4a83235e074ea0c71.jpg
 
+2015/09/14 Mission Bit
+    Assets:Bank:Checking                               $612.70
+    Miscellaneous:Mission Bit
+    ; Receipt: b54b9d264afa6658630edf2b42796561.png
+
+2015/09/14 Mission Bit
+    Miscellaneous:Mission Bit                          $612.70
+    Assets:Bank:Checking
+    ; Receipt: 6eda689a0074b595ec4d0304f8b27deb.png
+
 2015/09/16 Dave Fontenot
     Expenses:Salary                                   $2280.00
     Assets:Bank:Checking
@@ -1315,6 +1325,16 @@
     Expenses:Food                                        $2.14
     Assets:Bank:Checking:Zach Latta
     ; Receipt: d9e95470d1427ab2d3dd8643523a0500.pdf
+
+2015/09/22 Mission Bit
+    Assets:Bank:Checking                               $432.75
+    Miscellaneous:Mission Bit
+    ; Receipt: f3c515e3c6ca36bd760deef12e58132c.png
+
+2015/09/23 Mission Bit
+    Miscellaneous:Mission Bit                          $432.75
+    Assets:Bank:Checking
+    ; Receipt: 2e35b5a9c87251c334fa8c77ad3b8c62.png
 
 2015/09/28 FastMail
     Expenses:Services:Software                          $54.82
@@ -1415,10 +1435,31 @@
     Assets:Bank:Checking
     ; Receipt: 461caa4c920a86abf0b74a6dfc18cca3.pdf
 
+2015/11/03 Max Wofford
+    Expenses:Salary                                    $640.00
+    Assets:Bank:Checking
+    ; Receipt: 9b475f7e555add998d47f91b16c0b539.png
+
+2015/11/03 Dave Fontenot
+    Expenses:Salary                                   $1900.00
+    Assets:Bank:Checking
+    ; Receipt: 879c230ebaa1a9339a5d79e9640c5a27.png
+
 2015/11/04 Clipper Card
     Expenses:Transport:Public Transportation            $70.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: b9043f7c611cb3af45e50eff96ec5231.jpg
+
+2015/11/16 Max Wofford
+    Assets:Bank:Checking                              $1280.00
+    Expenses:Salary
+    ; Receipt: a28a7299aae31bb4e2208c593455c68d.png
+    ; uncashed check
+
+2015/11/23 Namecheap
+    Expenses:Services:Software                          $94.00
+    Assets:Bank:Checking
+    ; Receipt: 04438a51280e14d577d2481a66a05f99.png
 
 2015/11/23 Sticker Mule
     Expenses:Miscellaneous:Swag                        $641.00
@@ -1430,6 +1471,11 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 450f27b62504dffe14c8e31d988cb91d.png
 
+2015/12/02 Google
+    Expenses:Services:Software                          $20.00
+    Assets:Bank:Checking
+    ; Receipt: ba543f29eaf6cf1ee4bb383e1de48752.png
+
 2015/12/04 Jonathan Leung
     Expenses:Salary                                   $1920.00
     Assets:Bank:Checking
@@ -1440,10 +1486,25 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 2b6072fcab7d0a8a4ae2a2deb257bc53.png
 
+2015/12/11 United
+    Expenses:Travel:Air Travel                        $1544.90
+    Assets:Bank:Checking
+    ; Receipt: 152b31c8b7b70dd2be44e4d54267d9f1.png
+
 2015/12/13 Harrison Shoebridge
     Expenses:Salary                                    $240.00
     Assets:Bank:Checking
     ; Receipt: bda0188e93c8448b8798c3c45de1fcd2.pdf
+
+2015/12/14 Anonymous Donor 8
+    Assets:Bank:Checking                              $1000.00
+    Income:Donations
+    ; Receipt: b9081516c3f9accf6d727df828997423.png
+
+2015/12/16 Harrison Shoebridge
+    Expenses:Salary                                    $260.00
+    Assets:Bank:Checking
+    ; Receipt: c15490e7534d1d2208384421a10c522d.png
 
 2015/12/17 Jonathan Leung
     Expenses:Salary                                   $3840.00
@@ -1470,25 +1531,45 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: eb0f86bd594d0b42cfe43413c0479c16.pdf
 
-2015/12/31 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Checking
-    ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
-
 2016/01/01 Dave Fontenot
     Expenses:Food                                       $59.98
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b887dd4dc3d34564761095403dc0390c.png
+
+2016/01/04 Google
+    Expenses:Services:Software                          $20.00
+    Assets:Bank:Checking
+    ; Receipt: ccececbe744fd0e434b2e20c7beedfa2.png
 
 2016/01/04 Clipper Card
     Expenses:Transport:Public Transportation            $83.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8f96a3add918668b9e60e177cddeb84d.jpg
 
+2016/01/06 Anonymous Donor 9
+    Assets:Bank:Checking                               $896.31
+    Income:Donations
+    ; Receipt: 839bab5de83b41565a2e1408b7cc3cf4.png
+
+2016/01/11 Airbnb
+    Assets:Bank:Checking                               $126.00
+    Expenses:Travel:Accomodation
+    ; Receipt: 4ad91e035199c98b0072d215b175c3b2.png
+
+2016/01/12 Jonathan Leung
+    Expenses:Salary                                   $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
+
 2016/01/12 Zirtual
     Expenses:Services:Assistance                       $398.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 337a1eab335929f508e0c421cefcaccb.pdf
+
+2016/01/13 Max Wofford
+    Expenses:Salary                                   $1280.00
+    Assets:Bank:Checking
+    ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
 2016/01/19 Uber
     Expenses:Transport:Rental Car                        $5.60
@@ -1500,15 +1581,15 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 527cca225ad0a2511e634de256b19f7f.pdf
 
+2016/01/25 Anonymous Donor 1
+    Assets:Bank:Checking                             $75000.00
+    Income:Donations
+    ; Receipt: d2ffdc98d47692c3847b22bb01c317d1.png
+
 2016/01/31 Google
     Expenses:Services:Software                          $22.20
     Assets:Bank:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
-
-2016/01/31 Max Wofford
-    Expenses:Salary                                   $1280.00
-    Assets:Bank:Checking
-    ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
 2016/02/01 USPS
     Expenses:Miscellaneous:Office Supplies              $30.60
@@ -1545,11 +1626,35 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a2875e2a6987e90e4817b121274cfdf6.pdf
      
+2016/02/03 Someone didn't cash their check
+    Assets:Bank:Checking                              $1900.00
+    Expenses:Salary
+    ; Receipt: 9b1b2f9c1dcc2d6a19757f88fa422fcb.png
+
+2016/02/04 Namecheap
+    Expenses:Services:Software                          $94.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9e16d2e7d56c84c252e0a16f25234db7.pdf
+
+2016/02/04 Jonathan Leung
+    Expenses:Salary                                   $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 36dff590e6ff73ae35de5b8f057aba1c.png
+
+2016/02/05 Jonathan Leung
+    Expenses:Salary                                   $1920.00
+    Assets:Bank:Checking
+    ; Receipt: 802d512ad2270ec22e81872107a92c4a.png
 
 2016/02/09 Walgreens
     Expenses:Miscellaneous:Office Supplies               $3.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: c51ed8a69dfc63bb67e018e0eb3bc5a7.png
+
+2016/02/09 Uber
+    Expenses:Transport:Rental Car                       $19.85
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: bdaceb11054a339e565e483a1a2c451f.pdf
 
 2016/02/10 Lyft
     Expenses:Transport:Rental Car                        $5.00
@@ -1561,7 +1666,108 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 27eebc4d542abb843a526ee483fe6b84.png
 
+2016/02/12 Wells Fargo
+    Expenses:Miscellaneous:Office Supplies               $3.00
+    Assets:Bank:Checking
+    ; Receipt: 2994f011d82a25395652e3e04dd2d8da.JPG
+
+2016/02/12 USPS
+    Expenses:Miscellaneous:Office Supplies              $84.20
+    Assets:Bank:Checking
+    ; Receipt: f8441e263c2f68f1f5e09ffc8f8ee307.JPG
+
+2016/02/13 Zirtual
+    Expenses:Services:Assistance                       $497.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 69b7202f193c45d06878cfc35d34a524.pdf
+
+2016/02/19 IRCCloud
+    Expenses:Services:Software                           $5.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1158a2b2861558d7b19cefebc90ee30f.pdf
+
+2016/02/22 Mission Bit
+    Expenses:Services:Fiscal Sponsorship              $2750.00
+    Assets:Bank:Checking
+    ; Receipt: 5ae7397a5aae63e1148b0f26327de7b7.png
+
+2016/02/24 Jessica Kwok
+    Expenses:Salary                                    $800.00
+    Assets:Bank:Checking
+    ; Receipt: 37718f141de1f2c565895551d79c442f.pdf
+
+2016/02/29 Google
+    Expenses:Services:Software                          $24.96
+    Assets:Bank:Checking
+    ; Receipt: 44f6c7f3a33b8425d7b5b6c0edae993f.pdf
+
+2016/02/29 Amazon
+    Expenses:Miscellaneous                              $17.24
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: acf6186df7b9a12de039ee90801ec97d.pdf
+
+2016/03/01 Zachary Bruggeman
+    Expenses:Salary                                   $1900.00
+    Assets:PayPal
+    ; Receipt: d5bf760e4f1a7bb9ac245fb3016c2998.pdf
+
+2016/03/01 Mention
+    Expenses:Services:Software                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ce2afbd6410db93b5ee140b2963b3fe1.pdf
+
+2016/03/01 Castro Tarts Cafe
+    Expenses:Food                                       $10.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 139fca00c3f8e379feeace9def520eac.jpg
+    ; onboarding Jessica
+
+2016/03/01 Papertrail
+    Expenses:Services:Software                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6f0be98a7dec016ef8fe7b5a618c9a19.pdf
+
+2016/03/04 Gogo
+    Expenses:Services:Internet                          $26.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b624752aeac422bc9b3e1d7cae77e5c0.pdf
+
+2016/03/13 Zirtual
+    Expenses:Services:Assistance                       $698.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f10956b8d5a1578e12e1214ae30b9e68.pdf
+
+2016/03/14 Barnes and Noble
+    Expenses:Miscellaneous                              $30.55
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 354783c48a7a6fa9dff7483bacd93794.pdf
+
+2016/03/15 Zachary Bruggeman
+    Expenses:Salary                                    $473.11
+    Assets:PayPal
+    ; Receipt: 30f3d1cd76b35282ab20ad42ba2b2334.pdf
+
+2016/03/16 HelloSign
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e1e9fb6f5efb4480793bdc16b2470ccd.pdf
+
 2016/03/24 Jonathan Leung
     Expenses:Salary                                   $7766.00
     Assets:Bank:Checking
     ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
+
+2016/03/24 iwantmyname
+    Expenses:Services:Hosting                           $10.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: be1f5482526a09e68779ce1ad02fef03.pdf
+
+2016/03/31 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $3.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 62fb2008014d9c6e8998ee3736031f4f.jpeg
+
+2016/04/01 Jessica Kwok
+    Expenses:Salary                                   $2800.00
+    Assets:Bank:Checking
+    ; Receipt: 2de3ac0f2ea0bf2a50b67df058888047.pdf
