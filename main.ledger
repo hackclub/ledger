@@ -1676,6 +1676,11 @@
     Assets:Bank:Checking
     ; Receipt: f8441e263c2f68f1f5e09ffc8f8ee307.JPG
 
+2016/02/12 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $5.85
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cee7d403dabffbd7ee722bb0a0709864.JPG
+
 2016/02/13 Zirtual
     Expenses:Services:Assistance                       $497.00
     Liabilities:Reimbursement:Zach Latta
@@ -1771,3 +1776,103 @@
     Expenses:Salary                                   $2800.00
     Assets:Bank:Checking
     ; Receipt: 2de3ac0f2ea0bf2a50b67df058888047.pdf
+
+2016/04/01 Domino's
+    Expenses:Miscellaneous:Events:Food                  $32.63
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a4bf85d4c2bef7ee3762473364e64579.pdf
+
+2016/04/01 Domino's
+    Expenses:Miscellaneous:Events:Food                  $26.15
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f7aff80e22eaae87480669f068f3c733.pdf
+
+2016/04/01 Caviar
+    Expenses:Miscellaneous:Events:Food                  $67.18
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 4931716519953eeddb9f028a4c1ef740.png
+
+2016/04/05 DHK Inc.
+    Expenses:Miscellaneous:Office Supplies              $14.20
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: eab3931efbdf9d0580ffbcd3b7290fc3.JPG
+
+2016/04/07 Union Post SF
+    Expenses:Miscellaneous                              $16.00
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: fd90576446f07450a84d922e6cedbb39.JPG
+
+2016/04/12 Sticker Mule
+    Expenses:Miscellaneous:Swag                          $0.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e5672699ffd0d2bf56cc9df9157dfca7.pdf
+
+2016/04/13 Zirtual
+    Expenses:Services:Assistance                       $698.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ca0d7853be8a882b84ec7676d60ce3ce.pdf
+
+2016/04/14 Uber
+    Expenses:Transport:Rental Car                       $10.58
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d2683a788b68403f101c2465c970361a.pdf
+
+2016/04/14 Uber
+    Expenses:Transport:Rental Car                       $10.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b912f8c3b249923ff3eff6d5bf0294eb.pdf
+
+2016/04/15 Domino's
+    Expenses:Miscellaneous:Events:Food                  $23.82
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c49f5f598679351ea77a4b8f32ccd19e.pdf
+
+2016/04/15 Presidio Pizza Company
+    Expenses:Miscellaneous:Events:Food                  $24.47
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 8b88eca9adf4c7e7b466abf8457b3f4e.JPG
+
+2016/04/18 A Foto Video Mail and Mo
+    Expenses:Miscellaneous                              $27.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 755be30ec96afcbea8754dea0faa2c43.pdf
+
+2016/04/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Assets:Bank
+    ; Receipt: 0900595bfcf331492e4029069a4c8cdb.pdf
+
+2016/04/21 WellnessMart, MD
+    Expenses:Miscellaneous                              $30.00
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 80ac3190322606d19fd67127422f25cc.JPG
+
+2016/04/23 Uber
+    Expenses:Transport:Rental Car                       $28.91
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: feb4ce5f67306225c9e9b21afb70b826.pdf
+
+2016/04/23 Blick Art Materials
+    Expenses:Miscellaneous:Office Supplies              $20.11
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: e0cf6e818281872ced386ece7c83c419.JPG
+
+2016/04/25 DHK Inc.
+    Expenses:Miscellaneous:Office Supplies              $17.80
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 2443de2f10369114b04c56dacc61ce14.JPG
+
+2016/04/28 Walgreens
+    Expenses:Miscellaneous:Events                        $4.87
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a10acaafc1ba43f448e1f35d3ef286e5.jpeg
+
+2016/04/28 Domino's
+    Expenses:Miscellaneous:Events:Food                  $86.60
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ab304bf9ac11f342d3804b3d8ccbabb1.jpeg
+
+2016/04/28 Uber
+    Expenses:Transport:Rental Car                       $26.76
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: eb3cb9f74bcef2d03bfe3f097052d4f2.png
