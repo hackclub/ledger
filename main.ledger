@@ -1425,6 +1425,11 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5141e0878ccbf4d1a5134352d6c9d8eb.png
 
+2015/10/30 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: cbe82e0703f183baec26fdc94c347a01.png
+
 2015/10/31 Google
     Expenses:Services:Software                          $20.00
     Assets:Bank:Checking
@@ -1470,6 +1475,16 @@
     Expenses:Rent                                      $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 450f27b62504dffe14c8e31d988cb91d.png
+
+2015/11/30 Wells Fargo
+    Assets:Bank:Savings                                  $0.02
+    Income:Investments:Bank Interest
+    ; Receipt: 140dc30f9178a72d89a4423d74352e8b.png
+
+2015/11/30 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: c8687761b09286fade1b00aeaa571204.png
 
 2015/12/02 Google
     Expenses:Services:Software                          $20.00
@@ -1531,6 +1546,16 @@
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: eb0f86bd594d0b42cfe43413c0479c16.pdf
 
+2015/12/31 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: 55620681d908a05bcb45bd8bdffb719b.png
+
+2015/12/31 Wells Fargo    
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 1bd0df06e79cc858143c9137b3c57b9e.png
+
 2016/01/01 Dave Fontenot
     Expenses:Food                                       $59.98
     Liabilities:Reimbursement:Jonathan Leung
@@ -1586,11 +1611,20 @@
     Income:Donations
     ; Receipt: d2ffdc98d47692c3847b22bb01c317d1.png
 
+2016/01/29 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: 17c4fbfc710983a069ea73751e945623.png
+
+2016/01/29 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 6cc52050b29425f08a588366f6ec657a.png
+
 2016/01/31 Google
     Expenses:Services:Software                          $22.20
     Assets:Bank:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
-
 2016/02/01 USPS
     Expenses:Miscellaneous:Office Supplies              $30.60
     Liabilities:Reimbursement:Zach Latta
@@ -1626,6 +1660,7 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a2875e2a6987e90e4817b121274cfdf6.pdf
      
+
 2016/02/03 Someone didn't cash their check
     Assets:Bank:Checking                              $1900.00
     Expenses:Salary
@@ -1711,6 +1746,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: acf6186df7b9a12de039ee90801ec97d.pdf
 
+2016/02/29 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 2727920be418d54f381825f8a7b4f5b1.png
+
+2016/02/29 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: 1b5bbd0650700907a906deaa8f316ddb.png
+
 2016/03/01 Zachary Bruggeman
     Expenses:Salary                                   $1900.00
     Assets:PayPal
@@ -1773,6 +1818,21 @@
     Expenses:Miscellaneous:Office Supplies               $3.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 62fb2008014d9c6e8998ee3736031f4f.jpeg
+
+2016/03/31 Google
+    Expenses:Services:Software                          $31.09
+    Assets:Bank:Checking
+    ; Receipt: 21a4c30516d831e62091a32e3bc293d2.pdf
+
+2016/03/31 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: cdbabbf47308f47429229a167d32b5fb.png
+
+2016/03/31 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: c7d9afb920aa456c4aa97a510701c98e.png
 
 2016/04/01 Jessica Kwok
     Expenses:Salary                                   $2800.00
@@ -1844,6 +1904,11 @@
     Assets:Bank
     ; Receipt: 0900595bfcf331492e4029069a4c8cdb.pdf
 
+2016/04/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Assets:Bank:Checking
+    ; Receipt: f83cb506921edcfe4b37567136c2862b.pdf
+
 2016/04/21 WellnessMart, MD
     Expenses:Miscellaneous                              $30.00
     Liabilities:Reimbursement:Jessica Kwok
@@ -1878,3 +1943,139 @@
     Expenses:Transport:Rental Car                       $26.76
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: eb3cb9f74bcef2d03bfe3f097052d4f2.png
+
+2016/04/29 Wells Fargo
+    Assets:Bank:Savings                                  $0.02
+    Income:Investments:Bank Interest
+    ; Receipt: 92a020ccc27677e156dbd70c97f10202.png
+
+2016/04/30 Google
+    Expenses:Services:Software                          $27.20
+    Assets:Bank:Checking
+    ; Receipt: a74a1f66e92947f1631f93279db05adf.pdf
+
+2016/04/30 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 155763596e55502d236bb4cdf2c8a0c1.png
+
+2016/05/01 Jessica Kwok
+    Expenses:Salary                                   $2800.00
+    Assets:Bank:Checking
+    ; Receipt: 285c4a230304e3e6ac8db45840153400.pdf
+
+2016/05/02 Stripe
+    Assets:Bank:Checking                                $77.00
+    Income:Donations
+    ; Receipt: 36c1180fe20742d170402fe86404a2f5.pdf
+
+2016/05/09 Wells Fargo
+    Expenses:Services:Bank                               $3.00
+    Assets:Bank:Checking
+    ; Receipt: 57583b7233dd6f96d37c4d36da047119.png
+
+2016/05/13 Zirtual
+    Expenses:Services:Assistance                      $1096.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f4ced4b8d9483d7596c70d0482c1fe4f.pdf
+
+2016/05/15 Facebook Adverts
+    Expenses:Services:Software                          $21.46
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: dcc7875c7276a8deefc4656d7047eb89.pdf
+
+2016/05/16 Seton & Associates 
+    Expenses:Services:Legal                           $2697.60
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6bc904e876ffd8621dcd61e3624d7ab9.pdf
+
+2016/05/18 USPS
+    Expenses:Miscellaneous:Office Supplies               $1.56
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 782c9ad672c3d9f76d4073dba166dc75.jpeg
+
+2016/05/20 IRCCloud
+    Expenses:Services:Software                           $5.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a3ad89f26039184037f85ce9aaa1c335.pdf
+
+2016/05/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c44f75c60c0c17be4375abfd98d35929.pdf
+
+2016/05/20 Jessica Kwok
+    Expenses:Reimbursement:Jessica Kwok                $216.52
+    Assets:Bank:Checking
+    ; Receipt: dd977c50f3337a6cad0b28be0438f980.pdf
+
+2016/05/20 Zach Latta
+    Expenses:Reimbursement:Zach Latta                 $3660.43
+    Assets:Bank:Checking
+    ; Receipt: 86eb9b76891204a8295a62a4e17f4755.pdf
+
+2016/05/20 Selynna Sun
+    Expenses:Reimbursement:Selynna Sun                  $10.98
+    Assets:Bank:Checking
+    ; Receipt: 2a1d893797f59bf30bb8cc91cd21f18d.pdf
+
+2016/05/20 Max Wofford
+    Expenses:Reimbursement:Max Wofford                 $457.50
+    Assets:Bank:Checking
+    ; Receipt: e9f675e51daf80b1aa14eb877f0c05fc.pdf
+
+2016/05/22 FedEx
+    Expenses:Miscellaneous:Office Supplies              $53.83
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 552f1de496ded0f2e632ce6595239279.pdf
+
+2016/05/27 Cliff's Variety
+    Expenses:Miscellaneous:Office Supplies               $7.79
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 6a1f58a09479929ed78ba01944975406.jpg
+
+2016/05/28 Cliff's Variety
+    Expenses:Miscellaneous:Office Supplies               $1.95
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 2e60d358a82754deceea7846d1bd78c1.jpeg
+
+2016/05/31 Google
+    Expenses:Services:Software                          $28.00
+    Assets:Bank:Checking
+    ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
+
+2016/05/31 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 397d9875e63178058613e687cfc09355.png
+
+2016/05/31 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: e8c545b4f47c9c0b249c9b77e1278172.png
+
+2016/06/01 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $9.40
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fcef14fb0a69f18ad19f2e883df6808b.jpeg
+
+2016/06/01 Max Wofford
+    Expenses:Salary                                    $858.06
+    Assets:Bank:Checking
+    ; Receipt: 034231682cca7916ccc353a8d6e875d5.pdf
+
+2016/06/01 Jessica Kwok
+    Expenses:Salary                                   $2800.00
+    Assets:Bank:Checking
+    ; Receipt: d547e48d591e8d4d0cce2bb20335e776.pdf
+
+2016/06/01 Stripe
+    Assets:Bank:Checking                               $202.00
+    Income:Donations
+    ; Receipt: 68ea19d1309c945f6388ee3e0385ec1e.pdf
+
+2016/06/02 Uber
+    Expenses:Transport:Rental Car                        $6.55
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ab130e448190717360cbb45ffb99ac70.pdf
+
