@@ -1802,6 +1802,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1e9fb6f5efb4480793bdc16b2470ccd.pdf
 
+2016/03/20 IRCCloud
+    Expenses:Services:Software                           $5.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: bec76e76e07037674b22877534238ba3.pdf
+
 2016/03/24 Jonathan Leung
     Expenses:Salary                                   $1588.96
     Expenses:Salary                                   $2880.00
@@ -1833,6 +1838,11 @@
     Assets:Bank:Savings                                  $0.01
     Income:Investments:Bank Interest
     ; Receipt: c7d9afb920aa456c4aa97a510701c98e.png
+
+2016/03/31 Mention
+    Expenses:Services:Software                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 15f95574e93d12cb7c22aca174fb235e.pdf
 
 2016/04/01 Jessica Kwok
     Expenses:Salary                                   $2800.00
@@ -1944,10 +1954,25 @@
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: eb3cb9f74bcef2d03bfe3f097052d4f2.png
 
+2016/04/28 Uber
+    Expenses:Transport:Rental Car                        $7.39
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8e1cf7bc7d601ed443cc97b0a4f71f86.pdf
+
 2016/04/29 Wells Fargo
     Assets:Bank:Savings                                  $0.02
     Income:Investments:Bank Interest
     ; Receipt: 92a020ccc27677e156dbd70c97f10202.png
+
+2016/04/29 Domino's
+    Expenses:Miscellaneous:Events:Food                  $35.92
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 428928621f8aec39345dc83ddc6f1bcc.pdf
+
+2016/04/29 Domino's
+    Expenses:Miscellaneous:Events:Food                  $24.17
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5a0a2402934e9491fc9f0a6eb00ef297.pdf
 
 2016/04/30 Google
     Expenses:Services:Software                          $27.20
@@ -1958,6 +1983,11 @@
     Expenses:Services:Bank                               $6.00
     Assets:Bank:Savings
     ; Receipt: 155763596e55502d236bb4cdf2c8a0c1.png
+
+2016/04/30 Mention
+    Expenses:Services:Software                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ed4fceee9eb982032fc484c519ad744f.pdf
 
 2016/05/01 Jessica Kwok
     Expenses:Salary                                   $2800.00
@@ -2005,22 +2035,22 @@
     ; Receipt: c44f75c60c0c17be4375abfd98d35929.pdf
 
 2016/05/20 Jessica Kwok
-    Liabilities:Reimbursement:Jessica Kwok                $216.52
+    Liabilities:Reimbursement:Jessica Kwok             $216.52
     Assets:Bank:Checking
     ; Receipt: dd977c50f3337a6cad0b28be0438f980.pdf
 
 2016/05/20 Zach Latta
-    Liabilities:Reimbursement:Zach Latta                 $3660.43
+    Liabilities:Reimbursement:Zach Latta              $3660.43
     Assets:Bank:Checking
     ; Receipt: 86eb9b76891204a8295a62a4e17f4755.pdf
 
 2016/05/20 Selynna Sun
-    Liabilities:Reimbursement:Selynna Sun                  $10.98
+    Liabilities:Reimbursement:Selynna Sun               $10.98
     Assets:Bank:Checking
     ; Receipt: 2a1d893797f59bf30bb8cc91cd21f18d.pdf
 
 2016/05/20 Max Wofford
-    Liabilities:Reimbursement:Max Wofford                 $457.50
+    Liabilities:Reimbursement:Max Wofford              $457.50
     Assets:Bank:Checking
     ; Receipt: e9f675e51daf80b1aa14eb877f0c05fc.pdf
 
@@ -2028,6 +2058,11 @@
     Expenses:Miscellaneous:Office Supplies              $53.83
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 552f1de496ded0f2e632ce6595239279.pdf
+
+2016/05/24 Google
+    Expenses:Services:Software                          $50.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: efc7349a4868ab6a73b5605e644f135b.pdf
 
 2016/05/27 Cliff's Variety
     Expenses:Miscellaneous:Office Supplies               $7.79
@@ -2038,6 +2073,11 @@
     Expenses:Miscellaneous:Office Supplies               $1.95
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 2e60d358a82754deceea7846d1bd78c1.jpeg
+
+2016/05/30 Mention
+    Expenses:Services:Software                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 02fe5bd9cbe9cb404462fcba574f8861.pdf
 
 2016/05/31 Google
     Expenses:Services:Software                          $28.00
@@ -2053,6 +2093,16 @@
     Assets:Bank:Savings                                  $0.01
     Income:Investments:Bank Interest
     ; Receipt: e8c545b4f47c9c0b249c9b77e1278172.png
+
+2016/05/31 Google
+    Expenses:Services:Software                          $28.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
+
+2016/05/31 Facebook Adverts
+    Expenses:Services:Software                           $5.49
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 42dc4be59676aea7604e6d8556bd5083.pdf
 
 2016/06/01 Walgreens
     Expenses:Miscellaneous:Office Supplies               $9.40
@@ -2079,12 +2129,163 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab130e448190717360cbb45ffb99ac70.pdf
 
+2016/06/02 Office Depot
+    Expenses:Miscellaneous:Office Supplies              $56.08
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 2abae5ae6925af2a7e33a4842ed1f586.jpeg
+
+2016/06/06 Uber
+    Expenses:Transport:Rental Car                        $4.75
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 109a3bb25ed4a19ad82afeae5150e4d6.pdf
+
+2016/06/06 Garaje
+    Expenses:Food                                       $25.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: e72183e32f305df36a063856ba0e6c91.png
+
 2016/06/06 Instacart
     Expenses:Hack Camp:Food                             $46.56
     Liabilities:Reimbursement:Gemma Busoni
     ; Receipt: e0afe9eff2d1a6940afc16a6b3d322f1.png
 
+2016/06/06 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $3884.94
+    Assets:Bank:Checking
+    ; Receipt: cae6cc827f538bb559d82f12e1953b35.pdf
+
+2016/06/06 Max Wofford
+    Liabilities:Reimbursement:Max Wofford               $31.20
+    Assets:Bank:Checking
+    ; Receipt: b9d657faf7e94b8402a6878da5306230.pdf
+
+2016/06/06 Safeway
+    Expenses:Hack Camp:Food                             $15.88
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: d41ab077595e64c530cbf5136464d5b3.jpeg
+
+2016/06/08 Safeway
+    Expenses:Hack Camp:Food                              $4.03
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 74ec06eb82ea6420104112079ae568d2.JPG
+
+2016/06/09 Sticker Mule
+    Expenses:Miscellaneous:Swag                       $1430.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 84f742643097febde8621114a7c50c79.pdf
+
+2016/06/09 Safeway
+    Expenses:Hack Camp:Food                              $8.47
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 226e47ec61ef13ea8ee47f57232088fb.jpg
+
+2016/06/10 Instacart
+    Expenses:Hack Camp:Food                              $3.18
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 1ab8ef16020e03b485ac57ef6b3cfb6e.png
+
+2016/06/10 Domino's
+    Expenses:Miscellaneous:Events:Food                  $33.44
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8d28bbce3a4a35fec68785232e76e495.pdf
+
+2016/06/10 Uber
+    Expenses:Transport:Rental Car                       $13.23
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 077c66e5a020848e610e8f0f7fe266c7.pdf
+
 2016/06/11 Gemma Busoni
     Liabilities:Reimbursement:Gemma Busoni              $46.56
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 906bba444a89ee2ffcb1e7310b747dac.pdf
+
+2016/06/13 Zirtual
+    Expenses:Services:Assistance                       $398.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 59001df4a571c203bcce56626ea6e4a5.pdf
+
+2016/06/13 Safeway
+    Expenses:Hack Camp:Food                              $1.99
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 460e871c7e652d903045f9c6504c0a56.jpg
+
+2016/06/17 Soma Pizza
+    Expenses:Hack Camp:Food                             $22.00
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 4781af533d4ae8a1c25c74c5d14db49f.png
+
+2016/06/17 Walgreens
+    Expenses:Hack Camp:Energizers                        $4.27
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: da0ef9cdef330bf80a7f5454719d47fd.jpeg
+
+2016/06/19 Walgreens
+    Expenses:Miscellaneous:Office Supplies              $13.02
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 9a04ca07a9096808551b28629eb1f585.jpg
+
+2016/06/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8e1b89883a371ad05530c20ac1aec78d.pdf
+
+2016/06/23 Uber
+    Expenses:Transport:Rental Car                        $9.04
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7c45af40f8b343d9bcf117d76d5afffd.pdf
+
+2016/06/23 Google
+    Expenses:Services:Software                          $84.99
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 444438fa91db2a7c917b8600fecd654a.pdf
+
+2016/06/24 Michael Hulet
+    Expenses:Hack Camp:Equipment                        $42.15
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: e368c11a6913d0c65c25672a3156988b.png
+
+2016/06/27 DHK Inc.
+    Expenses:Miscellaneous:Office Supplies               $9.40
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: fb5ccaeb50a5e8547f4ec6d0bbb19461.JPG
+
+2016/06/29 Amazon
+    Expenses:Miscellaneous:Office Supplies              $53.98
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 78837d2f014e17bb30d790857d6cbd86.pdf
+
+2016/06/29 Safeway
+    Expenses:Hack Camp:Food                              $8.14
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 52d638c1a4c6cf7496633ce7a808060b.jpg
+
+2016/06/30 Google
+    Expenses:Services:Software                          $29.33
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6ea1ea8197921948b994816abbad041f.pdf
+
+2016/07/01 Papertrail
+    Expenses:Services:Software                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 49102a9b75e71082780cad03abcc7a96.pdf
+
+2016/07/04 Instacart
+    Expenses:Hack Camp:Food                             $21.25
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 91f16fffa6fdabf37a57579116195006.png
+
+2016/07/05 Target
+    Expenses:Miscellaneous:Office Supplies               $5.32
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: dfa28c1a53e7042e862f01872a359ef8.jpeg
+
+2016/07/05 Safeway
+    Expenses:Hack Camp:Food                              $8.99
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: eec89cc3572f934fab64e958081598ad.jpg
+
+2016/07/05 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $5.43
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 2da9d9407ca2f7a233c8e2ff50f7e6b0.jpg
+
