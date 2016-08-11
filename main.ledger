@@ -2079,25 +2079,10 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 02fe5bd9cbe9cb404462fcba574f8861.pdf
 
-2016/05/31 Google
-    Expenses:Services:Software                          $28.00
-    Assets:Bank:Checking
-    ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
-
-2016/05/31 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Savings
-    ; Receipt: 397d9875e63178058613e687cfc09355.png
-
 2016/05/31 Wells Fargo
     Assets:Bank:Savings                                  $0.01
     Income:Investments:Bank Interest
     ; Receipt: e8c545b4f47c9c0b249c9b77e1278172.png
-
-2016/05/31 Google
-    Expenses:Services:Software                          $28.00
-    Liabilities:Reimbursement:Zach Latta
-    ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
 
 2016/05/31 Facebook Adverts
     Expenses:Services:Software                           $5.49
@@ -2109,6 +2094,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fcef14fb0a69f18ad19f2e883df6808b.jpeg
 
+2016/06/01 Stripe
+    Assets:Bank:Checking                               $202.00
+    Income:Donations
+    ; Receipt: 68ea19d1309c945f6388ee3e0385ec1e.pdf
+
 2016/06/01 Max Wofford
     Expenses:Salary                                    $858.06
     Assets:Bank:Checking
@@ -2119,11 +2109,6 @@
     Assets:Bank:Checking
     ; Receipt: d547e48d591e8d4d0cce2bb20335e776.pdf
 
-2016/06/01 Stripe
-    Assets:Bank:Checking                               $202.00
-    Income:Donations
-    ; Receipt: 68ea19d1309c945f6388ee3e0385ec1e.pdf
-
 2016/06/02 Uber
     Expenses:Transport:Rental Car                        $6.55
     Liabilities:Reimbursement:Zach Latta
@@ -2133,6 +2118,11 @@
     Expenses:Miscellaneous:Office Supplies              $56.08
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 2abae5ae6925af2a7e33a4842ed1f586.jpeg
+
+2016/06/03 Google
+    Expenses:Services:Software                          $28.00
+    Assets:Bank:Checking
+    ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
 
 2016/06/06 Uber
     Expenses:Transport:Rental Car                        $4.75
@@ -2164,10 +2154,20 @@
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: d41ab077595e64c530cbf5136464d5b3.jpeg
 
+2016/06/08 Wells Fargo
+    Expenses:Services:Bank                               $6.00
+    Assets:Bank:Savings
+    ; Receipt: 397d9875e63178058613e687cfc09355.png
+
 2016/06/08 Safeway
     Expenses:Hack Camp:Food                              $4.03
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 74ec06eb82ea6420104112079ae568d2.JPG
+
+2016/06/08 Wells Fargo
+    Expenses:Services:Bank                               $3.00
+    Assets:Bank:Checking
+    ; Receipt: 6a08e9493c760300b2242f7ab6163893.png
 
 2016/06/09 Sticker Mule
     Expenses:Miscellaneous:Swag                       $1430.00
@@ -2288,4 +2288,3 @@
     Expenses:Miscellaneous:Office Supplies               $5.43
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 2da9d9407ca2f7a233c8e2ff50f7e6b0.jpg
-
