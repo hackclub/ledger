@@ -2264,6 +2264,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6ea1ea8197921948b994816abbad041f.pdf
 
+2016/06/30 Wells Fargo
+    Assets:Bank:Savings                                  $0.01
+    Income:Investments:Bank Interest
+    ; Receipt: 0f602b4b75bf406907756236ce37a076.png
+
+2016/06/30 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                   $6.00
+    Assets:Bank:Savings
+    ; Receipt: 3eca5efdd58047e3de0c39827537ae45.png
+
 2016/07/01 Papertrail
     Expenses:Services:Software                           $7.00
     Liabilities:Reimbursement:Zach Latta
