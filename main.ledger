@@ -2249,6 +2249,11 @@
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: fb5ccaeb50a5e8547f4ec6d0bbb19461.JPG
 
+2016/06/27 Upwork
+    Expenses:Salary:Contractor:Upwork                   $34.25
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 071ab293431196b63265811d7f3c1fd3.pdf
+
 2016/06/29 Amazon
     Expenses:Miscellaneous:Office Supplies              $53.98
     Liabilities:Reimbursement:Max Wofford
@@ -2298,3 +2303,138 @@
     Expenses:Miscellaneous:Office Supplies               $5.43
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 2da9d9407ca2f7a233c8e2ff50f7e6b0.jpg
+
+2016/07/08 Pizzeria Delfina
+    Expenses:Food                                       $72.54
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5f44e7f9129586ab9ef30503a62f427c.jpeg
+
+2016/07/08 Victor Lourng
+    Expenses:Salary:Contractor:Victor Lourng           $550.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 771f129051f3432aa510d0ea65f21481.pdf
+
+2016/07/09 Recology
+    Expenses:Miscellaneous                              $40.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6ebcfe344b69de828d48d5822bb6535b.jpeg
+
+2016/07/09 Recology
+    Expenses:Miscellaneous                              $40.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5df8cf7ef0dbf973edd25c833aacded8.jpeg
+
+2016/07/12 Harvest
+    Expenses:Services:Software                          $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d108a167d0d055aaedacab28f4629234.pdf
+
+2016/07/15 Dominos
+    Expenses:Miscellaneous:Events:Food                  $33.23
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e879d4ba3424bea7e1bbbde555fcfac8.png
+
+2016/07/15 Dominos
+    Expenses:Miscellaneous:Events:Food                  $39.32
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 25c80761b2f9d06c071f32a3be25c025.png
+
+2016/07/18 Uber
+    Expenses:Transport:Rental Car                       $21.65
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a9269b497e0c96dc3c8196d1dc18a7fe.pdf
+
+2016/07/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8c164c4c55fafbd3f75d6fc981a3b348.pdf
+
+2016/07/25 Southwest
+    Expenses:Travel:Air Travel                         $507.96
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1ffcbc7203ee2296de9f1e781a750769.pdf
+
+2016/07/26 SFMTA
+    Expenses:Transport:Public Transportation             $4.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7747f2652f1ea02c6be46db1cb199175.JPG
+
+2016/07/26 Easy Breezy
+    Expenses:Food                                       $13.78
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9ebad9af8b52160c0aec8ffa0ca70623.JPG
+
+2016/07/26 Reveille Coffee Co
+    Expenses:Food                                        $8.70
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b230829a87e1871a89273239b8ec57ee.pdf
+
+2016/07/27 Super Duper
+    Expenses:Food                                       $22.29
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c47a9c5ac40eeae09a4710ef3d3327c3.JPG
+
+2016/07/27 SFMTA
+    Expenses:Transport:Public Transportation             $4.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 70d846522d8e85dfeaee0547cda6c924.JPG
+
+2016/07/28 Wufoo
+    Expenses:Services:Software                          $29.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c30354e49be389faa6a2c3b8fc241021.pdf
+
+2016/07/29 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile               $135.62
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c214b12bd415a37d5fcf3ca5591aa594.pdf
+
+2016/08/01 Southwest
+    Expenses:Travel:Air Travel                         $502.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a8c38fe2081f60479cc23ef6da8dc3a2.pdf
+
+2016/08/02 Hawaiian Airlines
+    Expenses:Travel:Air Travel                         $390.40
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9cbb14d248a35ac195776b642733fe22.pdf
+
+2016/08/03 Uber
+    Expenses:Transport:Rental Car                       $27.35
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ca107751abf96a4edccab5cc7fb43ca6.pdf
+
+2016/08/03 Uber
+    Expenses:Transport:Rental Car                       $52.42
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c89eed3629d62e45192dd5f0c7308d08.pdf
+
+2016/08/03 Anthony Lam
+    Liabilities:Reimbursement:Anthony Lam               $80.90
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 67064dc628a97e2941b1e4d622da57f5.pdf
+
+2016/08/04 Uber
+    Expenses:Transport:Rental Car                       $76.16
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 88c266d623f96702ae6622078d588004.pdf
+
+2016/08/07 Walgreens
+    Expenses:Services:Shipping                          $52.42
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 25d194878250e027e03c2a7cc263f7b8.jpeg
+
+2016/08/08 Shyp
+    Expenses:Services:Shipping                          $71.25
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 23e09cdcf3228fc5cd973ae436956cd7.pdf
+
+2016/08/08 Streak
+    Expenses:Services:Software                          $39.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3bb2510f1392e07f38b367c250d42ea3.pdf
+
+2016/08/11 Heroku
+    Expenses:Services:Hosting                            $1.38
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ebd41fad58d8bf8bc233cef96a5dbde5.pdf
