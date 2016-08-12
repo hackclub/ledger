@@ -2334,6 +2334,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5df8cf7ef0dbf973edd25c833aacded8.jpeg
 
+2016/07/09 GetAround
+    Expenses:Transport:Literal Rental Car               $23.50
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 1bc6c92ce7c566116bf05179e1c65951.png
+
 2016/07/12 Harvest
     Expenses:Services:Software                          $12.00
     Liabilities:Reimbursement:Zach Latta
@@ -2373,6 +2378,11 @@
     Expenses:Services:Software                          $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c164c4c55fafbd3f75d6fc981a3b348.pdf
+
+2016/07/20 DHK Inc.
+    Expenses:Miscellaneous:Office Supplies              $13.60
+    Liabilities:Reimbursement:Jessica Kwok
+    ; Receipt: 71082dd07c6139ca0b6a84109847f093.JPG
 
 2016/07/22 Target
     Expenses:Food                                       $12.15
