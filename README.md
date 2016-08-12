@@ -1,7 +1,6 @@
 # Finances
 
-The one and only home of Hack Club's finances. And when we say finances, we mean
-_everything_. Transaction by transaction.
+The one and only home of Hack Club's finances. And when we say finances, we mean _everything_. Transaction by transaction.
 
 Have at it! (and contributions are welcome!)
 
@@ -9,8 +8,7 @@ Have at it! (and contributions are welcome!)
 
 ## Monthly Reports
 
-We create a monthly finance report every month for our wonderful fiscal sponsor,
-[Mission Bit](http://www.missionbit.com/).
+We create a monthly finance report every month for our wonderful fiscal sponsor, [Mission Bit](http://www.missionbit.com/).
 
 - [May, 2015](monthly_reports/15_05.csv)
 - [June, 2015](monthly_reports/15_06.csv)
@@ -19,5 +17,4 @@ We create a monthly finance report every month for our wonderful fiscal sponsor,
 
 ## License
 
-This data is made available under the
-[Open Data Commons Attribution license](LICENSE).
+This data is made available under the [Open Data Commons Attribution license](LICENSE).
