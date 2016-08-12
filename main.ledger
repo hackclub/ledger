@@ -2279,10 +2279,20 @@
     Assets:Bank:Savings
     ; Receipt: 3eca5efdd58047e3de0c39827537ae45.png
 
+2016/06/30 Google
+    Expenses:Services:Software                          $29.33
+    Assets:Bank:Checking
+    ; Receipt: 6ea1ea8197921948b994816abbad041f.pdf
+
 2016/07/01 Papertrail
     Expenses:Services:Software                           $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 49102a9b75e71082780cad03abcc7a96.pdf
+
+2016/07/01 Stripe
+    Assets:Bank:Checking                              $5809.00
+    Income:Donations
+    ; Receipt: 080bac292f021ad79f241a07386b9727.pdf
 
 2016/07/04 Instacart
     Expenses:Hack Camp:Food                             $21.25
@@ -2489,10 +2499,20 @@
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 85f2f125049794659c24c02f9d8fa0eb.png
 
+2016/07/31 Google
+    Expenses:Services:Software                          $32.00
+    Assets:Bank:Checking
+    ; Receipt: 1f22ee71f847d3f043f25658b2f1ccd2.pdf
+
 2016/08/01 Southwest
     Expenses:Travel:Air Travel                         $502.95
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a8c38fe2081f60479cc23ef6da8dc3a2.pdf
+
+2016/08/01 Stripe
+    Assets:Bank:Checking                              $1894.20
+    Income:Donations
+    ; Receipt: ad35efdc6fa225c7b2b176693b7053c9.pdf
 
 2016/08/02 Hawaiian Airlines
     Expenses:Travel:Air Travel                         $390.40
@@ -2514,10 +2534,25 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 67064dc628a97e2941b1e4d622da57f5.pdf
 
+2016/08/03 Kyle Emile
+    Expenses:Salary                                   $5417.00
+    Assets:Bank:Checking
+    ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
+
+2016/08/03 Dariana Valcarcel
+    Expenses:Salary                                    $415.45
+    Assets:Bank:Checking
+    ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
+
 2016/08/04 Uber
     Expenses:Transport:Rental Car                       $76.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 88c266d623f96702ae6622078d588004.pdf
+
+2016/08/05 Selynna Sun
+    Expenses:Salary                                   $4000.00
+    Assets:Bank:Checking
+    ; Receipt: 780c2efa712f09c78a19e2e3ce56806f.pdf
 
 2016/08/07 Walgreens
     Expenses:Services:Shipping                          $52.42
@@ -2533,6 +2568,14 @@
     Expenses:Services:Software                          $39.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3bb2510f1392e07f38b367c250d42ea3.pdf
+
+2016/08/10 Stripe
+    ; A Hack Camp applicant needed to have their tuition reimbursed and the
+    ; reimbursement is mixed into the same transactions as the donations. This
+    ; deducts from the donations account to simplify things
+    Income:Donations                                   $509.00
+    Assets:Bank:Checking
+    ; Receipt: 07d6bae6e2918ed258d20240c08b7619.pdf
 
 2016/08/11 Heroku
     Expenses:Services:Hosting                            $1.38
