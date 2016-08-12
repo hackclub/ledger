@@ -2394,6 +2394,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1ffcbc7203ee2296de9f1e781a750769.pdf
 
+2016/07/25 Southwest
+    Expenses:Services:Internet                           $8.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: eca81fc08f390e2d7d6cb084b6137f1d.png
+
 2016/07/26 SFMTA
     Expenses:Transport:Public Transportation             $4.50
     Liabilities:Reimbursement:Zach Latta
@@ -2413,6 +2418,11 @@
     Expenses:Food                                        $2.34
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: ce12e853d680f19d5a824f90ed8dd1cf.jpeg
+
+2016/07/26 Uber
+    Expenses:Transport:Rental Car                       $20.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: f33f141eeeca01a5090d836e71481ef2.png
 
 2016/07/27 Super Duper
     Expenses:Food                                       $22.29
@@ -2434,6 +2444,36 @@
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 7bd2f1c75f09ae5376d207c10e7ff924.jpeg
 
+2016/07/28 Southwest
+    Expenses:Services:Internet                           $8.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 552ed79241b99e52a80f8b1bd5376f49.png
+
+2016/07/28 Willow Creek Grill
+    Expenses:Food                                       $14.40
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 8a43c6ceab862b2b369ec9b0ca545501.jpg
+
+2016/07/28 Uber
+    Expenses:Transport:Rental Car                       $29.23
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 3063f98a99f6e206f273018db03dda59.png
+
+2016/07/28 Uber
+    Expenses:Transport:Rental Car                        $5.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: eeff85a7a7a366665377a8f09c0ad756.png
+
+2016/07/28 MDW Parking
+    Expenses:Transport                                  $45.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: d6751061cb01aa7357b1d03829454b71.jpg
+
+2016/07/28 Bay Reader Kiosk
+    Expenses:Food                                        $3.99
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 2466e5d7dfb7ca652b5a43adfbb400d3.jpg
+
 2016/07/29 Kyle Emile
     Liabilities:Reimbursement:Kyle Emile               $135.62
     Liabilities:Reimbursement:Zach Latta
@@ -2443,6 +2483,11 @@
     Expenses:Food                                        $1.17
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 940d8bd7f96acddba19347ac96fdaf52.jpeg
+
+2016/07/29 Uber
+    Expenses:Transport:Rental Car                        $2.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 85f2f125049794659c24c02f9d8fa0eb.png
 
 2016/08/01 Southwest
     Expenses:Travel:Air Travel                         $502.95
