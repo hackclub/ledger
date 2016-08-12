@@ -2314,6 +2314,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 771f129051f3432aa510d0ea65f21481.pdf
 
+2016/07/08 SoMa Pizza
+    Expenses:Food                                       $43.48
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: bf30389b902120ca234d49f4766d6cbc.jpg
+
 2016/07/09 Recology
     Expenses:Miscellaneous                              $40.00
     Liabilities:Reimbursement:Zach Latta
@@ -2339,15 +2344,35 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 25c80761b2f9d06c071f32a3be25c025.png
 
+2016/07/17 Selynna Sun
+    Expenses:Miscellaneous:Office Supplies              $16.25
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: a1ef3296eb58e1509f81a141df04af77.jpg
+
 2016/07/18 Uber
     Expenses:Transport:Rental Car                       $21.65
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a9269b497e0c96dc3c8196d1dc18a7fe.pdf
 
+2016/07/19 Selynna Sun
+    Expenses:Miscellaneous:Computer                    $965.67
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 156bcc28103276bf4e77acb6841fa64c.pdf
+
+2016/07/19 Selynna Sun
+    Expenses:Miscellaneous                              $11.50
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 2e86b4341592657dd9c0d53607174e48.png
+
 2016/07/20 Zapier
     Expenses:Services:Software                          $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c164c4c55fafbd3f75d6fc981a3b348.pdf
+
+2016/07/22 Target
+    Expenses:Food                                       $12.15
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: e63f5519001f41eef7cd34000f35d48b.jpg
 
 2016/07/25 Southwest
     Expenses:Travel:Air Travel                         $507.96
