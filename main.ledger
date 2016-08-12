@@ -1277,12 +1277,12 @@
     ; Receipt: a3a96d280837c42e3643a47016700cec.pdf
 
 2015/09/10 USPS
-    Expenses:Miscellaneous                               $1.20
+    Expenses:Services:Shipping                           $1.20
     Assets:Bank:Checking
     ; Receipt: 37b055da93cec0cb605e2003b9b641a9.jpg
 
 2015/09/10 USPS
-    Expenses:Miscellaneous                              $18.96
+    Expenses:Services:Shipping                          $18.96
     Assets:Bank:Checking
     ; Receipt: c62c05b70b9db6dff3ebd5d2533d962f.jpg
 
@@ -1626,7 +1626,7 @@
     Assets:Bank:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
 2016/02/01 USPS
-    Expenses:Miscellaneous:Office Supplies              $30.60
+    Expenses:Services:Shipping                          $30.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3ae7fa7a12d2ca5ae76de6efd02fc422.pdf
 
@@ -1707,7 +1707,7 @@
     ; Receipt: 2994f011d82a25395652e3e04dd2d8da.JPG
 
 2016/02/12 USPS
-    Expenses:Miscellaneous:Office Supplies              $84.20
+    Expenses:Services:Shipping                          $84.20
     Assets:Bank:Checking
     ; Receipt: f8441e263c2f68f1f5e09ffc8f8ee307.JPG
 
@@ -2020,7 +2020,7 @@
     ; Receipt: 6bc904e876ffd8621dcd61e3624d7ab9.pdf
 
 2016/05/18 USPS
-    Expenses:Miscellaneous:Office Supplies               $1.56
+    Expenses:Services:Shipping                           $1.56
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 782c9ad672c3d9f76d4073dba166dc75.jpeg
 
