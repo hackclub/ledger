@@ -2304,6 +2304,11 @@
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 2da9d9407ca2f7a233c8e2ff50f7e6b0.jpg
 
+2016/07/05 Target
+    Expenses:Miscellaneous                               $5.32
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: dd1b59fac86d085658c14edab0edde19.jpeg
+
 2016/07/08 Pizzeria Delfina
     Expenses:Food                                       $72.54
     Liabilities:Reimbursement:Zach Latta
@@ -2394,6 +2399,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b230829a87e1871a89273239b8ec57ee.pdf
 
+2016/07/26 Target
+    Expenses:Food                                        $2.34
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: ce12e853d680f19d5a824f90ed8dd1cf.jpeg
+
 2016/07/27 Super Duper
     Expenses:Food                                       $22.29
     Liabilities:Reimbursement:Zach Latta
@@ -2409,10 +2419,20 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c30354e49be389faa6a2c3b8fc241021.pdf
 
+2016/07/28 Target
+    Expenses:Food                                        $2.34
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 7bd2f1c75f09ae5376d207c10e7ff924.jpeg
+
 2016/07/29 Kyle Emile
     Liabilities:Reimbursement:Kyle Emile               $135.62
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c214b12bd415a37d5fcf3ca5591aa594.pdf
+
+2016/07/29 Target
+    Expenses:Food                                        $1.17
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 940d8bd7f96acddba19347ac96fdaf52.jpeg
 
 2016/08/01 Southwest
     Expenses:Travel:Air Travel                         $502.95
