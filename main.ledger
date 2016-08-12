@@ -2499,6 +2499,16 @@
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 85f2f125049794659c24c02f9d8fa0eb.png
 
+2016/07/29 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                   $6.00
+    Assets:Bank:Savings
+    ; Receipt: 85741c3e4ad44ffe241d05f26b274bc0.png
+
+2016/07/29 Wells Fargo
+    Expenses:Services:Bank:Wells Fargo                   $0.01
+    Assets:Bank:Savings
+    ; Receipt: d844796bd7569300ba35730ea4f397b9.png
+
 2016/07/31 Google
     Expenses:Services:Software                          $32.00
     Assets:Bank:Checking
