@@ -6,7 +6,7 @@
     Liabilities:Reimbursement:Zach Latta
 
 2015/01/24 Lyft
-    Expenses:Transport:Rental Car                       $33.92
+    Expenses:Transport:Ride Sharing                     $33.92
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ed8aff48be4b8f18af6c3c1af12ae68f.png
 
@@ -21,12 +21,12 @@
     ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
 2015/02/05 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
 2015/02/05 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
@@ -43,17 +43,17 @@
     ; Receipt: fce9f64c4519038d356ba2c902286b31.pdf
 
 2015/02/06 Lyft
-    Expenses:Transport:Rental Car                        $9.15
+    Expenses:Transport:Ride Sharing                      $9.15
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
 2015/02/06 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
 
 2015/02/17 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 7c19a066ada9c241ea9e947cf4dc979f.png
 
@@ -96,7 +96,7 @@
     ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
 
 2015/02/24 Lyft
-    Expenses:Transport:Rental Car                        $4.90
+    Expenses:Transport:Ride Sharing                      $4.90
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
 
@@ -116,7 +116,7 @@
     ; Receipt: 9da364adf5de6a57718bbf3088c370fb.pdf
 
 2015/02/25 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 3fa7db6d279516aeb0816ce664c4c9fb.png
 
@@ -125,7 +125,7 @@
     Liabilities:Reimbursement:Zach Latta
 
 2015/02/28 Lyft
-    Expenses:Transport:Rental Car                        $4.00
+    Expenses:Transport:Ride Sharing                      $4.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5625278675d1fb555e5d8ea529beecff.png
 
@@ -156,12 +156,12 @@
     ; Receipt: 91b23a92cee7e164a313c92081af6d9c.png
 
 2015/03/03 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d0ee28147336988eaa7798d7c40cefcd.pdf
 
 2015/03/03 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
 
@@ -173,32 +173,32 @@
     ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
 
 2015/03/05 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Rental Car                       $12.05
+    Expenses:Transport:Ride Sharing                     $12.05
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0572062eb50d8e572ae7d8ac6206cb78.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Rental Car                       $11.87
+    Expenses:Transport:Ride Sharing                     $11.87
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 54c330a7825affa8c313edc436a6543b.pdf
 
@@ -208,17 +208,17 @@
     ; Receipt: 54e5323814422e98f179054208a274a0.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5a698ad66597be508af112646bbe60a0.png
 
 2015/03/05 Uber
-    Expenses:Transport:Rental Car                        $6.32
+    Expenses:Transport:Ride Sharing                      $6.32
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 627d50e580ab93a5a9ae4b634fe6e033.png
 
 2015/03/08 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
 
@@ -247,7 +247,7 @@
     ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
 
 2015/03/10 Lyft
-    Expenses:Transport:Rental Car                           $5
+    Expenses:Transport:Ride Sharing                         $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
 
@@ -280,33 +280,33 @@
     ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
 2015/03/12 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 53c93afd9ed53d5fb44ae8d08ee561d5.png
 
 2015/03/14 Lyft
-    Expenses:Transport:Rental Car                        $9.78
+    Expenses:Transport:Ride Sharing                      $9.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
 
 2015/03/14 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 6fb8aec45774e71c6b6d47099acc609e.png
 
 2015/03/14 Uber
-    Expenses:Transport:Rental Car                       $10.20
+    Expenses:Transport:Ride Sharing                     $10.20
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 37d33bb0ef3d5bb5df987f1463aff9b0.png
 
 2015/03/14 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 40990b71888c727750463396bcde27a3.png
      
 
 2015/03/16 Lyft
-    Expenses:Transport:Rental Car                           $6
+    Expenses:Transport:Ride Sharing                         $6
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
@@ -316,7 +316,7 @@
     ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
 2015/03/19 Uber
-    Expenses:Transport:Rental Car                           $7
+    Expenses:Transport:Ride Sharing                         $7
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
@@ -326,7 +326,7 @@
     ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
 2015/03/19 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: abbd914e1506daa0fa88b9fc8e4c7cc2.png
 
@@ -342,7 +342,7 @@
     ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
 2015/03/24 Lyft
-    Expenses:Transport:Rental Car                        $6.95
+    Expenses:Transport:Ride Sharing                      $6.95
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b61c3e3df8531715e19d7f3ebbbcd203.png
 
@@ -384,7 +384,7 @@
     ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
 
 2015/03/30 Lyft
-    Expenses:Transport:Rental Car                       $19.43
+    Expenses:Transport:Ride Sharing                     $19.43
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 6ea7c486d51e8adfae2995eb937cf8e1.png
 
@@ -436,12 +436,12 @@
     ; Receipt: 75b2ab4b4444ae614ef3d56671389d3d.jpeg
 
 2015/04/12 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdb0cd920945309678396370a3f00e02.pdf
 
 2015/04/14 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ee14ae5b5c26f6cd50c4059ff7c38dc3.png
 
@@ -456,7 +456,7 @@
     ; Receipt: 3d2e7efd14c378b9d2a11df8456f0618.jpeg
 
 2015/04/18 Uber
-    Expenses:Transport:Rental Car                        $4.47
+    Expenses:Transport:Ride Sharing                      $4.47
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e15300474df8fb9a964ceb382cc3a60f.pdf
 
@@ -466,22 +466,22 @@
     ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
 
 2015/04/23 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f684d61a5860e1da79d16d0bd532ba63.png
 
 2015/04/25 Uber
-    Expenses:Transport:Rental Car                       $34.20
+    Expenses:Transport:Ride Sharing                     $34.20
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b2b36cc5acc2e41fdb02cb1725cb0379.png
 
 2015/04/27 Lyft
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Jonathan Leung
     ; where receipt
 
 2015/04/28 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: a9cae013edc0ce69cba6013e0b96bba1.png
 
@@ -499,7 +499,7 @@
     ; Receipt: 403890a04955d9987f3932a1e55dcc20.pdf
 
 2015/04/30 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ee6e030f0862ee71628bf93b11111566.png
 
@@ -535,7 +535,7 @@
     ; Receipt: 59f2d5fa1721eb4fd5b307d0e5cb9efc.jpeg
 
 2015/05/07 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
@@ -569,7 +569,7 @@
     Assets:Bank:Checking
 
 2015/05/08 Lyft
-    Expenses:Transport:Rental Car                        $6.00
+    Expenses:Transport:Ride Sharing                      $6.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
 
@@ -618,11 +618,11 @@
     ; Receipt: d5b6d8ba1bfe6b0a286155f1efdd6c89.jpeg
 
 2015/05/15 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Jonathan Leung
 
 2015/05/15 Postmates
@@ -635,7 +635,7 @@
     Income:Donations
 
 2015/05/19 Uber
-    Expenses:Transport:Rental Car                       $16.54
+    Expenses:Transport:Ride Sharing                     $16.54
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: f8448729a4e1864e608b0855c6bc2d1e.png
 
@@ -664,12 +664,12 @@
     ; Receipt: ce409ac8809635be9913ed404b5f0593.jpeg
 
 2015/05/24 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f9745032399d0b7feaa4f721c3af8ea4.png
 
 2015/05/25 Andrea
-    Expenses:Transport:Rental Car                       $16.95
+    Expenses:Transport:Ride Sharing                     $16.95
     Liabilities:Reimbursement:Jonathan Leung
     ; there is no receipt for this cuz we just goin on his word
 
@@ -721,7 +721,7 @@
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
 2015/06/01 Lyft
-    Expenses:Transport:Rental Car                        $9.00
+    Expenses:Transport:Ride Sharing                      $9.00
     Assets:Bank:Checking:Jonathan Leung
     ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
 
@@ -957,7 +957,7 @@
     ; Receipt: b6a63b59e99cb698b8561d67f8e010fe.pdf
 
 2015/07/21 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 612d0c7b5e1d4de03fb289febb0bc802.pdf
 
@@ -1011,7 +1011,7 @@
     ; Receipt: 55c63ceba798757ef455ad7d0386a902.pdf
 
 2015/08/03 Uber
-    Expenses:Transport:Rental Car                        $6.78
+    Expenses:Transport:Ride Sharing                      $6.78
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 12d9beece74bd9a50ad7283b1982a4a6.pdf
 
@@ -1021,7 +1021,7 @@
     ; Receipt: 9e498f3621a32c0ece2491a5d646fb57.pdf
 
 2015/08/03 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: d7d60b8c3f268788f01b4e0d44791d8d.pdf
 
@@ -1036,7 +1036,7 @@
     ; Receipt: 792aad990a262293120a0276ee552187.jpeg
 
 2015/08/03 Uber
-    Expenses:Transport:Rental Car                        $9.52
+    Expenses:Transport:Ride Sharing                      $9.52
     Assets:Bank:Checking:Zach Latta
     ; Receipt: e1e97311acdf6bbe3012e95350e1f50c.pdf
 
@@ -1061,12 +1061,12 @@
     ; Receipt: 07ad41c0a1a4f53a12e30ca44a66df77.JPG
 
 2015/08/07 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 788d1227fbe62a716e21a390aeafcb4e.pdf
 
 2015/08/07 Uber
-    Expenses:Transport:Rental Car                       $14.40
+    Expenses:Transport:Ride Sharing                     $14.40
     Assets:Bank:Checking:Zach Latta
     ; Receipt: deb86f11db3e8582c1d4dcd63d409e5e.pdf
 
@@ -1091,7 +1091,7 @@
     ; Receipt: 551806c58a118b11ac4b5237cbc15c35.pdf
 
 2015/08/13 Uber
-    Expenses:Transport:Rental Car                        $6.96
+    Expenses:Transport:Ride Sharing                      $6.96
     Assets:Bank:Checking:Zach Latta
     ; Receipt: fc806c97a6dcea0882b6eef9a1eab736.pdf
 
@@ -1111,7 +1111,7 @@
     ; Receipt: 1acb03c594b3ad1589307ac8b9df29f0.jpg
 
 2015/08/17 Uber
-    Expenses:Transport:Rental Car                        $8.18
+    Expenses:Transport:Ride Sharing                      $8.18
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 7c4475705504d59ce4323d03f3899929.pdf
 
@@ -1287,7 +1287,7 @@
     ; Receipt: c62c05b70b9db6dff3ebd5d2533d962f.jpg
 
 2015/09/11 Uber
-    Expenses:Transport:Rental Car                        $7.00
+    Expenses:Transport:Ride Sharing                      $7.00
     Assets:Bank:Checking:Zach Latta
     ; Receipt: 447c11759da06f2d7e45427b27809d3c.pdf
 
@@ -1497,7 +1497,7 @@
     ; Receipt: ac6c3be218596fc5334ff8d232673931.pdf
 
 2015/12/06 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 2b6072fcab7d0a8a4ae2a2deb257bc53.png
 
@@ -1532,7 +1532,7 @@
     ; Receipt: f742c8f0389d40e8bdd2db923a97f842.pdf
 
 2015/12/20 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: df3e8c18b2260deec0556dfd8513e691.pdf
 
@@ -1542,7 +1542,7 @@
     ; Receipt: 3928bd6498a14474f94ecdd684f72369.pdf
 
 2015/12/21 Lyft
-    Expenses:Transport:Rental Car                        $5.06
+    Expenses:Transport:Ride Sharing                      $5.06
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: eb0f86bd594d0b42cfe43413c0479c16.pdf
 
@@ -1597,12 +1597,12 @@
     ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
 2016/01/19 Uber
-    Expenses:Transport:Rental Car                        $5.60
+    Expenses:Transport:Ride Sharing                      $5.60
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f63a4b805a981eff11649281cbb42f49.pdf
 
 2016/01/19 Uber
-    Expenses:Transport:Rental Car                       $13.53
+    Expenses:Transport:Ride Sharing                     $13.53
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 527cca225ad0a2511e634de256b19f7f.pdf
 
@@ -1631,7 +1631,7 @@
     ; Receipt: 3ae7fa7a12d2ca5ae76de6efd02fc422.pdf
 
 2016/02/02 Lyft
-    Expenses:Transport:Rental Car                        $8.64
+    Expenses:Transport:Ride Sharing                      $8.64
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 4e4d7950eff04c6ae42f73bc2b1f7286.pdf
 
@@ -1646,7 +1646,7 @@
     ; Receipt: 4f43b3b2197cfbac978ef2612e0419ed.pdf
 
 2016/02/02 Lyft
-    Expenses:Transport:Rental Car                       $49.21
+    Expenses:Transport:Ride Sharing                     $49.21
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 47c384f6d04c8f23fceaa34f412d8921.png
 
@@ -1687,17 +1687,17 @@
     ; Receipt: c51ed8a69dfc63bb67e018e0eb3bc5a7.png
 
 2016/02/09 Uber
-    Expenses:Transport:Rental Car                       $19.85
+    Expenses:Transport:Ride Sharing                     $19.85
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: bdaceb11054a339e565e483a1a2c451f.pdf
 
 2016/02/10 Lyft
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 9fba6a70fccda0b858e272de5d0e4af0.png
 
 2016/02/11 Lyft
-    Expenses:Transport:Rental Car                        $4.18
+    Expenses:Transport:Ride Sharing                      $4.18
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 27eebc4d542abb843a526ee483fe6b84.png
 
@@ -1885,12 +1885,12 @@
     ; Receipt: ca0d7853be8a882b84ec7676d60ce3ce.pdf
 
 2016/04/14 Uber
-    Expenses:Transport:Rental Car                       $10.58
+    Expenses:Transport:Ride Sharing                     $10.58
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d2683a788b68403f101c2465c970361a.pdf
 
 2016/04/14 Uber
-    Expenses:Transport:Rental Car                       $10.69
+    Expenses:Transport:Ride Sharing                     $10.69
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b912f8c3b249923ff3eff6d5bf0294eb.pdf
 
@@ -1925,7 +1925,7 @@
     ; Receipt: 80ac3190322606d19fd67127422f25cc.JPG
 
 2016/04/23 Uber
-    Expenses:Transport:Rental Car                       $28.91
+    Expenses:Transport:Ride Sharing                     $28.91
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: feb4ce5f67306225c9e9b21afb70b826.pdf
 
@@ -1950,12 +1950,12 @@
     ; Receipt: ab304bf9ac11f342d3804b3d8ccbabb1.jpeg
 
 2016/04/28 Uber
-    Expenses:Transport:Rental Car                       $26.76
+    Expenses:Transport:Ride Sharing                     $26.76
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: eb3cb9f74bcef2d03bfe3f097052d4f2.png
 
 2016/04/28 Uber
-    Expenses:Transport:Rental Car                        $7.39
+    Expenses:Transport:Ride Sharing                      $7.39
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8e1cf7bc7d601ed443cc97b0a4f71f86.pdf
 
@@ -2110,7 +2110,7 @@
     ; Receipt: d547e48d591e8d4d0cce2bb20335e776.pdf
 
 2016/06/02 Uber
-    Expenses:Transport:Rental Car                        $6.55
+    Expenses:Transport:Ride Sharing                      $6.55
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab130e448190717360cbb45ffb99ac70.pdf
 
@@ -2125,7 +2125,7 @@
     ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
 
 2016/06/06 Uber
-    Expenses:Transport:Rental Car                        $4.75
+    Expenses:Transport:Ride Sharing                      $4.75
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 109a3bb25ed4a19ad82afeae5150e4d6.pdf
 
@@ -2190,7 +2190,7 @@
     ; Receipt: 8d28bbce3a4a35fec68785232e76e495.pdf
 
 2016/06/10 Uber
-    Expenses:Transport:Rental Car                       $13.23
+    Expenses:Transport:Ride Sharing                     $13.23
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 077c66e5a020848e610e8f0f7fe266c7.pdf
 
@@ -2230,7 +2230,7 @@
     ; Receipt: 8e1b89883a371ad05530c20ac1aec78d.pdf
 
 2016/06/23 Uber
-    Expenses:Transport:Rental Car                        $9.04
+    Expenses:Transport:Ride Sharing                      $9.04
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7c45af40f8b343d9bcf117d76d5afffd.pdf
 
@@ -2370,7 +2370,7 @@
     ; Receipt: a1ef3296eb58e1509f81a141df04af77.jpg
 
 2016/07/18 Uber
-    Expenses:Transport:Rental Car                       $21.65
+    Expenses:Transport:Ride Sharing                     $21.65
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a9269b497e0c96dc3c8196d1dc18a7fe.pdf
 
@@ -2430,7 +2430,7 @@
     ; Receipt: ce12e853d680f19d5a824f90ed8dd1cf.jpeg
 
 2016/07/26 Uber
-    Expenses:Transport:Rental Car                       $20.00
+    Expenses:Transport:Ride Sharing                     $20.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: f33f141eeeca01a5090d836e71481ef2.png
 
@@ -2465,12 +2465,12 @@
     ; Receipt: 8a43c6ceab862b2b369ec9b0ca545501.jpg
 
 2016/07/28 Uber
-    Expenses:Transport:Rental Car                       $29.23
+    Expenses:Transport:Ride Sharing                     $29.23
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 3063f98a99f6e206f273018db03dda59.png
 
 2016/07/28 Uber
-    Expenses:Transport:Rental Car                        $5.00
+    Expenses:Transport:Ride Sharing                      $5.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: eeff85a7a7a366665377a8f09c0ad756.png
 
@@ -2495,7 +2495,7 @@
     ; Receipt: 940d8bd7f96acddba19347ac96fdaf52.jpeg
 
 2016/07/29 Uber
-    Expenses:Transport:Rental Car                        $2.00
+    Expenses:Transport:Ride Sharing                      $2.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 85f2f125049794659c24c02f9d8fa0eb.png
 
@@ -2530,12 +2530,12 @@
     ; Receipt: 9cbb14d248a35ac195776b642733fe22.pdf
 
 2016/08/03 Uber
-    Expenses:Transport:Rental Car                       $27.35
+    Expenses:Transport:Ride Sharing                     $27.35
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ca107751abf96a4edccab5cc7fb43ca6.pdf
 
 2016/08/03 Uber
-    Expenses:Transport:Rental Car                       $52.42
+    Expenses:Transport:Ride Sharing                     $52.42
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c89eed3629d62e45192dd5f0c7308d08.pdf
 
@@ -2555,7 +2555,7 @@
     ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
 
 2016/08/04 Uber
-    Expenses:Transport:Rental Car                       $76.16
+    Expenses:Transport:Ride Sharing                     $76.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 88c266d623f96702ae6622078d588004.pdf
 
