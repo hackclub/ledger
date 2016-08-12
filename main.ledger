@@ -2524,6 +2524,21 @@
     Income:Donations
     ; Receipt: ad35efdc6fa225c7b2b176693b7053c9.pdf
 
+2016/08/01 Doughbies
+    Expenses:Food                                       $14.00
+    Liabilities:Reimbursement:Anthony Lam
+    ; Receipt: 119e8d0ed5173d5f796d8e11b7db7b5f.png
+
+2016/08/01 SFMTA
+    Expenses:Transport:Public Transportation            $18.00
+    Liabilities:Reimbursement:Anthony Lam
+    ; Receipt: 509760de8e40ace377aa3050e8c6a822.png
+
+2016/08/01 Caltrain
+    Expenses:Transport:Public Transportation            $48.90
+    Liabilities:Reimbursement:Anthony Lam
+    ; Receipt: 054f595ce4ed2386c9485af08fa82853.png
+
 2016/08/02 Hawaiian Airlines
     Expenses:Travel:Air Travel                         $390.40
     Liabilities:Reimbursement:Zach Latta
