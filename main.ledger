@@ -2687,6 +2687,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c9424c31fc0461e6e04aab62521617b.pdf
 
+2016/08/20 Alexis Urbain-Racine
+    Expenses:Salary                                    $320.00
+    Assets:Bank:Checking
+    ; Receipt: 4cae1fd41b48ca5870b0684b2b73a608.pdf
+
 2016/08/22 Uber
     Expenses:Transport:Ride Sharing                     $28.47
     Liabilities:Reimbursement:Kyle Emile
@@ -2696,6 +2701,12 @@
     Expenses:Transport:Ride Sharing                     $29.40
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 24def8086d3b7b26fa4711298c7e6a27.png
+
+2016/08/23 Hack Club
+    ; Square Cash refunded our payment to Alexis
+    Assets:Bank:Checking                               $320.00
+    Expenses:Salary
+    ; Receipt: d3da7a83fafe57c7ebd371ada0b36e68.pdf
 
 2016/08/24 Uber
     Expenses:Transport:Ride Sharing                     $37.59
@@ -2756,6 +2767,11 @@
     Expenses:Miscellaneous:Office Supplies               $1.19
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ce9494f629401a9c418b4b4d1fe14d4d.jpeg
+
+2016/09/02 Kyle Emile
+    Expenses:Salary                                   $5417.00
+    Assets:Bank:Checking
+    ; Receipt: 9dc0d5a3fa432feb532a1cff98c5c5bb.pdf
 
 2016/09/05 Alexis Urbain-Racine
     Liabilities:Reimbursement:Alexis Urbain-Racine      $34.50
@@ -2869,6 +2885,31 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 96a7993df781134bffec80efd45c08d7.pdf
 
+2016/09/21 Max Wofford
+    Expenses:Salary                                  $10174.18
+    Assets:Bank:Checking
+    ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
+
+2016/09/21 Dariana Valcarcel
+    Expenses:Salary                                    $842.24
+    Assets:Bank:Checking
+    ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
+
+2016/09/21 Selynna Sun
+    Expenses:Salary                                   $2000.00
+    Assets:Bank:Checking
+    ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
+
+2016/09/21 Selynna Sun
+    Expenses:Salary                                   $1267.00
+    Assets:Bank:Checking
+    ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
+
+2016/09/21 Jessica Kwok
+    Expenses:Salary                                   $2800.00
+    Assets:Bank:Checking
+    ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
+
 2016/09/26 Lyft
     Expenses:Transport:Ride Sharing                     $11.43
     Liabilities:Reimbursement:Zach Latta
@@ -2883,4 +2924,3 @@
     Expenses:Miscellaneous:Events:Food                  $10.83
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: c2c2050204b0b18cee18c93059c8dbae.png
-
