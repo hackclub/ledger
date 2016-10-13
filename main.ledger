@@ -2930,3 +2930,10 @@
     Assets:Bank:Chase:Checking                      $10,000.00
     Income:Donations
     ; Receipt: 7f963dbd4ac9f7b38233175688af0377.png
+
+; Paying for relocation expenses
+2016/10/08 Kyle Emile
+    Expenses:Salary                                   $4975.00
+    Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
+    Assets:Bank:Chase:Checking
+    ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
