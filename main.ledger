@@ -2910,6 +2910,11 @@
     Assets:Bank:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
+2016/09/25 Uber
+    Expenses:Transport:Ride Sharing                     $19.99
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: b8d98db2260e28c9e3cbb5f16315253a.png
+
 2016/09/26 Lyft
     Expenses:Transport:Ride Sharing                     $11.43
     Liabilities:Reimbursement:Zach Latta
@@ -2920,20 +2925,50 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2d05fcb5e60cd970412b7e08b529bd68.pdf
 
+; First Fast Forward check
 2016/10/02 Safeway
     Expenses:Miscellaneous:Events:Food                  $10.83
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: c2c2050204b0b18cee18c93059c8dbae.png
 
-; First Fast Forward check
+; Paying for relocation expenses
+2016/10/03 Uber
+    Expenses:Transport:Ride Sharing                     $20.41
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: cc2141b80925f35e8161903243c371ea.png
+
+2016/10/03 MDW Parking
+    Expenses:Transport                                 $135.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: fe15e20402ab5b82f493da50286128fd.JPG
+
+2016/10/03 Speedway
+    Expenses:Transport                                  $23.22
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: 36f4c8092c334175ec64d1e2009da570.JPG
+
 2016/10/07 The Hack Foundation
     Assets:Bank:Chase:Checking                      $10,000.00
     Income:Donations
     ; Receipt: 7f963dbd4ac9f7b38233175688af0377.png
 
-; Paying for relocation expenses
 2016/10/08 Kyle Emile
     Expenses:Salary                                   $4975.00
     Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
     Assets:Bank:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
+
+2016/10/20 USPS
+    Expenses:Services:Shipping                          $91.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3e6694e91e03d20c73d62520017c0ff7.JPG
+
+2016/10/20 USPS
+    Expenses:Services:Shipping                           $1.73
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7a0a917aaebf93944e417a1fa8465e52.JPG
+
+2016/10/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 11d5f86bb2af68b9e5db557a5dcd0c9a.pdf
