@@ -2952,11 +2952,51 @@
     Income:Donations
     ; Receipt: 7f963dbd4ac9f7b38233175688af0377.png
 
+2016/10/07 Matthew Kwong
+    Liabilities:Reimbursement:Matthew Kwong             $20.02
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: c1bf9160d3bfa1fc0a6577f033ea1c09.pdf
+
+2016/10/07 Kyle Emile
+    Expenses:Salary                                   $5417.00
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 590e95144bfad2040c9da132f50558f5.pdf
+
+2016/10/07 Jessica Kwok
+    Liabilities:Reimbursement:Jessica Kwok              $46.50
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: b126a7f0d2b315450428a9099c4872fe.pdf
+
+2016/10/07 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile               $609.99
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 3988f23075eafbdddbfff3258fe96202.pdf
+
+2016/10/07 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $6412.61
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 7400427217d494f61d4b3eb014676b0b.pdf
+
+2016/10/07 Selynna Sun
+    Liabilities:Reimbursement:Selynna Sun             $1473.94
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 4c92c4873a6780947cf87fabb4ad2148.pdf
+
+2016/10/07 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $429.50
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: b474d5552e7c49fb1889a086af929356.pdf
+
 2016/10/08 Kyle Emile
     Expenses:Salary                                   $4975.00
     Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
     Assets:Bank:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
+
+2016/10/17 Dariana Valcarcel
+    Expenses:Salary                                    $375.30
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: c3167b90af50741cc872ce5ef7259635.pdf
 
 2016/10/20 USPS
     Expenses:Services:Shipping                          $91.50
