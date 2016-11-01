@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+run() {
+  echo "--> $@\n"
+  $@
+  echo "" # Print blank line
+}
+
+run docker build -t hackclub/ledger .
+run docker run --rm -it -v $(pwd):/ledger hackclub/ledger /bin/bash
