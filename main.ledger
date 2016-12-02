@@ -2988,7 +2988,7 @@
     ; Receipt: b474d5552e7c49fb1889a086af929356.pdf
 
 2016/10/08 Kyle Emile
-    Expenses:Salary                                   $4975.00
+    Expenses:Salary                                   $4975.00 ; $25 is deducted from this to pay for the wire
     Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
     Assets:Bank:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
@@ -3187,3 +3187,12 @@
     Expenses:Services:Software                           $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b691add8768e4af57cce895f0493609f.pdf
+
+2016/12/02 Kyle Emile
+    ; This transaction both pays Kyle and reimburses him for the month of
+    ; November. The receipt is just for his invoice.
+    Expenses:Salary                                   $5392.00 ; $25 has been deducted to pay for the wire
+    Liabilities:Reimbursement:Kyle Emile               $250.00
+    Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
+    Assets:Bank:Chase:Checking
+    ; Receipt: daabad9fb56e7ec2df04896d84f75522.pdf
