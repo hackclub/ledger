@@ -3013,6 +3013,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11d5f86bb2af68b9e5db557a5dcd0c9a.pdf
 
+2016/10/31 Chase
+    ; Monthly fee
+    Expenses:Services:Bank:Chase                        $10.00
+    Assets:Bank:Chase:Checking
+
 2016/11/01 Uber
     Expenses:Transport:Ride Sharing                     $13.15
     Liabilities:Reimbursement:Zach Latta
@@ -3131,6 +3136,10 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d84d417ee0cbb41da521724913deaa38.pdf
 
+2016/11/14 Fast Forward
+    Assets:Bank:Chase:Checking                       $63388.33
+    Income:Donations
+
 2016/11/15 Cloud9
     Expenses:Services:Software                           $1.00
     Liabilities:Reimbursement:Zach Latta
@@ -3182,6 +3191,14 @@
     Expenses:Insurance                                 $987.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ed4b413e0f8d169bc7a71f82e64c318d.pdf
+
+2016/11/29 Transfer
+    Assets:Bank:Chase:Checking                       $19955.71
+    Assets:Bank:Wells Fargo:Checking
+
+2016/11/29 Transfer
+    Assets:Bank:Chase:Checking                         $423.25
+    Assets:Bank:Wells Fargo:Savings
 
 2016/12/01 Papertrail
     Expenses:Services:Software                           $7.00
