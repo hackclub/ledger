@@ -3012,3 +3012,178 @@
     Expenses:Services:Software                          $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11d5f86bb2af68b9e5db557a5dcd0c9a.pdf
+
+2016/11/01 Uber
+    Expenses:Transport:Ride Sharing                     $13.15
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 041ce69b978e31e1385a7b1c154c6c7a.pdf
+
+2016/11/01 Uber
+    Expenses:Transport:Ride Sharing                      $3.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: accdb40c0977c3906bd30319e690f15a.pdf
+
+2016/11/01 Uber
+    Expenses:Transport:Ride Sharing                      $3.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6f6b74b494a45acc5f4aeaab8dae7459.pdf
+
+2016/11/01 Papertrail
+    Expenses:Services:Software                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4e23eda9308914e7dd20f75b89386dd0.pdf
+
+2016/11/03 Google
+    Expenses:Services:Software                          $13.74
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 751bf61f5285a19edcea0be46b141914.pdf
+
+2016/11/03 The Laundry
+    ; 10 guest passes for Matthew's internship
+    Expenses:Services:Office Space                     $135.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e8502cf72615774f33feb9d919f0456c.pdf
+
+2016/11/03 Uber
+    Expenses:Transport:Ride Sharing                      $7.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c213a236d533413bc3b7ee00b07df0a0.pdf
+
+2016/11/04 Uber
+    Expenses:Transport:Ride Sharing                      $7.81
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 109215ff14c1ee5f1702b000ed319de7.pdf
+
+2016/11/04 The Laundry
+    Expenses:Services:Office Space                     $281.25
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 85d859d3f09ecc14e972fe3b9d135215.pdf
+
+2016/11/06 Namecheap
+    ; SSL certificate for *.hackclub.io
+    Expenses:Services:Software                          $94.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6b6c3212671a112ba68df759463e5ff2.pdf
+
+2016/11/07 Mechanical Turk
+    Expenses:Salary:Contractor                           $4.44
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b7e0a5407fd485436d82d791f9fd1b14.pdf
+
+2016/11/08 Facebook
+    Expenses:Miscellaneous:Ads                          $24.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 2469312da3c82140d88d513a1cf0be86.pdf
+
+2016/11/08 Streak
+    Expenses:Services:Software                         $124.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3e08fee2fa530e456197afedced2bd12.pdf
+
+2016/11/08 Mechanical Turk
+    Expenses:Salary:Contractor                          $44.64
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fc0e90d5aa945a4d7cce58471d540ef5.pdf
+
+2016/11/08 Walgreens
+    Expenses:Miscellaneous:Office Supplies               $8.68
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 11763d11ee988353d98c3a4096ca701c.jpg
+
+2016/11/11 GK Real Estate, LLC
+    ; Additional payment for relocation expense (late rent fee)
+    Expenses:Miscellaneous                             $250.00
+    Liabilities:Reimbursement:Kyle Emile
+    ; Receipt: c52bd40b51ef86f18191426fbe3645f0.pdf
+
+2016/11/11 Facebook
+    Expenses:Miscellaneous:Ads                           $0.47
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 73711c70355f0fc18850ec9e89c90a10.pdf
+
+2016/11/11 Heroku
+    Expenses:Services:Hosting                           $51.24
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: af948bb30ff73c029a96f92d7a37d7af.pdf
+
+2016/11/11 Facebook
+    Expenses:Miscellaneous:Ads                          $12.07
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ad5949188c620dbf9def455cd0e45f93.pdf
+
+2016/11/12 Harvest
+    Expenses:Services:Software                          $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 80ef85ea0a625fa822c5c499470116b3.pdf
+
+2016/11/14 Sticker Mule
+    Expenses:Miscellaneous:Swag                       $4050.25
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c5245fafd0f815bbbbe789f7675d8aa4.pdf
+
+2016/11/14 Mechanical Turk
+    Expenses:Salary:Contractor                         $150.96
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 63026a3678686b8cfce59c07fc83c5a3.pdf
+
+2016/11/14 Mechanical Turk
+    Expenses:Salary:Contractor                         $263.52
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d84d417ee0cbb41da521724913deaa38.pdf
+
+2016/11/15 Cloud9
+    Expenses:Services:Software                           $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4d88ba85cc426a88d036902a7137d3e7.pdf
+
+2016/11/16 Uber
+    Expenses:Transport:Ride Sharing                     $12.60
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 071f46d82d63cf272077ef71c08bba60.pdf
+
+2016/11/20 Zapier
+    Expenses:Services:Software                          $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cc02a099d3985a8ce3b2c7c0bd44dddd.pdf
+
+2016/11/20 Seton & Associates
+    ; Trademark filing
+    Expenses:Services:Legal                           $1700.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f4571711af7f51077cccfc568704d1ee.pdf
+
+2016/11/20 Mechanical Turk
+    Expenses:Salary:Contractor                          $12.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 50d1053b7dbdc42c73491246000532c6.pdf
+
+2016/11/20 Mechanical Turk
+    Expenses:Salary:Contractor                          $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 63299a8b24ec658d7b9c85bb8ee6458d.pdf
+
+2016/11/20 Mechanical Turk
+    Expenses:Salary:Contractor                          $21.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e78e0c68cffe0df62ef7e6625b0798a6.pdf
+
+2016/11/20 Mechanical Turk
+    Expenses:Salary:Contractor                        $2000.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 71ee12c685193507bdd826d87a407970.pdf
+
+2016/11/20 Mechanical Turk
+    Expenses:Salary:Contractor                         $257.22
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: efaa23da0d5062c3a2b154f4fc333bc0.pdf
+
+2016/11/22 IQ Risk
+    ; D&O insurance
+    Expenses:Insurance                                 $987.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ed4b413e0f8d169bc7a71f82e64c318d.pdf
+
+2016/12/01 Papertrail
+    Expenses:Services:Software                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b691add8768e4af57cce895f0493609f.pdf
