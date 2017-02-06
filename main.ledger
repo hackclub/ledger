@@ -3213,3 +3213,19 @@
     Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
     Assets:Bank:Chase:Checking
     ; Receipt: daabad9fb56e7ec2df04896d84f75522.pdf
+
+2016/11/01 Dariana Valcarcel
+    Expenses:Salary  $360.60
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 80f80ae502a64706b63989a5f16fa637.pdf
+
+2016/11/15 Max Wofford
+    ; Check was returned to bank
+    Assets:Bank:Wells Fargo:Checking  $301.05
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 6a821420e28a69e94e5a9fd16a6a6a79.pdf
+
+2016/11/17 Max Wofford
+    Liabilities:Reimbursement:Max Wofford  $301.05
+    Assets:Bank:Wells Fargo:Checking
+    ; Receipt: 6cd6dddf1f29d76198494f9ba1145928.pdf

@@ -6,6 +6,54 @@ Have at it! (and contributions are welcome!)
 
 ![](http://i.imgur.com/T6VD4Lp.gif)
 
+## Categories
+
+An up-to-date list of all of the categories in our ledger is below:
+
+```
+Assets
+  Wells Fargo
+    Checking
+    Savings
+  Chase
+    Checking
+Expenses
+  Operating
+    Contracting
+    Insurance
+    Legal
+    Office
+    Other
+    Shipping
+      Physical Supplies
+      Postage
+    Software
+    Staff
+    Tax
+    Transportation
+  Marketing
+    Ads
+    Contracting
+    Stickers
+    T-Shirts
+    Transportation
+    Contracting
+    Other
+  Fundraising
+    Travel
+    Transportation
+    Contracting
+    Other
+Income
+  Bank Interest
+  Fundraising
+  Hack Camp
+  Website Donations
+Liabilities
+  Reimbursement
+    <subcategories for each person we owe money>
+```
+
 ## Monthly Reports
 
 We occasionally create a monthly finance report every month for our wonderful fiscal sponsor, [Mission Bit](http://www.missionbit.com/).
