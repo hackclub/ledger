@@ -48,8 +48,10 @@ Expenses
     Contracting
     Other
   Fundraising
-    Travel
+    Accommodation
     Transportation
+      Air
+      Ground
     Contracting
     Other
 Income

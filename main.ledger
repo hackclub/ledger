@@ -1628,6 +1628,11 @@
     Assets:Wells Fargo:Checking
     ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
+2016/01/14 Uber
+    Expenses:Operating:Transportation:Ground             $8.61
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9db26eca2ec8d7e1436708c0ca4f1ea5.pdf
+
 2016/01/19 Uber
     Expenses:Operating:Transportation:Ground             $5.60
     Liabilities:Reimbursement:Jonathan Leung
@@ -1652,11 +1657,16 @@
     Expenses:Operating:Bank                              $6.00
     Assets:Wells Fargo:Savings
     ; Receipt: 6cc52050b29425f08a588366f6ec657a.png
-
 2016/01/31 Google
     Expenses:Operating:Software                         $22.20
     Assets:Wells Fargo:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
+
+2016/01/31 Uber
+    Expenses:Fundraising:Transportation:Ground          $24.27
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1eb7492133ee22d5d196745fd1e8a1d2.pdf
+
 2016/02/01 USPS
     Expenses:Operating:Shipping                         $30.60
     Liabilities:Reimbursement:Zach Latta
@@ -3293,6 +3303,11 @@
     Assets:Chase:Checking                              $423.25
     Assets:Wells Fargo:Savings
 
+2016/11/30 Google
+    Expenses:Operating:Software                         $45.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d869f3a336d60e3341d044712fbf6fb5.pdf
+
 2016/12/01 Papertrail
     Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
@@ -3306,3 +3321,345 @@
     Expenses:Operating:Bank                             $25.00 ; Payee: Chase
     Assets:Chase:Checking
     ; Receipt: daabad9fb56e7ec2df04896d84f75522.pdf
+
+2016/12/07 Google
+    Expenses:Operating:Hosting                          $28.11
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 20ed989e67ae2aabd308fdc4a7bbba0f.pdf
+
+2016/12/12 Heroku
+    Expenses:Operating:Hosting                          $64.10
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 323b6f3800c2b35e04b1ee4effa32e12.pdf
+
+2016/12/12 Streak
+    Expenses:Operating:Software                        $124.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 31e4de8e02eca50fa594a1af8a9f498c.pdf
+
+2016/12/12 The Laundry
+    Expenses:Operating:Office:Rent                     $196.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f987e6b1e52a7fa1361cc8796240438f.pdf
+
+2016/12/15 Uber
+    Expenses:Operating:Transportation:Ground            $36.88
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9628acf1ec1d88a81753b95e24c3c459.pdf
+
+2016/12/16 Uber
+    Expenses:Operating:Transportation:Ground            $17.68
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8c9af9a0b47965fd6d9ee1256ce4d7e9.pdf
+
+2016/12/17 HelloSign
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d0158e74a0afd6fc9ac6eb8cef61a036.pdf
+
+2016/12/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ff72b9a6963f88a2a81c5a811cdc074f.pdf
+
+2016/12/27 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0a62f3e1892a0d20a58c2a58b83a664f.pdf
+
+2017/01/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 2892a2e0b358a69d9ad2578f4cab5345.pdf
+
+2017/01/05 Google
+    Expenses:Operating:Hosting                          $38.26
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: afa8783c06db918ab3c7cb814370f5f6.pdf
+
+2017/01/09 Streak
+    Expenses:Operating:Software                        $124.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e23f838f32db8a0b370ac3add34b770c.pdf
+
+2017/01/09 The Laundry
+    Expenses:Operating:Office:Rent                     $562.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c79f04a37d3500ebc10a81daad7ed8ff.pdf
+
+2017/01/10 Heroku
+    Expenses:Operating:Hosting                          $64.03
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d46b00059bce89c8c15e1fff53753e2b.pdf
+
+2017/01/10 Amazon
+    Expenses:Operating:Office:Supplies                 $396.59
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fd9c5d778830b8b5db9386004720370a.pdf
+
+2017/01/10 El Aji Peruvian Restaurant
+    Expenses:Operating:Food                             $41.13
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cde5e9cac92661dbe18ae5209de33950.JPG
+
+2017/01/10 Seton & Associates
+    Expenses:Operating:Legal                           $275.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a9207d673cd2bb9c5ae5a81cc9e8ff39.pdf
+
+2017/01/11 The Laundry
+    Expenses:Operating:Office:Rent                     $224.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7c0335333f86f6cd597f5de38613686d.pdf
+
+2017/01/11 Rosamunde Sausage Grill
+    Expenses:Operating:Food                             $32.42
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f988f176b39b4f2d422105abba0c36a0.pdf
+
+2017/01/11 After Osha
+    Expenses:Operating:Food                             $37.83
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b1ac97e2020ac85cc6fdb9d7c5f8fb98.JPG
+
+2017/01/12 Cloud9
+    Expenses:Operating:Software                          $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 2d0a653d99c4de156daa34bc939cc5ce.pdf
+
+2017/01/12 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d54d0643927b3c6c2ee128a047192132.pdf
+
+2017/01/12 Mission Picnic
+    Expenses:Operating:Food                             $36.89
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6ff48b0dde35e9e7b714a3e4e0fb3a37.JPG
+
+2017/01/12 Sweet Chinito
+    Expenses:Operating:Food                              $5.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 302bbc9e2d19ea021c183b8b6ebd82fd.JPG
+
+2017/01/12 Pakwan Restaurant
+    Expenses:Operating:Food                             $54.30
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d1629e1167eb417b137d3a26122fb1d6.JPG
+
+2017/01/12 Streak
+    Expenses:Operating:Software                         $28.56
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 721099394f19af73199e25989349b90a.pdf
+
+2017/01/12 Amazon
+    Expenses:Operating:Office:Supplies                  $41.39
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a5e06c96f5256f78258213d5ca2ad210.pdf
+
+2017/01/13 Eastvale Store LLC
+    ; This person accidentally sent money to the company account when they
+    ; should have sent to Zach's personal PayPal.
+    Assets:PayPal                                       $11.20
+    Liabilities:Reimbursement:Zach Latta
+
+2017/01/13 Eastvale Store LLC
+    ; This person sent money to the company account when they should have sent
+    ; to Zach's personal PayPal.
+    Assets:PayPal                                       $11.60
+    Liabilities:Reimbursement:Zach Latta
+
+2017/01/13 Eastvale Store LLC
+    ; This person sent money to the company account when they should have sent
+    ; to Zach's personal PayPal.
+    Assets:PayPal                                        $3.75
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 69d07f9358778e44b09c46e5edb27bda.pdf
+
+2017/01/13 Samay Shamdasani
+    Expenses:Operating:Contracting                     $100.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 23d2e11b1049b6aff51f516b5b53032c.pdf
+
+2017/01/13 Los Panchos
+    Expenses:Operating:Food                             $26.70
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9b9de9a98e79cb5eb673f3ccbec26ca5.JPG
+
+2017/01/14 Uber
+    Expenses:Operating:Transportation:Ground            $26.37
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c6f974bd7be68486ab955a1963fcb3dc.pdf
+
+2017/01/14 Uber
+    Expenses:Operating:Transportation:Ground            $50.54
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4fe55d9674e9d9e0a6c5b6e8165d9a9f.pdf
+
+2017/01/15 Uber
+    Expenses:Operating:Transportation:Ground            $32.20
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 426909c4d87ec15aaaaec036c0d951d9.pdf
+
+2017/01/15 Uber
+    Expenses:Operating:Transportation:Ground            $34.73
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ba0cc82858ceb3719287cb6caeffa46a.pdf
+
+2017/01/17 Eastvale Store LLC
+    ; Someone sent money to Zach that should have been sent to his personal
+    ; PayPal.
+    Assets:PayPal                                       $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c0ff7df08ebf5d333e1987a2597ff6c5.pdf
+
+2017/01/17 Uber
+    Expenses:Operating:Transportation:Ground             $5.75
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4146e29d6836ce058ae2c9d5f99a2c0f.pdf
+
+2017/01/17 A Foto Video Mail and Mo
+    Expenses:Operating:Shipping                         $72.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 60f729a2c00e12823d86b7a1e4fbf504.JPG
+
+2017/01/17 Walgreens
+    Expenses:Operating:Shipping                         $17.32
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 90df469944c09eb830c11a7d9c07c4bd.JPG
+
+2017/01/18 Uber
+    Expenses:Operating:Transportation:Ground            $11.08
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 08e48bfbcbcd6947b7dc5bd5321357dd.pdf
+
+2017/01/18 Namecheap
+    Expenses:Operating:Hosting                          $10.87
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 03c497859ddce8bfdee4af4b74a8809d.pdf
+
+2017/01/18 Stamps.com
+    Expenses:Operating:Shipping                         $27.83
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8ebbef6c53e8c9098a1378ef3d218f2f.pdf
+
+2017/01/18 iwantmyname
+    Expenses:Operating:Hosting                         $139.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1bf14006d17d09b4a8dc1dd62927f728.pdf
+
+2017/01/18 Hotel Indigo
+    Expenses:Fundraising:Accommodation                 $147.92
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f05127015735ea7e4f2ea787b2c7090d.pdf
+
+2017/01/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 171dcef025997b520a0cc1fab557cb5d.pdf
+
+2017/01/20 Shyp
+    Expenses:Operating:Shipping                         $35.48
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 152f8c7f5e73140dda18c679f32543f0.pdf
+
+2017/01/24 Stamps.com
+    Expenses:Operating:Shipping                         $10.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3129b29bc5f9e24ab7adb0c8f56113a2.pdf
+
+2017/01/24 Uber
+    Expenses:Fundraising:Transportation:Ground          $14.07
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3d679c72bdab021e098c14da9d05484b.pdf
+
+2017/01/25 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 19764f154df565b5b5142e237f0de5f5.pdf
+
+2017/01/25 Mission Picnic
+    Expenses:Operating:Food                             $50.55
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5408b2863514ba390921abb7961e8ece.JPG
+
+2017/01/30 Uber
+    Expenses:Fundraising:Transportation:Ground           $5.76
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 74fcdaef184126e4edd4e02f8b779320.pdf
+
+2017/01/30 Hash House A Go Go
+    Expenses:Operating:Food                             $24.16
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5eda3dceb48d1a7eb886f2578ec780ec.JPG
+
+2017/01/30 Ventra Vending
+    Expenses:Fundraising:Transportation:Ground           $6.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 68de486a91fb27bbfb14dcbb99dad208.png
+
+2017/01/31 Uber
+    Expenses:Fundraising:Transportation:Ground           $5.32
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 597b386a3248ef1b1c907cd5287f517a.pdf
+
+2017/01/31 Uber
+    Expenses:Fundraising:Transportation:Ground           $6.05
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9ee579b86040f1a4ca120cc29a664a16.pdf
+
+2017/01/31 Southwest
+    ; Internet on flight
+    Expenses:Operating:Other                             $8.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 896eba6836a724db0ae956ab994d4076.pdf
+
+2017/01/31 Giordano's Jackson
+    Expenses:Fundraising:Food                           $50.20
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a98e5bea6df6e5bebf87094c94529dba.JPG
+
+2017/01/31 Avanti Markets
+    Expenses:Fundraising:Food                            $2.91
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ada364c7f1e9c2d41e9022f9462d085f.pdf
+
+2017/01/31 The 3rd Coast Cafe
+    Expenses:Operating:Food                             $41.52
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1879437fcb3a7676f2c2066aaae851f1.JPG
+
+2017/02/01 Uber
+    Expenses:Fundraising:Transportation:Ground          $10.56
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ed0dd80084b1be6bc6c1264af9e6fa5a.pdf
+
+2017/02/01 Uber
+    Expenses:Fundraising:Transportation:Ground          $12.08
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ddda54fdb2e314703205717c457ebcfb.pdf
+
+2017/02/01 Uber
+    Expenses:Fundraising:Transportation:Ground          $17.13
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e2cef309e97ba1ba679ae35b5c06c492.pdf
+
+2017/02/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 172585ab32ff2729ec92545b751d92cd.pdf
+
+2017/02/01 La Taqueria
+    Expenses:Operating:Food                             $48.72
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: da9848d88e5b19690eed34668b0aed6f.JPG
+
+2017/12/31 Google
+    Expenses:Operating:Software                         $45.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7254112bfc7c2d155fb825665316850a.pdf
+
+2016/12/31 Google
+    Expenses:Operating:Software  $45.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7254112bfc7c2d155fb825665316850a.pdf
