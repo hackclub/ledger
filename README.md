@@ -12,28 +12,36 @@ An up-to-date list of all of the categories in our ledger is below:
 
 ```
 Assets
+  Chase
+    Checking
+  PayPal
+  Square Cash
   Wells Fargo
     Checking
     Savings
-  Chase
-    Checking
 Expenses
   Operating
+    Bank
     Contracting
+    Food
     Insurance
     Legal
     Office
+      Rent
+      Supplies
     Other
     Shipping
-      Physical Supplies
-      Postage
     Software
+    Hosting
     Staff
+      Salary
+      Relocation
     Tax
     Transportation
+      Air
+      Ground
   Marketing
     Ads
-    Contracting
     Stickers
     T-Shirts
     Transportation
@@ -48,6 +56,7 @@ Income
   Bank Interest
   Fundraising
   Hack Camp
+  Other
   Website Donations
 Liabilities
   Reimbursement

@@ -1,2196 +1,2250 @@
-2015/01/31 Opening Balance
-    Assets:Savings                                          $0
-    Expenses:Rent                                           $0
-    Expenses:Food                                           $0
-    Income:Donations                                        $0
-    Liabilities:Reimbursement:Zach Latta
-
 2015/01/24 Lyft
-    Expenses:Transport:Ride Sharing                     $33.92
+    Expenses:Operating:Transportation:Ground            $33.92
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ed8aff48be4b8f18af6c3c1af12ae68f.png
 
 2015/01/27 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 75fd158c0d71d3f0bb3c253e7d549290.png
 
 2015/02/05 Clipper Card
-    Expenses:Transport:Public Transportation               $20
+    Expenses:Operating:Transportation:Ground               $20
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
 2015/02/05 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
 2015/02/05 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
 2015/02/06 United States Corporation Agents, Inc.
-    Expenses:Miscellaneous:Tax:Delaware                    $25
+    Expenses:Operating:Tax                                 $25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c3aa38627856b3ac9010fe915f0f545.pdf
 
 2015/02/06 Carmelina's Taqueria
-    Expenses:Food                                        $0.71
-    Expenses:Food                                        $0.98
-    Expenses:Food                                        $0.71
+    Expenses:Operating:Food                              $0.71
+    Expenses:Operating:Food                              $0.98
+    Expenses:Operating:Food                              $0.71
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fce9f64c4519038d356ba2c902286b31.pdf
 
 2015/02/06 Lyft
-    Expenses:Transport:Ride Sharing                      $9.15
+    Expenses:Operating:Transportation:Ground             $9.15
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
 2015/02/06 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
 
 2015/02/17 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 7c19a066ada9c241ea9e947cf4dc979f.png
 
 2015/02/18 Holy Grill
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 05a86e3d1127a66e8166fe13dd7bb29d.pdf
 
 2015/02/19 Onigilly
-    Expenses:Food                                        $1.00
-    Expenses:Food                                        $1.00
-    Expenses:Food                                        $1.75
-    Expenses:Food                                        $2.00
+    Expenses:Operating:Food                              $1.00
+    Expenses:Operating:Food                              $1.00
+    Expenses:Operating:Food                              $1.75
+    Expenses:Operating:Food                              $2.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
 
 2015/02/19 IRCCloud
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2fdfb63394095bebb5617c8ac99c0f37.pdf
 
 2015/02/19 Holy Grill
-    Expenses:Food                                        $1.75
-    Expenses:Food                                        $2.00
+    Expenses:Operating:Food                              $1.75
+    Expenses:Operating:Food                              $2.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c7a2c94b013500f4155f2423ae7a248e.pdf
 
 2015/02/24 Namecheap
-    Expenses:Services:Hosting                           $94.00
+    Expenses:Operating:Hosting                          $94.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 504c156824834be7ad78eb97fc8844b7.pdf
 
 2015/02/24 Onigilly
-    Expenses:Food                                        $1.50
-    Expenses:Food                                        $1.00
-    Expenses:Food                                        $1.00
+    Expenses:Operating:Food                              $1.50
+    Expenses:Operating:Food                              $1.00
+    Expenses:Operating:Food                              $1.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f195b4a84a97efcbee82f5149b6da920.pdf
 
 2015/02/24 Lyft
-    Expenses:Transport:Ride Sharing                      $4.90
+    Expenses:Operating:Transportation:Ground             $4.90
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4a8908e4e62530cc0dd8ecf1da1294a0.pdf
 
 2015/02/25 Carmelina's Taqueria
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cb1b35445a44050d7f843695d05f654c.pdf
 
 2015/02/25 Holy Grill
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $0.74
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $0.74
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9da364adf5de6a57718bbf3088c370fb.pdf
 
 2015/02/25 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 3fa7db6d279516aeb0816ce664c4c9fb.png
 
 2015/02/26 FastMail
-    Expenses:Services:Software                           $4.00
+    Expenses:Operating:Software                          $4.00
     Liabilities:Reimbursement:Zach Latta
 
 2015/02/28 Lyft
-    Expenses:Transport:Ride Sharing                      $4.00
+    Expenses:Operating:Transportation:Ground             $4.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5625278675d1fb555e5d8ea529beecff.png
 
 2015/03/02 Carmelina's Taqueria
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $2.07
-    Expenses:Food                                        $3.59
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $2.07
+    Expenses:Operating:Food                              $3.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 01b61dfce714582c8ed33a802c40e78b.pdf
 
 2015/03/02 Eleven O One
-    Expenses:Food                                        $5.44
-    Expenses:Food                                        $5.44
-    Expenses:Food                                        $5.44
+    Expenses:Operating:Food                              $5.44
+    Expenses:Operating:Food                              $5.44
+    Expenses:Operating:Food                              $5.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 566f0787e50071d275bde481154e2089.pdf
 
 2015/03/02 Carmelina's Taqueria
-    Expenses:Food                                        $0.71
-    Expenses:Food                                        $0.71
-    Expenses:Food                                        $0.71
+    Expenses:Operating:Food                              $0.71
+    Expenses:Operating:Food                              $0.71
+    Expenses:Operating:Food                              $0.71
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 396078b0ac9c55018b9d1af8c8c0af17.pdf
 
 2015/03/02 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 91b23a92cee7e164a313c92081af6d9c.png
 
 2015/03/03 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d0ee28147336988eaa7798d7c40cefcd.pdf
 
 2015/03/03 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3279289f82dbe8b0f2b7bcd57d474391.pdf
 
 2015/03/03 Dinosaurs
-    Expenses:Food                                        $3.04
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
+    Expenses:Operating:Food                              $3.04
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
 
 2015/03/04 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
 
 2015/03/05 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Ride Sharing                     $12.05
+    Expenses:Operating:Transportation:Ground            $12.05
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0572062eb50d8e572ae7d8ac6206cb78.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Ride Sharing                     $11.87
+    Expenses:Operating:Transportation:Ground            $11.87
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 54c330a7825affa8c313edc436a6543b.pdf
 
 2015/03/05 Fiverr
-    Expenses:Services:Software                           $5.50
+    Expenses:Operating:Software                          $5.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 54e5323814422e98f179054208a274a0.pdf
 
 2015/03/05 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5a698ad66597be508af112646bbe60a0.png
 
 2015/03/05 Uber
-    Expenses:Transport:Ride Sharing                      $6.32
+    Expenses:Operating:Transportation:Ground             $6.32
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 627d50e580ab93a5a9ae4b634fe6e033.png
 
 2015/03/08 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
 
 2015/03/08 Dinosaurs
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fae87fe71a62bd21ab4b1ad7919580e0.pdf
 
 2015/03/08 Cerveceria de Mateveza
-    Expenses:Food                                        $1.07
+    Expenses:Operating:Food                              $1.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6d54217d509abe6cabbbb0fac30f18cc.pdf
 
 2015/03/09 Carmelina's Taqueria
-    Expenses:Food                                        $0.71
-    Expenses:Food                                        $2.07
+    Expenses:Operating:Food                              $0.71
+    Expenses:Operating:Food                              $2.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4427ea5c7b844a0724f496dc7b47e829.pdf
 
 2015/03/09 Dinosaurs
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
 
 2015/03/10 Lyft
-    Expenses:Transport:Ride Sharing                         $5
+    Expenses:Operating:Transportation:Ground                $5
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
 
 2015/03/10 Panera Bread
-    Expenses:Food                                        $2.38
+    Expenses:Operating:Food                              $2.38
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2e376f2de6f0a573f4c67e6f218e7def.pdf
 
 2015/03/11 Carmelina's Taqueria
-    Expenses:Food                                        $1.80
-    Expenses:Food                                        $0.98
-    Expenses:Food                                        $0.98
+    Expenses:Operating:Food                              $1.80
+    Expenses:Operating:Food                              $0.98
+    Expenses:Operating:Food                              $0.98
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0bb8b53b03ad73c6f4cc36790575f007.pdf
 
 2015/03/12 Carmelina's Taqueria
-    Expenses:Food                                        $0.98
-    Expenses:Food                                        $0.98
-    Expenses:Food                                        $0.98
+    Expenses:Operating:Food                              $0.98
+    Expenses:Operating:Food                              $0.98
+    Expenses:Operating:Food                              $0.98
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9c2310ac675ab945b4915b5d53bd60cc.pdf
 
 2015/03/12 Dinosaurs
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $3.04
-    Expenses:Food                                        $3.04
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $3.04
+    Expenses:Operating:Food                              $3.04
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11e6615b6195b42c867c712ff15cad72.pdf
 
 2015/03/12 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 53c93afd9ed53d5fb44ae8d08ee561d5.png
 
 2015/03/14 Lyft
-    Expenses:Transport:Ride Sharing                      $9.78
+    Expenses:Operating:Transportation:Ground             $9.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4b4a70972bf8188c8244325fc7a90745.pdf
 
 2015/03/14 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 6fb8aec45774e71c6b6d47099acc609e.png
 
 2015/03/14 Uber
-    Expenses:Transport:Ride Sharing                     $10.20
+    Expenses:Operating:Transportation:Ground            $10.20
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 37d33bb0ef3d5bb5df987f1463aff9b0.png
 
 2015/03/14 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 40990b71888c727750463396bcde27a3.png
      
 
 2015/03/16 Lyft
-    Expenses:Transport:Ride Sharing                         $6
+    Expenses:Operating:Transportation:Ground                $6
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
 2015/03/18 Four Barrel Coffee
-    Expenses:Food                                        $8.16
+    Expenses:Operating:Food                              $8.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
 2015/03/19 Uber
-    Expenses:Transport:Ride Sharing                         $7
+    Expenses:Operating:Transportation:Ground                $7
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
 2015/03/19 IRCCloud
-    Expenses:Services:Software                          $25.00
+    Expenses:Operating:Software                         $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab8c6f05dfb4ce3b603e49314771cb0d.pdf
 
 2015/03/19 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: abbd914e1506daa0fa88b9fc8e4c7cc2.png
 
 2015/03/23 Dinosaurs
-    Expenses:Food                                        $2.25
+    Expenses:Operating:Food                              $2.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ecb83d49856f502fac553bd861203102.pdf
 
 2015/03/24 Bank
-    Assets:Bank:Wells Fargo:Checking                       $50
-    Assets:Bank:Wells Fargo:Savings                        $50
+    Assets:Wells Fargo:Checking                            $50
+    Assets:Wells Fargo:Savings                             $50
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
 2015/03/24 Lyft
-    Expenses:Transport:Ride Sharing                      $6.95
+    Expenses:Operating:Transportation:Ground             $6.95
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b61c3e3df8531715e19d7f3ebbbcd203.png
 
 2015/03/25 7-Eleven
-    Expenses:Food                                        $5.79
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                              $5.79
+    Assets:Wells Fargo:Checking
 
 2015/03/26 Muni
-    Expenses:Transport:Public Transportation             $2.25
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Transportation:Ground             $2.25
+    Assets:Wells Fargo:Checking
 
 2015/03/26 Muni
-    Expenses:Transport:Public Transportation             $4.50
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Transportation:Ground             $4.50
+    Assets:Wells Fargo:Checking
 
 2015/03/27 Clipper Card
-    Expenses:Transport:Public Transportation               $20
+    Expenses:Operating:Transportation:Ground               $20
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
 2015/03/30 H&M
-    Expenses:Miscellaneous:Shopping                     $48.93
+    ; T-shirt for an event we needed to attend.
+    Expenses:Operating:Other                            $48.93
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 447219f693b2bf35cff860dcf80cb99d.jpg
 
 2015/03/30 Bristol Farms
-    Expenses:Food                                       $14.59
+    Expenses:Operating:Food                             $14.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cea635d66ededfe40a9e1cc495bd26a9.pdf
 
 2015/03/30 FastMail
-    Expenses:Services:Software                          $44.22
+    Expenses:Operating:Software                         $44.22
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4083e087ed797e29847287f818d1d250.pdf
 
 2015/03/30 Cydia
-    Expenses:Services:Software                           $0.99
+    Expenses:Operating:Software                          $0.99
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e25d81550bf60e4dccf843aac8edb05c.pdf
 
 2015/03/30 Lyft
-    Expenses:Transport:Ride Sharing                     $19.43
+    Expenses:Operating:Transportation:Ground            $19.43
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 6ea7c486d51e8adfae2995eb937cf8e1.png
 
 2015/03/31 Hearth Coffee
-    Expenses:Food                                        $1.50
+    Expenses:Operating:Food                              $1.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f38d63e7ae614066e60a44ec92fcae2b.pdf
 
 2015/04/02 Munchery
-    Expenses:Food                                       $12.45
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                             $12.45
+    Assets:Wells Fargo:Checking
 
 2015/04/02 Munchery
-    Expenses:Food                                       $12.90
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Food                             $12.90
+    Assets:Wells Fargo:Savings
 
 2015/04/03 Munchery
-    Expenses:Food                                       $14.45
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                             $14.45
+    Assets:Wells Fargo:Checking
 
 2015/04/03 Homeskillet
-    Expenses:Food                                       $11.42
+    Expenses:Operating:Food                             $11.42
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2082f8ec41069f7fb1e3f3e5f6431a8a.pdf
 
 2015/04/06 Munchery
-    Expenses:Food                                        $0.45
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                              $0.45
+    Assets:Wells Fargo:Checking
     ; Receipt: fc79ccfc59f3c85b2dea274081f5e40d.pdf
 
 2015/04/08 Clipper Card
-    Expenses:Transport:Public Transportation            $20.00
+    Expenses:Operating:Transportation:Ground            $20.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8982a67759844af2da6b48f1a43d9cc5.pdf
 
 2015/04/09 Bank
-    Assets:Bank:Wells Fargo:Checking                     $3.00
+    Assets:Wells Fargo:Checking                          $3.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fa68363e11ea52ddd0ee0447335cbec5.jpeg
 
 2015/04/09 Hearth Coffee
-    Expenses:Food                                        $3.50
+    Expenses:Operating:Food                              $3.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3e76606cfcf02ed6b841d73fdc768eae.jpeg
 
 2015/04/12 Safeway
-    Expenses:Food                                        $3.49
+    Expenses:Operating:Food                              $3.49
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 75b2ab4b4444ae614ef3d56671389d3d.jpeg
 
 2015/04/12 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdb0cd920945309678396370a3f00e02.pdf
 
 2015/04/14 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ee14ae5b5c26f6cd50c4059ff7c38dc3.png
 
 2015/04/17 Anonymous Donor 1
-    Assets:Bank:Wells Fargo:Checking                  $5000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                       $5000.00
+    Income:Fundraising
     ; Receipt: d0ef8d3234a1af07e2a5856a0efb80da.jpeg
 
 2015/04/17 Bi-Rite Creamery
-    Expenses:Food                                        $9.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Food                              $9.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d2e7efd14c378b9d2a11df8456f0618.jpeg
 
 2015/04/18 Uber
-    Expenses:Transport:Ride Sharing                      $4.47
+    Expenses:Operating:Transportation:Ground             $4.47
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e15300474df8fb9a964ceb382cc3a60f.pdf
 
 2015/04/19 Le Marais Bakery
-    Expenses:Food                                        $2.50
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Food                              $2.50
+    Assets:Wells Fargo:Checking
     ; Receipt: 738c72327a03d717de65d303e5f49cb4.jpeg
 
 2015/04/23 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f684d61a5860e1da79d16d0bd532ba63.png
 
 2015/04/25 Uber
-    Expenses:Transport:Ride Sharing                     $34.20
+    Expenses:Operating:Transportation:Ground            $34.20
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b2b36cc5acc2e41fdb02cb1725cb0379.png
 
 2015/04/27 Lyft
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
     ; where receipt
 
 2015/04/28 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: a9cae013edc0ce69cba6013e0b96bba1.png
 
 2015/04/30 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
 
 2015/04/30 Clipper Card
-    Expenses:Transport:Public Transportation            $25.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $25.00
+    Assets:Wells Fargo:Checking
 
 2015/04/30 T-Mobile
-    Expenses:Services:Internet                          $13.65
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    ; Internet access on airplane
+    Expenses:Operating:Other                            $13.65
+    Assets:Wells Fargo:Checking
     ; Receipt: 403890a04955d9987f3932a1e55dcc20.pdf
 
 2015/04/30 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ee6e030f0862ee71628bf93b11111566.png
 
 2015/05/05 Clipper Card
-    Expenses:Transport:Public Transportation            $80.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $80.00
+    Assets:Wells Fargo:Checking
 
 2015/05/05 Amazon
-    Expenses:Miscellaneous:Shopping                     $69.93
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $69.93
+    Assets:Wells Fargo:Checking
     ; Receipt: 9c24ceba2df2e28bdbb2eb80de8db603.pdf
 
 2015/05/06 Anonymous Donor 2
-    Assets:Bank:Wells Fargo:Checking                 $10000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                      $10000.00
+    Income:Fundraising
 
 2015/05/06 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                  $15.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Bank                             $15.00
+    Assets:Wells Fargo:Checking
 
 2015/05/06 Eventbrite
-    Expenses:Miscellaneous:Events                       $53.74
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    ; Cost to attend an event
+    Expenses:Operating:Other                            $53.74
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d638597ade546ab9e73ae5e00581685.pdf
 
 2015/05/07 Clipper Card
-    Expenses:Transport:Public Transportation            $20.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground            $20.00
+    Assets:Wells Fargo:Checking
 
 2015/05/07 Morrison Productions
-    Expenses:Miscellaneous:Swag                        $100.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Marketing:T-Shirts                        $100.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 59f2d5fa1721eb4fd5b307d0e5cb9efc.jpeg
 
 2015/05/07 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
 2015/05/07 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
     ; For any future clarification, this payment was made through PayPal
 
 2015/05/07 Anonymous Donor 6
     Assets:PayPal                                      $200.00
-    Income:Donations
-    ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
-
-2015/05/07 PayPal
-    Expenses:Services:Bank:PayPal                        $6.10
-    Assets:PayPal
+    Expenses:Operating:Bank                              $6.10 ; Payee: PayPal
+    Income:Fundraising
     ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
 
 2015/05/07 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: baedca54d098824e65a14d5f86e6f01d.png
 
 2015/05/08 ZenPayroll
-    Assets:Bank:Wells Fargo:Checking                     $0.86
+    Assets:Wells Fargo:Checking                          $0.86
     Expenses:Services:ZenPayroll
 
 2015/05/08 ZenPayroll
     Expenses:Services:ZenPayroll                         $0.86
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
 
 2015/05/08 Lyft
-    Expenses:Transport:Ride Sharing                      $6.00
+    Expenses:Operating:Transportation:Ground             $6.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
 
 2015/05/09 Anonymous Donor 7
     Assets:PayPal                                      $750.00
-    Income:Donations
-    ; Receipt: 4ca005a3c13d22bd8f5082838aed44ec.pdf
-
-2015/05/09 PayPal
-    Expenses:Services:Bank:PayPal                       $22.05
-    Assets:PayPal
+    Expenses:Operating:Bank                             $22.05 ; Payee: PayPal
+    Income:Fundraising
     ; Receipt: 4ca005a3c13d22bd8f5082838aed44ec.pdf
 
 2015/05/11 Molly Stone's
-    Expenses:Food                                        $7.88
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $7.88
+    Assets:Wells Fargo:Checking
     ; Receipt: 900c868adceb4e74ce22269536e6cf94.jpeg
 
 2015/05/11 Safeway
-    Expenses:Food                                       $44.51
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $44.51
+    Assets:Wells Fargo:Checking
     ; Receipt: abc4f7b5518d6989a757737939b45465.jpeg
 
 2015/05/11 Instacart
-    Expenses:Food                                       $38.46
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $38.46
+    Assets:Wells Fargo:Checking
     ; Receipt: 6607e5c15c86e8a88e2e96ff6835d61e.jpeg
 
 2015/05/13 La Tortilla
-    Expenses:Food                                       $13.59
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $13.59
+    Assets:Wells Fargo:Checking
     ; Receipt: c9b811fdc214d6ac2afd4d7bcf00fa35.jpeg
 
 2015/05/15 Extreme Pizza
-    Expenses:Food                                       $11.82
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $11.82
+    Assets:Wells Fargo:Checking
 
 2015/05/15 Molly Stone's
-    Expenses:Food                                       $13.02
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $13.02
+    Assets:Wells Fargo:Checking
     ; Receipt: 04cf5576ebd3f9fa12317f342d5dad70.jpeg
 
 2015/05/15 Clipper Card
-    Expenses:Transport:Public Transportation             $2.70
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $2.70
+    Assets:Wells Fargo:Checking
     ; Receipt: d5b6d8ba1bfe6b0a286155f1efdd6c89.jpeg
 
 2015/05/15 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $5.00
+    Assets:Wells Fargo:Checking
 
 2015/05/15 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
 
 2015/05/15 Postmates
-    Expenses:Food                                        $8.07
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $8.07
+    Assets:Wells Fargo:Checking
     ; Receipt: abeb712c6be7ac4d447437dd01f8b790.jpeg
 
 2015/05/19 Anonymous Donor 3
-    Assets:Bank:Wells Fargo:Checking                 $50000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                      $50000.00
+    Income:Fundraising
 
 2015/05/19 Uber
-    Expenses:Transport:Ride Sharing                     $16.54
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $16.54
+    Assets:Wells Fargo:Checking
     ; Receipt: f8448729a4e1864e608b0855c6bc2d1e.png
 
 2015/05/20 Airbnb
-    Expenses:Travel:Accomodation                       $126.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Stay at Brian Chesky's Airbnb
+    Expenses:Operating:Other                           $126.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 1b9d4863bd19dce073345dc807c35da1.pdf
 
 2015/05/21 Lee's Deli
-    Expenses:Food                                       $11.65
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $11.65
+    Assets:Wells Fargo:Checking
     ; Receipt: f12e18ec969336d98b1ea1c785d37c3f.jpeg
 
 2015/05/21 Lee's Deli
-    Expenses:Food                                       $17.07
-    Assets:Bank:Wells Fargo:Checking:Max Wofford
+    Expenses:Operating:Food                             $17.07
+    Assets:Wells Fargo:Checking
 
 2015/05/22 Clipper Card
-    Expenses:Transport:Public Transportation            $40.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $40.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
 2015/05/22 Walgreens
-    Expenses:Food                                       $12.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $12.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ce409ac8809635be9913ed404b5f0593.jpeg
 
 2015/05/24 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f9745032399d0b7feaa4f721c3af8ea4.png
 
 2015/05/25 Andrea
-    Expenses:Transport:Ride Sharing                     $16.95
+    Expenses:Operating:Transportation:Ground            $16.95
     Liabilities:Reimbursement:Jonathan Leung
     ; there is no receipt for this cuz we just goin on his word
 
 2015/05/26 Stripe
-    Assets:Bank:Wells Fargo:Checking                     $0.01
-    Expenses:Services:Stripe
+    ; Stripe bank verification deposit
+    Assets:Wells Fargo:Checking                          $0.01
+    Expenses:Operating:Other
 
 2015/05/26 Dinosaurs
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
-    Expenses:Food                                        $2.25
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
+    Expenses:Operating:Food                              $2.25
+    Assets:Wells Fargo:Checking
 
 2015/05/26 Stripe
-    Expenses:Services:Stripe                             $0.01
-    Assets:Bank:Wells Fargo:Checking
+    ; Stripe bank verification withdrawal
+    Expenses:Operating:Other                             $0.01
+    Assets:Wells Fargo:Checking
 
 2015/05/27 Walgreens
-    Expenses:Food                                        $4.39
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $4.39
+    Assets:Wells Fargo:Checking
     ; Receipt: be1b43205dfcaf6bbc596073b2e3bbb2.jpeg
 
 2015/05/29 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
 
 2015/05/29 Amazon
-    Expenses:Miscellaneous:Shopping                     $26.57
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $26.57
+    Assets:Wells Fargo:Checking
     ; Receipt: bf8177c73de7b6c85831a7109a6027b5.pdf
 
 2015/05/29 Andrea Deng
-    Expenses:Salary                                    $720.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $720.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2b3d94b5fe3b97eb6b16351d9acd4eb4.pdf
 
 2015/06/01 Anonymous Donor 4
-    Assets:Bank:Wells Fargo:Checking                  $5000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                       $5000.00
+    Income:Fundraising
 
 2015/06/01 Instacart
-    Expenses:Food                                       $40.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $40.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 7ecda0fbe9440e8d363e348dda28d31f.pdf
 
 2015/06/01 Clipper Card
-    Expenses:Transport:Public Transportation            $80.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $80.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3f365dad79f138a6b7102e30b2e5f565.jpeg
 
 2015/06/01 Lyft
-    Expenses:Transport:Ride Sharing                      $9.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $9.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 9412c139da74947364ef7fd71addcdeb.png
 
 2015/06/01 Instacart
-    Expenses:Food                                       $16.22
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $16.22
+    Assets:Wells Fargo:Checking
 
 2015/06/01 Walgreens
-    Expenses:Food                                        $2.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $2.00
+    Assets:Wells Fargo:Checking
     ; Receipt: f1c53f67aebf9f7862ffdcbec724efda.jpeg
 
 2015/06/02 Molly Stone's
-    Expenses:Food                                        $3.79
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $3.79
+    Assets:Wells Fargo:Checking
     ; Receipt: f8a998411c5634a58b0c080c83cd6515.jpeg
 
 2015/06/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $32.83
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $32.83
+    Assets:Wells Fargo:Checking
     ; Receipt: 45eb77bf02e765863e7d99c217ee9fce.pdf
 
 2015/06/02 OVO Cafe
-    Expenses:Food                                       $13.05
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $13.05
+    Assets:Wells Fargo:Checking
     ; Receipt: ff7b0776069cd6d9696979e0052d70c1.jpeg
 
 2015/06/05 United
-    Expenses:Travel:Air Travel                         $715.15
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Air              $715.15
+    Assets:Wells Fargo:Checking
     ; Receipt: 1528e4b02a589899f7fffff23fd604dd.pdf
 
 2015/06/08 123Signup
-    Expenses:Miscellaneous:Events                      $695.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Cost to attend an event
+    Expenses:Operating:Other                           $695.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 1b91ceb8fc9a5323e1a1e30a69e90f73.pdf
 
 2015/06/08 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: a955409e27ef6c8e79fdc4b514d0c9b8.png
 
 2015/06/10 Eventbrite
-    Assets:Bank:Wells Fargo:Checking                    $53.74
-    Expenses:Miscellaneous:Events
+    ; Refunding cost to attend an event
+    Assets:Wells Fargo:Checking                         $53.74
+    Expenses:Operating:Other
     ; Receipt: 64f1c5537d60db9517eaf1307d757834.pdf
 
 2015/06/10 Anonymous Donor 5
-    Assets:Bank:Wells Fargo:Checking                 $10000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                      $10000.00
+    Income:Fundraising
     ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
 
 2015/06/10 Spice Kit
-    Expenses:Food                                       $26.47
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Food                             $26.47
+    Assets:Wells Fargo:Checking
     ; Receipt: 20135866ef97dd1270b0ab1c5fb73983.jpeg
 
 2015/06/10 Clipper Card
-    Expenses:Transport:Public Transportation           $249.60
-    Assets:Bank:Wells Fargo:Checking:Andrea Deng
+    Expenses:Operating:Transportation:Ground           $249.60
+    Assets:Wells Fargo:Checking
     ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
 
 2015/06/10 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
 
 2015/06/16 Airbnb
-    Expenses:Travel:Accomodation                       $202.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Stay for a conference Jonathan was attending
+    Expenses:Operating:Other                           $202.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 1d1a6328f93188ee984ed93ca526b747.pdf
 
 2015/06/16 Amazon
-    Expenses:Miscellaneous:Shopping                      $7.01
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                   $7.01
+    Assets:Wells Fargo:Checking
     ; Receipt: 6a8519049f1c33754e5c1c1840f86ae0.pdf
 
 2015/06/22 Instacart
-    Expenses:Food                                       $40.96
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $40.96
+    Assets:Wells Fargo:Checking
     ; Receipt: 9944361c404545d1ef4e018c0b7f0762.pdf
 
 2015/06/22 Amazon
-    Expenses:Miscellaneous:Shopping                     $16.30
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $16.30
+    Assets:Wells Fargo:Checking
     ; Receipt: 17dff2838e4091328ff7b591cee865e2.pdf
 
 2015/06/22 Amazon
-    Expenses:Miscellaneous:Shopping                     $39.38
+    Expenses:Operating:Office:Supplies                  $39.38
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 388aebb810f48d20a41f275424fe83b2.pdf
 
 2015/06/29 Bolt Bus
-    Expenses:Travel                                     $38.50
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $38.50
+    Assets:Wells Fargo:Checking
     ; Receipt: 99925158fdf46581af1a485e7682c126.pdf
 
 2015/06/30 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 9f93a4df38e493790c68e5cedf958da8.pdf
 
 2015/07/01 Stripe
-    Assets:Bank:Wells Fargo:Checking                  $3264.98
+    Assets:Wells Fargo:Checking                       $3264.98
     Income:Hack Camp
     ; Receipt: a118f8657249d8f9715ae5f9b5a1aa3e.pdf
 
 2015/07/06 Hack Camp Hacker
-    Assets:Bank:Wells Fargo:Checking                   $295.00
+    Assets:Wells Fargo:Checking                        $295.00
     Income:Hack Camp
     ; Receipt: f204121a87ad977e9ea15477c14770aa.jpeg
 
 2015/07/06 Lyft
-    Expenses:Travel:Rental Car                          $22.46
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $22.46
+    Assets:Wells Fargo:Checking
     ; Receipt: eef8f4e5c49fcab977e0aa1e39db16e4.pdf
 
 2015/07/06 United
-    Expenses:Travel:Air Travel                          $25.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Air               $25.00
+    Assets:Wells Fargo:Checking
     ; Receipt: a46781e71dcf2ff518881e99a7a18de8.jpg
 
 2015/07/06 United
-    Expenses:Services:Internet                           $3.99
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Internet access on airplane
+    Expenses:Operating:Other                             $3.99
+    Assets:Wells Fargo:Checking
     ; Receipt: 76e0d3f2fa70ec8f12c4413d0f5ae36e.pdf
 
 2015/07/06 United
-    Expenses:Services:Internet                           $3.99
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Internet access on airplane
+    Expenses:Operating:Other                             $3.99
+    Assets:Wells Fargo:Checking
 
 2015/07/06 Concord Coach Lines
-    Expenses:Travel                                     $20.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $20.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 03b89c62db9711a4d96ba9f1d9462ee8.jpg
 
 2015/07/06 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: cc070d9a03b96248697fdcd5efb7b75b.png
 
 2015/07/07 Benjamin Landers
-    Expenses:Salary                                    $320.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $320.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 168f92fe73f4034e8f5c24f3ec65ef2c.txt
 
 2015/07/07 Andrea Deng
-    Expenses:Salary                                    $720.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $720.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ec690bbc4a85d7f7aefe2606ac369a1a.pdf
 
 2015/07/08 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $3.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Bank                              $3.00
+    Assets:Wells Fargo:Checking
 
 2015/07/08 Uber
-    Expenses:Travel:Rental Car                           $7.88
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $7.88
+    Assets:Wells Fargo:Checking
     ; Receipt: 384bcbc3a1a70c5805f6df8c7178db79.pdf
 
 2015/07/08 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 7a2194580d5de1739245c8914b18b23a.pdf
 
 2015/07/09 Uber
-    Expenses:Travel:Rental Car                           $6.03
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $6.03
+    Assets:Wells Fargo:Checking
     ; Receipt: bd30d74c7ca0ef0feb331651b6bf0e08.pdf
 
 2015/07/10 Uber
-    Expenses:Travel:Rental Car                           $5.91
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $5.91
+    Assets:Wells Fargo:Checking
 
 2015/07/10 Uber
-    Expenses:Travel:Rental Car                           $5.79
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $5.79
+    Assets:Wells Fargo:Checking
     ; Receipt: 09a28a8571ad0749ef69af15ac0e91ae.pdf
 
 2015/07/10 Max Wofford
-    Expenses:Salary                                    $320.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $320.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d0f931a06f76031cfb6d3307e26598b.pdf
 
 2015/07/13 Kickstarter
-    Expenses:Miscellaneous:Shopping                     $24.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $24.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 55c67ff67a944bf693b1a81b5b0f7f3b.pdf
 
 2015/07/13 Uber
-    Expenses:Travel:Rental Car                           $6.03
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $6.03
+    Assets:Wells Fargo:Checking
     ; Receipt: 29dd618b7e7ce5e0729c933ad89ea8ea.pdf
 
 2015/07/13 Uber
-    Expenses:Travel:Rental Car                           $6.07
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $6.07
+    Assets:Wells Fargo:Checking
     ; Receipt: e714f1728b5bb358efdea18f5e56036f.pdf
 
 2015/07/13 Clipper Card
-    Expenses:Transport:Public Transportation            $70.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $70.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 68c5ebcd3fea72f4929df654a39e205e.jpeg
 
 2015/07/14 Long Island Rail Road
-    Expenses:Travel:Public Transportation                $8.25
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $8.25
+    Assets:Wells Fargo:Checking
     ; Receipt: 5c97ac0e14133e97b4ba112c6879a9ab.jpeg
 
 2015/07/14 Long Island Rail Road
-    Expenses:Travel:Public Transportation                $7.25
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $7.25
+    Assets:Wells Fargo:Checking
     ; Receipt: 1ea74bde5c20fcdb8fac8036c0fce21b.jpeg
 
 2015/07/14 Panynj Airtrain
-    Expenses:Travel:Public Transportation                $6.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground             $6.00
+    Assets:Wells Fargo:Checking
     ; Receipt: e1511913867ec80d060bc9cc2484cf6d.jpeg
 
 2015/07/14 United
-    Expenses:Travel:Air Travel                          $25.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Air               $25.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 85ad3f56a9487f3d0ed27d3d119dd684.jpeg
 
 2015/07/14 Instacart
-    Expenses:Food                                      $121.43
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                            $121.43
+    Assets:Wells Fargo:Checking
     ; Receipt: fde19fa1d15a58de29e34e8792bde47a.pdf
 
 2015/07/14 Lyft
-    Expenses:Travel:Rental Car                          $16.10
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $16.10
+    Assets:Wells Fargo:Checking
     ; Receipt: b6a63b59e99cb698b8561d67f8e010fe.pdf
 
 2015/07/21 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 612d0c7b5e1d4de03fb289febb0bc802.pdf
 
 2015/07/22 Andrea Deng
-    Expenses:Salary                                    $720.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $720.00
+    Assets:Wells Fargo:Checking
     ; Receipt: c08e4baccc4abc5e20c1c139034e233c.pdf
 
 2015/07/23 Instacart
-    Expenses:Food                                       $42.47
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                             $42.47
+    Assets:Wells Fargo:Checking
 
-2015/07/23 StickerMule
-    Expenses:Miscellaneous:Swag                         $53.00
-    Assets:Bank:Wells Fargo:Checking
+2015/07/23 Sticker Mule
+    Expenses:Marketing:Stickers                         $53.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 01b9bec9c04145a7407c2202a4c3f570.pdf
 
 2015/07/24 Clipper Card
-    Expenses:Transport:Public Transportation           $100.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Transportation:Ground           $100.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 94291e7cbde5a8d993c3022669c57ca0.pdf
 
 2015/07/27 GitHub
-    Expenses:Services:Software                          $25.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $25.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 6e394de0d8f279caceb9a5aa040fbfcd.pdf
 
 2015/07/29 Hack Camp Hacker
     Income:Hack Camp                                   $295.00
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 9e1ef0b503326b5c20697c56780d5a5b.pdf
 
 2015/07/31 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: c855386ccaf9a8545a660eaf5c34bd3e.pdf
 
 2015/08/02 7-Eleven
-    Expenses:Food                                        $1.99
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                              $1.99
+    Assets:Wells Fargo:Checking
     ; Receipt: 508661836211edcfc526f95bb8ad738c.jpg
 
 2015/08/02 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: d934400ff1ccdab60ff7707048168e22.png
 
 2015/08/03 Stripe
-    Assets:Bank:Wells Fargo:Checking                  $3036.86
+    Assets:Wells Fargo:Checking                       $3036.86
     Income:Hack Camp
     ; Receipt: 55c63ceba798757ef455ad7d0386a902.pdf
 
 2015/08/03 Uber
-    Expenses:Transport:Ride Sharing                      $6.78
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $6.78
+    Assets:Wells Fargo:Checking
     ; Receipt: 12d9beece74bd9a50ad7283b1982a4a6.pdf
 
 2015/08/03 Instacart
-    Expenses:Food                                       $47.47
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                             $47.47
+    Assets:Wells Fargo:Checking
     ; Receipt: 9e498f3621a32c0ece2491a5d646fb57.pdf
 
 2015/08/03 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
     ; Receipt: d7d60b8c3f268788f01b4e0d44791d8d.pdf
 
 2015/08/03 Muni
-    Expenses:Transport:Public Transportation             $1.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $1.00
+    Assets:Wells Fargo:Checking
     ; Receipt: e19ad97cc0b9c612e108d4fd5db1c464.jpeg
 
 2015/08/03 Muni
-    Expenses:Transport:Public Transportation             $1.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $1.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 792aad990a262293120a0276ee552187.jpeg
 
 2015/08/03 Uber
-    Expenses:Transport:Ride Sharing                      $9.52
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $9.52
+    Assets:Wells Fargo:Checking
     ; Receipt: e1e97311acdf6bbe3012e95350e1f50c.pdf
 
 2015/08/03 Clipper Card
-    Expenses:Transport:Public Transportation            $40.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $40.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 165d51a9677867fc287904f0939e6fcf.jpeg
 
 2015/08/03 Walgreens
-    Expenses:Food                                        $7.38
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                              $7.38
+    Assets:Wells Fargo:Checking
     ; Receipt: 1f83efdd100567bf8c144a7b515cfbae.jpg
 
 2015/08/04 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2185c583a90f8929a8d623f01249a038.pdf
 
 2015/08/06 Safeway
-    Expenses:Food                                       $10.98
+    Expenses:Operating:Food                             $10.98
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 07ad41c0a1a4f53a12e30ca44a66df77.JPG
 
 2015/08/07 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 788d1227fbe62a716e21a390aeafcb4e.pdf
 
 2015/08/07 Uber
-    Expenses:Transport:Ride Sharing                     $14.40
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground            $14.40
+    Assets:Wells Fargo:Checking
     ; Receipt: deb86f11db3e8582c1d4dcd63d409e5e.pdf
 
 2015/08/07 SFMTA
-    Expenses:Transport:Public Transportation            $70.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $70.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 42bc7d37999c687abad3f56aa4f9cb7e.JPG
 
 2015/08/09 Safeway
-    Expenses:Food                                       $18.36
+    Expenses:Operating:Food                             $18.36
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 40637c1b7b3cc48e6b330302bcada262.jpg
 
 2015/08/10 Walgreens
-    Expenses:Food                                        $6.32
+    Expenses:Operating:Food                              $6.32
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 03491a14011d94e9bbe8881993b8ae9b.jpg
 
 2015/08/11 Lyft
-    Expenses:Travel:Rental Car                          $18.25
+    Expenses:Operating:Transportation:Ground            $18.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 551806c58a118b11ac4b5237cbc15c35.pdf
 
 2015/08/13 Uber
-    Expenses:Transport:Ride Sharing                      $6.96
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $6.96
+    Assets:Wells Fargo:Checking
     ; Receipt: fc806c97a6dcea0882b6eef9a1eab736.pdf
 
 2015/08/14 Max Wofford
-    Expenses:Salary                                   $1280.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1280.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 7435a38651a64de0c8823fc91c645323.pdf
 
 2015/08/14 Walgreens
-    Expenses:Food                                       $12.10
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Food                             $12.10
+    Assets:Wells Fargo:Checking
     ; Receipt: 3aad47eb0d07b8e095f5c3266e392d0e.jpeg
 
 2015/08/15 SFMTA
-    Expenses:Transport:Public Transportation            $70.00
+    Expenses:Operating:Transportation:Ground            $70.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 1acb03c594b3ad1589307ac8b9df29f0.jpg
 
 2015/08/17 Uber
-    Expenses:Transport:Ride Sharing                      $8.18
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $8.18
+    Assets:Wells Fargo:Checking
     ; Receipt: 7c4475705504d59ce4323d03f3899929.pdf
 
 2015/08/17 Sushirrito
-    Expenses:Food                                       $47.13
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Food                             $47.13
+    Assets:Wells Fargo:Checking
     ; Receipt: 59cff2959cc8a083f2227b832615eaae.jpeg
 
 2015/08/20 IRCCloud
-    Expenses:Services:Software                          $60.00
+    Expenses:Operating:Software                         $60.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: dea841f7d2b2bf8392f0940fd87fa58f.pdf
 
 2015/08/21 United
-    Expenses:Travel:Air Travel                         $313.20
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Air              $313.20
+    Assets:Wells Fargo:Checking
     ; Receipt: 733d02a63d9c14457231d3da7283e445.pdf
 
 2015/08/23 Hack Camp Hacker
-    Assets:Bank:Wells Fargo:Checking                   $295.00
+    Assets:Wells Fargo:Checking                        $295.00
     Income:Hack Camp
     ; Receipt: 275bfa37fe94f2cc790d6c3a7ff45efb.jpeg
 
 2015/08/24 Stripe
     Income:Hack Camp                                   $831.84
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: e4cf1a86413b7305c3bb5c0129f7eebe.pdf
 
 2015/08/27 Namecheap
-    Expenses:Services:Hosting                           $32.88
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Hosting                          $32.88
+    Assets:Wells Fargo:Checking
     ; Receipt: 91450c434d756172664493ae94a38012.pdf
 
 2015/08/27 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 0f1ee3b49d43a3350aaef6f3a14b610b.png
 
 2015/08/29 Amazon
-    Expenses:Miscellaneous:Shopping                     $18.70
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $18.70
+    Assets:Wells Fargo:Checking
     ; Receipt: 7f8b811874f25ac670edc4273475df35.pdf
 
 2015/08/29 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.93
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.93
+    Assets:Wells Fargo:Checking
     ; Receipt: 46e77674b7323228dad91b5747cef3a7.pdf
 
 2015/08/29 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.80
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.80
+    Assets:Wells Fargo:Checking
     ; Receipt: f4c4001b7d4ff8263e41c448718ed23b.pdf
 
 2015/08/29 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.96
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.96
+    Assets:Wells Fargo:Checking
     ; Receipt: c701aab201ff5823fa0a1968c06b439d.pdf
 
 2015/08/31 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
 
 2015/09/01 Amazon
-    Expenses:Miscellaneous:Shopping                     $18.70
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $18.70
+    Assets:Wells Fargo:Checking
     ; Receipt: 937fc5a8ebab7d436569af71b40ad979.pdf
 
 2015/09/01 SFMTA
-    Expenses:Transport:Public Transportation            $83.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $83.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 5472fe0b43973596ead92c083b194684.jpeg
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $11.53
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $11.53
+    Assets:Wells Fargo:Checking
     ; Receipt: 848cad4540bb7e40aa25f8448d75de93.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $11.53
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $11.53
+    Assets:Wells Fargo:Checking
     ; Receipt: cfb1ef98367257dcf476fadf01b81eb0.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.94
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.94
+    Assets:Wells Fargo:Checking
     ; Receipt: ae7a0094266530843dfa75f72aa8cadf.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $11.53
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $11.53
+    Assets:Wells Fargo:Checking
     ; Receipt: b95a35eff8819a1405364d8dfc9dff62.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.94
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.94
+    Assets:Wells Fargo:Checking
     ; Receipt: b7b302a2534f4cedd011cb9c632be33e.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $18.70
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $18.70
+    Assets:Wells Fargo:Checking
     ; Receipt: 2a3ef99b3bea191f83c35ede47e41e19.pdf
 
 2015/09/02 Amazon
-    Expenses:Miscellaneous:Shopping                     $11.53
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                            $11.53
+    Assets:Wells Fargo:Checking
     ; Receipt: bd6361bb9f9a930f8b956735852228d6.pdf
 
 2015/09/05 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.96
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.96
+    Assets:Wells Fargo:Checking
     ; Receipt: 084755320bfd594d83d52045dec44f8f.pdf
 
 2015/09/05 Fancy Hands
-    Expenses:Services                                   $24.99
+    Expenses:Operating:Contracting                      $24.99
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: bfa632a989671addb85ae3f1b0046a62.pdf
 
 2015/09/06 Cliff's Variety
-    Expenses:Miscellaneous:Office Supplies              $10.86
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Office:Supplies                  $10.86
+    Assets:Wells Fargo:Checking
     ; Receipt: bad685b4ef4fd3c1c0bcb82561dfb7d5.jpeg
 
 2015/09/06 Fancy Hands
-    Expenses:Services:Assistance                       $143.00
+    Expenses:Operating:Contracting                     $143.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 0691978ae4c007ed051ae9f4e16f79bd.pdf
 
 2015/09/07 Jonathan Leung
-    Expenses:Salary                                   $3800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 6eda16aa4c8ac5da96759c0845b786ab.pdf
 
 2015/09/07 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.96
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.96
+    Assets:Wells Fargo:Checking
     ; Receipt: b74163425a81cc9ae06c9ac26a1178bc.pdf
 
 2015/09/07 Amazon
-    Expenses:Miscellaneous:Shopping                      $8.95
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $8.95
+    Assets:Wells Fargo:Checking
     ; Receipt: 8644f9d852bfa4cfdddcf81137c927f9.pdf
 
 2015/09/08 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $5.43
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Office:Supplies                   $5.43
+    Assets:Wells Fargo:Checking
     ; Receipt: 2a6e61e887226cc08ea871cb26b408e3.jpeg
 
 2015/09/08 Amazon
-    Expenses:Miscellaneous:Shopping                      $6.90
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $6.90
+    Assets:Wells Fargo:Checking
 
 2015/09/08 Amazon
-    Expenses:Miscellaneous:Shopping                      $6.28
-    Assets:Bank:Wells Fargo:Checking
+    ; Book for club leader
+    Expenses:Marketing:Other                             $6.28
+    Assets:Wells Fargo:Checking
 
 2015/09/09 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $3.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Bank                              $3.00
+    Assets:Wells Fargo:Checking
 
 2015/09/10 Max Wofford
-    Expenses:Salary                                   $1280.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1280.00
+    Assets:Wells Fargo:Checking
     ; Receipt: a3a96d280837c42e3643a47016700cec.pdf
 
 2015/09/10 USPS
-    Expenses:Services:Shipping                           $1.20
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Shipping                          $1.20
+    Assets:Wells Fargo:Checking
     ; Receipt: 37b055da93cec0cb605e2003b9b641a9.jpg
 
 2015/09/10 USPS
-    Expenses:Services:Shipping                          $18.96
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Shipping                         $18.96
+    Assets:Wells Fargo:Checking
     ; Receipt: c62c05b70b9db6dff3ebd5d2533d962f.jpg
 
 2015/09/11 Uber
-    Expenses:Transport:Ride Sharing                      $7.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Transportation:Ground             $7.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 447c11759da06f2d7e45427b27809d3c.pdf
 
 2015/09/11 Gogo
-    Expenses:Services:Internet                          $26.95
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    ; Internet access on airplane
+    Expenses:Operating:Other                            $26.95
+    Assets:Wells Fargo:Checking
     ; Receipt: 2f1e432b826fb7edc01eda4287d0d80e.pdf
 
 2015/09/12 SFMTA
-    Expenses:Transport:Public Transportation            $70.00
+    Expenses:Operating:Transportation:Ground            $70.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: d019741e762b90c4a83235e074ea0c71.jpg
 
 2015/09/14 Mission Bit
-    Assets:Bank:Wells Fargo:Checking                   $612.70
-    Miscellaneous:Mission Bit
+    ; Mission Bit accidentally deposited money into our bank account
+    Assets:Wells Fargo:Checking                        $612.70
+    Income:Other
     ; Receipt: b54b9d264afa6658630edf2b42796561.png
 
 2015/09/14 Mission Bit
-    Miscellaneous:Mission Bit                          $612.70
-    Assets:Bank:Wells Fargo:Checking
+    ; Mission Bit took the money out of our bank account
+    Income:Other                                       $612.70
+    Assets:Wells Fargo:Checking
     ; Receipt: 6eda689a0074b595ec4d0304f8b27deb.png
 
 2015/09/16 Dave Fontenot
-    Expenses:Salary                                   $2280.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2280.00
+    Assets:Wells Fargo:Checking
     ; Receipt: c02084f6751be2e35896080c6585e626.pdf
 
 2015/09/21 Bootstrap Themes
-    Expenses:Services:Software                          $99.00
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Software                         $99.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 74f0875f5d2ae7c04db0f3676f108975.pdf
 
 2015/09/21 Spoonrocket
-    Expenses:Food                                        $2.14
-    Assets:Bank:Wells Fargo:Checking:Zach Latta
+    Expenses:Operating:Food                              $2.14
+    Assets:Wells Fargo:Checking
     ; Receipt: d9e95470d1427ab2d3dd8643523a0500.pdf
 
 2015/09/22 Mission Bit
-    Assets:Bank:Wells Fargo:Checking                   $432.75
-    Miscellaneous:Mission Bit
+    ; Mission Bit accidentally deposited money into our bank account
+    Assets:Wells Fargo:Checking                        $432.75
+    Income:Other
     ; Receipt: f3c515e3c6ca36bd760deef12e58132c.png
 
 2015/09/23 Mission Bit
-    Miscellaneous:Mission Bit                          $432.75
-    Assets:Bank:Wells Fargo:Checking
+    ; Mission Bit took the accidental deposit out of our bank account
+    Income:Other                                       $432.75
+    Assets:Wells Fargo:Checking
     ; Receipt: 2e35b5a9c87251c334fa8c77ad3b8c62.png
 
 2015/09/28 FastMail
-    Expenses:Services:Software                          $54.82
+    Expenses:Operating:Software                         $54.82
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 98c6654fb90c59c1d1e5efbdee3cdfc4.pdf
 
 2015/09/30 Google
-    Expenses:Services:Software                          $18.67
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $18.67
+    Assets:Wells Fargo:Checking
     ; Receipt: 6f298b482812e7e8fbdcd4e8216581b4.pdf
 
 2015/09/30 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
 
 2015/10/01 SFMTA
-    Expenses:Transport:Public Transportation            $83.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $83.00
+    Assets:Wells Fargo:Checking
     ; Receipt: fc2713c419d411b1c9cdabbcd818481e.jpg
 
 2015/10/01 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 14c646b169265b4d034e2371de684f3b.png
 
 2015/10/06 Max Wofford
-    Expenses:Salary                                   $1280.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1280.00
+    Assets:Wells Fargo:Checking
     ; Receipt: f64ffaa80e73449584eabf6b3af21e60.pdf
 
 2015/10/08 Max Wofford
-    Assets:Bank:Wells Fargo:Checking                   $320.00
-    Expenses:Salary
+    Assets:Wells Fargo:Checking                        $320.00
+    Expenses:Operating:Staff
     ; Receipt: af2b4760d5d24e37d32b26d24183a42e.pdf
 
 2015/10/08 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                    $250.00
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Savings                         $250.00
+    Assets:Wells Fargo:Checking
     ; Receipt: f96b5842b475c119d476369994a43478.png
 
 2015/10/08 Amazon
-    Assets:Bank:Wells Fargo:Checking                    $18.70
-    Expenses:Miscellaneous:Shopping
+    ; Refund of book for club leader
+    Assets:Wells Fargo:Checking                         $18.70
+    Expenses:Marketing:Other
     ; Receipt: 047c55961e263f904d0a472fd3313557.pdf
 
 2015/10/09 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
 
 2015/10/13 Dave Fontenot
-    Expenses:Salary                                  $3,800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                  $3,800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: d850b8a30dee3cff778e1c6073a8b1c5.pdf
 
 2015/10/15 Dave Fontenot
-    Expenses:Salary                                   $1900.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1900.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 7f48f8ef48c25ceecaf8b1a542cfbd74.pdf
 
 2015/10/20 IRCCloud
-    Expenses:Services:Software                          $45.00
+    Expenses:Operating:Software                         $45.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a475fa9e1d445ad854a801407aceb179.pdf
 
 2015/10/21 Max Wofford
-    Expenses:Salary                                    $404.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $404.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 654fe8f8c6598ab10d2942f483e5d504.pdf
 
 2015/10/22 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3006c259f6acd96db114298db9ed57fc.pdf
 
 2015/10/23 SFMTA
-    Expenses:Transport:Public Transportation            $86.00
-    Assets:Bank:Wells Fargo:Checking:Jonathan Leung
+    Expenses:Operating:Transportation:Ground            $86.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2224a548d89af8fc6b7b55aa7c818865.jpg
 
 2015/10/28 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                    $250.00
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Savings                         $250.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 821c466cb38676d2e5883941053fb57a.pdf
 
 2015/10/29 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 5141e0878ccbf4d1a5134352d6c9d8eb.png
 
 2015/10/30 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: cbe82e0703f183baec26fdc94c347a01.png
 
 2015/10/31 Google
-    Expenses:Services:Software                          $20.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $20.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ae7c0a3e5644664d6ea327abfde363dc.pdf
 
 2015/11/03 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 461caa4c920a86abf0b74a6dfc18cca3.pdf
 
 2015/11/03 Max Wofford
-    Expenses:Salary                                    $640.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $640.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 9b475f7e555add998d47f91b16c0b539.png
 
 2015/11/03 Dave Fontenot
-    Expenses:Salary                                   $1900.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1900.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 879c230ebaa1a9339a5d79e9640c5a27.png
 
 2015/11/04 Clipper Card
-    Expenses:Transport:Public Transportation            $70.00
+    Expenses:Operating:Transportation:Ground            $70.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: b9043f7c611cb3af45e50eff96ec5231.jpg
 
 2015/11/16 Max Wofford
-    Assets:Bank:Wells Fargo:Checking                  $1280.00
-    Expenses:Salary
+    Assets:Wells Fargo:Checking                       $1280.00
+    Expenses:Operating:Staff
     ; Receipt: a28a7299aae31bb4e2208c593455c68d.png
     ; uncashed check
 
 2015/11/23 Namecheap
-    Expenses:Services:Software                          $94.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $94.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 04438a51280e14d577d2481a66a05f99.png
 
 2015/11/23 Sticker Mule
-    Expenses:Miscellaneous:Swag                        $641.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Marketing:Stickers                        $641.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 741221b65e1179d6263e821120fd206d.pdf
 
 2015/11/29 Kevin Wang
-    Expenses:Rent                                      $257.15
+    ; Rent for Max
+    Expenses:Operating:Other                           $257.15
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 450f27b62504dffe14c8e31d988cb91d.png
 
 2015/11/30 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.02
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.02
+    Income:Bank Interest
     ; Receipt: 140dc30f9178a72d89a4423d74352e8b.png
 
 2015/11/30 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: c8687761b09286fade1b00aeaa571204.png
 
 2015/12/02 Google
-    Expenses:Services:Software                          $20.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $20.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ba543f29eaf6cf1ee4bb383e1de48752.png
 
 2015/12/04 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ac6c3be218596fc5334ff8d232673931.pdf
 
 2015/12/06 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 2b6072fcab7d0a8a4ae2a2deb257bc53.png
 
 2015/12/11 United
-    Expenses:Travel:Air Travel                        $1544.90
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Transportation:Air             $1544.90
+    Assets:Wells Fargo:Checking
     ; Receipt: 152b31c8b7b70dd2be44e4d54267d9f1.png
 
 2015/12/13 Harrison Shoebridge
-    Expenses:Salary                                    $240.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $240.00
+    Assets:Wells Fargo:Checking
     ; Receipt: bda0188e93c8448b8798c3c45de1fcd2.pdf
 
 2015/12/14 Anonymous Donor 8
-    Assets:Bank:Wells Fargo:Checking                  $1000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                       $1000.00
+    Income:Fundraising
     ; Receipt: b9081516c3f9accf6d727df828997423.png
 
 2015/12/16 Harrison Shoebridge
-    Expenses:Salary                                    $260.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $260.00
+    Assets:Wells Fargo:Checking
     ; Receipt: c15490e7534d1d2208384421a10c522d.png
 
 2015/12/17 Jonathan Leung
-    Expenses:Salary                                   $3840.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $3840.00
+    Assets:Wells Fargo:Checking
     ; Receipt: e522f91637388f440f0566f0685f5022.pdf
 
 2015/12/19 Eat24
-    Expenses:Miscellaneous:Events:Food                  $43.48
+    ; Food bought for an event
+    Expenses:Operating:Food                             $43.48
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: f742c8f0389d40e8bdd2db923a97f842.pdf
 
 2015/12/20 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: df3e8c18b2260deec0556dfd8513e691.pdf
 
 2015/12/20 Eat24
-    Expenses:Miscellaneous:Events:Food                  $79.34
+    ; Food bought for an event
+    Expenses:Operating:Food                             $79.34
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 3928bd6498a14474f94ecdd684f72369.pdf
 
 2015/12/21 Lyft
-    Expenses:Transport:Ride Sharing                      $5.06
+    Expenses:Operating:Transportation:Ground             $5.06
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: eb0f86bd594d0b42cfe43413c0479c16.pdf
 
 2015/12/31 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: 55620681d908a05bcb45bd8bdffb719b.png
 
 2015/12/31 Wells Fargo    
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 1bd0df06e79cc858143c9137b3c57b9e.png
 
 2016/01/01 Dave Fontenot
-    Expenses:Food                                       $59.98
+    Expenses:Operating:Food                             $59.98
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: b887dd4dc3d34564761095403dc0390c.png
 
 2016/01/04 Google
-    Expenses:Services:Software                          $20.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $20.00
+    Assets:Wells Fargo:Checking
     ; Receipt: ccececbe744fd0e434b2e20c7beedfa2.png
 
 2016/01/04 Clipper Card
-    Expenses:Transport:Public Transportation            $83.00
+    Expenses:Operating:Transportation:Ground            $83.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8f96a3add918668b9e60e177cddeb84d.jpg
 
 2016/01/06 Anonymous Donor 9
-    Assets:Bank:Wells Fargo:Checking                   $896.31
-    Income:Donations
+    Assets:Wells Fargo:Checking                        $896.31
+    Income:Fundraising
     ; Receipt: 839bab5de83b41565a2e1408b7cc3cf4.png
 
 2016/01/11 Airbnb
-    Assets:Bank:Wells Fargo:Checking                   $126.00
-    Expenses:Travel:Accomodation
+    ; Refund for accomodations
+    Assets:Wells Fargo:Checking                        $126.00
+    Expenses:Operating:Other
     ; Receipt: 4ad91e035199c98b0072d215b175c3b2.png
 
 2016/01/12 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
 
 2016/01/12 Zirtual
-    Expenses:Services:Assistance                       $398.00
+    Expenses:Operating:Contracting                     $398.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 337a1eab335929f508e0c421cefcaccb.pdf
 
 2016/01/13 Max Wofford
-    Expenses:Salary                                   $1280.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1280.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
 2016/01/19 Uber
-    Expenses:Transport:Ride Sharing                      $5.60
+    Expenses:Operating:Transportation:Ground             $5.60
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: f63a4b805a981eff11649281cbb42f49.pdf
 
 2016/01/19 Uber
-    Expenses:Transport:Ride Sharing                     $13.53
+    Expenses:Operating:Transportation:Ground            $13.53
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 527cca225ad0a2511e634de256b19f7f.pdf
 
 2016/01/25 Anonymous Donor 1
-    Assets:Bank:Wells Fargo:Checking                 $75000.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                      $75000.00
+    Income:Fundraising
     ; Receipt: d2ffdc98d47692c3847b22bb01c317d1.png
 
 2016/01/29 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: 17c4fbfc710983a069ea73751e945623.png
 
 2016/01/29 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 6cc52050b29425f08a588366f6ec657a.png
 
 2016/01/31 Google
-    Expenses:Services:Software                          $22.20
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $22.20
+    Assets:Wells Fargo:Checking
     ; Receipt: 250deffc04284c99db162f0cd383319f.pdf
 2016/02/01 USPS
-    Expenses:Services:Shipping                          $30.60
+    Expenses:Operating:Shipping                         $30.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3ae7fa7a12d2ca5ae76de6efd02fc422.pdf
 
 2016/02/02 Lyft
-    Expenses:Transport:Ride Sharing                      $8.64
+    Expenses:Operating:Transportation:Ground             $8.64
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 4e4d7950eff04c6ae42f73bc2b1f7286.pdf
 
 2016/02/02 Clipper Card
-    Expenses:Transport:Public Transportation            $50.00
+    Expenses:Operating:Transportation:Ground            $50.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 026c5e4a3945c93e37663abdc5094eb9.pdf
 
 2016/02/02 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4f43b3b2197cfbac978ef2612e0419ed.pdf
 
 2016/02/02 Lyft
-    Expenses:Transport:Ride Sharing                     $49.21
+    Expenses:Operating:Transportation:Ground            $49.21
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 47c384f6d04c8f23fceaa34f412d8921.png
 
 2016/02/03 Sticker Mule
-    Expenses:Miscellaneous:Swag                       $1208.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Marketing:Stickers                       $1208.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 98367eb82fa6d2c28b0fdeb1f5f0ae52.pdf
 
 2016/02/03 United States Corporation Agents, Inc.
-    Expenses:Miscellaneous:Tax:Delaware                 $25.00
+    Expenses:Operating:Tax                              $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a2875e2a6987e90e4817b121274cfdf6.pdf
      
 
 2016/02/03 Someone didn't cash their check
-    Assets:Bank:Wells Fargo:Checking                  $1900.00
-    Expenses:Salary
+    Assets:Wells Fargo:Checking                       $1900.00
+    Expenses:Operating:Staff
     ; Receipt: 9b1b2f9c1dcc2d6a19757f88fa422fcb.png
 
 2016/02/04 Namecheap
-    Expenses:Services:Software                          $94.00
+    Expenses:Operating:Software                         $94.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9e16d2e7d56c84c252e0a16f25234db7.pdf
 
 2016/02/04 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 36dff590e6ff73ae35de5b8f057aba1c.png
 
 2016/02/05 Jonathan Leung
-    Expenses:Salary                                   $1920.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1920.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 802d512ad2270ec22e81872107a92c4a.png
 
 2016/02/09 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $3.00
+    Expenses:Operating:Office:Supplies                   $3.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: c51ed8a69dfc63bb67e018e0eb3bc5a7.png
 
 2016/02/09 Uber
-    Expenses:Transport:Ride Sharing                     $19.85
+    Expenses:Operating:Transportation:Ground            $19.85
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: bdaceb11054a339e565e483a1a2c451f.pdf
 
 2016/02/10 Lyft
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 9fba6a70fccda0b858e272de5d0e4af0.png
 
 2016/02/11 Lyft
-    Expenses:Transport:Ride Sharing                      $4.18
+    Expenses:Operating:Transportation:Ground             $4.18
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 27eebc4d542abb843a526ee483fe6b84.png
 
 2016/02/12 Wells Fargo
-    Expenses:Miscellaneous:Office Supplies               $3.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Office:Supplies                   $3.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2994f011d82a25395652e3e04dd2d8da.JPG
 
 2016/02/12 USPS
-    Expenses:Services:Shipping                          $84.20
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Shipping                         $84.20
+    Assets:Wells Fargo:Checking
     ; Receipt: f8441e263c2f68f1f5e09ffc8f8ee307.JPG
 
 2016/02/12 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $5.85
+    Expenses:Operating:Office:Supplies                   $5.85
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cee7d403dabffbd7ee722bb0a0709864.JPG
 
 2016/02/13 Zirtual
-    Expenses:Services:Assistance                       $497.00
+    Expenses:Operating:Contracting                     $497.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 69b7202f193c45d06878cfc35d34a524.pdf
 
 2016/02/19 IRCCloud
-    Expenses:Services:Software                           $5.00
+    Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1158a2b2861558d7b19cefebc90ee30f.pdf
 
 2016/02/22 Mission Bit
-    Expenses:Services:Fiscal Sponsorship              $2750.00
-    Assets:Bank:Wells Fargo:Checking
+    ; Fiscal sponsorship fee
+    Expenses:Operating:Other                          $2750.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 5ae7397a5aae63e1148b0f26327de7b7.png
 
 2016/02/24 Jessica Kwok
-    Expenses:Salary                                    $800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 37718f141de1f2c565895551d79c442f.pdf
 
 2016/02/29 Google
-    Expenses:Services:Software                          $24.96
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $24.96
+    Assets:Wells Fargo:Checking
     ; Receipt: 44f6c7f3a33b8425d7b5b6c0edae993f.pdf
 
 2016/02/29 Amazon
-    Expenses:Miscellaneous                              $17.24
+    ; Book bought for Zach Bruggeman
+    Expenses:Operating:Other                            $17.24
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: acf6186df7b9a12de039ee90801ec97d.pdf
 
 2016/02/29 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 2727920be418d54f381825f8a7b4f5b1.png
 
 2016/02/29 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: 1b5bbd0650700907a906deaa8f316ddb.png
 
 2016/03/01 Zachary Bruggeman
-    Expenses:Salary                                   $1900.00
+    Expenses:Operating:Staff:Salary                   $1900.00
     Assets:PayPal
     ; Receipt: d5bf760e4f1a7bb9ac245fb3016c2998.pdf
 
 2016/03/01 Mention
-    Expenses:Services:Software                          $29.00
+    Expenses:Operating:Software                         $29.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ce2afbd6410db93b5ee140b2963b3fe1.pdf
 
 2016/03/01 Castro Tarts Cafe
-    Expenses:Food                                       $10.00
+    Expenses:Operating:Food                             $10.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 139fca00c3f8e379feeace9def520eac.jpg
     ; onboarding Jessica
 
 2016/03/01 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6f0be98a7dec016ef8fe7b5a618c9a19.pdf
 
 2016/03/04 Gogo
-    Expenses:Services:Internet                          $26.95
+    ; Internet access on airplane
+    Expenses:Operating:Other                            $26.95
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b624752aeac422bc9b3e1d7cae77e5c0.pdf
 
 2016/03/13 Zirtual
-    Expenses:Services:Assistance                       $698.00
+    Expenses:Operating:Contracting                     $698.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f10956b8d5a1578e12e1214ae30b9e68.pdf
 
 2016/03/14 Barnes and Noble
-    Expenses:Miscellaneous                              $30.55
+    ; Books bought for club leader
+    Expenses:Marketing:Other                            $30.55
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 354783c48a7a6fa9dff7483bacd93794.pdf
 
 2016/03/15 Zachary Bruggeman
-    Expenses:Salary                                    $473.11
+    Expenses:Operating:Staff:Salary                    $473.11
     Assets:PayPal
     ; Receipt: 30f3d1cd76b35282ab20ad42ba2b2334.pdf
 
 2016/03/16 HelloSign
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1e9fb6f5efb4480793bdc16b2470ccd.pdf
 
 2016/03/20 IRCCloud
-    Expenses:Services:Software                           $5.00
+    Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: bec76e76e07037674b22877534238ba3.pdf
 
 2016/03/24 Jonathan Leung
-    Expenses:Salary                                   $1588.96
-    Expenses:Salary                                   $2880.00
+    Expenses:Operating:Staff:Salary                   $1588.96
+    Expenses:Operating:Staff:Salary                   $2880.00
     Liabilities:Reimbursement:Jonathan Leung          $3297.04
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
 
 2016/03/24 iwantmyname
-    Expenses:Services:Hosting                           $10.00
+    Expenses:Operating:Hosting                          $10.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: be1f5482526a09e68779ce1ad02fef03.pdf
 
 2016/03/31 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $3.80
+    Expenses:Operating:Office:Supplies                   $3.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 62fb2008014d9c6e8998ee3736031f4f.jpeg
 
 2016/03/31 Google
-    Expenses:Services:Software                          $31.09
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $31.09
+    Assets:Wells Fargo:Checking
     ; Receipt: 21a4c30516d831e62091a32e3bc293d2.pdf
 
 2016/03/31 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: cdbabbf47308f47429229a167d32b5fb.png
 
 2016/03/31 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: c7d9afb920aa456c4aa97a510701c98e.png
 
 2016/03/31 Mention
-    Expenses:Services:Software                          $29.00
+    Expenses:Operating:Software                         $29.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 15f95574e93d12cb7c22aca174fb235e.pdf
 
 2016/04/01 Jessica Kwok
-    Expenses:Salary                                   $2800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 2de3ac0f2ea0bf2a50b67df058888047.pdf
 
 2016/04/01 Domino's
-    Expenses:Miscellaneous:Events:Food                  $32.63
+    ; Food bought for an event
+    Expenses:Operating:Food                             $32.63
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a4bf85d4c2bef7ee3762473364e64579.pdf
 
 2016/04/01 Domino's
-    Expenses:Miscellaneous:Events:Food                  $26.15
+    ; Food bought for an event
+    Expenses:Operating:Food                             $26.15
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f7aff80e22eaae87480669f068f3c733.pdf
 
 2016/04/01 Caviar
-    Expenses:Miscellaneous:Events:Food                  $67.18
+    ; Food bought for an event
+    Expenses:Operating:Food                             $67.18
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 4931716519953eeddb9f028a4c1ef740.png
 
 2016/04/05 DHK Inc.
-    Expenses:Miscellaneous:Office Supplies              $14.20
+    Expenses:Operating:Office:Supplies                  $14.20
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: eab3931efbdf9d0580ffbcd3b7290fc3.JPG
 
 2016/04/07 Union Post SF
-    Expenses:Miscellaneous                              $16.00
+    ; Fingerprinting cost so we could work inside of a school
+    Expenses:Operating:Other                            $16.00
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: fd90576446f07450a84d922e6cedbb39.JPG
 
 2016/04/12 Sticker Mule
-    Expenses:Miscellaneous:Swag                          $0.00
+    Expenses:Marketing:Stickers                          $0.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e5672699ffd0d2bf56cc9df9157dfca7.pdf
 
 2016/04/13 Zirtual
-    Expenses:Services:Assistance                       $698.00
+    Expenses:Operating:Contracting                     $698.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ca0d7853be8a882b84ec7676d60ce3ce.pdf
 
 2016/04/14 Uber
-    Expenses:Transport:Ride Sharing                     $10.58
+    Expenses:Operating:Transportation:Ground            $10.58
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d2683a788b68403f101c2465c970361a.pdf
 
 2016/04/14 Uber
-    Expenses:Transport:Ride Sharing                     $10.69
+    Expenses:Operating:Transportation:Ground            $10.69
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b912f8c3b249923ff3eff6d5bf0294eb.pdf
 
 2016/04/15 Domino's
-    Expenses:Miscellaneous:Events:Food                  $23.82
+    ; Food bought for an event
+    Expenses:Operating:Food                             $23.82
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c49f5f598679351ea77a4b8f32ccd19e.pdf
 
 2016/04/15 Presidio Pizza Company
-    Expenses:Miscellaneous:Events:Food                  $24.47
+    ; Food bought for an event
+    Expenses:Operating:Food                             $24.47
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 8b88eca9adf4c7e7b466abf8457b3f4e.JPG
 
 2016/04/18 A Foto Video Mail and Mo
-    Expenses:Miscellaneous                              $27.00
+    ; Fingerprinting cost so we could work inside of a school
+    Expenses:Operating:Other                            $27.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 755be30ec96afcbea8754dea0faa2c43.pdf
 
 2016/04/20 Zapier
-    Expenses:Services:Software                          $15.00
-    Assets:Bank:Wells Fargo
+    Expenses:Operating:Software                         $15.00
+    Assets:Wells Fargo
     ; Receipt: 0900595bfcf331492e4029069a4c8cdb.pdf
 
 2016/04/20 Zapier
-    Expenses:Services:Software                          $15.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $15.00
+    Assets:Wells Fargo:Checking
     ; Receipt: f83cb506921edcfe4b37567136c2862b.pdf
 
 2016/04/21 WellnessMart, MD
-    Expenses:Miscellaneous                              $30.00
+    ; TB test so we could work inside of a school
+    Expenses:Operating:Other                            $30.00
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 80ac3190322606d19fd67127422f25cc.JPG
 
 2016/04/23 Uber
-    Expenses:Transport:Ride Sharing                     $28.91
+    Expenses:Operating:Transportation:Ground            $28.91
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: feb4ce5f67306225c9e9b21afb70b826.pdf
 
 2016/04/23 Blick Art Materials
-    Expenses:Miscellaneous:Office Supplies              $20.11
+    Expenses:Operating:Office:Supplies                  $20.11
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: e0cf6e818281872ced386ece7c83c419.JPG
 
 2016/04/25 DHK Inc.
-    Expenses:Miscellaneous:Office Supplies              $17.80
+    Expenses:Operating:Office:Supplies                  $17.80
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 2443de2f10369114b04c56dacc61ce14.JPG
 
 2016/04/28 Walgreens
-    Expenses:Miscellaneous:Events                        $4.87
+    ; Supplies for running event
+    Expenses:Operating:Other                             $4.87
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a10acaafc1ba43f448e1f35d3ef286e5.jpeg
 
 2016/04/28 Domino's
-    Expenses:Miscellaneous:Events:Food                  $86.60
+    ; Food bought for an event
+    Expenses:Operating:Food                             $86.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab304bf9ac11f342d3804b3d8ccbabb1.jpeg
 
 2016/04/28 Uber
-    Expenses:Transport:Ride Sharing                     $26.76
+    Expenses:Operating:Transportation:Ground            $26.76
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: eb3cb9f74bcef2d03bfe3f097052d4f2.png
 
 2016/04/28 Uber
-    Expenses:Transport:Ride Sharing                      $7.39
+    Expenses:Operating:Transportation:Ground             $7.39
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8e1cf7bc7d601ed443cc97b0a4f71f86.pdf
 
 2016/04/29 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.02
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.02
+    Income:Bank Interest
     ; Receipt: 92a020ccc27677e156dbd70c97f10202.png
 
 2016/04/29 Domino's
-    Expenses:Miscellaneous:Events:Food                  $35.92
+    ; Food bought for an event
+    Expenses:Operating:Food                             $35.92
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 428928621f8aec39345dc83ddc6f1bcc.pdf
 
 2016/04/29 Domino's
-    Expenses:Miscellaneous:Events:Food                  $24.17
+    ; Food bought for an event
+    Expenses:Operating:Food                             $24.17
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5a0a2402934e9491fc9f0a6eb00ef297.pdf
 
 2016/04/30 Google
-    Expenses:Services:Software                          $27.20
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $27.20
+    Assets:Wells Fargo:Checking
     ; Receipt: a74a1f66e92947f1631f93279db05adf.pdf
 
 2016/04/30 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 155763596e55502d236bb4cdf2c8a0c1.png
 
 2016/04/30 Mention
-    Expenses:Services:Software                          $29.00
+    Expenses:Operating:Software                         $29.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ed4fceee9eb982032fc484c519ad744f.pdf
 
 2016/05/01 Jessica Kwok
-    Expenses:Salary                                   $2800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 285c4a230304e3e6ac8db45840153400.pdf
 
 2016/05/02 Stripe
-    Assets:Bank:Wells Fargo:Checking                    $77.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                         $77.00
+    Income:Website Donations
     ; Receipt: 36c1180fe20742d170402fe86404a2f5.pdf
 
 2016/05/09 Wells Fargo
-    Expenses:Services:Bank                               $3.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Bank                              $3.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 57583b7233dd6f96d37c4d36da047119.png
 
 2016/05/13 Zirtual
-    Expenses:Services:Assistance                      $1096.00
+    Expenses:Operating:Contracting                    $1096.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f4ced4b8d9483d7596c70d0482c1fe4f.pdf
 
 2016/05/15 Facebook Adverts
-    Expenses:Services:Software                          $21.46
+    Expenses:Operating:Software                         $21.46
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: dcc7875c7276a8deefc4656d7047eb89.pdf
 
 2016/05/16 Seton & Associates 
-    Expenses:Services:Legal                           $2697.60
+    Expenses:Operating:Legal                          $2697.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6bc904e876ffd8621dcd61e3624d7ab9.pdf
 
 2016/05/18 USPS
-    Expenses:Services:Shipping                           $1.56
+    Expenses:Operating:Shipping                          $1.56
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 782c9ad672c3d9f76d4073dba166dc75.jpeg
 
 2016/05/20 IRCCloud
-    Expenses:Services:Software                           $5.00
+    Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a3ad89f26039184037f85ce9aaa1c335.pdf
 
 2016/05/20 Zapier
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c44f75c60c0c17be4375abfd98d35929.pdf
 
 2016/05/20 Jessica Kwok
     Liabilities:Reimbursement:Jessica Kwok             $216.52
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: dd977c50f3337a6cad0b28be0438f980.pdf
 
 2016/05/20 Zach Latta
     Liabilities:Reimbursement:Zach Latta              $3660.43
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 86eb9b76891204a8295a62a4e17f4755.pdf
 
 2016/05/20 Selynna Sun
     Liabilities:Reimbursement:Selynna Sun               $10.98
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 2a1d893797f59bf30bb8cc91cd21f18d.pdf
 
 2016/05/20 Max Wofford
     Liabilities:Reimbursement:Max Wofford              $457.50
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: e9f675e51daf80b1aa14eb877f0c05fc.pdf
 
 2016/05/22 FedEx
-    Expenses:Miscellaneous:Office Supplies              $53.83
+    Expenses:Operating:Office:Supplies                  $53.83
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 552f1de496ded0f2e632ce6595239279.pdf
 
 2016/05/24 Google
-    Expenses:Services:Software                          $50.00
+    Expenses:Operating:Software                         $50.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: efc7349a4868ab6a73b5605e644f135b.pdf
 
 2016/05/27 Cliff's Variety
-    Expenses:Miscellaneous:Office Supplies               $7.79
+    Expenses:Operating:Office:Supplies                   $7.79
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 6a1f58a09479929ed78ba01944975406.jpg
 
 2016/05/28 Cliff's Variety
-    Expenses:Miscellaneous:Office Supplies               $1.95
+    Expenses:Operating:Office:Supplies                   $1.95
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 2e60d358a82754deceea7846d1bd78c1.jpeg
 
 2016/05/30 Mention
-    Expenses:Services:Software                          $29.00
+    Expenses:Operating:Software                         $29.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 02fe5bd9cbe9cb404462fcba574f8861.pdf
 
 2016/05/31 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: e8c545b4f47c9c0b249c9b77e1278172.png
 
 2016/05/31 Facebook Adverts
-    Expenses:Services:Software                           $5.49
+    Expenses:Operating:Software                          $5.49
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 42dc4be59676aea7604e6d8556bd5083.pdf
 
 2016/06/01 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $9.40
+    Expenses:Operating:Office:Supplies                   $9.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fcef14fb0a69f18ad19f2e883df6808b.jpeg
 
 2016/06/01 Stripe
-    Assets:Bank:Wells Fargo:Checking                   $202.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                        $202.00
+    Income:Website Donations
     ; Receipt: 68ea19d1309c945f6388ee3e0385ec1e.pdf
 
 2016/06/01 Max Wofford
-    Expenses:Salary                                    $858.06
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $858.06
+    Assets:Wells Fargo:Checking
     ; Receipt: 034231682cca7916ccc353a8d6e875d5.pdf
 
 2016/06/01 Jessica Kwok
-    Expenses:Salary                                   $2800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: d547e48d591e8d4d0cce2bb20335e776.pdf
 
 2016/06/02 Uber
-    Expenses:Transport:Ride Sharing                      $6.55
+    Expenses:Operating:Transportation:Ground             $6.55
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ab130e448190717360cbb45ffb99ac70.pdf
 
 2016/06/02 Office Depot
-    Expenses:Miscellaneous:Office Supplies              $56.08
+    Expenses:Operating:Office:Supplies                  $56.08
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 2abae5ae6925af2a7e33a4842ed1f586.jpeg
 
 2016/06/03 Google
-    Expenses:Services:Software                          $28.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $28.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 85d83bb6a67cac4cb0372de340701753.pdf
 
 2016/06/06 Uber
-    Expenses:Transport:Ride Sharing                      $4.75
+    Expenses:Operating:Transportation:Ground             $4.75
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 109a3bb25ed4a19ad82afeae5150e4d6.pdf
 
 2016/06/06 Garaje
-    Expenses:Food                                       $25.00
+    Expenses:Operating:Food                             $25.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: e72183e32f305df36a063856ba0e6c91.png
 
 2016/06/06 Instacart
-    Expenses:Hack Camp:Food                             $46.56
+    ; Food for Hack Camp
+    Expenses:Operating:Food                             $46.56
     Liabilities:Reimbursement:Gemma Busoni
     ; Receipt: e0afe9eff2d1a6940afc16a6b3d322f1.png
 
 2016/06/06 Zach Latta
     Liabilities:Reimbursement:Zach Latta              $3884.94
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: cae6cc827f538bb559d82f12e1953b35.pdf
 
 2016/06/06 Max Wofford
     Liabilities:Reimbursement:Max Wofford               $31.20
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: b9d657faf7e94b8402a6878da5306230.pdf
 
 2016/06/06 Safeway
-    Expenses:Hack Camp:Food                             $15.88
+    ; Food for Hack Camp
+    Expenses:Operating:Food                             $15.88
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: d41ab077595e64c530cbf5136464d5b3.jpeg
 
 2016/06/08 Wells Fargo
-    Expenses:Services:Bank                               $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 397d9875e63178058613e687cfc09355.png
 
 2016/06/08 Safeway
-    Expenses:Hack Camp:Food                              $4.03
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $4.03
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 74ec06eb82ea6420104112079ae568d2.JPG
 
 2016/06/08 Wells Fargo
-    Expenses:Services:Bank                               $3.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Bank                              $3.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 6a08e9493c760300b2242f7ab6163893.png
 
 2016/06/09 Sticker Mule
-    Expenses:Miscellaneous:Swag                       $1430.00
+    Expenses:Marketing:Stickers                       $1430.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 84f742643097febde8621114a7c50c79.pdf
 
 2016/06/09 Safeway
-    Expenses:Hack Camp:Food                              $8.47
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $8.47
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 226e47ec61ef13ea8ee47f57232088fb.jpg
 
 2016/06/10 Instacart
-    Expenses:Hack Camp:Food                              $3.18
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $3.18
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 1ab8ef16020e03b485ac57ef6b3cfb6e.png
 
 2016/06/10 Domino's
-    Expenses:Miscellaneous:Events:Food                  $33.44
+    ; Food bought for an event
+    Expenses:Operating:Food                             $33.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8d28bbce3a4a35fec68785232e76e495.pdf
 
 2016/06/10 Uber
-    Expenses:Transport:Ride Sharing                     $13.23
+    Expenses:Operating:Transportation:Ground            $13.23
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 077c66e5a020848e610e8f0f7fe266c7.pdf
 
@@ -2200,287 +2254,304 @@
     ; Receipt: 906bba444a89ee2ffcb1e7310b747dac.pdf
 
 2016/06/13 Zirtual
-    Expenses:Services:Assistance                       $398.00
+    Expenses:Operating:Contracting                     $398.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 59001df4a571c203bcce56626ea6e4a5.pdf
 
 2016/06/13 Safeway
-    Expenses:Hack Camp:Food                              $1.99
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $1.99
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 460e871c7e652d903045f9c6504c0a56.jpg
 
 2016/06/17 Soma Pizza
-    Expenses:Hack Camp:Food                             $22.00
+    ; Food for Hack Camp
+    Expenses:Operating:Food                             $22.00
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 4781af533d4ae8a1c25c74c5d14db49f.png
 
 2016/06/17 Walgreens
-    Expenses:Hack Camp:Energizers                        $4.27
+    ; Supplies for running Hack Camp energizers
+    Expenses:Operating:Other                             $4.27
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: da0ef9cdef330bf80a7f5454719d47fd.jpeg
 
 2016/06/19 Walgreens
-    Expenses:Miscellaneous:Office Supplies              $13.02
+    Expenses:Operating:Office:Supplies                  $13.02
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 9a04ca07a9096808551b28629eb1f585.jpg
 
 2016/06/20 Zapier
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8e1b89883a371ad05530c20ac1aec78d.pdf
 
 2016/06/23 Uber
-    Expenses:Transport:Ride Sharing                      $9.04
+    Expenses:Operating:Transportation:Ground             $9.04
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7c45af40f8b343d9bcf117d76d5afffd.pdf
 
 2016/06/23 Google
-    Expenses:Services:Software                          $84.99
+    Expenses:Operating:Software                         $84.99
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 444438fa91db2a7c917b8600fecd654a.pdf
 
 2016/06/24 Michael Hulet
-    Expenses:Hack Camp:Equipment                        $42.15
+    ; Michael donated a Chromebook to Hack Camp -- this paid for the shipping.
+    Expenses:Operating:Shipping                         $42.15
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: e368c11a6913d0c65c25672a3156988b.png
 
 2016/06/27 DHK Inc.
-    Expenses:Miscellaneous:Office Supplies               $9.40
+    Expenses:Operating:Office:Supplies                   $9.40
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: fb5ccaeb50a5e8547f4ec6d0bbb19461.JPG
 
 2016/06/27 Upwork
-    Expenses:Salary:Contractor:Upwork                   $34.25
+    Expenses:Operating:Contracting                      $34.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 071ab293431196b63265811d7f3c1fd3.pdf
 
 2016/06/29 Amazon
-    Expenses:Miscellaneous:Office Supplies              $53.98
+    Expenses:Operating:Office:Supplies                  $53.98
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 78837d2f014e17bb30d790857d6cbd86.pdf
 
 2016/06/29 Safeway
-    Expenses:Hack Camp:Food                              $8.14
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $8.14
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 52d638c1a4c6cf7496633ce7a808060b.jpg
 
 2016/06/30 Google
-    Expenses:Services:Software                          $29.33
+    Expenses:Operating:Software                         $29.33
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6ea1ea8197921948b994816abbad041f.pdf
 
 2016/06/30 Wells Fargo
-    Assets:Bank:Wells Fargo:Savings                      $0.01
-    Income:Investments:Bank Interest
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: 0f602b4b75bf406907756236ce37a076.png
 
 2016/06/30 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 3eca5efdd58047e3de0c39827537ae45.png
 
 2016/06/30 Google
-    Expenses:Services:Software                          $29.33
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $29.33
+    Assets:Wells Fargo:Checking
     ; Receipt: 6ea1ea8197921948b994816abbad041f.pdf
 
 2016/07/01 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 49102a9b75e71082780cad03abcc7a96.pdf
 
 2016/07/01 Stripe
-    Assets:Bank:Wells Fargo:Checking                  $5809.00
-    Income:Donations
+    Assets:Wells Fargo:Checking                       $5809.00
+    Income:Website Donations
     ; Receipt: 080bac292f021ad79f241a07386b9727.pdf
 
 2016/07/04 Instacart
-    Expenses:Hack Camp:Food                             $21.25
+    ; Food for Hack Camp
+    Expenses:Operating:Food                             $21.25
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 91f16fffa6fdabf37a57579116195006.png
 
 2016/07/05 Target
-    Expenses:Miscellaneous:Office Supplies               $5.32
+    Expenses:Operating:Office:Supplies                   $5.32
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: dfa28c1a53e7042e862f01872a359ef8.jpeg
 
 2016/07/05 Safeway
-    Expenses:Hack Camp:Food                              $8.99
+    ; Food for Hack Camp
+    Expenses:Operating:Food                              $8.99
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: eec89cc3572f934fab64e958081598ad.jpg
 
 2016/07/05 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $5.43
+    Expenses:Operating:Office:Supplies                   $5.43
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 2da9d9407ca2f7a233c8e2ff50f7e6b0.jpg
 
 2016/07/05 Target
-    Expenses:Miscellaneous                               $5.32
+    ; Power splitter for Hack Camp
+    Expenses:Operating:Office:Supplies                   $5.32
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: dd1b59fac86d085658c14edab0edde19.jpeg
 
 2016/07/08 Pizzeria Delfina
-    Expenses:Food                                       $72.54
+    Expenses:Operating:Food                             $72.54
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5f44e7f9129586ab9ef30503a62f427c.jpeg
 
 2016/07/08 Victor Lourng
-    Expenses:Salary:Contractor:Victor Lourng           $550.00
+    Expenses:Operating:Contracting                     $550.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 771f129051f3432aa510d0ea65f21481.pdf
 
 2016/07/08 SoMa Pizza
-    Expenses:Food                                       $43.48
+    Expenses:Operating:Food                             $43.48
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: bf30389b902120ca234d49f4766d6cbc.jpg
 
 2016/07/09 Recology
-    Expenses:Miscellaneous                              $40.00
+    ; Cost to dispose of trash from Hack Camp
+    Expenses:Operating:Other                            $40.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6ebcfe344b69de828d48d5822bb6535b.jpeg
 
 2016/07/09 Recology
-    Expenses:Miscellaneous                              $40.00
+    ; Cost to dispose of trash from Hack Camp
+    Expenses:Operating:Other                            $40.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5df8cf7ef0dbf973edd25c833aacded8.jpeg
 
 2016/07/09 GetAround
-    Expenses:Transport:Rental Car                       $23.50
+    Expenses:Operating:Transportation:Ground            $23.50
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 1bc6c92ce7c566116bf05179e1c65951.png
 
 2016/07/12 Harvest
-    Expenses:Services:Software                          $12.00
+    Expenses:Operating:Software                         $12.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d108a167d0d055aaedacab28f4629234.pdf
 
 2016/07/15 Dominos
-    Expenses:Miscellaneous:Events:Food                  $33.23
+    ; Food bought for an event
+    Expenses:Operating:Food                             $33.23
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e879d4ba3424bea7e1bbbde555fcfac8.png
 
 2016/07/15 Dominos
-    Expenses:Miscellaneous:Events:Food                  $39.32
+    ; Food bought for an event
+    Expenses:Operating:Food                             $39.32
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 25c80761b2f9d06c071f32a3be25c025.png
 
 2016/07/17 Selynna Sun
-    Expenses:Miscellaneous:Office Supplies              $16.25
+    Expenses:Operating:Office:Supplies                  $16.25
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: a1ef3296eb58e1509f81a141df04af77.jpg
 
 2016/07/18 Uber
-    Expenses:Transport:Ride Sharing                     $21.65
+    Expenses:Operating:Transportation:Ground            $21.65
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a9269b497e0c96dc3c8196d1dc18a7fe.pdf
 
 2016/07/19 Selynna Sun
-    Expenses:Miscellaneous:Computer                    $965.67
+    ; As part of her compensation, we offered to pay for half of a new laptop
+    ; for her.
+    Expenses:Operating:Other                           $965.67
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 156bcc28103276bf4e77acb6841fa64c.pdf
 
 2016/07/19 Selynna Sun
-    Expenses:Miscellaneous                              $11.50
+    ; Food for Hack Camp
+    Expenses:Operating:Food                             $11.50
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 2e86b4341592657dd9c0d53607174e48.png
 
 2016/07/20 Zapier
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c164c4c55fafbd3f75d6fc981a3b348.pdf
 
 2016/07/20 DHK Inc.
-    Expenses:Miscellaneous:Office Supplies              $13.60
+    Expenses:Operating:Office:Supplies                  $13.60
     Liabilities:Reimbursement:Jessica Kwok
     ; Receipt: 71082dd07c6139ca0b6a84109847f093.JPG
 
 2016/07/22 Target
-    Expenses:Food                                       $12.15
+    Expenses:Operating:Food                             $12.15
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: e63f5519001f41eef7cd34000f35d48b.jpg
 
 2016/07/25 Southwest
-    Expenses:Travel:Air Travel                         $507.96
+    Expenses:Operating:Transportation:Air              $507.96
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1ffcbc7203ee2296de9f1e781a750769.pdf
 
 2016/07/25 Southwest
-    Expenses:Services:Internet                           $8.00
+    ; Internet access on airplane
+    Expenses:Operating:Other                             $8.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: eca81fc08f390e2d7d6cb084b6137f1d.png
 
 2016/07/26 SFMTA
-    Expenses:Transport:Public Transportation             $4.50
+    Expenses:Operating:Transportation:Ground             $4.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7747f2652f1ea02c6be46db1cb199175.JPG
 
 2016/07/26 Easy Breezy
-    Expenses:Food                                       $13.78
+    Expenses:Operating:Food                             $13.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9ebad9af8b52160c0aec8ffa0ca70623.JPG
 
 2016/07/26 Reveille Coffee Co
-    Expenses:Food                                        $8.70
+    Expenses:Operating:Food                              $8.70
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b230829a87e1871a89273239b8ec57ee.pdf
 
 2016/07/26 Target
-    Expenses:Food                                        $2.34
+    Expenses:Operating:Food                              $2.34
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: ce12e853d680f19d5a824f90ed8dd1cf.jpeg
 
 2016/07/26 Uber
-    Expenses:Transport:Ride Sharing                     $20.00
+    Expenses:Operating:Transportation:Ground            $20.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: f33f141eeeca01a5090d836e71481ef2.png
 
 2016/07/27 Super Duper
-    Expenses:Food                                       $22.29
+    Expenses:Operating:Food                             $22.29
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c47a9c5ac40eeae09a4710ef3d3327c3.JPG
 
 2016/07/27 SFMTA
-    Expenses:Transport:Public Transportation             $4.50
+    Expenses:Operating:Transportation:Ground             $4.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 70d846522d8e85dfeaee0547cda6c924.JPG
 
 2016/07/28 Wufoo
-    Expenses:Services:Software                          $29.95
+    Expenses:Operating:Software                         $29.95
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c30354e49be389faa6a2c3b8fc241021.pdf
 
 2016/07/28 Target
-    Expenses:Food                                        $2.34
+    Expenses:Operating:Food                              $2.34
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 7bd2f1c75f09ae5376d207c10e7ff924.jpeg
 
 2016/07/28 Southwest
-    Expenses:Services:Internet                           $8.00
+    ; Internet access on airplane
+    Expenses:Operating:Other                             $8.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 552ed79241b99e52a80f8b1bd5376f49.png
 
 2016/07/28 Willow Creek Grill
-    Expenses:Food                                       $14.40
+    Expenses:Operating:Food                             $14.40
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 8a43c6ceab862b2b369ec9b0ca545501.jpg
 
 2016/07/28 Uber
-    Expenses:Transport:Ride Sharing                     $29.23
+    Expenses:Operating:Transportation:Ground            $29.23
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 3063f98a99f6e206f273018db03dda59.png
 
 2016/07/28 Uber
-    Expenses:Transport:Ride Sharing                      $5.00
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: eeff85a7a7a366665377a8f09c0ad756.png
 
 2016/07/28 MDW Parking
-    Expenses:Transport                                  $45.00
+    Expenses:Operating:Transportation:Ground            $45.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: d6751061cb01aa7357b1d03829454b71.jpg
 
 2016/07/28 Bay Reader Kiosk
-    Expenses:Food                                        $3.99
+    Expenses:Operating:Food                              $3.99
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 2466e5d7dfb7ca652b5a43adfbb400d3.jpg
 
@@ -2490,67 +2561,68 @@
     ; Receipt: c214b12bd415a37d5fcf3ca5591aa594.pdf
 
 2016/07/29 Target
-    Expenses:Food                                        $1.17
+    Expenses:Operating:Food                              $1.17
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 940d8bd7f96acddba19347ac96fdaf52.jpeg
 
 2016/07/29 Uber
-    Expenses:Transport:Ride Sharing                      $2.00
+    Expenses:Operating:Transportation:Ground             $2.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 85f2f125049794659c24c02f9d8fa0eb.png
 
 2016/07/29 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $6.00
-    Assets:Bank:Wells Fargo:Savings
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
     ; Receipt: 85741c3e4ad44ffe241d05f26b274bc0.png
 
 2016/07/29 Wells Fargo
-    Expenses:Services:Bank:Wells Fargo                   $0.01
-    Assets:Bank:Wells Fargo:Savings
+    ; TODO
+    Expenses:Operating:Bank                              $0.01
+    Assets:Wells Fargo:Savings
     ; Receipt: d844796bd7569300ba35730ea4f397b9.png
 
 2016/07/31 Google
-    Expenses:Services:Software                          $32.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Software                         $32.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 1f22ee71f847d3f043f25658b2f1ccd2.pdf
 
 2016/08/01 Southwest
-    Expenses:Travel:Air Travel                         $502.95
+    Expenses:Operating:Transportation:Air              $502.95
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a8c38fe2081f60479cc23ef6da8dc3a2.pdf
 
 2016/08/01 Stripe
-    Assets:Bank:Wells Fargo:Checking                  $1894.20
-    Income:Donations
+    Assets:Wells Fargo:Checking                       $1894.20
+    Income:Website Donations
     ; Receipt: ad35efdc6fa225c7b2b176693b7053c9.pdf
 
 2016/08/01 Doughbies
-    Expenses:Food                                       $14.00
+    Expenses:Operating:Food                             $14.00
     Liabilities:Reimbursement:Anthony Lam
     ; Receipt: 119e8d0ed5173d5f796d8e11b7db7b5f.png
 
 2016/08/01 SFMTA
-    Expenses:Transport:Public Transportation            $18.00
+    Expenses:Operating:Transportation:Ground            $18.00
     Liabilities:Reimbursement:Anthony Lam
     ; Receipt: 509760de8e40ace377aa3050e8c6a822.png
 
 2016/08/01 Caltrain
-    Expenses:Transport:Public Transportation            $48.90
+    Expenses:Operating:Transportation:Ground            $48.90
     Liabilities:Reimbursement:Anthony Lam
     ; Receipt: 054f595ce4ed2386c9485af08fa82853.png
 
 2016/08/02 Hawaiian Airlines
-    Expenses:Travel:Air Travel                         $390.40
+    Expenses:Operating:Transportation:Air              $390.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9cbb14d248a35ac195776b642733fe22.pdf
 
 2016/08/03 Uber
-    Expenses:Transport:Ride Sharing                     $27.35
+    Expenses:Operating:Transportation:Ground            $27.35
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ca107751abf96a4edccab5cc7fb43ca6.pdf
 
 2016/08/03 Uber
-    Expenses:Transport:Ride Sharing                     $52.42
+    Expenses:Operating:Transportation:Ground            $52.42
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c89eed3629d62e45192dd5f0c7308d08.pdf
 
@@ -2560,42 +2632,43 @@
     ; Receipt: 67064dc628a97e2941b1e4d622da57f5.pdf
 
 2016/08/03 Kyle Emile
-    Expenses:Salary                                   $5417.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
 
 2016/08/03 Dariana Valcarcel
-    Expenses:Salary                                    $415.45
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $415.45
+    Assets:Wells Fargo:Checking
     ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
 
 2016/08/04 Uber
-    Expenses:Transport:Ride Sharing                     $76.16
+    Expenses:Operating:Transportation:Ground            $76.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 88c266d623f96702ae6622078d588004.pdf
 
 2016/08/05 Selynna Sun
-    Expenses:Salary                                   $4000.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $4000.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 780c2efa712f09c78a19e2e3ce56806f.pdf
 
 2016/08/07 Walgreens
-    Expenses:Services:Shipping                          $52.42
+    Expenses:Operating:Shipping                         $52.42
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 25d194878250e027e03c2a7cc263f7b8.jpeg
 
 2016/08/08 Shyp
-    Expenses:Services:Shipping                          $71.25
+    Expenses:Operating:Shipping                         $71.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 23e09cdcf3228fc5cd973ae436956cd7.pdf
 
 2016/08/08 Streak
-    Expenses:Services:Software                          $39.00
+    Expenses:Operating:Software                         $39.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3bb2510f1392e07f38b367c250d42ea3.pdf
 
 2016/08/08 T-Mobile
-    Expenses:Services:Internet                         $128.45
+    ; Internet access for Hack Camp
+    Expenses:Operating:Other                           $128.45
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: a05dabc28e61a640432c9767baa97f77.jpg
 
@@ -2603,57 +2676,57 @@
     ; A Hack Camp applicant needed to have their tuition reimbursed and the
     ; reimbursement is mixed into the same transactions as the donations. This
     ; deducts from the donations account to simplify things
-    Income:Donations                                   $509.00
-    Assets:Bank:Wells Fargo:Checking
+    Income:Website Donations                           $509.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 07d6bae6e2918ed258d20240c08b7619.pdf
 
 2016/08/11 Heroku
-    Expenses:Services:Hosting                            $1.38
+    Expenses:Operating:Hosting                           $1.38
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ebd41fad58d8bf8bc233cef96a5dbde5.pdf
 
 2016/08/11 Alexis Urbain-Racine
-    Expenses:Salary                                    $320.00
+    Expenses:Operating:Staff:Salary                    $320.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b01bebe1bcab94d7b8ed7cb5f79a1466.pdf
 
 2016/08/13 Walgreens
-    Expenses:Services:Shipping                          $22.60
+    Expenses:Operating:Shipping                         $22.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fc709a12ac1178eeb2d413ce0c2d0853.jpeg
 
 2016/08/13 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $2.16
+    Expenses:Operating:Office:Supplies                   $2.16
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0c359aee6c05b6518ca0ebebe1fae104.jpeg
 
 2016/08/15 VMware
-    Expenses:Services:Software                          $79.99
+    Expenses:Operating:Software                         $79.99
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d508ebafb6e40aee247e5bf98278ee56.pdf
 
 2016/08/16 USPS
-    Expenses:Services:Shipping                          $31.40
+    Expenses:Operating:Shipping                         $31.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a17f7abdfc5ba170155de070a7fb67c3.jpg
 
 2016/08/16 Harvest
-    Expenses:Services:Software                          $12.00
+    Expenses:Operating:Software                         $12.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d458b3ffbf55a98a5cb10e2255ac86fa.pdf
 
 2016/08/16 USPS
-    Expenses:Services:Shipping                          $34.50
+    Expenses:Operating:Shipping                         $34.50
     Liabilities:Reimbursement:Alexis Urbain-Racine
     ; Receipt: 8d61488e42f2fc38967db1b87736b433.jpg
 
 2016/08/17 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $4.99
+    Expenses:Operating:Office:Supplies                   $4.99
     Liabilities:Reimbursement:Alexis Urbain-Racine
     ; Receipt: 8aeddd11847669ba85a569284da19599.jpg
 
 2016/08/18 Skype
-    Expenses:Services:Software                          $10.00
+    Expenses:Operating:Software                         $10.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 688ba2fa74fd7cd0b4ac6d2f3632bb4a.png
 
@@ -2663,114 +2736,116 @@
     ; Receipt: c634f507339656e52388b38012c9c0ea.pdf
 
 2016/08/19 MDW Parking
-    Expenses:Transport                                  $75.00
+    Expenses:Operating:Transportation:Ground            $75.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 5681be8f4e8db7cfbad800b26c90b811.JPG
 
 2016/08/19 Marcello's Pizza
-    Expenses:Food                                       $33.07
+    Expenses:Operating:Food                             $33.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c8b4413bfbfb6574c0b1551aa61cf6aa.jpeg
 
 2016/08/19 Domino's
-    Expenses:Miscellaneous:Events:Food                  $42.52
+    ; Food bought for an event
+    Expenses:Operating:Food                             $42.52
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 45165cf3bd3c8dd6625472981c40c968.pdf
 
 2016/08/20 Zach Latta
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1f9eb6fe25a3792deb7dd8ecdbd88d6.pdf
 
 2016/08/20 IRCCloud
-    Expenses:Services:Software                           $5.00
+    Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c9424c31fc0461e6e04aab62521617b.pdf
 
 2016/08/20 Alexis Urbain-Racine
-    Expenses:Salary                                    $320.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $320.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 4cae1fd41b48ca5870b0684b2b73a608.pdf
 
 2016/08/22 Uber
-    Expenses:Transport:Ride Sharing                     $28.47
+    Expenses:Operating:Transportation:Ground            $28.47
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 0ceded7efe10a9a35aea49dee83c47f5.png
 
 2016/08/22 Uber
-    Expenses:Transport:Ride Sharing                     $29.40
+    Expenses:Operating:Transportation:Ground            $29.40
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 24def8086d3b7b26fa4711298c7e6a27.png
 
 2016/08/23 Hack Club
     ; Square Cash refunded our payment to Alexis
-    Assets:Bank:Wells Fargo:Checking                   $320.00
-    Expenses:Salary
+    Assets:Wells Fargo:Checking                        $320.00
+    Expenses:Operating:Staff
     ; Receipt: d3da7a83fafe57c7ebd371ada0b36e68.pdf
 
 2016/08/24 Uber
-    Expenses:Transport:Ride Sharing                     $37.59
+    Expenses:Operating:Transportation:Ground            $37.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c2c21792dd5c337101201afa29e8c06f.pdf
 
 2016/08/24 Domino's
-    Expenses:Miscellaneous:Events:Food                  $43.65
+    ; Food bought for an event
+    Expenses:Operating:Food                             $43.65
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 8f253636bb8317771ce81e5882dbdb02.png
 
 2016/08/25 UPS
-    Expenses:Services:Shipping                          $46.23
+    Expenses:Operating:Shipping                         $46.23
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 94aa76e33d3019dc823e94704dc004ab.png
 
 2016/08/30 Reveille Coffee Co
-    Expenses:Food                                        $7.07
+    Expenses:Operating:Food                              $7.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2b10ed427e58a196775c9911319a04a1.pdf
 
 2016/08/31 Google
-    Expenses:Services:Software                          $34.44
+    Expenses:Operating:Software                         $34.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7d195d254199c5427e37f6941876ce4e.pdf
 
 2016/08/31 Streak
-    Expenses:Services:Software                          $10.44
+    Expenses:Operating:Software                         $10.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1449f0f408ad4ad530d4ae31885e6cc.pdf
 
 2016/09/01 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0686b5940f84a9dc6152c96e8275529f.pdf
 
 2016/09/02 Bite Me Sandwiches
-    Expenses:Food                                       $17.84
+    Expenses:Operating:Food                             $17.84
     Liabilities:Reimbursement:Matthew Kwong
     ; Receipt: 834d3ad9853b6f6b417b32a9d2e8803d.jpeg
 
 2016/09/02 Namecheap
-    Expenses:Services:Hosting                           $35.71
+    Expenses:Operating:Hosting                          $35.71
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c3745e6eab4e1b452d5c40c3a819ad4.pdf
 
 2016/09/02 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $5.43
+    Expenses:Operating:Office:Supplies                   $5.43
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d0b435d8f0028f5e9115748f2119593c.jpeg
 
 2016/09/02 USPS
-    Expenses:Services:Shipping                           $1.73
+    Expenses:Operating:Shipping                          $1.73
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a35a92836eb5d597625f659b6fcbf434.jpeg
 
 2016/09/02 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $1.19
+    Expenses:Operating:Office:Supplies                   $1.19
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ce9494f629401a9c418b4b4d1fe14d4d.jpeg
 
 2016/09/02 Kyle Emile
-    Expenses:Salary                                   $5417.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 9dc0d5a3fa432feb532a1cff98c5c5bb.pdf
 
 2016/09/05 Alexis Urbain-Racine
@@ -2779,453 +2854,455 @@
     ; Receipt: 9f19ba7012b39868ff63b56785eeec53.pdf
 
 2016/09/06 MDW Parking
-    Expenses:Transport                                 $120.00
+    Expenses:Operating:Transportation:Ground           $120.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 28bd1d4521e52520058aa406d2115183.JPG
 
 2016/09/06 Uber
-    Expenses:Transport:Ride Sharing                     $27.10
+    Expenses:Operating:Transportation:Ground            $27.10
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 04f322677e6389722ea455c0fc241b26.png
 
 2016/09/06 Starbucks
-    Expenses:Food                                        $4.45
+    Expenses:Operating:Food                              $4.45
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f532bea074ecbbd4e88cc754eaa6299c.jpeg
 
 2016/09/08 UltraPress
-    Expenses:Miscellaneous:Swag                        $228.90
+    Expenses:Marketing:T-Shirts                        $228.90
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 7db70e0c1c4628d478472fa8449b101a.pdf
 
 2016/09/08 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $2.18
+    Expenses:Operating:Office:Supplies                   $2.18
     Liabilities:Reimbursement:Matthew Kwong
     ; Receipt: 9dec1762e51c57edda79d76d7ee1a209.jpg
 
 2016/09/09 USPS
-    Expenses:Services:Shipping                          $16.80
+    Expenses:Operating:Shipping                         $16.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d75e2f8f44fe8843cb762dc0d6b9ef70.jpeg
 
 2016/09/09 Domino's
-    Expenses:Miscellaneous:Events:Food                  $26.40
+    ; Food bought for an event
+    Expenses:Operating:Food                             $26.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: de10fe2fe6e7b2d93850e1268730aa5b.pdf
 
 2016/09/09 Super Duper
-    Expenses:Food                                       $26.37
+    Expenses:Operating:Food                             $26.37
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 005e7c2f165eaa124c7211f3df8c7256.jpeg
 
 2016/09/12 Uber
-    Expenses:Transport:Ride Sharing                     $20.00
+    Expenses:Operating:Transportation:Ground            $20.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 73b64d472163de09003702f7fe44cc75.png
 
 2016/09/12 Harvest
-    Expenses:Services:Software                          $12.00
+    Expenses:Operating:Software                         $12.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2cc4a37ea02c8d739c9c9661dd647264.pdf
 
 2016/09/12 Heroku
-    Expenses:Services:Hosting                           $13.74
+    Expenses:Operating:Hosting                          $13.74
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1cd148aa33d7a5aadf3ee927d9ea7f01.pdf
 
 2016/09/12 UP2U Print
     ; Business cards
-    Expenses:Miscellaneous:Swag                         $65.25
+    Expenses:Marketing:Other                            $65.25
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: b7783d01775eb9454f0f01199b6af36c.png
 
 2016/09/13 Uber
-    Expenses:Transport:Ride Sharing                     $10.00
+    Expenses:Operating:Transportation:Ground            $10.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 9a4e7137f2a91949eb59af07dd9c5b43.png
 
 2016/09/13 Streak
-    Expenses:Services:Software                         $234.00
+    Expenses:Operating:Software                        $234.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f4549277cd7657beb07c06efb4976c4b.pdf
 
 2016/09/13 Uber
-    Expenses:Transport:Ride Sharing                     $11.72
+    Expenses:Operating:Transportation:Ground            $11.72
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdf4b1c6453e13c3416b924b2cae9a40.pdf
 
 2016/09/13 Jesus Eddie Granillo
-    Expenses:Salary:Contractor                         $200.00
+    Expenses:Operating:Contracting                     $200.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5647989a35244047aa5645b65e4c1d3a.pdf
 
 2016/09/16 MDW Parking
-    Expenses:Transport                                  $50.00
+    Expenses:Operating:Transportation:Ground            $50.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 9232c928737fd588ba5c5d9e7af8e84c.JPG
 
 2016/09/16 Uber
-    Expenses:Transport:Ride Sharing                     $11.12
+    Expenses:Operating:Transportation:Ground            $11.12
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: f0b9a0bb3790d4e58b305df382f06596.png
 
 2016/09/16 Namecheap
-    Expenses:Services:Hosting                            $8.48
+    Expenses:Operating:Hosting                           $8.48
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 675aa0bf9bebf793c450d84b7ef4b69e.pdf
 
 2016/09/16 UP2U Print
     ; Business cards
-    Expenses:Miscellaneous:Swag                        $104.40
+    Expenses:Marketing:Other                           $104.40
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: fa1b807158831876e24885d78d61fe14.png
 
 2016/09/20 IRCCloud
-    Expenses:Services:Software                           $5.00
+    Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 96a7993df781134bffec80efd45c08d7.pdf
 
 2016/09/21 Max Wofford
-    Expenses:Salary                                  $10174.18
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                  $10174.18
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Dariana Valcarcel
-    Expenses:Salary                                    $842.24
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $842.24
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Selynna Sun
-    Expenses:Salary                                   $2000.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2000.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Selynna Sun
-    Expenses:Salary                                   $1267.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $1267.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Jessica Kwok
-    Expenses:Salary                                   $2800.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $2800.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/25 Uber
-    Expenses:Transport:Ride Sharing                     $19.99
+    Expenses:Operating:Transportation:Ground            $19.99
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: b8d98db2260e28c9e3cbb5f16315253a.png
 
 2016/09/26 Lyft
-    Expenses:Transport:Ride Sharing                     $11.43
+    Expenses:Operating:Transportation:Ground            $11.43
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a49426e4275aab51b959688b534b29a6.pdf
 
 2016/09/27 Lyft
-    Expenses:Transport:Ride Sharing                     $77.78
+    Expenses:Operating:Transportation:Ground            $77.78
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2d05fcb5e60cd970412b7e08b529bd68.pdf
 
-; First Fast Forward check
 2016/10/02 Safeway
-    Expenses:Miscellaneous:Events:Food                  $10.83
+    ; Food bought for an event
+    Expenses:Operating:Food                             $10.83
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: c2c2050204b0b18cee18c93059c8dbae.png
 
-; Paying for relocation expenses
 2016/10/03 Uber
-    Expenses:Transport:Ride Sharing                     $20.41
+    Expenses:Operating:Transportation:Ground            $20.41
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: cc2141b80925f35e8161903243c371ea.png
 
 2016/10/03 MDW Parking
-    Expenses:Transport                                 $135.00
+    Expenses:Operating:Transportation:Ground           $135.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: fe15e20402ab5b82f493da50286128fd.JPG
 
 2016/10/03 Speedway
-    Expenses:Transport                                  $23.22
+    Expenses:Operating:Transportation:Ground            $23.22
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 36f4c8092c334175ec64d1e2009da570.JPG
 
 2016/10/07 The Hack Foundation
-    Assets:Bank:Chase:Checking                      $10,000.00
-    Income:Donations
+    ; First Fast Forward check
+    Assets:Chase:Checking                           $10,000.00
+    Income:Fundraising
     ; Receipt: 7f963dbd4ac9f7b38233175688af0377.png
 
 2016/10/07 Matthew Kwong
     Liabilities:Reimbursement:Matthew Kwong             $20.02
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: c1bf9160d3bfa1fc0a6577f033ea1c09.pdf
 
 2016/10/07 Kyle Emile
-    Expenses:Salary                                   $5417.00
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Wells Fargo:Checking
     ; Receipt: 590e95144bfad2040c9da132f50558f5.pdf
 
 2016/10/07 Jessica Kwok
     Liabilities:Reimbursement:Jessica Kwok              $46.50
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: b126a7f0d2b315450428a9099c4872fe.pdf
 
 2016/10/07 Kyle Emile
     Liabilities:Reimbursement:Kyle Emile               $609.99
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 3988f23075eafbdddbfff3258fe96202.pdf
 
 2016/10/07 Zach Latta
     Liabilities:Reimbursement:Zach Latta              $6412.61
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 7400427217d494f61d4b3eb014676b0b.pdf
 
 2016/10/07 Selynna Sun
     Liabilities:Reimbursement:Selynna Sun             $1473.94
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: 4c92c4873a6780947cf87fabb4ad2148.pdf
 
 2016/10/07 Max Wofford
     Liabilities:Reimbursement:Max Wofford              $429.50
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Wells Fargo:Checking
     ; Receipt: b474d5552e7c49fb1889a086af929356.pdf
 
 2016/10/08 Kyle Emile
-    Expenses:Salary                                   $4975.00 ; $25 is deducted from this to pay for the wire
-    Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
-    Assets:Bank:Chase:Checking
+    ; Relocation expenses
+    Expenses:Operating:Staff:Relocation               $4975.00 ; $25 is deducted from this to pay for the wire
+    Expenses:Operating:Bank                             $25.00 ; Payee: Chase
+    Assets:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
 
 2016/10/17 Dariana Valcarcel
-    Expenses:Salary                                    $375.30
-    Assets:Bank:Wells Fargo:Checking
+    Expenses:Operating:Staff:Salary                    $375.30
+    Assets:Wells Fargo:Checking
     ; Receipt: c3167b90af50741cc872ce5ef7259635.pdf
 
 2016/10/20 USPS
-    Expenses:Services:Shipping                          $91.50
+    Expenses:Operating:Shipping                         $91.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3e6694e91e03d20c73d62520017c0ff7.JPG
 
 2016/10/20 USPS
-    Expenses:Services:Shipping                           $1.73
+    Expenses:Operating:Shipping                          $1.73
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7a0a917aaebf93944e417a1fa8465e52.JPG
 
 2016/10/20 Zapier
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11d5f86bb2af68b9e5db557a5dcd0c9a.pdf
 
 2016/10/31 Chase
     ; Monthly fee
-    Expenses:Services:Bank:Chase                        $10.00
-    Assets:Bank:Chase:Checking
+    Expenses:Operating:Bank                             $10.00
+    Assets:Chase:Checking
 
 2016/11/01 Uber
-    Expenses:Transport:Ride Sharing                     $13.15
+    Expenses:Operating:Transportation:Ground            $13.15
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 041ce69b978e31e1385a7b1c154c6c7a.pdf
 
 2016/11/01 Uber
-    Expenses:Transport:Ride Sharing                      $3.00
+    Expenses:Operating:Transportation:Ground             $3.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: accdb40c0977c3906bd30319e690f15a.pdf
 
 2016/11/01 Uber
-    Expenses:Transport:Ride Sharing                      $3.00
+    Expenses:Operating:Transportation:Ground             $3.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6f6b74b494a45acc5f4aeaab8dae7459.pdf
 
 2016/11/01 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4e23eda9308914e7dd20f75b89386dd0.pdf
 
+2016/11/01 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $360.60
+    Assets:Wells Fargo:Checking
+    ; Receipt: 80f80ae502a64706b63989a5f16fa637.pdf
+
 2016/11/03 Google
-    Expenses:Services:Software                          $13.74
+    Expenses:Operating:Software                         $13.74
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 751bf61f5285a19edcea0be46b141914.pdf
 
 2016/11/03 The Laundry
     ; 10 guest passes for Matthew's internship
-    Expenses:Services:Office Space                     $135.00
+    Expenses:Operating:Office:Rent                     $135.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e8502cf72615774f33feb9d919f0456c.pdf
 
 2016/11/03 Uber
-    Expenses:Transport:Ride Sharing                      $7.80
+    Expenses:Operating:Transportation:Ground             $7.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c213a236d533413bc3b7ee00b07df0a0.pdf
 
 2016/11/04 Uber
-    Expenses:Transport:Ride Sharing                      $7.81
+    Expenses:Operating:Transportation:Ground             $7.81
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 109215ff14c1ee5f1702b000ed319de7.pdf
 
 2016/11/04 The Laundry
-    Expenses:Services:Office Space                     $281.25
+    Expenses:Operating:Office:Rent                     $281.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 85d859d3f09ecc14e972fe3b9d135215.pdf
 
 2016/11/06 Namecheap
     ; SSL certificate for *.hackclub.io
-    Expenses:Services:Software                          $94.00
+    Expenses:Operating:Software                         $94.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6b6c3212671a112ba68df759463e5ff2.pdf
 
 2016/11/07 Mechanical Turk
-    Expenses:Salary:Contractor                           $4.44
+    Expenses:Operating:Contracting                       $4.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b7e0a5407fd485436d82d791f9fd1b14.pdf
 
 2016/11/08 Facebook
-    Expenses:Miscellaneous:Ads                          $24.69
+    Expenses:Marketing:Ads                              $24.69
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2469312da3c82140d88d513a1cf0be86.pdf
 
 2016/11/08 Streak
-    Expenses:Services:Software                         $124.80
+    Expenses:Operating:Software                        $124.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3e08fee2fa530e456197afedced2bd12.pdf
 
 2016/11/08 Mechanical Turk
-    Expenses:Salary:Contractor                          $44.64
+    Expenses:Operating:Contracting                      $44.64
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fc0e90d5aa945a4d7cce58471d540ef5.pdf
 
 2016/11/08 Walgreens
-    Expenses:Miscellaneous:Office Supplies               $8.68
+    Expenses:Operating:Office:Supplies                   $8.68
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 11763d11ee988353d98c3a4096ca701c.jpg
 
 2016/11/11 GK Real Estate, LLC
     ; Additional payment for relocation expense (late rent fee)
-    Expenses:Miscellaneous                             $250.00
+    Expenses:Operating:Staff:Relocation                $250.00
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: c52bd40b51ef86f18191426fbe3645f0.pdf
 
 2016/11/11 Facebook
-    Expenses:Miscellaneous:Ads                           $0.47
+    Expenses:Marketing:Ads                               $0.47
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 73711c70355f0fc18850ec9e89c90a10.pdf
 
 2016/11/11 Heroku
-    Expenses:Services:Hosting                           $51.24
+    Expenses:Operating:Hosting                          $51.24
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: af948bb30ff73c029a96f92d7a37d7af.pdf
 
 2016/11/11 Facebook
-    Expenses:Miscellaneous:Ads                          $12.07
+    Expenses:Marketing:Ads                              $12.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ad5949188c620dbf9def455cd0e45f93.pdf
 
 2016/11/12 Harvest
-    Expenses:Services:Software                          $12.00
+    Expenses:Operating:Software                         $12.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 80ef85ea0a625fa822c5c499470116b3.pdf
 
 2016/11/14 Sticker Mule
-    Expenses:Miscellaneous:Swag                       $4050.25
+    Expenses:Marketing:Stickers                       $4050.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c5245fafd0f815bbbbe789f7675d8aa4.pdf
 
 2016/11/14 Mechanical Turk
-    Expenses:Salary:Contractor                         $150.96
+    Expenses:Operating:Contracting                     $150.96
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63026a3678686b8cfce59c07fc83c5a3.pdf
 
 2016/11/14 Mechanical Turk
-    Expenses:Salary:Contractor                         $263.52
+    Expenses:Operating:Contracting                     $263.52
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d84d417ee0cbb41da521724913deaa38.pdf
 
 2016/11/14 Fast Forward
-    Assets:Bank:Chase:Checking                       $63388.33
-    Income:Donations
+    Assets:Chase:Checking                            $63388.33
+    Income:Fundraising
 
 2016/11/15 Cloud9
-    Expenses:Services:Software                           $1.00
+    Expenses:Operating:Software                          $1.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4d88ba85cc426a88d036902a7137d3e7.pdf
 
+2016/11/15 Max Wofford
+    ; Check was returned to bank
+    Assets:Wells Fargo:Checking                        $301.05
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 6a821420e28a69e94e5a9fd16a6a6a79.pdf
+
 2016/11/16 Uber
-    Expenses:Transport:Ride Sharing                     $12.60
+    Expenses:Operating:Transportation:Ground            $12.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 071f46d82d63cf272077ef71c08bba60.pdf
 
+2016/11/17 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $301.05
+    Assets:Wells Fargo:Checking
+    ; Receipt: 6cd6dddf1f29d76198494f9ba1145928.pdf
+
 2016/11/20 Zapier
-    Expenses:Services:Software                          $15.00
+    Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cc02a099d3985a8ce3b2c7c0bd44dddd.pdf
 
 2016/11/20 Seton & Associates
     ; Trademark filing
-    Expenses:Services:Legal                           $1700.00
+    Expenses:Operating:Legal                          $1700.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f4571711af7f51077cccfc568704d1ee.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Salary:Contractor                          $12.50
+    Expenses:Marketing:Contracting                      $12.50
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 50d1053b7dbdc42c73491246000532c6.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Salary:Contractor                          $25.00
+    Expenses:Marketing:Contracting                      $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63299a8b24ec658d7b9c85bb8ee6458d.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Salary:Contractor                          $21.80
+    Expenses:Marketing:Contracting                      $21.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e78e0c68cffe0df62ef7e6625b0798a6.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Salary:Contractor                        $2000.00
+    Expenses:Marketing:Contracting                    $2000.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 71ee12c685193507bdd826d87a407970.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Salary:Contractor                         $257.22
+    Expenses:Marketing:Contracting                     $257.22
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: efaa23da0d5062c3a2b154f4fc333bc0.pdf
 
 2016/11/22 IQ Risk
     ; D&O insurance
-    Expenses:Insurance                                 $987.00
+    Expenses:Operating:Insurance                       $987.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ed4b413e0f8d169bc7a71f82e64c318d.pdf
 
 2016/11/29 Transfer
-    Assets:Bank:Chase:Checking                       $19955.71
-    Assets:Bank:Wells Fargo:Checking
+    Assets:Chase:Checking                            $19955.71
+    Assets:Wells Fargo:Checking
 
 2016/11/29 Transfer
-    Assets:Bank:Chase:Checking                         $423.25
-    Assets:Bank:Wells Fargo:Savings
+    Assets:Chase:Checking                              $423.25
+    Assets:Wells Fargo:Savings
 
 2016/12/01 Papertrail
-    Expenses:Services:Software                           $7.00
+    Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b691add8768e4af57cce895f0493609f.pdf
 
 2016/12/02 Kyle Emile
     ; This transaction both pays Kyle and reimburses him for the month of
     ; November. The receipt is just for his invoice.
-    Expenses:Salary                                   $5392.00 ; $25 has been deducted to pay for the wire
+    Expenses:Operating:Staff:Salary                   $5392.00 ; $25 has been deducted to pay for the wire
     Liabilities:Reimbursement:Kyle Emile               $250.00
-    Expenses:Services:Bank:Chase                        $25.00 ; Wire fee
-    Assets:Bank:Chase:Checking
+    Expenses:Operating:Bank                             $25.00 ; Payee: Chase
+    Assets:Chase:Checking
     ; Receipt: daabad9fb56e7ec2df04896d84f75522.pdf
-
-2016/11/01 Dariana Valcarcel
-    Expenses:Salary  $360.60
-    Assets:Bank:Wells Fargo:Checking
-    ; Receipt: 80f80ae502a64706b63989a5f16fa637.pdf
-
-2016/11/15 Max Wofford
-    ; Check was returned to bank
-    Assets:Bank:Wells Fargo:Checking  $301.05
-    Liabilities:Reimbursement:Max Wofford
-    ; Receipt: 6a821420e28a69e94e5a9fd16a6a6a79.pdf
-
-2016/11/17 Max Wofford
-    Liabilities:Reimbursement:Max Wofford  $301.05
-    Assets:Bank:Wells Fargo:Checking
-    ; Receipt: 6cd6dddf1f29d76198494f9ba1145928.pdf
