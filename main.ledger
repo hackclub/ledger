@@ -2710,6 +2710,26 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0c359aee6c05b6518ca0ebebe1fae104.jpeg
 
+2016/08/15 Jessica Kwok
+    Liabilities:Reimbursement:Jessica Kwok              $46.50
+    Assets:Wells Fargo:Checking
+    ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
+
+2016/08/15 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $301.05
+    Assets:Wells Fargo:Checking
+    ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
+
+2016/08/15 Selynna Sun
+    Liabilities:Reimbursement:Selynna Sun             $1203.58
+    Assets:Wells Fargo:Checking
+    ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
+
+2016/08/15 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $5340.60
+    Assets:Wells Fargo:Checking
+    ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
+
 2016/08/15 VMware
     Expenses:Operating:Software                         $79.99
     Liabilities:Reimbursement:Zach Latta
@@ -2744,6 +2764,13 @@
     Liabilities:Reimbursement:Alexis Urbain-Racine       $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c634f507339656e52388b38012c9c0ea.pdf
+
+2016/08/19 Stripe
+    ; Had to do some sort of refund through Stripe, which is mixed with website
+    ; donations.
+    Income:Website Donations                           $251.50
+    Assets:Wells Fargo:Checking
+    ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
 
 2016/08/19 MDW Parking
     Expenses:Operating:Transportation:Ground            $75.00
@@ -2814,6 +2841,9 @@
     ; Receipt: 2b10ed427e58a196775c9911319a04a1.pdf
 
 2016/08/31 Google
+    ; Zach was accidentally reimbursed for this expense, when it was actually
+    ; posted to the company bank account on 2016-09-06. We got the money back
+    ; from him on 2017-02-06.
     Expenses:Operating:Software                         $34.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7d195d254199c5427e37f6941876ce4e.pdf
@@ -2822,6 +2852,11 @@
     Expenses:Operating:Software                         $10.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1449f0f408ad4ad530d4ae31885e6cc.pdf
+
+2016/09/01 Stripe
+    Assets:Wells Fargo:Checking                           $217
+    Income:Website Donations
+    ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
 
 2016/09/01 Papertrail
     Expenses:Operating:Software                          $7.00
@@ -2877,6 +2912,11 @@
     Expenses:Operating:Food                              $4.45
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f532bea074ecbbd4e88cc754eaa6299c.jpeg
+
+2016/09/06 Google
+    Expenses:Operating:Software                         $34.44
+    Assets:Wells Fargo:Checking
+    ; Receipt: 7d195d254199c5427e37f6941876ce4e.pdf
 
 2016/09/08 UltraPress
     Expenses:Marketing:T-Shirts                        $228.90
@@ -2945,6 +2985,19 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5647989a35244047aa5645b65e4c1d3a.pdf
 
+2016/09/15 Mission Bit
+    ; Mission Bit accidentally deposited money into our bank account
+    Assets:Wells Fargo:Checking                      $11380.25
+    Income:Other
+    ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
+
+2016/09/15 Mission Bit
+    ; Mission Bit accidentally deposited money into our bank account, this is
+    ; them withdrawing it.
+    Income:Other                                     $11380.25
+    Assets:Wells Fargo:Checking
+    ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
+
 2016/09/16 MDW Parking
     Expenses:Operating:Transportation:Ground            $50.00
     Liabilities:Reimbursement:Kyle Emile
@@ -2970,6 +3023,20 @@
     Expenses:Operating:Software                          $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 96a7993df781134bffec80efd45c08d7.pdf
+
+2016/09/20 Gusto
+    ; Deposits to verify ownership of bank account
+    Assets:Wells Fargo:Checking                          $0.17
+    Assets:Wells Fargo:Checking                          $0.52
+    Income:Other
+    ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
+
+2016/09/20 Gusto
+    ; Withdrawals from verification of bank account
+    Income:Other                                         $0.17
+    Income:Other                                         $0.52
+    Assets:Wells Fargo:Checking
+    ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
 
 2016/09/21 Max Wofford
     Expenses:Operating:Staff:Salary                  $10174.18
@@ -3032,6 +3099,16 @@
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 36f4c8092c334175ec64d1e2009da570.JPG
 
+2016/10/03 Stripe
+    Assets:Wells Fargo:Checking                       $1022.00
+    Income:Website Donations
+    ; Receipt: 49f4300b5850f1af8636a90e173decb6.pdf
+
+2016/10/03 Google
+    Expenses:Operating:Software                         $44.40
+    Assets:Wells Fargo:Checking
+    ; Receipt: 49f4300b5850f1af8636a90e173decb6.pdf
+
 2016/10/07 The Hack Foundation
     ; First Fast Forward check
     Assets:Chase:Checking                           $10,000.00
@@ -3079,6 +3156,11 @@
     Expenses:Operating:Bank                             $25.00 ; Payee: Chase
     Assets:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
+
+2016/10/11 Wells Fargo
+    Expenses:Operating:Bank                              $3.00
+    Assets:Wells Fargo:Checking
+    ; Receipt: 49f4300b5850f1af8636a90e173decb6.pdf
 
 2016/10/17 Dariana Valcarcel
     Expenses:Operating:Staff:Salary                    $375.30
@@ -3130,6 +3212,26 @@
     Assets:Wells Fargo:Checking
     ; Receipt: 80f80ae502a64706b63989a5f16fa637.pdf
 
+2016/11/01 Stripe
+    Assets:Wells Fargo:Checking                       $1117.82
+    Income:Website Donations
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
+
+2016/11/02 Zach Latta
+    Liabilities:Reimbursement:Zach Latta               $108.23
+    Assets:Wells Fargo:Checking
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
+
+2016/11/02 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile               $198.62
+    Assets:Wells Fargo:Checking
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
+
+2016/11/02 Kyle Emile
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Wells Fargo:Checking
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
+
 2016/11/03 Google
     Expenses:Operating:Software                         $13.74
     Liabilities:Reimbursement:Zach Latta
@@ -3145,6 +3247,11 @@
     Expenses:Operating:Transportation:Ground             $7.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c213a236d533413bc3b7ee00b07df0a0.pdf
+
+2016/11/03 Google
+    Expenses:Operating:Software                         $45.00
+    Assets:Wells Fargo:Checking
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
 
 2016/11/04 Uber
     Expenses:Operating:Transportation:Ground             $7.81
@@ -3298,6 +3405,7 @@
 2016/11/29 Transfer
     Assets:Chase:Checking                            $19955.71
     Assets:Wells Fargo:Checking
+    ; Receipt: 1103348d150f4722222320616eb85f48.png
 
 2016/11/29 Transfer
     Assets:Chase:Checking                              $423.25
@@ -3366,6 +3474,11 @@
     Expenses:Operating:Software                         $12.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0a62f3e1892a0d20a58c2a58b83a664f.pdf
+
+2016/12/31 Google
+    Expenses:Operating:Software                         $45.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7254112bfc7c2d155fb825665316850a.pdf
 
 2016/12/31 Google
     Expenses:Operating:Software                         $45.00
@@ -3859,7 +3972,13 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: a4801f8594cd221f520e6b514b053506.pdf
 
-2017/12/31 Google
-    Expenses:Operating:Software                         $45.00
-    Liabilities:Reimbursement:Zach Latta
-    ; Receipt: 7254112bfc7c2d155fb825665316850a.pdf
+2017/02/06 Zach Latta
+    ; Accidentally reimbursed Zach for the Google Apps on 2016-08-31, when it was
+    ; actually expensed directly to the company bank account.
+    Liabilities:Reimbursement:Zach Latta                $34.44
+    Expenses:Operating:Software
+
+2017/02/06 Zach Latta
+    ; Accidentally reimbursed Zach for paying for Google Apps in 2016-11.
+    Liabilities:Reimbursement:Zach Latta                $45.00
+    Expenses:Operating:Software
