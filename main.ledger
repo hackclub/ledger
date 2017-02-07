@@ -3654,11 +3654,6 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ba0cc82858ceb3719287cb6caeffa46a.pdf
 
-2017/01/15 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                  AUD 55.80
-    Liabilities:Reimbursement:Harrison Shoebridge
-    ; Receipt: 1c8cb33d2208d1d780acc260daa5fb9d.pdf
-
 2017/01/16 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $4.75
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -3982,3 +3977,25 @@
     ; Accidentally reimbursed Zach for paying for Google Apps in 2016-11.
     Liabilities:Reimbursement:Zach Latta                $45.00
     Expenses:Operating:Software
+
+2017/02/06 Zach Latta
+    ; Zach reimbursed Harrison for an expense, Hack Club needs to reimburse
+    ; Zach.
+    Expenses:Operating:Staff:Salary                     $42.65 ; Payee: Harrison Shoebridge
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fb68bc7180da68bf9dcbf45c10b8207b.png
+
+2017/02/06 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $9211.51
+    Assets:Chase:Checking
+    ; Receipt: d357f7162d2861c51a21a9b5d824511c.png
+
+2017/02/06 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile               $125.10
+    Assets:Chase:Checking
+    ; Receipt: c52899a3d85b9e90586f3eece7ba3217.png
+
+2017/02/06 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge      $771.87
+    Assets:Chase:Checking
+    ; Receipt: f6235e2acf020d413b6c10702cc30816.png
