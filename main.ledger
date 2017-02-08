@@ -3490,6 +3490,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2892a2e0b358a69d9ad2578f4cab5345.pdf
 
+2017/01/01 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                   $1375.00
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: e4c49207efb646b5802292d05f055f11.jpg
+
 2017/01/05 Google
     Expenses:Operating:Hosting                          $38.26
     Liabilities:Reimbursement:Zach Latta
@@ -3912,6 +3917,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: c7ad14e73af3e5d363c5123bf61fcbcd.png
 
+2017/02/01 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                   $1375.00
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 84e47a734522710c9f37cbca0884092c.jpg
+
 2017/02/02 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $15.00
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -3999,3 +4009,8 @@
     Liabilities:Reimbursement:Harrison Shoebridge      $771.87
     Assets:Chase:Checking
     ; Receipt: f6235e2acf020d413b6c10702cc30816.png
+
+2017/02/07 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge     $2750.00
+    Assets:Chase:Checking
+    ; Receipt: 0fda1106912ba28db900942cda46ec41.png
