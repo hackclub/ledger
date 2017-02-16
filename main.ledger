@@ -2586,9 +2586,8 @@
     ; Receipt: 85741c3e4ad44ffe241d05f26b274bc0.png
 
 2016/07/29 Wells Fargo
-    ; TODO
-    Expenses:Operating:Bank                              $0.01
-    Assets:Wells Fargo:Savings
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
     ; Receipt: d844796bd7569300ba35730ea4f397b9.png
 
 2016/07/31 Google
@@ -2853,6 +2852,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: e1449f0f408ad4ad530d4ae31885e6cc.pdf
 
+2016/08/31 Wells Fargo
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
+    ; Receipt: 407ef181352671a0e0543007f0e62b76.png
+
+2016/08/31 Wells Fargo
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
+    ; Receipt: 407ef181352671a0e0543007f0e62b76.png
+
 2016/09/01 Stripe
     Assets:Wells Fargo:Checking                           $217
     Income:Website Donations
@@ -3078,6 +3087,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2d05fcb5e60cd970412b7e08b529bd68.pdf
 
+2016/09/30 Wells Fargo
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
+    ; Receipt: 5ef653654570d078cb69ecf67b31f456.png
+
+2016/09/30 Wells Fargo
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
+    ; Receipt: 5ef653654570d078cb69ecf67b31f456.png
+
 2016/10/02 Safeway
     ; Food bought for an event
     Expenses:Operating:Food                             $10.83
@@ -3186,6 +3205,16 @@
     ; Monthly fee
     Expenses:Operating:Bank                             $10.00
     Assets:Chase:Checking
+
+2016/10/31 Wells Fargo
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
+    ; Receipt: e977e714316fe3269810448c21b5e14f.png
+
+2016/10/31 Wells Fargo
+    Expenses:Operating:Bank                              $6.00
+    Assets:Wells Fargo:Savings
+    ; Receipt: e977e714316fe3269810448c21b5e14f.png
 
 2016/11/01 Uber
     Expenses:Operating:Transportation:Ground            $13.15
@@ -3401,6 +3430,11 @@
     Expenses:Operating:Insurance                       $987.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ed4b413e0f8d169bc7a71f82e64c318d.pdf
+
+2016/11/29 Wells Fargo
+    Assets:Wells Fargo:Savings                           $0.01
+    Income:Bank Interest
+    ; Receipt: 1f17e79b907ba7f4b92f9e457e87865e.png
 
 2016/11/29 Transfer
     Assets:Chase:Checking                            $19955.71
