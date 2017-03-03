@@ -3790,6 +3790,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: f632b2eea1cea9a8c76555af74054e4c.pdf
 
+2017/01/23 Basil Thai
+    Expenses:Operating:Food                             $65.35
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8295516d25a2a8f05adcaf12dddceca4.png
+
 2017/01/24 Stamps.com
     Expenses:Operating:Shipping                         $10.00
     Liabilities:Reimbursement:Zach Latta
@@ -3799,6 +3804,11 @@
     Expenses:Fundraising:Transportation:Ground          $14.07
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3d679c72bdab021e098c14da9d05484b.pdf
+
+2017/01/24 USPS
+    Expenses:Operating:Shipping                         $11.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e4b5cc67045492fc8360d74a5ea2377f.png
 
 2017/01/25 Stamps.com
     Expenses:Operating:Shipping                         $25.00
@@ -3916,6 +3926,11 @@
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: b0d8da3a356ee39e51b852f8c53b8298.png
 
+2017/01/31 Uber
+    Expenses:Operating:Transportation:Ground             $3.50
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 150102bfb852b985133b3c87fc6d266f.pdf
+
 2017/02/01 Uber
     Expenses:Fundraising:Transportation:Ground          $10.56
     Liabilities:Reimbursement:Zach Latta
@@ -3951,6 +3966,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 84e47a734522710c9f37cbca0884092c.jpg
 
+2017/02/01 Lyft
+    Expenses:Fundraising:Transportation:Ground          $14.10
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 97309ecf59d91faccb22ecca7a1fe01d.pdf
+
 2017/02/02 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $15.00
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -3975,6 +3995,11 @@
     Expenses:Operating:Staff:Salary                     $31.98
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 729634771d293c0bfc2d54242e58558f.pdf
+
+2017/02/02 Uber
+    Expenses:Fundraising:Transportation:Ground          $10.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 373b2233ae670634863350fd0304853d.pdf
 
 2017/02/03 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $5.90
@@ -4064,10 +4089,70 @@
     Assets:Chase:Checking
     ; Receipt: f6235e2acf020d413b6c10702cc30816.png
 
+2017/02/06 Streak
+    Expenses:Operating:Software                          $1.43
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 704f5200b0ac943c9fb4d3213ffe65c1.pdf
+
 2017/02/07 Harrison Shoebridge
     Liabilities:Reimbursement:Harrison Shoebridge     $2750.00
     Assets:Chase:Checking
     ; Receipt: 0fda1106912ba28db900942cda46ec41.png
+
+2017/02/07 Uber
+    Expenses:Fundraising:Transportation:Ground          $16.32
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 815ca962d8f4524e2f3660af18fa840f.pdf
+
+2017/02/07 Uber
+    Expenses:Fundraising:Transportation:Ground           $7.44
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f2dc1f35b15b2aee2b98ad2392bb53a0.pdf
+
+2017/02/07 Streak
+    Expenses:Operating:Software                        $187.20
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 07eed5b5ebeab6c9942dfc3a7a36c35b.pdf
+
+2017/02/07 Stamps.com
+    Expenses:Operating:Shipping                         $50.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: bfd930490eb4043a084c0e0b9820700a.pdf
+
+2017/02/07 cafe Rx
+    Expenses:Fundraising:Food                            $2.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 628c74e24359f9f0283d38150afcaf38.pdf
+
+2017/02/07 Amazon
+    Expenses:Operating:Other                            $41.21
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6f3223d0c83b6048a9f0d5c526c0c06d.pdf
+
+2017/02/07 Coffee Bar
+    Expenses:Fundraising:Food                            $3.68
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1d1b245eb8b0cb9ab68fba3ed014b362.JPG
+
+2017/02/08 Uber
+    Expenses:Fundraising:Transportation:Ground          $19.15
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e60b3d67680a836cecb60294a481ff1e.pdf
+
+2017/02/08 Uber
+    Expenses:Operating:Transportation:Ground             $7.19
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0c9b9fa268ef87cf59eeb5773d710cf1.pdf
+
+2017/02/08 Heroku
+    Expenses:Operating:Hosting                         $102.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 72e24e1fff3e25d22e9713d76568b527.pdf
+
+2017/02/08 Los Panchos
+    Expenses:Operating:Food                             $60.49
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ad01d6ddeaa95fc12d20179d9c07d13b.JPG
 
 2017/02/09 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $10.31
@@ -4084,10 +4169,51 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: babaf1735c504f707aae2025156f8d8d.pdf
 
+2017/02/09 Uber
+    Expenses:Operating:Transportation:Ground            $23.18
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5b2a33f02215f170d9628d65da713eaf.pdf
+
+2017/02/09 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fbfe3b7b0a2955f53b1d162e51bcd9dd.pdf
+
+2017/02/09 Amazon
+    Expenses:Operating:Office                          $396.59
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8975d682ecd89a52d21e538aa9bb2c49.pdf
+
+2017/02/09 Amazon
+    Expenses:Operating:Office                            $6.41
+    Expenses:Operating:Office                           $48.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 39f38b88c2e422ef55e2bdeebee3f6f5.pdf
+
+2017/02/10 Streak
+    Expenses:Operating:Software                         $28.43
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1a71edbf46d4284c3f10552efb44b20b.pdf
+
+2017/02/10 Tierra Mia Coffee
+    Expenses:Operating:Food                              $2.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 34b11efa75fea24082a13659758af81e.JPG
+
 2017/02/12 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $5.86
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 2acbc0cad15c87498178ec49dd81b758.pdf
+
+2017/02/12 Cloud9
+    Expenses:Operating:Software                          $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0a9a6c4d93bd1e8d9e70e4628ae953f7.pdf
+
+2017/02/12 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 273229107eee1540fdfa497111936412.pdf
 
 2017/02/13 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $31.57
@@ -4184,6 +4310,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 5432dd1b043110ad36dfc99bbd2b33b1.pdf
 
+2017/02/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 17db88329e4eb91f39686cb6171f0bee.pdf
+
 2017/02/21 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $9.82
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -4199,10 +4330,30 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: b79e6151f698c221758fa9724c00db9d.pdf
 
+2017/02/22 Uber
+    Expenses:Fundraising:Transportation:Ground          $11.33
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5affa23af0f3b7be61d8977aa3b938be.pdf
+
+2017/02/22 Amazon
+    Expenses:Operating:Office                          $396.59
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8b09df93a51a62a16fc527b4cc888579.pdf
+
+2017/02/22 Stamps.com
+    Expenses:Operating:Shipping                         $15.99
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 2e53094f4769bc0504629f83b94c616b.png
+
 2017/02/23 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $8.41
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 869657f527717d5dc5fd84c371f4885d.jpg
+
+2017/02/23 Baby Blues BBQ
+    Expenses:Operating:Food                             $87.85
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 139e1a709738bbe057d3155c749a9fdb.JPG
 
 2017/02/24 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $9.49
@@ -4218,6 +4369,26 @@
     Expenses:Operating:Staff:Salary                      $8.68
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 78de1f26174eed5475e6cdcb04100fff.jpg
+
+2017/02/26 Stamps.com
+    Expenses:Operating:Shipping                         $10.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 54744307fe84baa650d00ff482063e11.pdf
+
+2017/02/26 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 483f58a0b0942d6a80ad29581254f88f.pdf
+
+2017/02/26 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: afe51859de51f024e1631c6066fc4200.pdf
+
+2017/02/26 Stamps.com
+    Expenses:Operating:Shipping                         $50.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: ca520d5234110fe0d15fe4bee4091477.pdf
 
 2017/02/28 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $9.32
@@ -4238,3 +4409,19 @@
     Expenses:Operating:Staff:Salary                      $4.99
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: d7b9cc384f5a24000bbd270506a87111.pdf
+
+2017/03/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f2021087d9c0c08b7a00526ee1056b03.pdf
+
+2017/03/01 Baby Blues BBQ
+    Expenses:Operating:Food                             $86.63
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e8c6c8d9c8461ef07b4dcb9472bcac90.JPG
+
+2017/03/01 Amazon
+    ; Zach bought a book for a club leader
+    Expenses:Operating:Other                            $15.44
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9e061f2df295fc4c06b73ad071cc0d58.pdf
