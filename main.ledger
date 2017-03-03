@@ -3450,6 +3450,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b691add8768e4af57cce895f0493609f.pdf
 
+2016/12/01 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $505.50
+    Assets:Chase:Checking
+    ; Receipt: 3b60e810bf5025d3fd3c14fd0f597573.pdf
+
 2016/12/02 Kyle Emile
     ; This transaction both pays Kyle and reimburses him for the month of
     ; November. The receipt is just for his invoice.
@@ -3459,10 +3464,22 @@
     Assets:Chase:Checking
     ; Receipt: daabad9fb56e7ec2df04896d84f75522.pdf
 
+2016/12/02 Gusto
+    ; Verification deposits
+    Assets:Chase:Checking                                $0.56
+    Assets:Chase:Checking                                $0.68
+    Income:Other
+    ; Receipt: d39e182177c891f228cf0f1968bb90d2.png
+
 2016/12/07 Google
     Expenses:Operating:Hosting                          $28.11
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 20ed989e67ae2aabd308fdc4a7bbba0f.pdf
+
+2016/12/1 Michael Destefanis
+    Expenses:Operating:Contracting                     $180.00
+    Assets:Chase:Checking
+    ; Receipt: 059e23ca8c140e39f65dccd0a23b5586.png
 
 2016/12/12 Heroku
     Expenses:Operating:Hosting                          $64.10
@@ -3488,6 +3505,12 @@
     Expenses:Operating:Transportation:Ground            $17.68
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c9af9a0b47965fd6d9ee1256ce4d7e9.pdf
+
+2016/12/16 The Hack Foundation
+    ; From Fast Forward
+    Assets:Chase:Checking                             $5141.59
+    Income:Fundraising
+    ; Receipt: 0624c6cbf32c3f49057401a712c5ee78.pdf
 
 2016/12/17 HelloSign
     Expenses:Operating:Software                         $15.00
@@ -3524,10 +3547,31 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: e4c49207efb646b5802292d05f055f11.jpg
 
+2017/01/03 Kyle Emile
+    Expenses:Operating:Staff:Salary                  $5,417.00
+    Assets:Chase:Checking
+    ; Receipt: caadbc3f8df01a8cf8f06a0a6f9ecffa.pdf
+
+2017/01/03 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $583.20
+    Assets:Chase:Checking
+    ; Receipt: 6ad28e07ad6b83cd9e390c82846d0f9e.pdf
+
+2017/01/03 Stripe
+    Assets:Chase:Checking                            $2,578.34
+    Income:Website Donations
+    ; Receipt: fc5161fda3fe003f895b7e5c8f649056.pdf
+
 2017/01/05 Google
     Expenses:Operating:Hosting                          $38.26
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: afa8783c06db918ab3c7cb814370f5f6.pdf
+
+2017/01/08 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                 $10,000.00
+    Expenses:Operating:Bank                             $50.00 ; Payee: Chase
+    Assets:Chase:Checking
+    ; Receipt: 0748cda88ec26cacd4101d8b3d467597.pdf
 
 2017/01/09 Streak
     Expenses:Operating:Software                        $124.80
@@ -3558,6 +3602,11 @@
     Expenses:Operating:Legal                           $275.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a9207d673cd2bb9c5ae5a81cc9e8ff39.pdf
+
+2017/01/10 ATM
+    Expenses:Operating:Food                             $60.00
+    Assets:Chase:Checking
+    ; Receipt: b2e635811f3f648644c14f0a4dd50471.png
 
 2017/01/11 The Laundry
     Expenses:Operating:Office:Rent                     $224.80
@@ -3657,6 +3706,11 @@
     Expenses:Operating:Food                             $26.70
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9b9de9a98e79cb5eb673f3ccbec26ca5.JPG
+
+2017/01/13 James Click
+    Expenses:Operating:Contracting                     $100.00
+    Assets:Chase:Checking
+    ; Receipt: 228b75b3abd4c7671aaaf851e5f22f40.pdf
 
 2017/01/14 Uber
     Expenses:Operating:Transportation:Ground            $26.37
@@ -3971,6 +4025,21 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 97309ecf59d91faccb22ecca7a1fe01d.pdf
 
+2017/02/01 Kyle Emile
+    Expenses:Operating:Staff:Salary                  $5,417.00
+    Assets:Chase:Checking
+    ; Receipt: 6e266947be58363e6f18c2c3dc3a98d8.pdf
+
+2017/02/01 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $496.50
+    Assets:Chase:Checking
+    ; Receipt: 43d2317831d4487fda986b10663f6c4b.pdf
+
+2017/02/01 Stripe
+    Assets:Chase:Checking                            $1,483.03
+    Income:Website Donations
+    ; Receipt: bd861e7dd703d1b52437f54fd9a39baa.pdf
+
 2017/02/02 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $15.00
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -4005,6 +4074,11 @@
     Expenses:Operating:Staff:Salary                      $5.90
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: eca5305493630278d3db2ad3db58cbab.pdf
+
+2017/02/03 Michael Destefanis
+    Expenses:Operating:Contracting                      $45.00
+    Assets:Chase:Checking
+    ; Receipt: 40e091f937d63b78577a78eef0439385.pdf
 
 2017/02/04 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $15.32
@@ -4143,6 +4217,16 @@
     Expenses:Operating:Staff:Salary                      $3.49
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: b2ceeda245d789b76c2619830d140158.jpeg
+
+2017/02/07 Pheonix Studios
+    Expenses:Operating:Office:Rent                   $3,775.00
+    Assets:Chase:Checking
+    ; Receipt: c63783f8a04e19152daf17a71fb053bf.pdf
+
+2017/02/07 Chase
+    Expenses:Operating:Bank                              $4.00
+    Assets:Chase:Checking
+    ; Receipt: 57339fcd5d2cb6c4e4a96e7f00f9df3e.png
 
 2017/02/08 Uber
     Expenses:Fundraising:Transportation:Ground          $19.15
@@ -4580,3 +4664,30 @@
     Expenses:Operating:Other                            $15.44
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9e061f2df295fc4c06b73ad071cc0d58.pdf
+
+2017/03/01 Kyle Emile
+    Expenses:Operating:Staff:Salary                  $5,417.00
+    Assets:Chase:Checking
+    ; Receipt: c50447560d6a17d2a6700900cd3fa874.pdf
+
+2017/03/01 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $325.35
+    Assets:Chase:Checking
+    ; Receipt: 34cfe6f7ed73c531b3680c8e33ea7a6d.pdf
+
+2017/03/01 Max Wofford
+    Expenses:Operating:Staff:Salary                    $714.29
+    Assets:Chase:Checking
+    ; Receipt: 7811d2087628fa991890de62001ee7e8.pdf
+
+2017/03/01 Stripe
+    Assets:Chase:Checking                            $1,433.31
+    Income:Website Donations
+    ; Receipt: 9732c03b44814bf09e81a006a398ff61.pdf
+
+2017/12/02 Gusto
+    ; Verification deposits
+    Income:Other                                         $0.56
+    Income:Other                                         $0.68
+    Assets:Chase:Checking
+    ; Receipt: 38335031f8b96b656ee62ead65041559.png
