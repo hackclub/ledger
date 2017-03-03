@@ -3471,6 +3471,13 @@
     Income:Other
     ; Receipt: d39e182177c891f228cf0f1968bb90d2.png
 
+2016/12/02 Gusto
+    ; Verification deposits
+    Income:Other                                         $0.56
+    Income:Other                                         $0.68
+    Assets:Chase:Checking
+    ; Receipt: 38335031f8b96b656ee62ead65041559.png
+
 2016/12/07 Google
     Expenses:Operating:Hosting                          $28.11
     Liabilities:Reimbursement:Zach Latta
@@ -4685,9 +4692,12 @@
     Income:Website Donations
     ; Receipt: 9732c03b44814bf09e81a006a398ff61.pdf
 
-2017/12/02 Gusto
-    ; Verification deposits
-    Income:Other                                         $0.56
-    Income:Other                                         $0.68
-    Assets:Chase:Checking
-    ; Receipt: 38335031f8b96b656ee62ead65041559.png
+2017/03/03 Pheonix Studios
+    Expenses:Operating:Office:Rent                    $1870.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0aa36395134cea2badafc58951f3eca9.jpg
+
+2017/03/03 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge     $2138.65
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5487fe968ffccaf02069e5f698ca0e1b.jpg
