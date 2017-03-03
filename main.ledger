@@ -4254,7 +4254,7 @@
     ; Receipt: 4650d3eedd9bd4234b6eaa09c0ed495e.jpeg
 
 2017/02/08 Amazon
-    Expenses:Operating:Office                          $103.07
+    Expenses:Operating:Office:Supplies                 $103.07
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 67d8c5b4aabb4bdc4c7235c77dd32467.pdf
 
@@ -4284,13 +4284,13 @@
     ; Receipt: fbfe3b7b0a2955f53b1d162e51bcd9dd.pdf
 
 2017/02/09 Amazon
-    Expenses:Operating:Office                          $396.59
+    Expenses:Operating:Office:Supplies                 $396.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8975d682ecd89a52d21e538aa9bb2c49.pdf
 
 2017/02/09 Amazon
-    Expenses:Operating:Office                            $6.41
-    Expenses:Operating:Office                           $48.80
+    Expenses:Operating:Office:Supplies                   $6.41
+    Expenses:Operating:Office:Supplies                  $48.80
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 39f38b88c2e422ef55e2bdeebee3f6f5.pdf
 
@@ -4315,7 +4315,7 @@
     ; Receipt: 34b11efa75fea24082a13659758af81e.JPG
 
 2017/02/10 Walgreens
-    Expenses:Operating:Office                            $6.50
+    Expenses:Operating:Office:Supplies                   $6.50
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: cfa40f536de8916c7b908498139d7454.jpeg
 
@@ -4410,7 +4410,7 @@
     ; Receipt: 15167a5cca99bde4f3b1344e652990df.pdf
 
 2017/02/14 Walgreens
-    Expenses:Operating:Office                           $25.45
+    Expenses:Operating:Office:Supplies                  $25.45
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 6dfe97c0517fe85f40900cf3fcebaf7c.jpeg
 
@@ -4445,7 +4445,7 @@
     ; Receipt: 537d215d41385d839c4cbcd2c0dad7ae.pdf
 
 2017/02/15 Amazon
-    Expenses:Operating:Office                           $10.84
+    Expenses:Operating:Office:Supplies                  $10.84
     Liabilities:Reimbursement:Kyle Emile
     ; Receipt: 59c15bc98baf984c0089e6571298834a.png
 
@@ -4545,7 +4545,7 @@
     ; Receipt: 5f7442eb75c4b1fa3e61d90d840051a7.pdf
 
 2017/02/21 Max Wofford
-    Expenses:Operating:Office                            $2.16
+    Expenses:Operating:Office:Supplies                   $2.16
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 304142490e1763df2023dcc737a80f60.jpeg
 
@@ -4565,7 +4565,7 @@
     ; Receipt: 5affa23af0f3b7be61d8977aa3b938be.pdf
 
 2017/02/22 Amazon
-    Expenses:Operating:Office                          $396.59
+    Expenses:Operating:Office:Supplies                 $396.59
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8b09df93a51a62a16fc527b4cc888579.pdf
 
