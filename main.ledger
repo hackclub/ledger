@@ -4702,6 +4702,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5487fe968ffccaf02069e5f698ca0e1b.jpg
 
+2017/03/04 Berkeley MPO
+    Expenses:Operating:Shipping                         $13.80
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 3d7bcaab6227ee726fdb34c27f515992.jpeg
+
 2017/03/08 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $19.99
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -4711,3 +4716,33 @@
     Expenses:Operating:Staff:Salary                      $7.15
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 57133c728d76d51254a5529f50c4b929.pdf
+
+2017/03/16 Fiverr
+    Expenses:Operating:Contracting                      $11.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 7a0825fdacef93438b7827488292f9a9.pdf
+
+2017/03/16 Sticker Mule
+    Expenses:Marketing:Stickers                          $6.10
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 9c0b0e526345c15ce73b894e670da8e9.pdf
+
+2017/03/17 Fiverr
+    Expenses:Operating:Contracting                       $6.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: a17ddfdcfd7b47942d31ca46d8510560.pdf
+
+2017/03/25 I Tea
+    Expenses:Marketing:Other                             $8.74
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 95c7bd3038f547f21b7e5c0a36696ee0.jpeg
+
+2017/04/05 Chloe's Cafe
+    Expenses:Operating:Food                             $48.48
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 15b3d9715be270959c35b5244345270f.jpeg
+
+2017/04/07 Xoom
+    Expenses:Marketing:T-Shirts                         $35.12
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: cf5e5bab37da79fb732d9aef802e3211.pdf
