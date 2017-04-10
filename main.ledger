@@ -4827,6 +4827,21 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 57133c728d76d51254a5529f50c4b929.pdf
 
+2017/03/09 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile                $10.84
+    Assets:Chase:Checking
+    ; Receipt: e11ac873484de2fb51756788e12420df.pdf
+
+2017/03/09 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $125.52
+    Assets:Chase:Checking
+    ; Receipt: 0e7f9ad229592b8fc7c8a3356c1db8bf.pdf
+
+2017/03/09 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $5903.04
+    Assets:Chase:Checking
+    ; Receipt: 42b17bdbe88d6773991bbdce7224511c.pdf
+
 2017/03/11 iwantmyname
     Expenses:Operating:Hosting                          $14.90
     Liabilities:Reimbursement:Zach Latta
@@ -4947,6 +4962,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d1722647e68b100e0fcae865c0fc6221.JPG
 
+2017/03/31 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: a27442cce95cdcd4378340950c4570c3.pdf
+
+2017/04/02 Kyle Emile
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Chase:Checking
+    ; Receipt: cff1b02586716bc728b5ab6902ac1fc8.pdf
+
 2017/04/03 Southwest
     Expenses:Fundraising:Other                           $8.00
     Liabilities:Reimbursement:Zach Latta
@@ -4956,6 +4981,21 @@
     Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f5a697fbc70f5836f3a7ad1d88f3d1e9.pdf
+
+2017/04/03 Max Wofford
+    Expenses:Operating:Staff:Salary                   $2000.00
+    Assets:Chase:Checking
+    ; Receipt: 47cdd489e9bbe8baf32631bc8c5c462f.pdf
+
+2017/04/03 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $303.30
+    Assets:Chase:Checking
+    ; Receipt: 4ca991a7c27e4a755cbec34e20929a1a.pdf
+
+2017/04/03 Stripe
+    Assets:Chase:Checking                             $1442.03
+    Income:Website Donations
+    ; Receipt: 9c765bd17a3287728d17b003097cd2e1.pdf
 
 2017/04/04 Uber
     Expenses:Fundraising:Transportation:Ground          $10.02
@@ -5026,3 +5066,8 @@
     Expenses:Operating:Software                        $218.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8884b0d8107189806686706abcd904eb.pdf
+
+2017/04/10 Delta
+    Expenses:Operating:Other                            $39.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: db9b979eed2cb7198e06d8a95f059e1d.pdf
