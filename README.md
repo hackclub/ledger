@@ -53,6 +53,7 @@ Expenses
       Air
       Ground
     Contracting
+    Software
     Other
 Income
   Bank Interest
