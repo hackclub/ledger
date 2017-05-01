@@ -4701,3 +4701,28 @@
     Liabilities:Reimbursement:Harrison Shoebridge     $2138.65
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5487fe968ffccaf02069e5f698ca0e1b.jpg
+
+2017/04/19 Walgreens
+    Expenses:Operating:Office:Supplies                   $5.96
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 70ef3aeeea694e7ad826e16c6a4bb095.jpeg
+
+2017/04/21 Walgreens
+    Expenses:Operating:Office:Supplies                   $8.67
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 1a1e7f27c153214addcdcc5ea6cd6a99.jpeg
+
+2017/04/24 Walgreens
+    Expenses:Operating:Office:Supplies                  $10.30
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 101e5d4d66b5ee605328f9c63b53dd4e.jpeg
+
+2017/04/25 Walgreens
+    Expenses:Operating:Office:Supplies                  $13.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 298f64d84981bb60994fd3872a56401a.jpeg
+
+2017/04/27 UPS
+    Expenses:Operating:Shipping                         $32.22
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 4585c9eccbf83a28a57a74449c2d43e3.jpeg
