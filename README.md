@@ -45,6 +45,8 @@ Expenses
     Stickers
     T-Shirts
     Transportation
+      Air
+      Ground
     Contracting
     Other
   Fundraising
