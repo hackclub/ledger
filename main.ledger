@@ -4747,6 +4747,21 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 1aa739d8332650dbaf94ee0b16a22159.jpg
 
+2017/03/09 Kyle Emile
+    Liabilities:Reimbursement:Kyle Emile                $10.84
+    Assets:Chase:Checking
+    ; Receipt: 77d2826a326704abe63bbf372c743694.pdf
+
+2017/03/09 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $125.52
+    Assets:Chase:Checking
+    ; Receipt: 632dfe80c846420b17183fb2003b7a0f.pdf
+
+2017/03/09 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $5903.04
+    Assets:Chase:Checking
+    ; Receipt: 620a43f30a2437b03e4fdeeb280d288a.pdf
+
 2017/03/10 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $12.40
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -4904,6 +4919,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: becd463795ac5432d8ca3b0e017a0354.pdf
 
+2017/04/03 Stripe
+    Assets:Chase:Checking                             $1442.03
+    Income:Website Donations
+    ; Receipt: e867ce04ee87392e6255b7efbeefb873.pdf
+
+2017/04/03 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: 73c30f0a1a297fad58a8d0f8ef9f587b.pdf
+
 2017/04/05 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $18.94
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -4933,6 +4958,21 @@
     Expenses:Fundraising:Transportation:Ground          $27.38
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 449b15661bc2668e4c1db4a48018ef03.pdf
+
+2017/04/10 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $303.30
+    Assets:Chase:Checking
+    ; Receipt: a2a65de401f3b41a97d4567871b3a7fc.pdf
+
+2017/04/10 Max Wofford
+    Expenses:Operating:Staff:Salary                   $2000.00
+    Assets:Chase:Checking
+    ; Receipt: 99f5cb21bbe145bfce5f9318e4f5b93c.pdf
+
+2017/04/10 Kyle Emile
+    Expenses:Operating:Staff:Salary                   $5417.00
+    Assets:Chase:Checking
+    ; Receipt: 9d3b681cfacb1c37e9868c908483e7f4.pdf
 
 2017/04/11 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $17.93
@@ -4998,6 +5038,11 @@
     Expenses:Operating:Staff:Salary                     $11.75
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 51959ff8154671d82d77feb3b68cd6a7.JPEG
+
+2017/04/14 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $238.72
+    Assets:Chase:Checking
+    ; Receipt: 0007b3678e0d8424848091ff4f437099.pdf
 
 2017/04/15 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $15.67
@@ -5183,6 +5228,16 @@
     Expenses:Operating:Staff:Salary                   $5417.00
     Assets:Chase:Checking
     ; Receipt: 31786b678e0c3704cc96cc22a3b697bc.pdf
+
+2017/05/01 Stripe
+    Assets:Chase:Checking                             $1650.34
+    Income:Website Donations
+    ; Receipt: ad9b13399a767b7d6e1483e2a6ca5e19.pdf
+
+2017/05/01 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: 1b9e2787df4ecc59808b701fc2fbe80c.pdf
 
 2017/05/02 Max Wofford
     Expenses:Operating:Staff:Salary                   $2000.00
