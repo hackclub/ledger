@@ -34,8 +34,9 @@ Expenses
     Software
     Hosting
     Staff
-      Salary
+      Immigration
       Relocation
+      Salary
     Tax
     Transportation
       Air
