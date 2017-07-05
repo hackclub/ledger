@@ -21,6 +21,7 @@ Assets
     Savings
 Expenses
   Operating
+    Accommodation
     Bank
     Contracting
     Food
@@ -56,6 +57,7 @@ Expenses
       Air
       Ground
     Contracting
+    Software
     Other
 Income
   Bank Interest
