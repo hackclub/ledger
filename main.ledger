@@ -5204,6 +5204,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 334ea13a555c3780c4ef4241ff158b94.pdf
 
+2017/04/29 DNSimple
+    Expenses:Operating:Hosting                           $5.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 52e71ac16551e67a67272238cf5060e4.pdf
+
+2017/04/29 Crunchbase
+    Expenses:Fundraising:Software                       $49.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 75a7d15a644a63ca91bc76330751e661.pdf
+
 2017/04/30 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $36.00
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -5244,6 +5254,16 @@
     Assets:Chase:Checking
     ; Receipt: 8d18dbfa351b0f2b7adc9adf80c9e5e9.pdf
 
+2017/05/02 Walgreens
+    Expenses:Operating:Office:Supplies                   $5.35
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: cc27b3aa2c0936e54e9b663905569c46.jpeg
+
+2017/05/02 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $4.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: f114cd4a9f966b13f570b7447c83e614.pdf
+
 2017/05/03 Uber
     Expenses:Fundraising:Transportation:Ground          $12.15
     Liabilities:Reimbursement:Zach Latta
@@ -5259,22 +5279,530 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3912bb103fd55e3f78dd5290883d2a16.pdf
 
+2017/05/04 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $12.27
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 4db072becab4ce2a1090d4c8358eb5f7.jpg
+
 2017/05/05 Harrison Shoebridge
     Liabilities:Reimbursement:Harrison Shoebridge     $2718.72
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0784dc44d5330671694d44f63c36037b.pdf
+
+2017/05/05 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $6.00
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 5e80ea331ee35eb293476567e94efb75.jpg
+
+2017/05/05 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $4.38
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: e8c62946d22b1ae9fb0024aef2c1d4ec.pdf
+
+2017/05/06 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $87.10
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 738cf182d26affe77717b1e30356bf78.pdf
+
+2017/05/06 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $24.95
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 7f3cd1cf0b6191a29cbdc988cca43d8f.pdf
+
+2017/05/07 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $9.78
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 85faca26298836827fde2ce2fd3c1cb6.jpg
 
 2017/05/08 Streak
     Expenses:Operating:Software                        $218.40
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ef3b730cbaa1fb27dcdb84f44e0d3053.pdf
 
+2017/05/08 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $4.53
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 54ecd7e0d1e403aabf82ac439ea2ced4.pdf
+
+2017/05/08 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $23.41
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 71169100b027fb812efaba7f14438dd2.jpg
+
 2017/05/09 Amazon
     Expenses:Operating:Office:Supplies                  $12.72
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 097c08750c43d9b8b4d0996a2a028457.PDF
 
+2017/05/09 UltraPress
+    Expenses:Marketing:T-Shirts                        $480.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c9c1467255b0352f8be1720b46a19338.pdf
+
+2017/05/10 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $62.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 1aad460b4eccbf681ed446c3f2076797.pdf
+
+2017/05/10 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $64.02
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: bedadba1e3a9b7b1d679a93185d50712.pdf
+
+2017/05/11 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $7.42
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 3918f85e6e12497140a12b8b23934d24.jpg
+
+2017/05/11 Shyp
+    Expenses:Operating:Shipping                         $36.71
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c7d927f8233a7afab732529d130bfd8c.pdf
+
+2017/05/12 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 0951cb9411d78dca7863df46b8755046.pdf
+
+2017/05/12 Uber
+    Expenses:Operating:Transportation:Ground             $3.99
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d47539151fa61ea815e26bb9f615e492.pdf
+
+2017/05/12 Cloud9
+    Expenses:Operating:Transportation:Ground             $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 80279785d5c7e6a3c735b874bc4c46b5.pdf
+
+2017/05/13 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $10.03
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 6afb172cc4eb55b603a9b9a5f05c3583.jpg
+
+2017/05/14 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $9.71
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 64a72853d2e210c1b617be10f199d244.jpg
+
+2017/05/15 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $20.00
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: e9e6aa710322aa82767314f3e38746a3.jpg
+
+2017/05/15 Southwest
+    Expenses:Operating:Transportation:Air              $671.96
+    Expenses:Operating:Transportation:Air              $671.96
+    Expenses:Operating:Transportation:Air              $671.96
+    Expenses:Operating:Transportation:Air              $671.96
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cb31fce17b7dbed76dbf9a27984ed57c.pdf
+
+2017/05/16 Walgreens
+    Expenses:Operating:Office:Supplies                   $8.67
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 6230be8a6aa62c01172cb81ecbd69d90.jpeg
+
+2017/05/16 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 8fedefbe89a738556e206b40855cfc7b.pdf
+
+2017/05/16 Uber
+    Expenses:Operating:Transportation:Ground             $9.86
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: bf7af472529eaf2abd50c6fd18e75713.pdf
+
+2017/05/17 Walgreens
+    Expenses:Operating:Office:Supplies                  $11.36
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 804c3164713b5cd201f9702ca3b215a0.jpeg
+
+2017/05/18 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $5.39
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 7586ffa75985ff29c802640aa8497921.pdf
+
+2017/05/19 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $5.85
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 52e4e91c5c67b416ede0ccb4b12f9685.jpg
+
+2017/05/19 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: d0d3f0800e6ffcbbe7a741f480362b6a.pdf
+
+2017/05/20 Uber
+    Expenses:Operating:Transportation:Ground             $9.21
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d956f62f2610b115f08a1d39fdaf9117.pdf
+
+2017/05/21 Lyft
+    Expenses:Operating:Transportation:Ground             $4.41
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: f6cd8636a52468a99e3e5bc2c21c295c.pdf
+
+2017/05/21 Lyft
+    Expenses:Marketing:Transportation:Ground             $4.41
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: d1e8550457b15286ad7079d92a0c91ba.pdf
+
+2017/05/21 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $18.55
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 9d442e0aac79705cd574c5cb6d445891.pdf
+
+2017/05/21 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 99dcda6668bba6085dd122e99f8db901.pdf
+
+2017/05/22 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $8.94
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 8bd94d23fb1cd3e0c992b07c6c29310d.jpg
+
+2017/05/22 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $5.96
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 7dabc197c34dfbd3b88900351941cb1d.jpg
+
+2017/05/22 Ultimate Screen Printing
+    ; Bought 165 t-shirts on behalf of Chicago Hacks. They donated the money to
+    ; cover this.
+    Expenses:Operating:Other                           $846.45
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 52733c92aef6aebd0d25a57ad24d153e.pdf
+
+2017/05/24 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $22.22
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 57ad61a29a099ac7f291bf34c758b8fe.pdf
+
+2017/05/25 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 4408aee61b9773df58d782dca70c46f1.pdf
+
+2017/05/25 HotelTonight
+    Expenses:Operating:Accommodation                   $367.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4eee7b89e22aed970d2b73e501fe9651.pdf
+
+2017/05/25 HotelTonight
+    Expenses:Operating:Accommodation                   $367.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5b54c103a257807b28440085a92c8096.pdf
+
+2017/05/26 Uber
+    Expenses:Operating:Transportation:Ground             $2.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: aad175b5dd40ad6cf9d193a36266e7a8.pdf
+
+2017/05/26 Uber
+    Expenses:Operating:Transportation:Ground            $45.44
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 1c1165fd6a188a6e0563da8e42fb007c.pdf
+
+2017/05/26 Wow Bao
+    Expenses:Operating:Food                            $104.75
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 158f57c2f4684c9d6a052f239a6db3b3.jpeg
+
+2017/05/26 Uber
+    Expenses:Operating:Transportation:Ground            $29.07
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: da72f6955636c59a0b043c6bed43b0ca.pdf
+
+2017/05/26 Uber
+    Expenses:Operating:Transportation:Ground            $37.68
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 6f670e6975b9048a4a51cfe13d5f1348.pdf
+
+2017/05/26 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $18.54
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: d1cd431bb508a28bd1cd08238264af05.jpg
+
+2017/05/26 Southwest
+    ; Change fees
+    Expenses:Operating:Transportation:Air               $10.00
+    Expenses:Operating:Transportation:Air               $10.00
+    Expenses:Operating:Transportation:Air               $10.00
+    Expenses:Operating:Transportation:Air               $10.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8b10815be2cbfbd43ee3a315e6373f0b.pdf
+
+2017/05/27 Lyft
+    Expenses:Operating:Transportation:Ground            $14.90
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: d41886feaa64bc6e9efbe05a18dbb264.pdf
+
+2017/05/27 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $5.64
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: a2447984be65000727dadf6b6288cb2b.pdf
+
+2017/05/27 Uber
+    Expenses:Operating:Transportation:Ground            $21.85
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 6828aa77bcb584f0db451e7c754df535.pdf
+
+2017/05/28 Lyft
+    Expenses:Operating:Transportation:Ground             $1.04
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: c3bfc0d4eba9e1e76fd1b7754bc5d373.pdf
+
+2017/05/28 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                    $111.15
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: b4521d3ee428987a40f1617898088203.pdf
+
+2017/05/28 Uber
+    Expenses:Operating:Transportation:Ground             $6.53
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 028531ac2bb44741c516068cdb9e2343.pdf
+
+2017/05/28 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $9.58
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 436b9fb892d45b74f6b216f8e1f01fc1.jpg
+
+2017/05/29 Lyft
+    Expenses:Operating:Transportation:Ground            $26.67
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: d20e6fbdf8b8d35ced06a18eb789ddde.pdf
+
+2017/05/29 Lyft
+    Expenses:Operating:Transportation:Ground             $8.32
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: d5769414d0c325257b76886b582d8471.pdf
+
+2017/05/29 Uber
+    Expenses:Operating:Transportation:Ground            $22.38
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 7e9d3338f45c93da51c1dd96ed6faf1c.pdf
+
+2017/05/29 Uber
+    Expenses:Operating:Transportation:Ground            $25.75
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: ce8babce62c5fbf9e5f4612e9bf5028d.pdf
+
+2017/05/29 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 1b57413823cca6f43bfbd9050925c54b.pdf
+
+2017/05/29 DNSimple
+    Expenses:Operating:Hosting                           $5.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 6400fbfda656a54c6674e677a462cbe2.pdf
+
+2017/05/29 Crunchbase
+    Expenses:Fundraising:Software                       $49.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: f1a34330a7043ee9a6de0d00d859ac7b.pdf
+
+2017/05/30 Lyft
+    Expenses:Operating:Transportation:Ground            $46.61
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 97ced1aa68d630f06c919ccdd8a29d7b.pdf
+
+2017/05/31 Shyp
+    Expenses:Operating:Shipping                         $20.28
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c2d0c5249160c2b49d9e9c10f3c05de9.pdf
+
+2017/06/01 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $85.42
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 060dc16f78e7ab8471c0175d5f694e9b.pdf
+
+2017/06/01 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                   $1375.00
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 3ab78fa795283b227c20c46d08489f17.jpg
+
+2017/06/01 Meeting Tomorrow
+    ; For courier to pick up borrowed laptops
+    Expenses:Operating:Other                            $82.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: fcf2b15cc45be50007c10959d9267982.pdf
+
+2017/06/01 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: 6e6950db3da097ae686f25ff9ffe0371.pdf
+
+2017/06/01 Stripe
+    Assets:Chase:Checking                             $1567.00
+    Income:Website Donations
+    ; Receipt: b9d17249d8d07b7652f817434b7b3fb5.pdf
+
+2017/06/05 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 66f4b8bd31e539108d2070b60667a7c6.pdf
+
 2017/06/06 Zach Latta
     Liabilities:Reimbursement:Zach Latta              $7041.86
     Assets:Chase:Checking
     ; Receipt: 9772e890a8f9ea0cd583943d072dbbe9.pdf
+
+2017/06/06 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $42.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 5d3352d698b781f565e8334d80e5795e.pdf
+
+2017/06/07 USPS
+    Expenses:Operating:Shipping                         $23.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0039df8769c9ea08371a5f537aeba2c4.JPG
+
+2017/06/07 Walgreens
+    Expenses:Operating:Office:Supplies                   $5.41
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d95d7531a0b48f525c4f8149a8e6ea45.jpg
+
+2017/06/08 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                      $3.99
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 0a94ef7b9e2b31d7c1bbb997b02c5ac1.pdf
+
+2017/06/08 Streak
+    Expenses:Operating:Software                        $218.40
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 161a39b3549b77176297f0701ba3750e.png
+
+2017/06/09 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $15.95
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 0edbb510f78b11bfb31589df84231945.pdf
+
+2017/06/09 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $14.31
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: b754cf0706abab6db4079e8497163b93.pdf
+
+2017/06/09 Harrison Shoebridge
+    Expenses:Operating:Staff:Salary                     $11.19
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 6e68e114fca31b284ef7898a71646bb6.pdf
+
+2017/06/09 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge      $200.00
+    Assets:Chase:Checking
+    ; Receipt: d71a6d0768160d21d7ee5572c5dd8876.pdf
+
+2017/06/09 Athul Blesson
+    ; Sent him some money to buy a new laptop
+    Expenses:Operating:Other                           $250.00
+    Assets:Chase:Checking
+    ; Receipt: b14b5de6b5f5851596761af4e6512851.pdf
+
+2017/06/14 U-Save Plumbing
+    Expenses:Operating:Office:Supplies                   $5.41
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 483b00705c902def876addef7760588d.jpg
+
+2017/06/14 Los Panchos
+    Expenses:Operating:Food                             $64.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 641ec90c31a351229e6eab6e0793dc4f.jpg
+
+2017/06/15 Pakwan Restaurant
+    Expenses:Operating:Food                             $62.70
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 17dbd6b8b99230e36a9f730ef2dbd8fc.jpg
+
+2017/06/19 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge      $800.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4699f10f3a65774f1032dad1bfa59a98.jpg
+
+2017/06/20 Angela Spinazze
+    Expenses:Operating:Contracting                    $3045.52
+    Liabilities:Reimbursement:Angela Spinazze
+    ; Receipt: 1889d63d36394eb3ec07ec2d3a0d8a6a.pdf
+
+2017/06/21 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $254.40
+    Assets:Chase:Checking
+    ; Receipt: 515ee2de80d9b4105254f813b7352b43.pdf
+
+2017/06/25 Walgreens
+    Expenses:Operating:Office:Supplies                  $24.35
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 5bc30d11e0b20899b8479b2ae32cb09a.pdf
+
+2017/06/25 Walgreens
+    Expenses:Operating:Office:Supplies                   $3.57
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 1859758c1364a8f5b7195853966a8ef7.pdf
+
+2017/06/28 USPS
+    ; For B1 extension filing fee
+    Expenses:Operating:Staff:Immigration               $371.20
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: da0e522f8f3ac48b9b7747545c636a2a.jpg
+
+2017/06/28 USPS
+    ; B1 extension postage
+    Expenses:Operating:Staff:Immigration                $23.75
+    Liabilities:Reimbursement:Harrison Shoebridge
+    ; Receipt: 36564ff07bc3cdc33c9bf07ee6b707d0.jpg
+
+2017/06/29 Uber
+    Expenses:Operating:Transportation:Ground            $17.23
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 5dae6b6281008d03d802b8df544fc474.pdf
+
+2017/06/29 CVS
+    Expenses:Operating:Office:Supplies                   $8.99
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: afe0d1725657c455ce36e4c81d4a91d0.jpeg
+
+2017/06/29 Crunchbase
+    Expenses:Fundraising:Software                       $49.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0c93746a6f77e2504b9e9aec0b6c25ca.pdf
+
+2017/06/29 DNSimple
+    Expenses:Operating:Hosting                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3395a638e3cd6ee11e21f3430f77c888.pdf
+
+2017/06/30 ShareLaTeX
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9d04721dbc05e5afa8125d2bea388d3e.pdf
+
+2017/07/01 Amazon
+    Expenses:Operating:Office:Supplies                  $13.06
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: a8f13f306acfe710fdb7b0a306e72ec1.pdf
+
+2017/07/03 Stripe
+    Assets:Chase:Checking                             $1619.33
+    Income:Website Donations
+    ; Receipt: c6f83c60b6dce5eb69fe1e96568fa36c.pdf
+
+2017/07/03 Gusto
+    Expenses:Operating:Software                         $51.00
+    Assets:Chase:Checking
+    ; Receipt: da85b746e846d486e86075f22039ba96.pdf
+
+2017/07/04 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge     $1375.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 3ba467696a1a6a9d87ea1de0e8d39832.jpg
+
+2017/07/05 Zach Latta
+    Liabilities:Reimbursement:Zach Latta              $7684.95
+    Assets:Chase:Checking
+    ; Receipt: 2536bf8b1fda3b18acaf30400738e489.pdf
+
+2017/07/05 Max Wofford
+    Liabilities:Reimbursement:Max Wofford              $259.76
+    Assets:Chase:Checking
+    ; Receipt: 840dcf229b7d6a27aabd4b3e4e7c7ef1.pdf

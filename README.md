@@ -21,6 +21,7 @@ Assets
     Savings
 Expenses
   Operating
+    Accommodation
     Bank
     Contracting
     Food
@@ -34,8 +35,9 @@ Expenses
     Software
     Hosting
     Staff
-      Salary
+      Immigration
       Relocation
+      Salary
     Tax
     Transportation
       Air
@@ -55,6 +57,7 @@ Expenses
       Air
       Ground
     Contracting
+    Software
     Other
 Income
   Bank Interest
