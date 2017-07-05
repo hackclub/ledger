@@ -5629,6 +5629,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: fcf2b15cc45be50007c10959d9267982.pdf
 
+2017/06/01 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: 6e6950db3da097ae686f25ff9ffe0371.pdf
+
+2017/06/01 Stripe
+    Assets:Chase:Checking                             $1567.00
+    Income:Website Donations
+    ; Receipt: b9d17249d8d07b7652f817434b7b3fb5.pdf
+
 2017/06/05 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $3.99
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -5679,6 +5689,17 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 6e68e114fca31b284ef7898a71646bb6.pdf
 
+2017/06/09 Harrison Shoebridge
+    Liabilities:Reimbursement:Harrison Shoebridge      $200.00
+    Assets:Chase:Checking
+    ; Receipt: d71a6d0768160d21d7ee5572c5dd8876.pdf
+
+2017/06/09 Athul Blesson
+    ; Sent him some money to buy a new laptop
+    Expenses:Operating:Other                           $250.00
+    Assets:Chase:Checking
+    ; Receipt: b14b5de6b5f5851596761af4e6512851.pdf
+
 2017/06/14 U-Save Plumbing
     Expenses:Operating:Office:Supplies                   $5.41
     Liabilities:Reimbursement:Zach Latta
@@ -5698,6 +5719,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge      $800.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4699f10f3a65774f1032dad1bfa59a98.jpg
+
+2017/06/21 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                    $254.40
+    Assets:Chase:Checking
+    ; Receipt: 515ee2de80d9b4105254f813b7352b43.pdf
 
 2017/06/25 Walgreens
     Expenses:Operating:Office:Supplies                  $24.35
@@ -5750,6 +5776,16 @@
     Expenses:Operating:Office:Supplies                  $13.06
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: a8f13f306acfe710fdb7b0a306e72ec1.pdf
+
+2017/07/03 Stripe
+    Assets:Chase:Checking                             $1619.33
+    Income:Website Donations
+    ; Receipt: c6f83c60b6dce5eb69fe1e96568fa36c.pdf
+
+2017/07/03 Gusto
+    Expenses:Operating:Software                         $51.00
+    Assets:Chase:Checking
+    ; Receipt: da85b746e846d486e86075f22039ba96.pdf
 
 2017/07/04 Harrison Shoebridge
     Liabilities:Reimbursement:Harrison Shoebridge     $1375.00
