@@ -543,12 +543,6 @@
     ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
     ; For any future clarification, this payment was made through PayPal
 
-2015/05/07 Anonymous Donor 6
-    Assets:PayPal                                      $200.00
-    Expenses:Operating:Bank                              $6.10 ; Payee: PayPal
-    Income:Fundraising
-    ; Receipt: 68f62b4acf610b053c8b28b65d9d53d0.pdf
-
 2015/05/07 Kevin Wang
     ; Rent for Max
     Expenses:Operating:Other                           $257.15
@@ -567,12 +561,6 @@
     Expenses:Operating:Transportation:Ground             $6.00
     Liabilities:Reimbursement:Jonathan Leung
     ; Receipt: 8ebc599969c3f187c00ab063a0835731.png
-
-2015/05/09 Anonymous Donor 7
-    Assets:PayPal                                      $750.00
-    Expenses:Operating:Bank                             $22.05 ; Payee: PayPal
-    Income:Fundraising
-    ; Receipt: 4ca005a3c13d22bd8f5082838aed44ec.pdf
 
 2015/05/11 Molly Stone's
     Expenses:Operating:Food                              $7.88
@@ -1800,11 +1788,6 @@
     Income:Bank Interest
     ; Receipt: 1b5bbd0650700907a906deaa8f316ddb.png
 
-2016/03/01 Zachary Bruggeman
-    Expenses:Operating:Staff:Salary                   $1900.00
-    Assets:PayPal
-    ; Receipt: d5bf760e4f1a7bb9ac245fb3016c2998.pdf
-
 2016/03/01 Mention
     Expenses:Operating:Software                         $29.00
     Liabilities:Reimbursement:Zach Latta
@@ -1837,11 +1820,6 @@
     Expenses:Marketing:Other                            $30.55
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 354783c48a7a6fa9dff7483bacd93794.pdf
-
-2016/03/15 Zachary Bruggeman
-    Expenses:Operating:Staff:Salary                    $473.11
-    Assets:PayPal
-    ; Receipt: 30f3d1cd76b35282ab20ad42ba2b2334.pdf
 
 2016/03/16 HelloSign
     Expenses:Operating:Software                         $15.00
@@ -3685,25 +3663,6 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a5e06c96f5256f78258213d5ca2ad210.pdf
 
-2017/01/13 Eastvale Store LLC
-    ; This person accidentally sent money to the company account when they
-    ; should have sent to Zach's personal PayPal.
-    Assets:PayPal                                       $11.20
-    Liabilities:Reimbursement:Zach Latta
-
-2017/01/13 Eastvale Store LLC
-    ; This person sent money to the company account when they should have sent
-    ; to Zach's personal PayPal.
-    Assets:PayPal                                       $11.60
-    Liabilities:Reimbursement:Zach Latta
-
-2017/01/13 Eastvale Store LLC
-    ; This person sent money to the company account when they should have sent
-    ; to Zach's personal PayPal.
-    Assets:PayPal                                        $3.75
-    Liabilities:Reimbursement:Zach Latta
-    ; Receipt: 69d07f9358778e44b09c46e5edb27bda.pdf
-
 2017/01/13 Samay Shamdasani
     Expenses:Operating:Contracting                     $100.00
     Liabilities:Reimbursement:Zach Latta
@@ -3753,13 +3712,6 @@
     Expenses:Operating:Staff:Salary                      $4.75
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: fc3b3a6d2e73b60ef51444c85bbc67d9.pdf
-
-2017/01/17 Eastvale Store LLC
-    ; Someone sent money to Zach that should have been sent to his personal
-    ; PayPal.
-    Assets:PayPal                                       $12.00
-    Liabilities:Reimbursement:Zach Latta
-    ; Receipt: c0ff7df08ebf5d333e1987a2597ff6c5.pdf
 
 2017/01/17 Uber
     Expenses:Operating:Transportation:Ground             $5.75

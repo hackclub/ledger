@@ -14,7 +14,6 @@ An up-to-date list of all of the categories in our ledger is below:
 Assets
   Chase
     Checking
-  PayPal
   Square Cash
   Wells Fargo
     Checking
