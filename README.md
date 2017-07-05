@@ -2,6 +2,8 @@
 
 The one and only home of Hack Club's finances. And when we say finances, we mean _everything_. Transaction by transaction.
 
+If you have Docker on your machine, you can run `./bin/bash` to be dropped into a Docker container's shell with [ledger](http://ledger-cli.org/) installed. You can then run all sorts of neat reports, like `ledger -f main.ledger bal`.
+
 Have at it! (and contributions are welcome!)
 
 ![](http://i.imgur.com/T6VD4Lp.gif)
