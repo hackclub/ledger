@@ -5326,6 +5326,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 80279785d5c7e6a3c735b874bc4c46b5.pdf
 
+2017/05/12 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1469d5f4dffaa1bb118152d45f41e473.pdf
+
 2017/05/13 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $10.03
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -5348,6 +5353,11 @@
     Expenses:Operating:Transportation:Air              $671.96
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cb31fce17b7dbed76dbf9a27984ed57c.pdf
+
+2017/05/15 Pingdom
+    Expenses:Operating:Software                         $14.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: feb394c52abd251768e12f27f9575eaa.pdf
 
 2017/05/16 Walgreens
     Expenses:Operating:Office:Supplies                   $8.67
@@ -5657,6 +5667,11 @@
     Assets:Chase:Checking
     ; Receipt: b14b5de6b5f5851596761af4e6512851.pdf
 
+2017/06/12 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4357ff4b3696a60dd570192d06427ac4.pdf
+
 2017/06/14 U-Save Plumbing
     Expenses:Operating:Office:Supplies                   $5.41
     Liabilities:Reimbursement:Zach Latta
@@ -5764,6 +5779,11 @@
     Assets:Chase:Checking
     ; Receipt: da85b746e846d486e86075f22039ba96.pdf
 
+2017/07/03 Heroku
+    Expenses:Operating:Hosting                         $264.27
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a0b910a067452dd52ebeb5dcc256d819.pdf
+
 2017/07/04 Harrison Shoebridge
     Liabilities:Reimbursement:Harrison Shoebridge     $1375.00
     Liabilities:Reimbursement:Zach Latta
@@ -5784,6 +5804,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 73ee6485dccf032343f8b668879c018a.jpg
 
+2017/07/08 Streak
+    Expenses:Operating:Software                        $218.40
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4aee83cd356fb2e75f06df58b00cd89a.png
+
 2017/07/11 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $3.79
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -5798,6 +5823,16 @@
     Expenses:Operating:Staff:Salary                      $1.97
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: bd5f8aedb751fb56b2200a9647e218cc.jpg
+
+2017/07/12 Cloud9
+    Expenses:Operating:Software                          $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a9c263df1bcef3cc7e9130fa436e3569.pdf
+
+2017/07/12 Harvest
+    Expenses:Operating:Software                         $12.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8b7ae5757cafdc9eca6145bccca1b596.pdf
 
 2017/07/13 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                   $1375.00
@@ -5859,6 +5894,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 5cf860faa095a6780771391a376ca24c.pdf
 
+2017/07/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 94bb146c0dac395d23cf144c843d1ca8.pdf
+
 2017/07/21 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $6.04
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -5893,6 +5933,11 @@
     Expenses:Operating:Staff:Salary                      $4.50
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: cd263ca8db8840f1cdb8994ffb7b8699.jpg
+
+2017/07/25 Pingdom
+    Expenses:Operating:Software                         $14.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 295273b6c25694b2e1f3259b5f22b1f2.pdf
 
 2017/07/27 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $3.00
