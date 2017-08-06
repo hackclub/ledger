@@ -5764,20 +5764,25 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9d04721dbc05e5afa8125d2bea388d3e.pdf
 
+2017/06/30 Gusto
+    Expenses:Operating:Software                         $51.00
+    Assets:Chase:Checking
+    ; Receipt: db94e1e78e83821538f2b8dbe6a749a4.pdf
+
 2017/07/01 Amazon
     Expenses:Operating:Office:Supplies                  $13.06
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: a8f13f306acfe710fdb7b0a306e72ec1.pdf
 
+2017/07/02 Dariana Valcarcel
+    Expenses:Operating:Staff:Salary                     $70.65
+    Assets:Chase:Checking
+    ; Receipt: d3c6c3423e3def01581d0f03006cb3a1.pdf
+
 2017/07/03 Stripe
     Assets:Chase:Checking                             $1619.33
     Income:Website Donations
     ; Receipt: c6f83c60b6dce5eb69fe1e96568fa36c.pdf
-
-2017/07/03 Gusto
-    Expenses:Operating:Software                         $51.00
-    Assets:Chase:Checking
-    ; Receipt: da85b746e846d486e86075f22039ba96.pdf
 
 2017/07/03 Heroku
     Expenses:Operating:Hosting                         $264.27
@@ -5804,6 +5809,16 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 73ee6485dccf032343f8b668879c018a.jpg
 
+2017/07/07 Bradfield
+    Expenses:Operating:Office:Rent                    $1200.00
+    Assets:Chase:Checking
+    ; Receipt: 6e739eb0d21a59624a649725d6e5529a.pdf
+
+2017/07/07 Bradfield
+    Expenses:Operating:Office:Rent                    $1200.00
+    Assets:Chase:Checking
+    ; Receipt: ad1870dd1893a943d090859cbb3d01ba.png
+
 2017/07/08 Streak
     Expenses:Operating:Software                        $218.40
     Liabilities:Reimbursement:Zach Latta
@@ -5818,6 +5833,11 @@
     Expenses:Operating:Staff:Salary                     $10.85
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: caf617b304a22a634be7e3d4c5d97868.jpg
+
+2017/07/11 Max Wofford
+    Expenses:Operating:Staff:Salary                   $2000.00
+    Assets:Chase:Checking
+    ; Receipt: d48bec79af45d119ba16f4c3aba3b1b6.pdf
 
 2017/07/12 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $1.97
@@ -5898,6 +5918,11 @@
     Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 94bb146c0dac395d23cf144c843d1ca8.pdf
+
+2017/07/20 Angela Spinazze
+    Liabilities:Reimbursement:Angela Spinazze         $3045.52
+    Assets:Chase:Checking
+    ; Receipt: 4cada2fbcfc2721da4fb9ebe80f4efcf.pdf
 
 2017/07/21 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $6.04
@@ -5984,10 +6009,20 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 78613d12bd8bd012f4f8e13a256926a6.pdf
 
+2017/07/31 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Receipt: 7ab11547aed3118f667a0aa07fd75b28.pdf
+
 2017/08/01 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $1.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 88b3767a18e978e48aa5800796047079.jpg
+
+2017/08/01 Stripe
+    Assets:Chase:Checking                             $3400.13
+    Income:Website Donations
+    ; Receipt: 5990371bdfa329a8de85de5f272304fb.pdf
 
 2017/08/02 Max Wofford
     Expenses:Operating:Office:Supplies                   $7.57
