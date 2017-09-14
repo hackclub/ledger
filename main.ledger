@@ -6314,6 +6314,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 2424be69eef1796f0105e201da795f5f.pdf
 
+2017/08/15 Anonymous Donor 10
+    Assets:Chase:Checking                             $5000.00
+    Income:Fundraising
+    ; Receipt: 515e4e4afcd28059c7eb324479cacd16.pdf
+
 2017/08/16 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $2.00
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -6333,6 +6338,11 @@
     Expenses:Operating:Staff:Salary                      $4.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 68a388c674ade6bbe25f286799f24708.jpg
+
+2017/08/17 Alexis Urbain-Racine
+    Assets:Chase:Checking                                $0.01
+    Liabilities:Reimbursement:Alexis Urbain-Racine
+    ; Receipt: d04957a6b5b36bc0d93ba1c8b242d5dc.pdf
 
 2017/08/18 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $2.00
@@ -6444,6 +6454,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 058618b34dfa4aa8050aac98260f071d.pdf
 
+2017/09/01 Stripe
+    Assets:Chase:Checking                             $1088.28
+    Income:Website Donations
+    ; Receipt: c321072ff581cd421ecf74feab39e724.pdf
+
 2017/09/02 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                      $5.75
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -6469,10 +6484,21 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: c1d533b681062c259a4c81f24ad1f62b.pdf
 
+2017/09/05 Gusto
+    Expenses:Operating:Software                         $51.00
+    Assets:Chase:Checking
+    ; Receipt: 8c95789bad95ae8af70169f685824702.pdf
+
 2017/09/08 Streak
     Expenses:Operating:Software                        $156.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a692f263c5822afd8c1cb0dfc5d7951d.pdf
+
+2017/09/11 Athul Blesson
+    ; Sent him $750 to help pay for a summer camp he ran
+    Expenses:Operating:Other                           $750.00
+    Assets:Chase:Checking
+    ; Receipt: e6eaf41c5393c2d618a6246c02f204e2.pdf
 
 2017/09/12 Cloud9
     Expenses:Operating:Software                          $1.00
@@ -6483,3 +6509,8 @@
     Expenses:Operating:Food                             $10.10
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 158b7fe5d3d2bd93611c8645a241ebc4.pdf
+
+2017/09/14 Bradfield
+    Expenses:Operating:Office:Rent                    $1200.00
+    Assets:Chase:Checking
+    ; Receipt: b5b48a0ac053c990d25b35f7a4433b6b.pdf
