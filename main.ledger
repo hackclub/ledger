@@ -2788,7 +2788,7 @@
 2016/08/23 Alexis Urbain-Racine
     ; Square Cash refunded our payment to Alexis
     Assets:Wells Fargo:Checking                        $320.00
-    Expenses:Operating:Staff
+    Expenses:Operating:Staff:Salary
     ; Receipt: d3da7a83fafe57c7ebd371ada0b36e68.pdf
 
 2016/08/24 Uber
