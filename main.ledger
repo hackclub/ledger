@@ -6494,16 +6494,31 @@
     Assets:Chase:Checking
     ; Receipt: 8c95789bad95ae8af70169f685824702.pdf
 
+2017/09/05 Heroku
+    Expenses:Operating:Hosting                         $184.60
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 2aadf5652eb9692840586dd986238886.pdf
+
 2017/09/08 Streak
     Expenses:Operating:Software                        $156.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a692f263c5822afd8c1cb0dfc5d7951d.pdf
+
+2017/09/08 Uber
+    Expenses:Operating:Transportation:Ground            $25.77
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: bf92f639328b302456e0b4c1471926f7.pdf
 
 2017/09/11 Athul Blesson
     ; Sent him $750 to help pay for a summer camp he ran
     Expenses:Operating:Other                           $750.00
     Assets:Chase:Checking
     ; Receipt: e6eaf41c5393c2d618a6246c02f204e2.pdf
+
+2017/09/11 Amazon
+    Expenses:Operating:Office:Supplies                   $7.99
+    Liabilities:Reimbursements:Max Wofford
+    ; Receipt: e16e6fe2990f9e7af7b7fa14aa79d27b.pdf
 
 2017/09/12 Cloud9
     Expenses:Operating:Software                          $1.00
@@ -6519,3 +6534,79 @@
     Liabilities:Reimbursement:Harrison Shoebridge     $2204.54
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a04b30e04b5f3f070663ac0666740989.JPG
+
+2017/09/14 iwantmyname
+    Expenses:Operating:Hosting                          $14.90
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: c999049eb7de5e542e00481a24fa39d5.pdf
+
+2017/09/15 Sentry
+    Expenses:Operating:Hosting                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 76cb98343d362721dd8fbf92f9493571.pdf
+
+2017/09/15 UberEATS
+    Expenses:Operating:Food                             $40.29
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: c52d29534a2c8dfbdad645d81b1dc91e.pdf
+
+2017/09/15 Pingdom
+    Expenses:Operating:Software                         $14.95
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 7a4d6aeb1578aceb83cab2e51b1947bc.pdf
+
+2017/09/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 5e78c58d65c1aa55752a9e9d92615a49.pdf
+
+2017/09/21 Calendly LLC
+    Expenses:Operating:Software                         $10.00
+    Liabilities:Reimbursements:Max Wofford
+    ; Receipt: bf67bf0775cf6ecc564feaa358a63253.pdf
+
+2017/09/26 Namecheap
+    Expenses:Operating:Hosting                           $8.48
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: a358036757e606a0d946e65ffe050418.pdf
+
+2017/09/26 Stamps.com
+    Expenses:Operating:Shipping                         $13.91
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: afcd25c92edff9f3ff86da10d73265c4.pdf
+
+2017/09/26 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: ede8393dc2af081aa71908178c6a0179.pdf
+
+2017/09/29 DNSimple
+    Expenses:Operating:Hosting                           $7.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 3b5745af7e1f9b1a9533859d7e6f7cdc.zip
+
+2017/10/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 5500ba2ec62b115f0b90666659ae6da7.pdf
+
+2017/10/03 Stamps.com
+    Expenses:Operating:Shipping                         $25.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: b79f8cdaa281c2d11a14ed914fd9160e.pdf
+
+2017/10/08 Streak
+    Expenses:Operating:Software                        $156.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 2a0eb85c5226db353c3c42a68a0e0c86.pdf
+
+2017/10/10 Heroku
+    Expenses:Operating:Hosting                         $193.10
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1db243358782766ee87e3c54c675e404.pdf
+
+2017/10/12 Cloud9
+    Expenses:Operating:Software                          $1.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: a770262dadbbc0d6885b495482208fd5.pdf
+
