@@ -6269,6 +6269,11 @@
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 16645b6f1f66305d2d1253779447060a.jpg
 
+2017/08/11 CVS
+    Expenses:Operating:Office:Supplies                   $4.33
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 85a7e8661ec9edca8c6bb963a4f038bb.pdf
+
 2017/08/12 Harrison Shoebridge
     Expenses:Operating:Staff:Salary                     $12.20
     Liabilities:Reimbursement:Harrison Shoebridge
@@ -6609,4 +6614,44 @@
     Expenses:Operating:Software                          $1.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a770262dadbbc0d6885b495482208fd5.pdf
+
+2017/10/12 Uber
+    Expenses:Operating:Transportation:Ground            $55.85
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9b52aef1e3e28d6e0600324cb2072c07.pdf
+
+2017/10/15 Pingdom
+    Expenses:Operating:Hosting                          $14.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5514ab7aa5ce8eedc424bf9b1e7b395d.pdf
+
+2017/10/15 Sentry
+    Expenses:Operating:Hosting                          $20.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d1f96b94ce4eea6fc0d4e8af42315c33.pdf
+
+2017/10/18 Lyft
+    Expenses:Operating:Transportation:Ground             $4.05
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 15044c8c8166982d503ec31c7775bc19.pdf
+
+2017/10/18 Oakside Cafe
+    Expenses:Operating:Food                              $4.45
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 593926ba4c356a4fd83c7f5580ae052a.pdf
+
+2017/10/27 Lyft
+    Expenses:Operating:Transportation:Ground            $53.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 16e75eea220e53c83c7f4473f16f1e85.pdf
+
+2017/10/27 Seton & Associates
+    Expenses:Operating:Legal                           $544.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 088ddbcb1b3be9d496ea1b149b368c48.pdf
+
+2017/10/29 DNSimple
+    Expenses:Operating:Hosting                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 15348ddbc489097f9fbface1f7f4985c.zip
 
