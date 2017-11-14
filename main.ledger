@@ -6560,6 +6560,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 7a4d6aeb1578aceb83cab2e51b1947bc.pdf
 
+2017/09/15 Zach Latta
+    Liabilities:Reimbursement:Zach Latta             $2,204.54
+    Assets:Chase:Checking
+    ; Receipt: 428c0eaa53790b101743065e161f1a33.pdf
+
 2017/09/20 Zapier
     Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
@@ -6569,6 +6574,11 @@
     Expenses:Operating:Software                         $10.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: bf67bf0775cf6ecc564feaa358a63253.pdf
+
+2017/09/22 Bradfield
+    Expenses:Operating:Office:Rent                   $1,200.00
+    Assets:Chase:Checking
+    ; Receipt: 86bf8c1574f94cb032588a19ffc1ad6e.pdf
 
 2017/09/26 Namecheap
     Expenses:Operating:Hosting                           $8.48
@@ -6585,6 +6595,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ede8393dc2af081aa71908178c6a0179.pdf
 
+2017/09/26 PayPal
+    Assets:Chase:Checking                            $4,411.78
+    Income:Website Donations
+    ; Receipt: eec47ae15af3e481934730d43b7b2370.pdf
+
 2017/09/29 DNSimple
     Expenses:Operating:Hosting                           $7.00
     Liabilities:Reimbursement:Zach Latta
@@ -6595,10 +6610,20 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5500ba2ec62b115f0b90666659ae6da7.pdf
 
+2017/10/02 Stripe
+    Assets:Chase:Checking                              $987.45
+    Income:Website Donations
+    ; Receipt: df33adb24e3f35a1aa969c52747197f0.pdf
+
 2017/10/03 Stamps.com
     Expenses:Operating:Shipping                         $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b79f8cdaa281c2d11a14ed914fd9160e.pdf
+
+2017/10/03 Gusto
+    Expenses:Operating:Software                         $45.00
+    Assets:Chase:Checking
+    ; Receipt: 51dca0f4dac3b367ae5d5d584b9de93a.pdf
 
 2017/10/08 Streak
     Expenses:Operating:Software                        $156.00
@@ -6609,6 +6634,11 @@
     Expenses:Operating:Hosting                         $193.10
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1db243358782766ee87e3c54c675e404.pdf
+
+2017/10/11 Athul Blesson
+    Expenses:Operating:Other                           $987.45
+    Assets:Chase:Checking
+    ; Receipt: d7695b4d68d802e7849817ff8a5cfbca.pdf
 
 2017/10/12 Cloud9
     Expenses:Operating:Software                          $1.00
@@ -6630,6 +6660,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d1f96b94ce4eea6fc0d4e8af42315c33.pdf
 
+2017/10/16 Selynna Sun
+    Assets:Chase:Checking                            $1,203.58
+    Liabilities:Reimbursement:Selynna Sun
+    ; Receipt: 274d8d98d2afff01976434ceb26e0961.pdf
+
 2017/10/18 Lyft
     Expenses:Operating:Transportation:Ground             $4.05
     Liabilities:Reimbursement:Zach Latta
@@ -6639,6 +6674,16 @@
     Expenses:Operating:Food                              $4.45
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 593926ba4c356a4fd83c7f5580ae052a.pdf
+
+2017/10/25 Bradfield
+    Expenses:Operating:Office:Rent                   $1,200.00
+    Assets:Chase:Checking
+    ; Receipt: 4e6d31b59847cbfad86a2fdd226f3897.pdf
+
+2017/10/26 Zach Latta
+    Liabilities:Reimbursement:Zach Latta             $2,000.00
+    Assets:Chase:Checking
+    ; Receipt: 20ed7cbe65b9dec5aca0c644d582114e.pdf
 
 2017/10/27 Lyft
     Expenses:Operating:Transportation:Ground            $53.00
@@ -6655,3 +6700,27 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 15348ddbc489097f9fbface1f7f4985c.zip
 
+2017/10/30 Zach Latta
+    Liabilities:Reimbursement:Zach Latta             $5,000.00
+    Assets:Chase:Checking
+    ; Receipt: 6d3f2a4dd4b23550cd242ebf8be83aa7.pdf
+
+2017/11/01 Stripe
+    Assets:Chase:Checking                            $1,033.58
+    Income:Website Donations
+    ; Receipt: 3b3bcd2b84f973e34d9f775e31865f2b.pdf
+
+2017/11/02 Gusto
+    Expenses:Operating:Software                         $45.00
+    Assets:Chase:Checking
+    ; Receipt: 0d1096e5c07dff8fc44b773c5f0dd0a1.pdf
+
+2017/11/10 Zach Latta
+    Liabilities:Reimbursement:Zach Latta               $651.25
+    Assets:Chase:Checking
+    ; Receipt: 3ecb01f522544e393d6c50ea2f71dc5e.pdf
+
+2017/11/10 Max Wofford
+    Liabilities:Reimbursement:Max Wofford               $57.33
+    Assets:Chase:Checking
+    ; Receipt: f1bcfaa27fcf9483d49e20630a5dbeb7.pdf
