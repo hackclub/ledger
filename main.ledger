@@ -6695,6 +6695,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 088ddbcb1b3be9d496ea1b149b368c48.pdf
 
+2017/10/27 Uber
+    Expenses:Operating:Transportation:Ground             $8.02
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cd235a86b2f94a0331a9cc1af11dee18.pdf
+
 2017/10/29 DNSimple
     Expenses:Operating:Hosting                           $7.00
     Liabilities:Reimbursement:Zach Latta
@@ -6710,10 +6715,51 @@
     Income:Website Donations
     ; Receipt: 3b3bcd2b84f973e34d9f775e31865f2b.pdf
 
+2017/11/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 84d7f1e03c188ee7ba92835fd7411e9e.pdf
+
 2017/11/02 Gusto
     Expenses:Operating:Software                         $45.00
     Assets:Chase:Checking
     ; Receipt: 0d1096e5c07dff8fc44b773c5f0dd0a1.pdf
+
+2017/11/02 Sightglass Coffee
+    Expenses:Operating:Food                              $3.80
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a9b58fb784d27c4a3b8a29a9bae318a8.pdf
+
+2017/11/03 Maria Choi
+    ; For fundraising development consulting services
+    Expenses:Operating:Contracting                    $5000.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1a4eb8d0c32cd687ccc613943becbac9.pdf
+
+2017/11/07 Heroku
+    Expenses:Operating:Hosting                         $243.31
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e39f9c76aa28c8375195e47d478a5160.pdf
+
+2017/11/07 Streak
+    Expenses:Operating:Software                        $156.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 4b6d62d1c32e4b6b8cd64a6d26f89750.pdf
+
+2017/11/08 Fontspring
+    Expenses:Operating:Software                         $20.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b5ed8d3c36a38c0088025ebbcf572932.pdf
+
+2017/11/08 Uber
+    Expenses:Operating:Transportation:Ground             $7.13
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7a6d2e88992eaa9fe37178fb7ae0565a.pdf
+
+2017/11/09 Amazon
+    Expenses:Operating:Office:Supplies                  $21.69
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 725f82017493e32c02aded6a57584a37.pdf
 
 2017/11/10 Zach Latta
     Liabilities:Reimbursement:Zach Latta               $651.25
@@ -6724,3 +6770,59 @@
     Liabilities:Reimbursement:Max Wofford               $57.33
     Assets:Chase:Checking
     ; Receipt: f1bcfaa27fcf9483d49e20630a5dbeb7.pdf
+
+2017/11/10 Lyft
+    Expenses:Operating:Transportation:Ground            $10.90
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: e6169e2794d27a4ae93ca07b41b5c78c.pdf
+
+2017/11/11 Uber
+    Expenses:Operating:Transportation:Ground            $57.66
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: db7137462469b4cf910744bf90e683d5.pdf
+
+2017/11/11 Uber
+    Expenses:Operating:Transportation:Ground            $65.47
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 9f8ec94cd04fa6a858e2f8c80bc51c34.pdf
+
+2017/11/12 Cloud9
+    Expenses:Operating:Software                          $1.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c5a42881d1774424f3394f2f3a289c57.pdf
+
+2017/11/15 Pingdom
+    Expenses:Operating:Software                         $14.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: c0a1a03044b933386a1c4521a20ff3bd.pdf
+
+2017/11/15 Sentry
+    Expenses:Operating:Hosting                          $29.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: cdcdff991cb29e317b08afc963b7af28.pdf
+
+2017/11/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 0beadc5440ab39834eba0f9fe8bcc1ab.pdf
+
+2017/11/29 DNSimple
+    Expenses:Operating:Hosting                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 5357567e1da25676208f0aff31724f69.zip
+
+2017/12/01 Lyft
+    Expenses:Operating:Transportation:Ground             $5.15
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 896b9b154b2d07b20aa7104c7803e461.pdf
+
+2017/12/01 Papertrail
+    Expenses:Operating:Software                          $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: a9250deb2fb2b52423defcb2626e3a65.pdf
+
+2017/12/01 Namecheap
+    ; SSL certificate for *.hackclub.io
+    Expenses:Operating:Software                         $94.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 1c8b55868492dfdba4421754285afcc6.pdf
