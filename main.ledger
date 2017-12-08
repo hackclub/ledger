@@ -10,22 +10,22 @@
     ; Receipt: 75fd158c0d71d3f0bb3c253e7d549290.png
 
 2015/02/05 Clipper Card
-    Expenses:Operating:Transportation:Ground               $20
+    Expenses:Operating:Transportation:Ground            $20.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 52fae6a40afaf2a79bfdef92f5e1b6d3.pdf
 
 2015/02/05 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 33122eccf3bdd6039abd44d22ad009ac.pdf
 
 2015/02/05 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8f87064a986b67fdf183dbd0fa625ebb.pdf
 
 2015/02/06 United States Corporation Agents, Inc.
-    Expenses:Operating:Tax                                 $25
+    Expenses:Operating:Tax                              $25.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 8c3aa38627856b3ac9010fe915f0f545.pdf
 
@@ -42,7 +42,7 @@
     ; Receipt: 4006ca7c9bc6da2eae7adad543a54a4a.pdf
 
 2015/02/06 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3c2ebc39a9ac3f1e017f9fa894100c7e.pdf
 
@@ -168,22 +168,22 @@
     ; Receipt: 92a8d629ed12433e43619d1d4053762a.pdf
 
 2015/03/04 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: eb8bdda9b2bb643cd865bbcef6489de2.pdf
 
 2015/03/04 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d5b74aed71851556bda5d8fce0590c90.pdf
 
 2015/03/04 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f6d803bd406ff9ef0db66eafa15a7503.pdf
 
 2015/03/05 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 63d9ccdd528bb3f24f485263100efab8.pdf
 
@@ -213,7 +213,7 @@
     ; Receipt: 627d50e580ab93a5a9ae4b634fe6e033.png
 
 2015/03/08 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cf0f72d1664403f7e19a8abacdf85044.pdf
 
@@ -242,7 +242,7 @@
     ; Receipt: 256f4174e11bfad0580ff21eb6944211.pdf
 
 2015/03/10 Lyft
-    Expenses:Operating:Transportation:Ground                $5
+    Expenses:Operating:Transportation:Ground             $5.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5a86819943e67d1a521daec78c6ba4ad.pdf
 
@@ -301,7 +301,7 @@
      
 
 2015/03/16 Lyft
-    Expenses:Operating:Transportation:Ground                $6
+    Expenses:Operating:Transportation:Ground             $6.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 440c6771113a99463b454f1313b50729.pdf
 
@@ -311,7 +311,7 @@
     ; Receipt: 8aaf1ce88aeeb6089d52278c002f671c.pdf
 
 2015/03/19 Uber
-    Expenses:Operating:Transportation:Ground                $7
+    Expenses:Operating:Transportation:Ground             $7.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 9d4ebf978ba1decda87e4b5f26ed5866.pdf
 
@@ -331,8 +331,8 @@
     ; Receipt: ecb83d49856f502fac553bd861203102.pdf
 
 2015/03/24 Bank
-    Assets:Wells Fargo:Checking                            $50
-    Assets:Wells Fargo:Savings                             $50
+    Assets:Wells Fargo:Checking                         $50.00
+    Assets:Wells Fargo:Savings                          $50.00
     Liabilities:Reimbursement:Max Wofford
     ; Receipt: 5a856b4792c933a2bc4b8b56455f536b.pdf
 
@@ -354,7 +354,7 @@
     Assets:Wells Fargo:Checking
 
 2015/03/27 Clipper Card
-    Expenses:Operating:Transportation:Ground               $20
+    Expenses:Operating:Transportation:Ground            $20.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: ff3f3edc10a2a295f9a60e226bae358c.pdf
 
@@ -442,7 +442,7 @@
     ; Receipt: ee14ae5b5c26f6cd50c4059ff7c38dc3.png
 
 2015/04/17 Anonymous Donor 1
-    Assets:Wells Fargo:Checking                       $5000.00
+    Assets:Wells Fargo:Checking                      $5,000.00
     Income:Fundraising
     ; Receipt: d0ef8d3234a1af07e2a5856a0efb80da.jpeg
 
@@ -510,7 +510,7 @@
     ; Receipt: 9c24ceba2df2e28bdbb2eb80de8db603.pdf
 
 2015/05/06 Anonymous Donor 2
-    Assets:Wells Fargo:Checking                      $10000.00
+    Assets:Wells Fargo:Checking                     $10,000.00
     Income:Fundraising
 
 2015/05/06 Wells Fargo
@@ -538,7 +538,7 @@
     ; Receipt: ca0f1de6a8b74fb8c061196f78ca5928.png
 
 2015/05/07 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: db8f3ff3354574b4d24e539b64192aa5.pdf
     ; For any future clarification, this payment was made through PayPal
@@ -610,7 +610,7 @@
     ; Receipt: abeb712c6be7ac4d447437dd01f8b790.jpeg
 
 2015/05/19 Anonymous Donor 3
-    Assets:Wells Fargo:Checking                      $50000.00
+    Assets:Wells Fargo:Checking                     $50,000.00
     Income:Fundraising
 
 2015/05/19 Uber
@@ -689,7 +689,7 @@
     ; Receipt: 2b3d94b5fe3b97eb6b16351d9acd4eb4.pdf
 
 2015/06/01 Anonymous Donor 4
-    Assets:Wells Fargo:Checking                       $5000.00
+    Assets:Wells Fargo:Checking                      $5,000.00
     Income:Fundraising
 
 2015/06/01 Instacart
@@ -755,7 +755,7 @@
     ; Receipt: 64f1c5537d60db9517eaf1307d757834.pdf
 
 2015/06/10 Anonymous Donor 5
-    Assets:Wells Fargo:Checking                      $10000.00
+    Assets:Wells Fargo:Checking                     $10,000.00
     Income:Fundraising
     ; Receipt: 5a83eca6178dcab320263445f47bca45.jpeg
 
@@ -770,7 +770,7 @@
     ; Receipt: 25f1a96eba3b9323e12be36602099025.pdf
 
 2015/06/10 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: 7d7bc211532d2a9b9acb1d21107ef9a2.pdf
 
@@ -811,7 +811,7 @@
     ; Receipt: 9f93a4df38e493790c68e5cedf958da8.pdf
 
 2015/07/01 Stripe
-    Assets:Wells Fargo:Checking                       $3264.98
+    Assets:Wells Fargo:Checking                      $3,264.98
     Income:Hack Camp
     ; Receipt: a118f8657249d8f9715ae5f9b5a1aa3e.pdf
 
@@ -872,7 +872,7 @@
     ; Receipt: 384bcbc3a1a70c5805f6df8c7178db79.pdf
 
 2015/07/08 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: 7a2194580d5de1739245c8914b18b23a.pdf
 
@@ -996,7 +996,7 @@
     ; Receipt: d934400ff1ccdab60ff7707048168e22.png
 
 2015/08/03 Stripe
-    Assets:Wells Fargo:Checking                       $3036.86
+    Assets:Wells Fargo:Checking                      $3,036.86
     Income:Hack Camp
     ; Receipt: 55c63ceba798757ef455ad7d0386a902.pdf
 
@@ -1041,7 +1041,7 @@
     ; Receipt: 1f83efdd100567bf8c144a7b515cfbae.jpg
 
 2015/08/04 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: 2185c583a90f8929a8d623f01249a038.pdf
 
@@ -1086,7 +1086,7 @@
     ; Receipt: fc806c97a6dcea0882b6eef9a1eab736.pdf
 
 2015/08/14 Max Wofford
-    Expenses:Operating:Staff:Salary                   $1280.00
+    Expenses:Operating:Staff:Salary                  $1,280.00
     Assets:Wells Fargo:Checking
     ; Receipt: 7435a38651a64de0c8823fc91c645323.pdf
 
@@ -1244,7 +1244,7 @@
     ; Receipt: 0691978ae4c007ed051ae9f4e16f79bd.pdf
 
 2015/09/07 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3800.00
+    Expenses:Operating:Staff:Salary                  $3,800.00
     Assets:Wells Fargo:Checking
     ; Receipt: 6eda16aa4c8ac5da96759c0845b786ab.pdf
 
@@ -1280,7 +1280,7 @@
     Assets:Wells Fargo:Checking
 
 2015/09/10 Max Wofford
-    Expenses:Operating:Staff:Salary                   $1280.00
+    Expenses:Operating:Staff:Salary                  $1,280.00
     Assets:Wells Fargo:Checking
     ; Receipt: a3a96d280837c42e3643a47016700cec.pdf
 
@@ -1323,7 +1323,7 @@
     ; Receipt: 6eda689a0074b595ec4d0304f8b27deb.png
 
 2015/09/16 Dave Fontenot
-    Expenses:Operating:Staff:Salary                   $2280.00
+    Expenses:Operating:Staff:Salary                  $2,280.00
     Assets:Wells Fargo:Checking
     ; Receipt: c02084f6751be2e35896080c6585e626.pdf
 
@@ -1375,7 +1375,7 @@
     ; Receipt: 14c646b169265b4d034e2371de684f3b.png
 
 2015/10/06 Max Wofford
-    Expenses:Operating:Staff:Salary                   $1280.00
+    Expenses:Operating:Staff:Salary                  $1,280.00
     Assets:Wells Fargo:Checking
     ; Receipt: f64ffaa80e73449584eabf6b3af21e60.pdf
 
@@ -1396,7 +1396,7 @@
     ; Receipt: 047c55961e263f904d0a472fd3313557.pdf
 
 2015/10/09 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: b0ec530c27a10049e56945b6b57e6ed7.pdf
 
@@ -1406,7 +1406,7 @@
     ; Receipt: d850b8a30dee3cff778e1c6073a8b1c5.pdf
 
 2015/10/15 Dave Fontenot
-    Expenses:Operating:Staff:Salary                   $1900.00
+    Expenses:Operating:Staff:Salary                  $1,900.00
     Assets:Wells Fargo:Checking
     ; Receipt: 7f48f8ef48c25ceecaf8b1a542cfbd74.pdf
 
@@ -1421,7 +1421,7 @@
     ; Receipt: 654fe8f8c6598ab10d2942f483e5d504.pdf
 
 2015/10/22 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: 3006c259f6acd96db114298db9ed57fc.pdf
 
@@ -1452,7 +1452,7 @@
     ; Receipt: ae7c0a3e5644664d6ea327abfde363dc.pdf
 
 2015/11/03 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: 461caa4c920a86abf0b74a6dfc18cca3.pdf
 
@@ -1462,7 +1462,7 @@
     ; Receipt: 9b475f7e555add998d47f91b16c0b539.png
 
 2015/11/03 Dave Fontenot
-    Expenses:Operating:Staff:Salary                   $1900.00
+    Expenses:Operating:Staff:Salary                  $1,900.00
     Assets:Wells Fargo:Checking
     ; Receipt: 879c230ebaa1a9339a5d79e9640c5a27.png
 
@@ -1472,7 +1472,7 @@
     ; Receipt: b9043f7c611cb3af45e50eff96ec5231.jpg
 
 2015/11/16 Max Wofford
-    Assets:Wells Fargo:Checking                       $1280.00
+    Assets:Wells Fargo:Checking                      $1,280.00
     Expenses:Operating:Staff
     ; Receipt: a28a7299aae31bb4e2208c593455c68d.png
     ; uncashed check
@@ -1509,7 +1509,7 @@
     ; Receipt: ba543f29eaf6cf1ee4bb383e1de48752.png
 
 2015/12/04 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: ac6c3be218596fc5334ff8d232673931.pdf
 
@@ -1519,7 +1519,7 @@
     ; Receipt: 2b6072fcab7d0a8a4ae2a2deb257bc53.png
 
 2015/12/11 United
-    Expenses:Operating:Transportation:Air             $1544.90
+    Expenses:Operating:Transportation:Air            $1,544.90
     Assets:Wells Fargo:Checking
     ; Receipt: 152b31c8b7b70dd2be44e4d54267d9f1.png
 
@@ -1529,7 +1529,7 @@
     ; Receipt: bda0188e93c8448b8798c3c45de1fcd2.pdf
 
 2015/12/14 Anonymous Donor 8
-    Assets:Wells Fargo:Checking                       $1000.00
+    Assets:Wells Fargo:Checking                      $1,000.00
     Income:Fundraising
     ; Receipt: b9081516c3f9accf6d727df828997423.png
 
@@ -1539,7 +1539,7 @@
     ; Receipt: c15490e7534d1d2208384421a10c522d.png
 
 2015/12/17 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $3840.00
+    Expenses:Operating:Staff:Salary                  $3,840.00
     Assets:Wells Fargo:Checking
     ; Receipt: e522f91637388f440f0566f0685f5022.pdf
 
@@ -1602,7 +1602,7 @@
     ; Receipt: 4ad91e035199c98b0072d215b175c3b2.png
 
 2016/01/12 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: 2e390b4c2e02d187479bd83c031a5c8a.pdf
 
@@ -1612,7 +1612,7 @@
     ; Receipt: 337a1eab335929f508e0c421cefcaccb.pdf
 
 2016/01/13 Max Wofford
-    Expenses:Operating:Staff:Salary                   $1280.00
+    Expenses:Operating:Staff:Salary                  $1,280.00
     Assets:Wells Fargo:Checking
     ; Receipt: 44ae31249112df1faf5cf0d756b14e63.pdf
 
@@ -1632,7 +1632,7 @@
     ; Receipt: 527cca225ad0a2511e634de256b19f7f.pdf
 
 2016/01/25 Anonymous Donor 3
-    Assets:Wells Fargo:Checking                      $75000.00
+    Assets:Wells Fargo:Checking                     $75,000.00
     Income:Fundraising
     ; Receipt: d2ffdc98d47692c3847b22bb01c317d1.png
 
@@ -1681,7 +1681,7 @@
     ; Receipt: 47c384f6d04c8f23fceaa34f412d8921.png
 
 2016/02/03 Sticker Mule
-    Expenses:Marketing:Stickers                       $1208.00
+    Expenses:Marketing:Stickers                      $1,208.00
     Assets:Wells Fargo:Checking
     ; Receipt: 98367eb82fa6d2c28b0fdeb1f5f0ae52.pdf
 
@@ -1692,7 +1692,7 @@
      
 
 2016/02/03 Dave Fontenot
-    Assets:Wells Fargo:Checking                       $1900.00
+    Assets:Wells Fargo:Checking                      $1,900.00
     Expenses:Operating:Staff:Salary
     ; Receipt: 9b1b2f9c1dcc2d6a19757f88fa422fcb.png
 
@@ -1702,12 +1702,12 @@
     ; Receipt: 9e16d2e7d56c84c252e0a16f25234db7.pdf
 
 2016/02/04 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: 36dff590e6ff73ae35de5b8f057aba1c.png
 
 2016/02/05 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1920.00
+    Expenses:Operating:Staff:Salary                  $1,920.00
     Assets:Wells Fargo:Checking
     ; Receipt: 802d512ad2270ec22e81872107a92c4a.png
 
@@ -1758,7 +1758,7 @@
 
 2016/02/22 Mission Bit
     ; Fiscal sponsorship fee
-    Expenses:Operating:Other                          $2750.00
+    Expenses:Operating:Other                         $2,750.00
     Assets:Wells Fargo:Checking
     ; Receipt: 5ae7397a5aae63e1148b0f26327de7b7.png
 
@@ -1832,9 +1832,9 @@
     ; Receipt: bec76e76e07037674b22877534238ba3.pdf
 
 2016/03/24 Jonathan Leung
-    Expenses:Operating:Staff:Salary                   $1588.96
-    Expenses:Operating:Staff:Salary                   $2880.00
-    Liabilities:Reimbursement:Jonathan Leung          $3297.04
+    Expenses:Operating:Staff:Salary                  $1,588.96
+    Expenses:Operating:Staff:Salary                  $2,880.00
+    Liabilities:Reimbursement:Jonathan Leung         $3,297.04
     Assets:Wells Fargo:Checking
     ; Receipt: e2278cf07d3fdb448c6c6498cbdaf0fa.pdf
 
@@ -1869,7 +1869,7 @@
     ; Receipt: 15f95574e93d12cb7c22aca174fb235e.pdf
 
 2016/04/01 Jessica Kwok
-    Expenses:Operating:Staff:Salary                   $2800.00
+    Expenses:Operating:Staff:Salary                  $2,800.00
     Assets:Wells Fargo:Checking
     ; Receipt: 2de3ac0f2ea0bf2a50b67df058888047.pdf
 
@@ -2021,7 +2021,7 @@
     ; Receipt: ed4fceee9eb982032fc484c519ad744f.pdf
 
 2016/05/01 Jessica Kwok
-    Expenses:Operating:Staff:Salary                   $2800.00
+    Expenses:Operating:Staff:Salary                  $2,800.00
     Assets:Wells Fargo:Checking
     ; Receipt: 285c4a230304e3e6ac8db45840153400.pdf
 
@@ -2036,7 +2036,7 @@
     ; Receipt: 57583b7233dd6f96d37c4d36da047119.png
 
 2016/05/13 Zirtual
-    Expenses:Operating:Contracting                    $1096.00
+    Expenses:Operating:Contracting                   $1,096.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f4ced4b8d9483d7596c70d0482c1fe4f.pdf
 
@@ -2046,7 +2046,7 @@
     ; Receipt: dcc7875c7276a8deefc4656d7047eb89.pdf
 
 2016/05/16 Seton & Associates 
-    Expenses:Operating:Legal                          $2697.60
+    Expenses:Operating:Legal                         $2,697.60
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 6bc904e876ffd8621dcd61e3624d7ab9.pdf
 
@@ -2071,7 +2071,7 @@
     ; Receipt: dd977c50f3337a6cad0b28be0438f980.pdf
 
 2016/05/20 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $3660.43
+    Liabilities:Reimbursement:Zach Latta             $3,660.43
     Assets:Wells Fargo:Checking
     ; Receipt: 86eb9b76891204a8295a62a4e17f4755.pdf
 
@@ -2136,7 +2136,7 @@
     ; Receipt: 034231682cca7916ccc353a8d6e875d5.pdf
 
 2016/06/01 Jessica Kwok
-    Expenses:Operating:Staff:Salary                   $2800.00
+    Expenses:Operating:Staff:Salary                  $2,800.00
     Assets:Wells Fargo:Checking
     ; Receipt: d547e48d591e8d4d0cce2bb20335e776.pdf
 
@@ -2172,7 +2172,7 @@
     ; Receipt: e0afe9eff2d1a6940afc16a6b3d322f1.png
 
 2016/06/06 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $3884.94
+    Liabilities:Reimbursement:Zach Latta             $3,884.94
     Assets:Wells Fargo:Checking
     ; Receipt: cae6cc827f538bb559d82f12e1953b35.pdf
 
@@ -2204,7 +2204,7 @@
     ; Receipt: 6a08e9493c760300b2242f7ab6163893.png
 
 2016/06/09 Sticker Mule
-    Expenses:Marketing:Stickers                       $1430.00
+    Expenses:Marketing:Stickers                      $1,430.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 84f742643097febde8621114a7c50c79.pdf
 
@@ -2332,7 +2332,7 @@
     ; Receipt: 49102a9b75e71082780cad03abcc7a96.pdf
 
 2016/07/01 Stripe
-    Assets:Wells Fargo:Checking                       $5809.00
+    Assets:Wells Fargo:Checking                      $5,809.00
     Income:Website Donations
     ; Receipt: 080bac292f021ad79f241a07386b9727.pdf
 
@@ -2574,7 +2574,7 @@
     ; Receipt: a8c38fe2081f60479cc23ef6da8dc3a2.pdf
 
 2016/08/01 Stripe
-    Assets:Wells Fargo:Checking                       $1894.20
+    Assets:Wells Fargo:Checking                      $1,894.20
     Income:Website Donations
     ; Receipt: ad35efdc6fa225c7b2b176693b7053c9.pdf
 
@@ -2614,7 +2614,7 @@
     ; Receipt: 67064dc628a97e2941b1e4d622da57f5.pdf
 
 2016/08/03 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Wells Fargo:Checking
     ; Receipt: 538e1a171e3bc2a879f44e5b4ec7457a.pdf
 
@@ -2629,7 +2629,7 @@
     ; Receipt: 88c266d623f96702ae6622078d588004.pdf
 
 2016/08/05 Selynna Sun
-    Expenses:Operating:Staff:Salary                   $4000.00
+    Expenses:Operating:Staff:Salary                  $4,000.00
     Assets:Wells Fargo:Checking
     ; Receipt: 780c2efa712f09c78a19e2e3ce56806f.pdf
 
@@ -2693,12 +2693,12 @@
     ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
 
 2016/08/15 Selynna Sun
-    Liabilities:Reimbursement:Selynna Sun             $1203.58
+    Liabilities:Reimbursement:Selynna Sun            $1,203.58
     Assets:Wells Fargo:Checking
     ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
 
 2016/08/15 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $5340.60
+    Liabilities:Reimbursement:Zach Latta             $5,340.60
     Assets:Wells Fargo:Checking
     ; Receipt: 0bd702f3d9777f01dba28346d2a8e6f1.pdf
 
@@ -2871,7 +2871,7 @@
     ; Receipt: ce9494f629401a9c418b4b4d1fe14d4d.jpeg
 
 2016/09/02 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Wells Fargo:Checking
     ; Receipt: 9dc0d5a3fa432feb532a1cff98c5c5bb.pdf
 
@@ -2969,14 +2969,14 @@
 
 2016/09/15 Mission Bit
     ; Mission Bit accidentally deposited money into our bank account
-    Assets:Wells Fargo:Checking                      $11380.25
+    Assets:Wells Fargo:Checking                     $11,380.25
     Income:Other
     ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
 
 2016/09/15 Mission Bit
     ; Mission Bit accidentally deposited money into our bank account, this is
     ; them withdrawing it.
-    Income:Other                                     $11380.25
+    Income:Other                                    $11,380.25
     Assets:Wells Fargo:Checking
     ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
 
@@ -3021,7 +3021,7 @@
     ; Receipt: 2820e905c52e5fc0529607a13440e569.pdf
 
 2016/09/21 Max Wofford
-    Expenses:Operating:Staff:Salary                  $10174.18
+    Expenses:Operating:Staff:Salary                 $10,174.18
     Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
@@ -3031,17 +3031,17 @@
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Selynna Sun
-    Expenses:Operating:Staff:Salary                   $2000.00
+    Expenses:Operating:Staff:Salary                  $2,000.00
     Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Selynna Sun
-    Expenses:Operating:Staff:Salary                   $1267.00
+    Expenses:Operating:Staff:Salary                  $1,267.00
     Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
 2016/09/21 Jessica Kwok
-    Expenses:Operating:Staff:Salary                   $2800.00
+    Expenses:Operating:Staff:Salary                  $2,800.00
     Assets:Wells Fargo:Checking
     ; Receipt: 3d18f0eddf9d709d7169381df5c21d31.pdf
 
@@ -3092,7 +3092,7 @@
     ; Receipt: 36f4c8092c334175ec64d1e2009da570.JPG
 
 2016/10/03 Stripe
-    Assets:Wells Fargo:Checking                       $1022.00
+    Assets:Wells Fargo:Checking                      $1,022.00
     Income:Website Donations
     ; Receipt: 49f4300b5850f1af8636a90e173decb6.pdf
 
@@ -3113,7 +3113,7 @@
     ; Receipt: c1bf9160d3bfa1fc0a6577f033ea1c09.pdf
 
 2016/10/07 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Wells Fargo:Checking
     ; Receipt: 590e95144bfad2040c9da132f50558f5.pdf
 
@@ -3128,12 +3128,12 @@
     ; Receipt: 3988f23075eafbdddbfff3258fe96202.pdf
 
 2016/10/07 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $6412.61
+    Liabilities:Reimbursement:Zach Latta             $6,412.61
     Assets:Wells Fargo:Checking
     ; Receipt: 7400427217d494f61d4b3eb014676b0b.pdf
 
 2016/10/07 Selynna Sun
-    Liabilities:Reimbursement:Selynna Sun             $1473.94
+    Liabilities:Reimbursement:Selynna Sun            $1,473.94
     Assets:Wells Fargo:Checking
     ; Receipt: 4c92c4873a6780947cf87fabb4ad2148.pdf
 
@@ -3144,7 +3144,7 @@
 
 2016/10/08 Kyle Emile
     ; Relocation expenses
-    Expenses:Operating:Staff:Relocation               $4975.00 ; $25 is deducted from this to pay for the wire
+    Expenses:Operating:Staff:Relocation              $4,975.00 ; $25 is deducted from this to pay for the wire
     Expenses:Operating:Bank                             $25.00 ; Payee: Chase
     Assets:Chase:Checking
     ; Receipt: 0bb12277b5121b03569c392ce0ae590d.png
@@ -3215,7 +3215,7 @@
     ; Receipt: 80f80ae502a64706b63989a5f16fa637.pdf
 
 2016/11/01 Stripe
-    Assets:Wells Fargo:Checking                       $1117.82
+    Assets:Wells Fargo:Checking                      $1,117.82
     Income:Website Donations
     ; Receipt: 1103348d150f4722222320616eb85f48.png
 
@@ -3230,7 +3230,7 @@
     ; Receipt: 1103348d150f4722222320616eb85f48.png
 
 2016/11/02 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Wells Fargo:Checking
     ; Receipt: 1103348d150f4722222320616eb85f48.png
 
@@ -3323,7 +3323,7 @@
     ; Receipt: 80ef85ea0a625fa822c5c499470116b3.pdf
 
 2016/11/14 Sticker Mule
-    Expenses:Marketing:Stickers                       $4050.25
+    Expenses:Marketing:Stickers                      $4,050.25
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c5245fafd0f815bbbbe789f7675d8aa4.pdf
 
@@ -3338,7 +3338,7 @@
     ; Receipt: d84d417ee0cbb41da521724913deaa38.pdf
 
 2016/11/14 Fast Forward
-    Assets:Chase:Checking                            $63388.33
+    Assets:Chase:Checking                           $63,388.33
     Income:Fundraising
 
 2016/11/15 Cloud9
@@ -3369,7 +3369,7 @@
 
 2016/11/20 Seton & Associates
     ; Trademark filing
-    Expenses:Operating:Legal                          $1700.00
+    Expenses:Operating:Legal                         $1,700.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: f4571711af7f51077cccfc568704d1ee.pdf
 
@@ -3389,7 +3389,7 @@
     ; Receipt: e78e0c68cffe0df62ef7e6625b0798a6.pdf
 
 2016/11/20 Mechanical Turk
-    Expenses:Marketing:Contracting                    $2000.00
+    Expenses:Marketing:Contracting                   $2,000.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 71ee12c685193507bdd826d87a407970.pdf
 
@@ -3410,7 +3410,7 @@
     ; Receipt: 1f17e79b907ba7f4b92f9e457e87865e.png
 
 2016/11/29 Transfer
-    Assets:Chase:Checking                            $19955.71
+    Assets:Chase:Checking                           $19,955.71
     Assets:Wells Fargo:Checking
     ; Receipt: 1103348d150f4722222320616eb85f48.png
 
@@ -3436,7 +3436,7 @@
 2016/12/02 Kyle Emile
     ; This transaction both pays Kyle and reimburses him for the month of
     ; November. The receipt is just for his invoice.
-    Expenses:Operating:Staff:Salary                   $5392.00 ; $25 has been deducted to pay for the wire
+    Expenses:Operating:Staff:Salary                  $5,392.00 ; $25 has been deducted to pay for the wire
     Liabilities:Reimbursement:Kyle Emile               $250.00
     Expenses:Operating:Bank                             $25.00 ; Payee: Chase
     Assets:Chase:Checking
@@ -3493,7 +3493,7 @@
 
 2016/12/16 The Hack Foundation
     ; From Fast Forward through the VMWare presentation
-    Assets:Chase:Checking                             $5141.59
+    Assets:Chase:Checking                            $5,141.59
     Income:Fundraising
     ; Receipt: 0624c6cbf32c3f49057401a712c5ee78.pdf
 
@@ -3528,7 +3528,7 @@
     ; Receipt: 2892a2e0b358a69d9ad2578f4cab5345.pdf
 
 2017/01/01 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: e4c49207efb646b5802292d05f055f11.jpg
 
@@ -3975,7 +3975,7 @@
     ; Receipt: c7ad14e73af3e5d363c5123bf61fcbcd.png
 
 2017/02/01 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 84e47a734522710c9f37cbca0884092c.jpg
 
@@ -4108,7 +4108,7 @@
     ; Receipt: fb68bc7180da68bf9dcbf45c10b8207b.png
 
 2017/02/06 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $9211.51
+    Liabilities:Reimbursement:Zach Latta             $9,211.51
     Assets:Chase:Checking
     ; Receipt: d357f7162d2861c51a21a9b5d824511c.png
 
@@ -4128,7 +4128,7 @@
     ; Receipt: 704f5200b0ac943c9fb4d3213ffe65c1.pdf
 
 2017/02/07 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $2750.00
+    Liabilities:Reimbursement:Harrison Shoebridge    $2,750.00
     Assets:Chase:Checking
     ; Receipt: 0fda1106912ba28db900942cda46ec41.png
 
@@ -4599,7 +4599,7 @@
     ; Receipt: d0a48dd0122e5905d66be1b38b5fb140.pdf
 
 2017/03/01 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 37070c159b22ac25c7ec3039b75e5544.jpg
 
@@ -4655,12 +4655,12 @@
     ; Receipt: e8b37a415f73168856abe5a5d244d531.jpg
 
 2017/03/03 Pheonix Studios
-    Expenses:Operating:Office:Rent                    $1870.00
+    Expenses:Operating:Office:Rent                   $1,870.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0aa36395134cea2badafc58951f3eca9.jpg
 
 2017/03/03 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $2138.65
+    Liabilities:Reimbursement:Harrison Shoebridge    $2,138.65
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5487fe968ffccaf02069e5f698ca0e1b.jpg
 
@@ -4710,7 +4710,7 @@
     ; Receipt: 632dfe80c846420b17183fb2003b7a0f.pdf
 
 2017/03/09 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $5903.04
+    Liabilities:Reimbursement:Zach Latta             $5,903.04
     Assets:Chase:Checking
     ; Receipt: 620a43f30a2437b03e4fdeeb280d288a.pdf
 
@@ -4872,7 +4872,7 @@
     ; Receipt: becd463795ac5432d8ca3b0e017a0354.pdf
 
 2017/04/03 Stripe
-    Assets:Chase:Checking                             $1442.03
+    Assets:Chase:Checking                            $1,442.03
     Income:Website Donations
     ; Receipt: e867ce04ee87392e6255b7efbeefb873.pdf
 
@@ -4917,12 +4917,12 @@
     ; Receipt: a2a65de401f3b41a97d4567871b3a7fc.pdf
 
 2017/04/10 Max Wofford
-    Expenses:Operating:Staff:Salary                   $2000.00
+    Expenses:Operating:Staff:Salary                  $2,000.00
     Assets:Chase:Checking
     ; Receipt: 99f5cb21bbe145bfce5f9318e4f5b93c.pdf
 
 2017/04/10 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Chase:Checking
     ; Receipt: 9d3b681cfacb1c37e9868c908483e7f4.pdf
 
@@ -5122,7 +5122,7 @@
     ; Receipt: 672c55292e0824ddd4d399d83261565e.PDF
 
 2017/04/26 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $1300.00
+    Liabilities:Reimbursement:Harrison Shoebridge    $1,300.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c7522b36980e25907faee3beabf3e3b7.JPG
 
@@ -5187,12 +5187,12 @@
     ; Receipt: 61f18f60816069a0f11a89b95f566ef5.pdf
 
 2017/05/01 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $5417.00
+    Expenses:Operating:Staff:Salary                  $5,417.00
     Assets:Chase:Checking
     ; Receipt: 31786b678e0c3704cc96cc22a3b697bc.pdf
 
 2017/05/01 Stripe
-    Assets:Chase:Checking                             $1650.34
+    Assets:Chase:Checking                            $1,650.34
     Income:Website Donations
     ; Receipt: ad9b13399a767b7d6e1483e2a6ca5e19.pdf
 
@@ -5202,7 +5202,7 @@
     ; Receipt: 1b9e2787df4ecc59808b701fc2fbe80c.pdf
 
 2017/05/02 Max Wofford
-    Expenses:Operating:Staff:Salary                   $2000.00
+    Expenses:Operating:Staff:Salary                  $2,000.00
     Assets:Chase:Checking
     ; Receipt: 8d18dbfa351b0f2b7adc9adf80c9e5e9.pdf
 
@@ -5227,7 +5227,7 @@
     ; Receipt: 4a2702838381f5622fc8c1334ae59d91.pdf
 
 2017/05/04 Pheonix Studios
-    Expenses:Operating:Office:Rent                    $1870.00
+    Expenses:Operating:Office:Rent                   $1,870.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3912bb103fd55e3f78dd5290883d2a16.pdf
 
@@ -5237,7 +5237,7 @@
     ; Receipt: 4db072becab4ce2a1090d4c8358eb5f7.jpg
 
 2017/05/05 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $2718.72
+    Liabilities:Reimbursement:Harrison Shoebridge    $2,718.72
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0784dc44d5330671694d44f63c36037b.pdf
 
@@ -5581,7 +5581,7 @@
     ; Receipt: 060dc16f78e7ab8471c0175d5f694e9b.pdf
 
 2017/06/01 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 3ab78fa795283b227c20c46d08489f17.jpg
 
@@ -5597,7 +5597,7 @@
     ; Receipt: 6e6950db3da097ae686f25ff9ffe0371.pdf
 
 2017/06/01 Stripe
-    Assets:Chase:Checking                             $1567.00
+    Assets:Chase:Checking                            $1,567.00
     Income:Website Donations
     ; Receipt: b9d17249d8d07b7652f817434b7b3fb5.pdf
 
@@ -5607,7 +5607,7 @@
     ; Receipt: 66f4b8bd31e539108d2070b60667a7c6.pdf
 
 2017/06/06 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $7041.86
+    Liabilities:Reimbursement:Zach Latta             $7,041.86
     Assets:Chase:Checking
     ; Receipt: 9772e890a8f9ea0cd583943d072dbbe9.pdf
 
@@ -5703,7 +5703,7 @@
     ; Receipt: 74bb05a72d95f98aff90adf0c2887d49.pdf
 
 2017/06/20 Angela Spinazze
-    Expenses:Operating:Contracting                    $3045.52
+    Expenses:Operating:Contracting                   $3,045.52
     Liabilities:Reimbursement:Angela Spinazze
     ; Receipt: 1889d63d36394eb3ec07ec2d3a0d8a6a.pdf
 
@@ -5780,7 +5780,7 @@
     ; Receipt: d3c6c3423e3def01581d0f03006cb3a1.pdf
 
 2017/07/03 Stripe
-    Assets:Chase:Checking                             $1619.33
+    Assets:Chase:Checking                            $1,619.33
     Income:Website Donations
     ; Receipt: c6f83c60b6dce5eb69fe1e96568fa36c.pdf
 
@@ -5790,12 +5790,12 @@
     ; Receipt: a0b910a067452dd52ebeb5dcc256d819.pdf
 
 2017/07/04 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $1375.00
+    Liabilities:Reimbursement:Harrison Shoebridge    $1,375.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 3ba467696a1a6a9d87ea1de0e8d39832.jpg
 
 2017/07/05 Zach Latta
-    Liabilities:Reimbursement:Zach Latta              $7684.95
+    Liabilities:Reimbursement:Zach Latta             $7,684.95
     Assets:Chase:Checking
     ; Receipt: 2536bf8b1fda3b18acaf30400738e489.pdf
 
@@ -5820,12 +5820,12 @@
     ; Receipt: 11217fb2c1a5a5815e3b6b6c88c3fd48.pdf
 
 2017/07/07 Bradfield
-    Expenses:Operating:Office:Rent                    $1200.00
+    Expenses:Operating:Office:Rent                   $1,200.00
     Assets:Chase:Checking
     ; Receipt: 6e739eb0d21a59624a649725d6e5529a.pdf
 
 2017/07/07 Bradfield
-    Expenses:Operating:Office:Rent                    $1200.00
+    Expenses:Operating:Office:Rent                   $1,200.00
     Assets:Chase:Checking
     ; Receipt: ad1870dd1893a943d090859cbb3d01ba.png
 
@@ -5865,7 +5865,7 @@
     ; Receipt: caf617b304a22a634be7e3d4c5d97868.jpg
 
 2017/07/11 Max Wofford
-    Expenses:Operating:Staff:Salary                   $2000.00
+    Expenses:Operating:Staff:Salary                  $2,000.00
     Assets:Chase:Checking
     ; Receipt: d48bec79af45d119ba16f4c3aba3b1b6.pdf
 
@@ -5890,7 +5890,7 @@
     ; Receipt: 8b7ae5757cafdc9eca6145bccca1b596.pdf
 
 2017/07/13 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: 93d2cc44064c300e4d6324a337a2b03a.jpg
 
@@ -5990,7 +5990,7 @@
     ; Receipt: 94bb146c0dac395d23cf144c843d1ca8.pdf
 
 2017/07/20 Angela Spinazze
-    Liabilities:Reimbursement:Angela Spinazze         $3045.52
+    Liabilities:Reimbursement:Angela Spinazze        $3,045.52
     Assets:Chase:Checking
     ; Receipt: 4cada2fbcfc2721da4fb9ebe80f4efcf.pdf
 
@@ -6140,12 +6140,12 @@
     ; Receipt: 88b3767a18e978e48aa5800796047079.jpg
 
 2017/08/01 Stripe
-    Assets:Chase:Checking                             $3400.13
+    Assets:Chase:Checking                            $3,400.13
     Income:Website Donations
     ; Receipt: 5990371bdfa329a8de85de5f272304fb.pdf
 
 2017/08/01 Harrison Shoebridge
-    Expenses:Operating:Staff:Salary                   $1375.00
+    Expenses:Operating:Staff:Salary                  $1,375.00
     Liabilities:Reimbursement:Harrison Shoebridge
     ; Receipt: a512484594343acec336d26f48853eb4.jpg
 
@@ -6175,12 +6175,12 @@
     ; Receipt: d461165b9a65eb41d2f09e52f0116c5a.pdf
 
 2017/08/05 Bradfield
-    Expenses:Operating:Office:Rent                    $1200.00
+    Expenses:Operating:Office:Rent                   $1,200.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: d6593fc27e4d196186c36e7d4f6cd478.jpg
 
 2017/08/05 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $1318.22
+    Liabilities:Reimbursement:Harrison Shoebridge    $1,318.22
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 5dce082fa62bdc52e99c74210416af84.jpg
 
@@ -6205,7 +6205,7 @@
     ; Receipt: 093a36b458eca5922dbf0e0bed419bf1.jpg
 
 2017/08/07 Kyle Emile
-    Expenses:Operating:Staff:Salary                   $1625.10
+    Expenses:Operating:Staff:Salary                  $1,625.10
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 4bb2d483512de3250719982496a11ed0.jpg
 
@@ -6320,7 +6320,7 @@
     ; Receipt: 2424be69eef1796f0105e201da795f5f.pdf
 
 2017/08/15 Anonymous Donor 10
-    Assets:Chase:Checking                             $5000.00
+    Assets:Chase:Checking                            $5,000.00
     Income:Fundraising
     ; Receipt: 515e4e4afcd28059c7eb324479cacd16.pdf
 
@@ -6405,7 +6405,7 @@
     ; Receipt: 13542e48bb48fc8854aba02d2fb6802f.jpg
 
 2017/08/25 Bradfield
-    Expenses:Operating:Office:Rent                    $1200.00
+    Expenses:Operating:Office:Rent                   $1,200.00
     Assets:Chase:Checking
     ; Receipt: b5b48a0ac053c990d25b35f7a4433b6b.pdf
 
@@ -6465,7 +6465,7 @@
     ; Receipt: 058618b34dfa4aa8050aac98260f071d.pdf
 
 2017/09/01 Stripe
-    Assets:Chase:Checking                             $1088.28
+    Assets:Chase:Checking                            $1,088.28
     Income:Website Donations
     ; Receipt: c321072ff581cd421ecf74feab39e724.pdf
 
@@ -6536,7 +6536,7 @@
     ; Receipt: 158b7fe5d3d2bd93611c8645a241ebc4.pdf
 
 2017/09/14 Harrison Shoebridge
-    Liabilities:Reimbursement:Harrison Shoebridge     $2204.54
+    Liabilities:Reimbursement:Harrison Shoebridge    $2,204.54
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: a04b30e04b5f3f070663ac0666740989.JPG
 
@@ -6732,7 +6732,7 @@
 
 2017/11/03 Maria Choi
     ; For fundraising development consulting services
-    Expenses:Operating:Contracting                    $5000.00
+    Expenses:Operating:Contracting                   $5,000.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1a4eb8d0c32cd687ccc613943becbac9.pdf
 
