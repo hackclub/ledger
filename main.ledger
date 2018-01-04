@@ -6665,6 +6665,11 @@
     Liabilities:Reimbursement:Selynna Sun
     ; Receipt: 274d8d98d2afff01976434ceb26e0961.pdf
 
+2017/10/17 HelloSign
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 75cd2801dd7007d455c6a741eaa0aa24.pdf
+
 2017/10/18 Lyft
     Expenses:Operating:Transportation:Ground             $4.05
     Liabilities:Reimbursement:Zach Latta
@@ -6801,6 +6806,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: cdcdff991cb29e317b08afc963b7af28.pdf
 
+2017/11/17 HelloSign
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 8a9e1a20948430ccbb25f0fc4ed9e458.pdf
+
+2017/11/17 Stamps.com
+    Expenses:Operating:Shipping                         $15.99
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 47f8ff1aa65631d7f46800d8922b688c.pdf
+
 2017/11/20 Zapier
     Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
@@ -6826,3 +6841,39 @@
     Expenses:Operating:Software                         $94.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1c8b55868492dfdba4421754285afcc6.pdf
+
+2017/12/07 Heroku
+    Expenses:Operating:Hosting                         $266.62
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 690ef1ba24290d3047fec8d1e48f6f56.pdf
+
+2017/12/07 Streak
+    Expenses:Operating:Software                        $156.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 819f6602f8800940cfb8bd6f75930076.pdf
+
+2017/12/09 iwantmyname
+    ; Renewal for hack.af
+    Expenses:Operating:Hosting                         $139.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 7f604fbe27513c098b44ff41deffb9b8.pdf
+
+2017/12/15 Sentry
+    Expenses:Operating:Hosting                          $29.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 5910486708b8bf6f5a915793a6dc35e0.pdf
+
+2017/12/17 Stamps.com
+    Expenses:Operating:Shipping                         $15.99
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: b0afc450d14f21df4780efb9f0e55a04.pdf
+
+2017/12/20 Zapier
+    Expenses:Operating:Software                         $15.00
+    Liabilities:Reimbursements:Zach Latta
+    ; Receipt: 334493b534671849bf3e1dbfc4d9bba6.pdf
+
+2017/12/25 Pingdom
+    Expenses:Operating:Software                         $14.95
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: b2a230a8c90e034edc8f5f776705c149.pdf
