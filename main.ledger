@@ -6885,7 +6885,7 @@
 2017/12/05 Max Wofford
     Liabilities:Reimbursement:Max Wofford               $40.97
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 2b452763e324cf3eb522c9e18456c7f6.pdf
 
 2017/12/07 Heroku
     Expenses:Operating:Hosting                         $266.62
@@ -6946,57 +6946,62 @@
 2018/01/02 Stripe
     Assets:Chase:Checking                              $525.89
     Income:Website Donations
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/03 Gusto
     Expenses:Operating:Software                         $57.00
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/05 Zach Latta
     Liabilities:Reimbursement:Zach Latta             $2,000.00
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/11 TransferWise
     Expenses:Operating:Software                        $525.89
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/15 Sentry
     Expenses:Operating:Hosting                          $29.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 27e00f7ba21479fd72cec8335d8981e7.pdf
 
 2018/01/20 Manitas Cafe & Deli
     Expenses:Fundraising:Food                           $13.05
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: d80fbbbfb4eecf57c18cb9382cf3afe4.pdf
+
+2018/01/20 IPOT Restaurant
+    Expenses:Operating                                 $108.36
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: 2d23a8e2f2e01e6621288c64c1151689.pdf
 
 2018/01/20 Zapier
     Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 042c26aa4cd0fcd30e559d988cd5f9d2.pdf
 
 2018/01/22 Uber
     Expenses:Operating:Transportation:Ground              $3.42
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 7ebdd3e55e2248b6275d6d711c113411.pdf
 
 2017/01/22 CVS
     Expenses:Operating:Office:Supplies                   $6.50
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 746b30060423bfe969e91be906d60aa8.jpg
 
 2018/01/23 CVS
     Expenses:Operating:Office:Supplies                   $8.66
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 9b851a53ab7975ede1db6d8d78f4df10.jpg
 
 2018/01/23 CVS
     Expenses:Operating:Office:Supplies                   $8.99
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: 011ecc16eca4a99d421276229631b2ef.jpeg
 
 2017/01/25 Bradfield
     Expenses:Operating:Office:Rent                   $1,200.00
@@ -7006,175 +7011,181 @@
 2018/01/25 BART
     Expenses:Operating:Transportation:Ground            $12.60
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: ba053ebaba4ff71aff26aa0559a7d7f6.jpg
 
 2018/01/25 ReadyRefresh by Nestlé
     Expenses:Operating:Office:Supplies                  $29.95
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 3a891e092e996788e59e923d8837816f.pdf
 
 2018/01/25 ReadyRefresh by Nestlé
     Expenses:Operating:Office:Supplies                  $20.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 40fbc1907e749917029f4fe8784c9afe.pdf
 
 2018/01/25 Pingdom
     Expenses:Operating:Software                         $14.95
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: de5076419384570f280651c5af566275.pdf
 
 2018/01/25 Fox Plaza
-    Expenses:                                           $34.50
+    Expenses:???                                           $34.50
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: 97c821143297bb7a70b91ac9aef3064e.png
 
 2018/01/25 Amazon
     Expenses:Operating:Office:Supplies                  $60.41
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: a1c451ba48808604f8993d13033d1afd.pdf
 
 2018/01/25 Amazon
     Expenses:Operating:Office:Supplies                   $9.99
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: beab5d72ba7eb879f21177a074cb233b.pdf
 
 2018/01/25 Calendly
     Expenses:Operating:Office:Supplies                  $10.00
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt
+    ; Receipt: 38733930c934658c25acc68268c85665.pdf
 
 2018/01/26 Online Deposit
     Assets:Chase:Checking                           $10,000.00
     Income:Fundraising
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/29 Gatsby
     Assets:Chase:Checking                           $12,500.00
     Income:Fundraising
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
+
+2018/01/29 DNSimple
+    Expenses:Operating:Hosting                           $7.00
+    Liabilities:Reimbursement:Zach Latta
+    ; Receipt: d8524dd4f1af67d0b77e66be408f9544.pdf
 
 2018/01/30 Zach Latta
     Liabilities:Reimbursement:Zach Latta             $3,907.69
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/30 Deposit
     Assets:Chase:Checking                           $25,000.00
     Income:Fundraising
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/31 Max Wofford
     Expenses:Operating:Staff:Salary                  $3,907.00
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/31 Gusto
     ;Tax and Net Pay in Gusto
     Expenses:Operating:                                $168.66
     Expenses:Operating:                                 $36.54
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: 65f9266f8d608f53f93180daaed76cd5.pdf
 
 2018/01/31 Starbucks
     Expenses:Fundraising:Food                            $2.45
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: a0600c7a55844d28cc427ebd1d0d962d.pdf
 
 2018/01/31 Cafe Borrone
     Expenses:Fundraising:Food                           $15.23
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: a0600c7a55844d28cc427ebd1d0d962d.pdf
 
-2018/01/03 Gusto
+2018/02/03 Gusto
     Expenses:Operating:Software                         $51.00
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: e51785afc2b35c8856cda82694169b1f.jpg
 
-2018/01/02 Stripe
+2018/02/02 Stripe
     Assets:Chase:Checking                             $6234.27
     Income:Website Donations
-    ; Receipt:
+    ; Receipt: e51785afc2b35c8856cda82694169b1f.jpg
 
 2018/02/01 Caltrain
     Expenses:Fundraising:Transportation:Ground          $15.40
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: bdc539c8f878a24da5ecd40b87b8f0a9.pdf
 
 2018/02/01 Heroku
     Expenses:Operating:Hosting                         $241.35
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 44c72c18ef91db8d7b7d367dd14997bc.pdf
 
 2018/02/01 Papertrail
     Expenses:Operating:Software                          $7.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 9fbdf99228f33ea410d8a693879e8d29.pdf
 
 2018/02/02 Gusto
     Expenses:Operating:Software                         $57.00
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: e51785afc2b35c8856cda82694169b1f.jpg
+
 
 2018/02/05 Namecheap
     Expenses:Operating:Hosting                          $70.88
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 128bc8a951953ecdd9e11267db74e911.pdf
 
-2018/01/11 TransferWise
+2018/02/11 TransferWise
     Expenses:Operating:Software                        $442.93
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: e51785afc2b35c8856cda82694169b1f.jpg
 
 2018/02/06 Walgreens
     Expenses:Operating:Office:Supplies                   $7.19
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: 263d94220318ecb185dc92686fd44428.jpeg
 
 2018/02/08 Streak
     Expenses:Operating:Software                        $156.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 00a6755990ca56f88e3f4a91f9767ffd.pdf
 
 2018/02/09 Virgin America
     Expenses:Operating:Transportation:Air               $45.30
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 8cf123ac540e0be1cda46a067f0f1f0b.pdf
 
 2018/02/09 Transfer
     Assets:SVB:Checking                             $48,370.20
     Assets:Chase:Checking
-    ; Receipt:
+    ; Receipt: b787005db88148f95d693c7313071b6e.pdf
 
 2018/02/12 Cloud9
     Expenses:Operating:Software                          $1.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: b9aa7a304f1f518d78232ffd151f7592.pdf
 
 2018/02/16 Calendly LLC
     Expenses:Operating:Software                         $10.00
     Liabilities:Reimbursement:Max Wofford
-    ; Receipt:
+    ; Receipt: 38733930c934658c25acc68268c85665.pdf
 
 2018/02/20 Zapier
     Expenses:Operating:Software                         $15.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 042c26aa4cd0fcd30e559d988cd5f9d2.pdf
 
 2018/02/21 Anonymous Donor
     Assets:SVB:Checking                               $5000.00
-    Income:
-    ; Receipt:
+    Income:???
+    ; Receipt: b787005db88148f95d693c7313071b6e.pdf
 
 2018/02/21 Pathway Associates
     Expenses:Operating:Fundraising:Consulting         $1000.00
     Assets:SVB:Checking
 
 2018/02/22 Yesware, Inc.
-  Expenses:Operating:Software                           $10.00
-  Liabilities:Reimbursement:Max Wofford
-  ; Receipt:
+    Expenses:Operating:Software                           $10.00
+    Liabilities:Reimbursement:Max Wofford
+    ; Receipt: 5a5238661306ad6b316f223d8d1ca8ae.pdf
 
-2017/02/28 DNSimple
+2018/02/28 DNSimple
     Expenses:Operating:Hosting                           $7.00
     Liabilities:Reimbursement:Zach Latta
-    ; Receipt:
+    ; Receipt: 538300dfdc885b8e1945866f2b88a8e5.pdf
