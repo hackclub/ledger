@@ -1,16 +1,18 @@
-# Ledger
+# Hack Club Finances
 
-The one and only home of Hack Club's finances. And when we say finances, we mean _everything_. Transaction by transaction.
+Hack Club is building a new kind of non-profit with total transparency. A core part of this goal is being transparent in how we spend our money.
 
-If you have Docker on your machine, you can run `./bin/bash` to be dropped into a Docker container's shell with [ledger](http://ledger-cli.org/) installed. You can then run all sorts of neat reports, like `ledger -f main.ledger bal`.
+Until January 2018, we used [Ledger CLI](https://www.ledger-cli.org/), an open source CLI accounting tool, to maintain our books. As we began to spend an increasingly large amount of time managing our books, we decided to hire an accounting firm to take over. Unfortunately, accountants don't use open source CLI tools.
 
-Have at it! (and contributions are welcome!)
+Right now (as of 2018-06), we're swamped wrapping up the school year and haven't yet figured out a strategy for making our new books transparent. We're planning to dump P&L reports and balance sheets monthly in this repo at some point in the near future though.
 
-![](http://i.imgur.com/T6VD4Lp.gif)
+For the time being, you're welcome to check out our books up until 2018 in [`main.ledger`](main.ledger). If you have Docker on your machine, you can run `./bin/bash` to be dropped into a Docker container's shell with [ledger](http://ledger-cli.org/) installed. You can then run all sorts of neat reports, like `ledger -f main.ledger bal`.
+
+Have at it!
 
 ## Categories
 
-An up-to-date list of all of the categories in our ledger is below:
+An up-to-date list of all of the categories in `main.ledger` is below:
 
 ```
 Assets
