@@ -6796,6 +6796,16 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: c5a42881d1774424f3394f2f3a289c57.pdf
 
+2017/11/15 Athul Blesson
+    Expenses:Operating:Other                         $1,033.58
+    Assets:Chase:Checking
+    ; Got this from bank statement - receipt can probably be tracked down
+
+2017/11/15 Lachlan Campbell
+    Expenses:Operating:Contracting                     $250.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
 2017/11/15 Pingdom
     Expenses:Operating:Software                         $14.95
     Liabilities:Reimbursement:Zach Latta
@@ -6821,6 +6831,11 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 0beadc5440ab39834eba0f9fe8bcc1ab.pdf
 
+2017/11/24 Bradfield
+    Expenses:Operating:Office:Rent                   $1,200.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
 2017/11/29 DNSimple
     Expenses:Operating:Hosting                           $7.00
     Liabilities:Reimbursement:Zach Latta
@@ -6842,6 +6857,36 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 1c8b55868492dfdba4421754285afcc6.pdf
 
+2017/12/01 Stripe
+    Assets:Chase:Checking                              $472.46
+    Income:Website Donations
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/04 Gusto
+    Expenses:Operating:Software                         $63.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/05 Anonymous Donor 11
+    Assets:Chase:Checking                           $10,000.00
+    Income:Fundraising
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/05 Zach Latta
+    Liabilities:Reimbursement:Zach Latta             $5,000.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/05 Zach Latta
+    Liabilities:Reimbursement:Zach Latta                $84.23
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/05 Max Wofford
+    Liabilities:Reimbursement:Max Wofford               $40.97
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
 2017/12/07 Heroku
     Expenses:Operating:Hosting                         $266.62
     Liabilities:Reimbursement:Zach Latta
@@ -6851,6 +6896,22 @@
     Expenses:Operating:Software                        $156.00
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 819f6602f8800940cfb8bd6f75930076.pdf
+
+2017/12/07 Chubb
+    Expenses:Operating:Insurance                       $887.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/07 Athul Blesson
+    Expenses:Operating:Other                           $472.46
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
+2017/12/07 BNY Mellon
+    ; Transaction fee for Chubb insurance payment
+    Expenses:Operating:Other                             $1.95
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
 
 2017/12/09 iwantmyname
     ; Renewal for hack.af
@@ -6873,7 +6934,33 @@
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: 334493b534671849bf3e1dbfc4d9bba6.pdf
 
+2017/12/21 Bradfield
+    Expenses:Operating:Office:Rent                   $1,200.00
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+
 2017/12/25 Pingdom
     Expenses:Operating:Software                         $14.95
     Liabilities:Reimbursement:Zach Latta
     ; Receipt: b2a230a8c90e034edc8f5f776705c149.pdf
+
+2017/12/26 Zach Latta
+    Expenses:Operating:Staff:Salary                  $1,565.92
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+    ;
+    ; This is kinda weird - the actual bank transaction combined the money for
+    ; both Max and Zach. I'm separating them into two transactions so the payee can be properly set.
+
+2017/12/26 Max Wofford
+    Expenses:Operating:Staff:Salary                  $1,565.92
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
+    ;
+    ; This is kinda weird - the actual bank transaction combined the money for
+    ; both Max and Zach. I'm separating them into two transactions so the payee can be properly set.
+
+2017/12/26 Payroll Tax
+    Expenses:Operating:Tax                           $1,314.16
+    Assets:Chase:Checking
+    ; Go this from bank statement - receipt can probably be tracked down
