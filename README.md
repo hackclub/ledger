@@ -1,3 +1,7 @@
+> **2020-08-31**: Ledger had a great run, but now Hack Club HQ is running entirely on [Hack Club Bank](https://hackclub.com/bank/), where we use Transparency Mode to make everything public. [**Check out our recent finances here.**](https://bank.hackclub.com/hq) This repo has now been archived for historical preservation.
+
+***
+
 # Hack Club Finances
 
 Hack Club is building a new kind of non-profit with total transparency. A core part of this goal is being transparent in how we spend our money.
