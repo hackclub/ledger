@@ -6,7 +6,7 @@
 
 # Hack Club Finances
 
-Hack Club is building a new kind of non-profit with total transparency. A core part of this goal is being transparent in how we spend our money.
+Hack Club is building a new kind of nonprofit with total transparency. A core part of this goal is being transparent in how we spend our money.
 
 Until January 2018, we used [Ledger CLI](https://www.ledger-cli.org/), an open source CLI accounting tool, to maintain our books. As we began to spend an increasingly large amount of time managing our books, we decided to hire an accounting firm to take over. Unfortunately, accountants don't use open source CLI tools.
 
