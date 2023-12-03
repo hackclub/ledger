@@ -1,6 +1,6 @@
 > **2020-08-31**: Ledger had a great run, and now Hack Club HQ is running entirely on [HCB](https://hackclub.com/hcb/), where we use Transparency Mode to make everything public. [**Check out our recent finances here.**](https://hcb.hackclub.com/hq)
 >
-> Please help us improve our open finances by filing issues in this repository. Before Bank, we manually made our finances transparent in this repository using [`ledger`](https://github.com/ledger/ledger). All of those transparent books are archived here.
+> Please help us improve our open finances by filing issues in this repository. Before HCB, we manually made our finances transparent in this repository using [`ledger`](https://github.com/ledger/ledger). All of those transparent books are archived here.
 
 ***
 
